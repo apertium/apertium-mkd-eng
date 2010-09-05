@@ -747,19 +747,13 @@
               <tag><clip pos="3" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
-              <get-case-from pos="1">
-                <var n="np_chunk_h"/>
-              </get-case-from>
-              <get-case-from pos="3">
-                <lit v="non"/>
-              </get-case-from>
+              <var n="np_chunk_h"/>
+              <lit v="non"/>
               <lit-tag v="adv"/>
             </lu>
-            <b/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
             </lu>
-            <b/>
             <lu>
               <clip pos="3" side="tl" part="lemh"/>
               <clip pos="3" side="tl" part="a_nom"/>
