@@ -1,0 +1,16 @@
+* text=auto !eol
+.deps/apertium-mk-en.mk-en.dix -text
+/HOURS -text
+/Makefile -text
+/apertium-mk-en.mk-en.alpha.dix -text
+/apertium-mk-en.mk-en.dix -text
+/apertium-mk-en.mk-en.t1x -text
+/apertium-mk-en.mk-en.t2x -text
+/apertium-mk-en.mk-en.t3x -text
+dev/generation-test.sh -text
+dev/pending_adjectives.txt -text
+dev/test_phrases.mk.txt -text
+dev/test_phrases.txt -text
+/lexchoicebil.xsl -text
+/mk-en.prob -text
+/modes.xml -text
