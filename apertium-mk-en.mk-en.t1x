@@ -12,6 +12,10 @@
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
     </def-cat>
+    <def-cat n="ne">
+      <cat-item lemma="не" tags="adv"/>
+      <cat-item lemma="clitic" tags="prn.pers.clt.p1.mfn.pl.acc"/>
+    </def-cat>
     <def-cat n="vbhaver_fin_neg">
       <cat-item lemma="нема" tags="vbhaver.pres.*"/>
       <cat-item lemma="нема" tags="vbhaver.pii.*"/>
@@ -708,6 +712,52 @@
               <clip pos="1" side="tl" part="a_nom"/>
               <clip pos="1" side="tl" part="nbr"/>
               <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="nbr" link-to="4"/>
+              <clip pos="3" side="tl" part="lemq"/>
+              <var n="np_chunk_q"/>
+            </lu>
+          </chunk>
+        </out>
+        <call-macro n="np_cleanup1">
+          <with-param pos="1"/>
+        </call-macro>
+      </action>
+    </rule>
+    <rule comment="REGLA: ne-nom">
+      <pattern>
+        <pattern-item n="ne"/>
+        <pattern-item n="guio"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <call-macro n="np_set_defnes1">
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk namefrom="np_chunk_n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><var n="np_chunk_s"/></tag>
+              <tag><var n="defin"/></tag>
+              <tag><clip pos="3" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1">
+                <var n="np_chunk_h"/>
+              </get-case-from>
+              <get-case-from pos="3">
+                <lit v="non"/>
+              </get-case-from>
+              <lit-tag v="adv"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
             </lu>
             <b/>
             <lu>
