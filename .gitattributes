@@ -1,5 +1,4 @@
 * text=auto !eol
-.deps/apertium-mk-en.mk-en.dix -text
 /HOURS -text
 /Makefile -text
 /apertium-mk-en.mk-en.alpha.dix -text
