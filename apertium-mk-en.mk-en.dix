@@ -283,7 +283,8 @@
     <!-- Numerals -->
 
     <e><p><l>еден<s n="num"/></l><r>one<s n="num"/></r></p></e>
-    <e><p><l>два<s n="num"/></l><r>two<s n="num"/></r></p></e>
+    <e r="LR"><p><l>два<s n="num"/></l><r>two<s n="num"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>два<s n="num"/><s n="ND"/></l><r>two<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>три<s n="num"/></l><r>three<s n="num"/></r></p></e>
     <e><p><l>четири<s n="num"/></l><r>four<s n="num"/></r></p></e>
     <e><p><l>пет<s n="num"/></l><r>five<s n="num"/></r></p></e>
