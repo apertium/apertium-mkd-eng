@@ -231,6 +231,7 @@
     <e c="  0"><p><l>или<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e c="  0"><p><l>но<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
     <e c="  0"><p><l>па<s n="cnjcoo"/></l><r>then<s n="cnjadv"/></r></p></e>
+    <e c="  0"><p><l>туку<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e> <!-- MWE: туку и -->
 
     <e><p><l>дека<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
 
@@ -253,6 +254,10 @@
     <e><p><l>негов<s n="det"/><s n="pos"/></l><r>his<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>нејзин<s n="det"/><s n="pos"/></l><r>her<s n="det"/><s n="pos"/></r></p></e>
 
+    <e><p><l>овој<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p></e>
+    <e><p><l>оној<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/></r></p></e>
+    <e><p><l>тој<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p></e>
+
     <!-- Pronouns -->
 
     <e><p><l>clitic<s n="prn"/><s n="ref"/><s n="pers"/></l><r/></p></e> <!-- traducció buida per ara -->
@@ -262,6 +267,7 @@
 
     <e><p><l>овој<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
     <e><p><l>оној<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
+    <e><p><l>тој<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
 
     <e><p><l>сиот<s n="prn"/><s n="tot"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="кој_that__prn"/></e>
 
@@ -335,6 +341,7 @@
 
     <e><p><l>аеродром<s n="n"/><s n="m"/></l><r>airport<s n="n"/></r></p></e>
     <e><p><l>развој<s n="n"/><s n="m"/></l><r>development<s n="n"/></r></p></e>
+    <e><p><l>донатор<s n="n"/><s n="m"/></l><r>donor<s n="n"/></r></p></e>
     <e><p><l>книга<s n="n"/><s n="f"/></l><r>book<s n="n"/></r></p></e>
     <e><p><l>покраина<s n="n"/><s n="f"/></l><r>province<s n="n"/></r></p></e>
     <e><p><l>секретар<s n="n"/><s n="m"/></l><r>secretary<s n="n"/></r></p></e>
@@ -2900,6 +2907,7 @@
     <e><p><l>Асеновград<s n="np"/><s n="top"/><s n="m"/></l><r>Asenovgrad<s n="np"/><s n="top"/><s n="m"/></r></p></e>
     <e><p><l>Африка<s n="np"/><s n="top"/><s n="f"/></l><r>Africa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Ајтос<s n="np"/><s n="top"/><s n="m"/></l><r>Aytos<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Атина<s n="np"/><s n="top"/><s n="f"/></l><r>Athens<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Багдад<s n="np"/><s n="top"/><s n="m"/></l><r>Baghdad<s n="np"/><s n="top"/><s n="m"/></r></p></e>
     <e><p><l>Белгија<s n="np"/><s n="top"/><s n="f"/></l><r>Belgium<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Белград<s n="np"/><s n="top"/><s n="m"/></l><r>Belgrade<s n="np"/><s n="top"/><s n="m"/></r></p></e>
@@ -6565,6 +6573,135 @@
 
     <e c="  0"><p><l>уште<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
     <e slr="1"><p><l>уште<s n="adv"/></l><r>yet<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>досега<s n="adv"/></l><r>already<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>досега<s n="adv"/></l><r>so<b/>far<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>досега<s n="adv"/></l><r>hitherto<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>претходно<s n="adv"/></l><r>previously<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>веќе<s n="adv"/></l><r>already<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>подоцна<s n="adv"/></l><r>together<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>вкупно<s n="adv"/></l><r>in<b/>total<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>заедно<s n="adv"/></l><r>together<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>заедно<s n="adv"/></l><r>along<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>понатаму<s n="adv"/></l><r>on<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>понатаму<s n="adv"/></l><r>further<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>скоро<s n="adv"/></l><r>recently<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>скоро<s n="adv"/></l><r>almost<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>скоро<s n="adv"/></l><r>nearly<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>во<b/>меѓувреме<s n="adv"/></l><r>meanwhile<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>потоа<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>потоа<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>официјално<s n="adv"/></l><r>officially<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>моментно<s n="adv"/></l><r>currently<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>моментно<s n="adv"/></l><r>at<b/>the<b/>moment<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>целосно<s n="adv"/></l><r>comprehensively<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>пак<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>наскоро<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>наместо<s n="adv"/></l><r>instead<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>вечер<s n="adv"/></l><r>evening<s n="adv"/></r></p></e> 
+    <e c="  0"><p><l>дури<s n="adv"/></l><r>even<s n="adv"/></r></p></e> <!-- MWE: дури да 'while', 'until' -->
+    <e c="  0"><p><l>вклучително<s n="adv"/></l><r>including<s n="adv"/></r></p></e> <!-- MWE: вклучително и -->
+    <e c="  0"><p><l>веднаш<s n="adv"/></l><r>at<b/>once<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>веднаш<s n="adv"/></l><r>straightaway<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>веднаш<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>доцна<s n="adv"/></l><r>late<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>надвор<s n="adv"/></l><r>out<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>надвор<s n="adv"/></l><r>outside<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>за<b/>првпат<s n="adv"/></l><r>first<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>за<b/>првпат<s n="adv"/></l><r>at<b/>first<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>претежно<s n="adv"/></l><r>mostly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>напред<s n="adv"/></l><r>forward<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>така<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>најпрво<s n="adv"/></l><r>first<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>лајв<s n="adv"/></l><r>live<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>рано<s n="adv"/></l><r>early<s n="adv"/></r></p></e> <!-- 'Jedno jutro rano, čim zora zarudi...' -->
+    <e c="  0"><p><l>односно<s n="adv"/></l><r>in<b/>other<b/>words<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>добро<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>премногу<s n="adv"/></l><r>too<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>годишно<s n="adv"/></l><r>yearly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>денес<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>предвид<s n="adv"/></l><r>into<b/>consideration<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>близу<s n="adv"/></l><r>near<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>близу<s n="adv"/></l><r>close<b/>by<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>толку<s n="adv"/></l><r>so<b/>many<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>толку<s n="adv"/></l><r>so<b/>much<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>набргу<s n="adv"/></l><r>often<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>набргу<s n="adv"/></l><r>frequently<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>набргу<s n="adv"/></l><r>quickly<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>набргу<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>всушност<s n="adv"/></l><r>actually<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>всушност<s n="adv"/></l><r>in<b/>fact<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>всушност<s n="adv"/></l><r>as<b/>a<b/>matter<b/>of<b/>fact<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>оттогаш<s n="adv"/></l><r>since<b/>then<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>оттогаш<s n="adv"/></l><r>from<b/>that<b/>time<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>спротивно<s n="adv"/></l><r>unlike<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>порано<s n="adv"/></l><r>beforehand<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>порано<s n="adv"/></l><r>in<b/>advance<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>засега<s n="adv"/></l><r>then<s n="adv"/></r></p></e> <!-- MWE: сега засега, 'for the time being' -->
+    <e c="  0"><p><l>еднаш<s n="adv"/></l><r>once<s n="adv"/></r></p></e> <!-- MWE: еднаш еден, 'once upon a time' -->
+    <e c="  0"><p><l>затоа<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>затоа<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>далеку<s n="adv"/></l><r>far<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>далеку<s n="adv"/></l><r>far<b/>away<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>условно<s n="adv"/></l><r>conditionally<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>изутрина<s n="adv"/></l><r>morning<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>сосема<s n="adv"/></l><r>at<b/>all<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>мошне<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>мошне<s n="adv"/></l><r>extremely<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>честопати<s n="adv"/></l><r>often<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>по<b/>ред<s n="adv"/></l><r>in<b/>a<b/>row<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>постепено<s n="adv"/></l><r>gradually<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>назад<s n="adv"/></l><r>back<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>назад<s n="adv"/></l><r>backwards<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>назад<s n="adv"/></l><r>ago<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>очигледно<s n="adv"/></l><r>obviously<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>допрва<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>допрва<s n="adv"/></l><r>yet<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>често<s n="adv"/></l><r>often<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>често<s n="adv"/></l><r>frequently<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>намерно<s n="adv"/></l><r>intentionally<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>секогаш<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>секогаш<s n="adv"/></l><r>forever<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>евентуално<s n="adv"/></l><r>eventually<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>онлајн<s n="adv"/></l><r>online<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>исто<s n="adv"/></l><r>similarly<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>исто<s n="adv"/></l><r>likewise<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>исто<s n="adv"/></l><r>in<b/>the<b/>same<b/>way<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>лично<s n="adv"/></l><r>personally<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>првенствено<s n="adv"/></l><r>in<b/>first<b/>place<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>првенствено<s n="adv"/></l><r>above<b/>all<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>воопшто<s n="adv"/></l><r>generally<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>воопшто<s n="adv"/></l><r>in<b/>general<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>лошо<s n="adv"/></l><r>ill<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>некаде<s n="adv"/></l><r>somewhere<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>бргу<s n="adv"/></l><r>quickly<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>бргу<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>за<b/>прв<b/>пат<s n="adv"/></l><r>since<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>утре<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>накратко<s n="adv"/></l><r>briefly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>никаде<s n="adv"/></l><r>nowhere<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>секаде<s n="adv"/></l><r>everywhere<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>горе<s n="adv"/></l><r>up<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>горе<s n="adv"/></l><r>upstairs<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>вчера<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>насила<s n="adv"/></l><r>by<b/>force<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>поред<s n="adv"/></l><r>next<b/>to<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>се<b/>уште<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+    <!--<e c="  0"><p><l>изгледа<s n="adv"/></l><r>@<s n="adv"/></r></p></e>-->
 
 
     <!-- Verbs -->
