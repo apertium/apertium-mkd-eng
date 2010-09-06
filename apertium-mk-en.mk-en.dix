@@ -27,6 +27,7 @@
     <sdef n="top"      c="Toponym"/>
     <sdef n="ant"      c="Anthroponym"/>
     <sdef n="cog"      c="Cognomen"/>
+    <sdef n="acr"      c="Acronym"/>
 
     <sdef n="itg"      c="Interrogative"/>
     <sdef n="dem"      c="Demonstrative"/>
@@ -92,6 +93,7 @@
     <!-- Prepositions -->
  
     <e c="  0"><p><l>без<b/>оглед<b/>на<s n="pr"/></l><r>regardless<b/>of<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>во<b/>текот<b/>на<s n="pr"/></l><r>during<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>помеѓу<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
 
@@ -283,6 +285,7 @@
     <e r="RL"><p><l>секој<s n="prn"/><s n="tot"/><s n="GD"/><s n="sg"/></l><r>everyone<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>секој<s n="prn"/><s n="tot"/><s n="mfn"/><s n="pl"/></l><r>all<s n="prn"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
 
+    <e><p><l>неколку<s n="prn"/><s n="ind"/><s n="ind"/></l><r>several<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
 
     <e><p><l>што<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
@@ -336,6 +339,7 @@
     <e><p><l>милијарда<s n="num"/></l><r>milliard<s n="num"/></r></p></e>
 
     <e><p><l>прв<s n="num"/></l><r>first<s n="num"/></r></p></e>
+    <e><p><l>втор<s n="num"/></l><r>second<s n="num"/></r></p></e>
 
     <!-- Nouns -->
 
@@ -880,7 +884,8 @@
     <e c="  0"><p><l>верзија<s n="n"/><s n="f"/></l><r>version<s n="n"/></r></p></e>
     <e c="  0"><p><l>верификација<s n="n"/><s n="f"/></l><r>verification<s n="n"/></r></p></e>
     <e slr="1"><p><l>верификација<s n="n"/><s n="f"/></l><r>conformity<s n="n"/></r></p></e>
-    <e c="  0"><p><l>вест<s n="n"/><s n="f"/></l><r>vest<s n="n"/></r></p></e>
+    <e c="  0"><p><l>вест<s n="n"/><s n="f"/></l><r>news<s n="n"/></r></p></e>
+    <e slr="1"><p><l>вест<s n="n"/><s n="f"/></l><r>vest<s n="n"/></r></p></e>
     <e c="  0"><p><l>вето<s n="n"/><s n="nt"/></l><r>veto<s n="n"/></r></p></e>
     <e c="  0"><p><l>вештина<s n="n"/><s n="f"/></l><r>skill<s n="n"/></r></p></e>
     <e slr="1"><p><l>вештина<s n="n"/><s n="f"/></l><r>ability<s n="n"/></r></p></e>
@@ -1391,7 +1396,7 @@
     <e c="  0"><p><l>казна<s n="n"/><s n="f"/></l><r>sentence<s n="n"/></r></p></e>
     <e slr="1"><p><l>казна<s n="n"/><s n="f"/></l><r>punishment<s n="n"/></r></p></e>
     <e slr="2"><p><l>казна<s n="n"/><s n="f"/></l><r>penalty<s n="n"/></r></p></e>
-    <e c="  0"><p><l>камен<s n="n"/><s n="m"/></l><r>stone<s n="n"/></r></p></e>
+    <e c="  0"><p><l>камен<s n="n"/><s n="m"/></l><r>stone<s n="n"/></r></p></e> <!-- MWE: камен на сопнување 'sticking point' -->
     <e slr="1"><p><l>камен<s n="n"/><s n="m"/></l><r>rock<s n="n"/></r></p></e>
     <e c="  0"><p><l>камион<s n="n"/><s n="m"/></l><r>lorry<s n="n"/></r></p></e>
     <e slr="1"><p><l>камион<s n="n"/><s n="m"/></l><r>truck<s n="n"/></r></p></e>
@@ -2195,7 +2200,8 @@
     <e slr="3"><p><l>прекин<s n="n"/><s n="m"/></l><r>interruption<s n="n"/></r></p></e>
     <e slr="4"><p><l>прекин<s n="n"/><s n="m"/></l><r>pause<s n="n"/></r></p></e>
     <e c="  0"><p><l>прекршување<s n="n"/><s n="nt"/></l><r>breach<s n="n"/></r></p></e>
-    <e c="  0"><p><l>премиер<s n="n"/><s n="m"/></l><r>premier<s n="n"/></r></p></e>
+    <e c="  0"><p><l>премиер<s n="n"/><s n="m"/></l><r>primer<b/>minister<s n="n"/></r></p></e>
+    <e slr="1"><p><l>премиер<s n="n"/><s n="m"/></l><r>premier<s n="n"/></r></p></e>
     <e c="  0"><p><l>премин<s n="n"/><s n="m"/></l><r>crossing<s n="n"/></r></p></e>
     <e c="  0"><p><l>пренесување<s n="n"/><s n="nt"/></l><r>transfer<s n="n"/></r></p></e>
     <e c="  0"><p><l>препорака<s n="n"/><s n="f"/></l><r>recommendation<s n="n"/></r></p></e>
@@ -2794,7 +2800,7 @@
     <e c="  0"><p><l>сериозност<s n="n"/><s n="f"/></l><r>seriousness<s n="n"/></r></p></e>
     <e c="  0"><p><l>сертификација<s n="n"/><s n="f"/></l><r>certification<s n="n"/></r></p></e>
     <e c="  0"><p><l>сигнализација<s n="n"/><s n="f"/></l><r>signage<s n="n"/></r></p></e>
-    <e c="  0"><p><l>сида<s n="n"/><s n="f"/></l><r>AIDS<s n="n"/></r></p></e>
+    <e c="  0"><p><l>сида<s n="n"/><s n="f"/></l><r>AIDS<s n="n"/><s n="acr"/></r></p></e>
     <e c="  0"><p><l>симулирање<s n="n"/><s n="nt"/></l><r>simulation<s n="n"/></r></p></e>
     <e c="  0"><p><l>скапоценост<s n="n"/><s n="f"/></l><r>valuable<s n="n"/></r></p></e>
     <e c="  0"><p><l>складирање<s n="n"/><s n="nt"/></l><r>storage<s n="n"/></r></p></e>
@@ -2884,6 +2890,289 @@
     <e slr="1"><p><l>чувство<s n="n"/><s n="nt"/></l><r>feeling<s n="n"/></r></p></e>
     <e c="  0"><p><l>шокираност<s n="n"/><s n="f"/></l><r>shock<s n="n"/></r></p></e>
     <e slr="1"><p><l>шокираност<s n="n"/><s n="f"/></l><r>outrage<s n="n"/></r></p></e>
+
+    <e c="  0"><p><l>адмирал<s n="n"/><s n="m"/></l><r>admiral<s n="n"/></r></p></e>
+    <e c="  0"><p><l>ангажман<s n="n"/><s n="m"/></l><r>engagement<s n="n"/></r></p></e>
+    <e c="  0"><p><l>боледување<s n="n"/><s n="nt"/></l><r>illness<s n="n"/></r></p></e>
+    <e slr="1"><p><l>боледување<s n="n"/><s n="nt"/></l><r>ailment<s n="n"/></r></p></e>
+    <e c="  0"><p><l>борење<s n="n"/><s n="nt"/></l><r>wrestling<s n="n"/></r></p></e>
+    <e c="  0"><p><l>ветување<s n="n"/><s n="nt"/></l><r>promise<s n="n"/></r></p></e>
+    <e slr="1"><p><l>ветување<s n="n"/><s n="nt"/></l><r>pledge<s n="n"/></r></p></e>
+    <e c="  0"><p><l>влегување<s n="n"/><s n="nt"/></l><r>entry<s n="n"/></r></p></e>
+    <e slr="1"><p><l>влегување<s n="n"/><s n="nt"/></l><r>break<b/>in<s n="n"/></r></p></e>
+    <e c="  0"><p><l>вложување<s n="n"/><s n="nt"/></l><r>effort<s n="n"/></r></p></e>
+    <e c="  0"><p><l>влошување<s n="n"/><s n="nt"/></l><r>deterioration<s n="n"/></r></p></e>
+    <e c="  0"><p><l>возење<s n="n"/><s n="nt"/></l><r>voyage<s n="n"/></r></p></e>
+    <e slr="1"><p><l>возење<s n="n"/><s n="nt"/></l><r>journey<s n="n"/></r></p></e>
+    <e c="  0"><p><l>вооружување<s n="n"/><s n="nt"/></l><r>weapon<s n="n"/></r></p></e>
+    <e c="  0"><p><l>вршење<s n="n"/><s n="nt"/></l><r>enactment<s n="n"/></r></p></e>
+    <e slr="1"><p><l>вршење<s n="n"/><s n="nt"/></l><r>carrying<g><b/>out</g><s n="n"/></r></p></e>
+    <e c="  0"><p><l>гарантирање<s n="n"/><s n="nt"/></l><r>guarantee<s n="n"/></r></p></e>
+    <e c="  0"><p><l>генерирање<s n="n"/><s n="nt"/></l><r>generation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>греење<s n="n"/><s n="nt"/></l><r>heat<s n="n"/></r></p></e>
+    <e c="  0"><p><l>грешка<s n="n"/><s n="f"/></l><r>mistake<s n="n"/></r></p></e>
+    <e slr="1"><p><l>грешка<s n="n"/><s n="f"/></l><r>error<s n="n"/></r></p></e>
+    <e c="  0"><p><l>грижа<s n="n"/><s n="f"/></l><r>care<s n="n"/></r></p></e>
+    <e slr="1"><p><l>грижа<s n="n"/><s n="f"/></l><r>concern<s n="n"/></r></p></e>
+    <e c="  0"><p><l>губење<s n="n"/><s n="nt"/></l><r>loss<s n="n"/></r></p></e>
+    <e c="  0"><p><l>дејствување<s n="n"/><s n="nt"/></l><r>action<s n="n"/></r></p></e>
+    <e c="  0"><p><l>депортирање<s n="n"/><s n="nt"/></l><r>deportation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>дефинирање<s n="n"/><s n="nt"/></l><r>definition<s n="n"/></r></p></e>
+    <e c="  0"><p><l>доаѓање<s n="n"/><s n="nt"/></l><r>arrival<s n="n"/></r></p></e>
+    <e c="  0"><p><l>домување<s n="n"/><s n="nt"/></l><r>housing<s n="n"/></r></p></e>
+    <e c="  0"><p><l>донатор<s n="n"/><s n="m"/></l><r>donor<s n="n"/></r></p></e>
+    <e c="  0"><p><l>донесување<s n="n"/><s n="nt"/></l><r>decision-making<s n="n"/></r></p></e>
+    <e c="  0"><p><l>доцнење<s n="n"/><s n="nt"/></l><r>delay<s n="n"/></r></p></e>
+    <e c="  0"><p><l>емитување<s n="n"/><s n="nt"/></l><r>emission<s n="n"/></r></p></e>
+    <e slr="1"><p><l>емитување<s n="n"/><s n="nt"/></l><r>broadcast<s n="n"/></r></p></e>
+    <e slr="2"><p><l>емитување<s n="n"/><s n="nt"/></l><r>statement<s n="n"/></r></p></e>
+    <e c="  0"><p><l>жалење<s n="n"/><s n="nt"/></l><r>regret<s n="n"/></r></p></e>
+    <e slr="1"><p><l>жалење<s n="n"/><s n="nt"/></l><r>remorse<s n="n"/></r></p></e>
+    <e c="  0"><p><l>забавување<s n="n"/><s n="nt"/></l><r>possibility<s n="n"/></r></p></e>
+    <e c="  0"><p><l>загрозување<s n="n"/><s n="nt"/></l><r>threat<s n="n"/></r></p></e>
+    <e c="  0"><p><l>задржување<s n="n"/><s n="nt"/></l><r>protection<s n="n"/></r></p></e>
+    <e slr="1"><p><l>задржување<s n="n"/><s n="nt"/></l><r>preservation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>заживување<s n="n"/><s n="nt"/></l><r>recovery<s n="n"/></r></p></e>
+    <e slr="1"><p><l>заживување<s n="n"/><s n="nt"/></l><r>revival<s n="n"/></r></p></e>
+    <e c="  0"><p><l>заклучок<s n="n"/><s n="m"/></l><r>conclusion<s n="n"/></r></p></e>
+    <e slr="1"><p><l>заклучок<s n="n"/><s n="m"/></l><r>finding<s n="n"/></r></p></e>
+    <e c="  0"><p><l>замрзнување<s n="n"/><s n="nt"/></l><r>freeze<s n="n"/></r></p></e>
+    <e c="  0"><p><l>заокружување<s n="n"/><s n="nt"/></l><r>completion<s n="n"/></r></p></e>
+    <e slr="1"><p><l>заокружување<s n="n"/><s n="nt"/></l><r>conclusion<s n="n"/></r></p></e>
+    <e c="  0"><p><l>запирање<s n="n"/><s n="nt"/></l><r>stop<s n="n"/></r></p></e>
+    <e slr="1"><p><l>запирање<s n="n"/><s n="nt"/></l><r>halt<s n="n"/></r></p></e>
+    <e c="  0"><p><l>заплашување<s n="n"/><s n="nt"/></l><r>intimidation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>засилување<s n="n"/><s n="nt"/></l><r>reinforcement<s n="n"/></r></p></e>
+    <e c="  0"><p><l>затајување<s n="n"/><s n="nt"/></l><r>evasion<s n="n"/></r></p></e>
+    <e c="  0"><p><l>затоплување<s n="n"/><s n="nt"/></l><r>warming<s n="n"/></r></p></e>
+    <e c="  0"><p><l>земање<s n="n"/><s n="nt"/></l><r>bribe<s n="n"/></r></p></e>
+    <e c="  0"><p><l>игнорирање<s n="n"/><s n="nt"/></l><r>ignoral<s n="n"/></r></p></e>
+    <e c="  0"><p><l>играч<s n="n"/><s n="m"/></l><r>player<s n="n"/></r></p></e>
+    <e slr="1"><p><l>играч<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
+    <e c="  0"><p><l>идентификување<s n="n"/><s n="nt"/></l><r>identification<s n="n"/></r></p></e>
+    <e c="  0"><p><l>избегнување<s n="n"/><s n="nt"/></l><r>stoppage<s n="n"/></r></p></e>
+    <e slr="1"><p><l>избегнување<s n="n"/><s n="nt"/></l><r>avoidance<s n="n"/></r></p></e>
+    <e c="  0"><p><l>избивање<s n="n"/><s n="nt"/></l><r>outbreak<s n="n"/></r></p></e>
+    <e slr="1"><p><l>избивање<s n="n"/><s n="nt"/></l><r>emergence<s n="n"/></r></p></e>
+    <e c="  0"><p><l>известување<s n="n"/><s n="nt"/></l><r>notification<s n="n"/></r></p></e>
+    <e slr="1"><p><l>известување<s n="n"/><s n="nt"/></l><r>reporting<s n="n"/></r></p></e>
+    <e c="  0"><p><l>извинување<s n="n"/><s n="nt"/></l><r>apology<s n="n"/></r></p></e>
+    <e c="  0"><p><l>извршување<s n="n"/><s n="nt"/></l><r>execution<s n="n"/></r></p></e>
+    <e slr="1"><p><l>извршување<s n="n"/><s n="nt"/></l><r>implementation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>изготвување<s n="n"/><s n="nt"/></l><r>draft<s n="n"/></r></p></e>
+    <e slr="1"><p><l>изготвување<s n="n"/><s n="nt"/></l><r>drafting<s n="n"/></r></p></e>
+    <e c="  0"><p><l>изјаснување<s n="n"/><s n="nt"/></l><r>plea<s n="n"/></r></p></e>
+    <e c="  0"><p><l>излегување<s n="n"/><s n="nt"/></l><r>walkout<s n="n"/></r></p></e>
+    <e slr="1"><p><l>излегување<s n="n"/><s n="nt"/></l><r>split<s n="n"/></r></p></e>
+    <e slr="2"><p><l>излегување<s n="n"/><s n="nt"/></l><r>way<g><b/>out</g><s n="n"/></r></p></e>
+    <e c="  0"><p><l>изнаоѓање<s n="n"/><s n="nt"/></l><r>location<s n="n"/></r></p></e>
+    <e c="  0"><p><l>изненадување<s n="n"/><s n="nt"/></l><r>surprise<s n="n"/></r></p></e>
+    <e c="  0"><p><l>изразување<s n="n"/><s n="nt"/></l><r>expression<s n="n"/></r></p></e>
+    <e c="  0"><p><l>именување<s n="n"/><s n="nt"/></l><r>naming<s n="n"/></r></p></e>
+    <e c="  0"><p><l>инвестирање<s n="n"/><s n="nt"/></l><r>investment<s n="n"/></r></p></e>
+    <e c="  0"><p><l>интензивирање<s n="n"/><s n="nt"/></l><r>intensification<s n="n"/></r></p></e>
+    <e c="  0"><p><l>информирање<s n="n"/><s n="nt"/></l><r>information<s n="n"/></r></p></e>
+    <e c="  0"><p><l>исклучување<s n="n"/><s n="nt"/></l><r>exclusion<s n="n"/></r></p></e>
+    <e c="  0"><p><l>ископување<s n="n"/><s n="nt"/></l><r>excavation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>искоренување<s n="n"/><s n="nt"/></l><r>eradication<s n="n"/></r></p></e>
+    <e c="  0"><p><l>искористување<s n="n"/><s n="nt"/></l><r>exploitation<s n="n"/></r></p></e>
+    <e slr="1"><p><l>искористување<s n="n"/><s n="nt"/></l><r>utilisation<s n="n"/></r></p></e>
+    <e slr="2"><p><l>искористување<s n="n"/><s n="nt"/></l><r>use<s n="n"/></r></p></e>
+    <e c="  0"><p><l>истекување<s n="n"/><s n="nt"/></l><r>spill<s n="n"/></r></p></e>
+    <e slr="1"><p><l>истекување<s n="n"/><s n="nt"/></l><r>leak<s n="n"/></r></p></e>
+    <e c="  0"><p><l>истребување<s n="n"/><s n="nt"/></l><r>extermination<s n="n"/></r></p></e>
+    <e slr="1"><p><l>истребување<s n="n"/><s n="nt"/></l><r>extinction<s n="n"/></r></p></e>
+    <e c="  0"><p><l>јадење<s n="n"/><s n="nt"/></l><r>meal<s n="n"/></r></p></e>
+    <e slr="1"><p><l>јадење<s n="n"/><s n="nt"/></l><r>dish<s n="n"/></r></p></e>
+    <e c="  0"><p><l>казнување<s n="n"/><s n="nt"/></l><r>punishment<s n="n"/></r></p></e>
+    <e c="  0"><p><l>карактер<s n="n"/><s n="m"/></l><r>character<s n="n"/></r></p></e>
+    <e c="  0"><p><l>киднапирање<s n="n"/><s n="nt"/></l><r>kidnapping<s n="n"/></r></p></e>
+    <e slr="1"><p><l>киднапирање<s n="n"/><s n="nt"/></l><r>abduction<s n="n"/></r></p></e>
+    <e c="  0"><p><l>количина<s n="n"/><s n="f"/></l><r>amount<s n="n"/></r></p></e>
+    <e slr="1"><p><l>количина<s n="n"/><s n="f"/></l><r>quantity<s n="n"/></r></p></e>
+    <e c="  0"><p><l>комплетирање<s n="n"/><s n="nt"/></l><r>completion<s n="n"/></r></p></e>
+    <e c="  0"><p><l>конзорциум<s n="n"/><s n="m"/></l><r>consortium<s n="n"/></r></p></e>
+    <e c="  0"><p><l>контраразузнавање<s n="n"/><s n="nt"/></l><r>directorate<s n="n"/></r></p></e>
+    <e slr="1"><p><l>контраразузнавање<s n="n"/><s n="nt"/></l><r>service<s n="n"/></r></p></e>
+    <e c="  0"><p><l>координирање<s n="n"/><s n="nt"/></l><r>coordination<s n="n"/></r></p></e>
+    <e c="  0"><p><l>крадење<s n="n"/><s n="nt"/></l><r>theft<s n="n"/></r></p></e>
+    <e c="  0"><p><l>кревање<s n="n"/><s n="nt"/></l><r>rise<s n="n"/></r></p></e>
+    <e c="  0"><p><l>кредит<s n="n"/><s n="m"/></l><r>credit<s n="n"/></r></p></e>
+    <e c="  0"><p><l>криење<s n="n"/><s n="nt"/></l><r>hiding<s n="n"/></r></p></e>
+    <e c="  0"><p><l>лечење<s n="n"/><s n="nt"/></l><r>treatment<s n="n"/></r></p></e>
+    <e c="  0"><p><l>лизгање<s n="n"/><s n="nt"/></l><r>skating<s n="n"/></r></p></e>
+    <e c="  0"><p><l>лоцирање<s n="n"/><s n="nt"/></l><r>location<s n="n"/></r></p></e>
+    <e slr="1"><p><l>лоцирање<s n="n"/><s n="nt"/></l><r>locating<s n="n"/></r></p></e>
+    <e c="  0"><p><l>мачење<s n="n"/><s n="nt"/></l><r>torture<s n="n"/></r></p></e>
+    <e c="  0"><p><l>местење<s n="n"/><s n="nt"/></l><r>tampering<s n="n"/></r></p></e>
+    <e slr="1"><p><l>местење<s n="n"/><s n="nt"/></l><r>fixing<s n="n"/></r></p></e>
+    <e c="  0"><p><l>мешање<s n="n"/><s n="nt"/></l><r>mixing<s n="n"/></r></p></e>
+    <e c="  0"><p><l>мирување<s n="n"/><s n="nt"/></l><r>hold<s n="n"/></r></p></e>
+    <e slr="1"><p><l>мирување<s n="n"/><s n="nt"/></l><r>ice<s n="n"/></r></p></e>
+    <e c="  0"><p><l>модернизирање<s n="n"/><s n="nt"/></l><r>modernisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>навреда<s n="n"/><s n="f"/></l><r>insult<s n="n"/></r></p></e>
+    <e c="  0"><p><l>надминување<s n="n"/><s n="nt"/></l><r>overcoming<s n="n"/></r></p></e>
+    <e c="  0"><p><l>наметнување<s n="n"/><s n="nt"/></l><r>imposition<s n="n"/></r></p></e>
+    <e c="  0"><p><l>наоѓање<s n="n"/><s n="nt"/></l><r>retrieval<s n="n"/></r></p></e>
+    <e c="  0"><p><l>немање<s n="n"/><s n="nt"/></l><r>lack<s n="n"/></r></p></e>
+    <e c="  0"><p><l>несогласување<s n="n"/><s n="nt"/></l><r>disagreement<s n="n"/></r></p></e>
+    <e slr="1"><p><l>несогласување<s n="n"/><s n="nt"/></l><r>contention<s n="n"/></r></p></e>
+    <e c="  0"><p><l>носење<s n="n"/><s n="nt"/></l><r>wearing<s n="n"/></r></p></e>
+    <e c="  0"><p><l>обврзница<s n="n"/><s n="f"/></l><r>bond<s n="n"/></r></p></e>
+    <e c="  0"><p><l>обештетување<s n="n"/><s n="nt"/></l><r>damages<s n="n"/></r></p></e>
+    <e c="  0"><p><l>објаснување<s n="n"/><s n="nt"/></l><r>explanation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>овластување<s n="n"/><s n="nt"/></l><r>authorisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>оданочување<s n="n"/><s n="nt"/></l><r>taxation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>одвојување<s n="n"/><s n="nt"/></l><r>allocation<s n="n"/></r></p></e>
+    <e slr="1"><p><l>одвојување<s n="n"/><s n="nt"/></l><r>split<s n="n"/></r></p></e>
+    <e c="  0"><p><l>одземање<s n="n"/><s n="nt"/></l><r>retraction<s n="n"/></r></p></e>
+    <e c="  0"><p><l>однесување<s n="n"/><s n="nt"/></l><r>behaviour<s n="n"/></r></p></e>
+    <e slr="1"><p><l>однесување<s n="n"/><s n="nt"/></l><r>conduct<s n="n"/></r></p></e>
+    <e c="  0"><p><l>округ<s n="n"/><s n="m"/></l><r>district<s n="n"/></r></p></e>
+    <e slr="1"><p><l>округ<s n="n"/><s n="m"/></l><r>county<s n="n"/></r></p></e>
+    <e c="  0"><p><l>освојување<s n="n"/><s n="nt"/></l><r>win<s n="n"/></r></p></e>
+    <e c="  0"><p><l>основање<s n="n"/><s n="nt"/></l><r>establishment<s n="n"/></r></p></e>
+    <e slr="1"><p><l>основање<s n="n"/><s n="nt"/></l><r>creation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>остварување<s n="n"/><s n="nt"/></l><r>performance<s n="n"/></r></p></e>
+    <e c="  0"><p><l>отпуштање<s n="n"/><s n="nt"/></l><r>dismissal<s n="n"/></r></p></e>
+    <e slr="1"><p><l>отпуштање<s n="n"/><s n="nt"/></l><r>resignation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>отфрлање<s n="n"/><s n="nt"/></l><r>rejection<s n="n"/></r></p></e>
+    <e c="  0"><p><l>отцепување<s n="n"/><s n="nt"/></l><r>secession<s n="n"/></r></p></e>
+    <e slr="1"><p><l>отцепување<s n="n"/><s n="nt"/></l><r>separation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>охрабрување<s n="n"/><s n="nt"/></l><r>encouragement<s n="n"/></r></p></e>
+    <e c="  0"><p><l>патување<s n="n"/><s n="nt"/></l><r>travel<s n="n"/></r></p></e>
+    <e slr="1"><p><l>патување<s n="n"/><s n="nt"/></l><r>journey<s n="n"/></r></p></e>
+    <e slr="2"><p><l>патување<s n="n"/><s n="nt"/></l><r>travel<b/>time<s n="n"/></r></p></e>
+    <e slr="3"><p><l>патување<s n="n"/><s n="nt"/></l><r>trip<s n="n"/></r></p></e>
+    <e c="  0"><p><l>пензионирање<s n="n"/><s n="nt"/></l><r>retirement<s n="n"/></r></p></e>
+    <e c="  0"><p><l>пиење<s n="n"/><s n="nt"/></l><r>drinking<s n="n"/></r></p></e>
+    <e c="  0"><p><l>пишување<s n="n"/><s n="nt"/></l><r>hiding<s n="n"/></r></p></e>
+    <e c="  0"><p><l>пливање<s n="n"/><s n="nt"/></l><r>swimming<s n="n"/></r></p></e>
+    <e c="  0"><p><l>поврзување<s n="n"/><s n="nt"/></l><r>connection<s n="n"/></r></p></e>
+    <e slr="1"><p><l>поврзување<s n="n"/><s n="nt"/></l><r>interconnection<s n="n"/></r></p></e>
+    <e c="  0"><p><l>подготвување<s n="n"/><s n="nt"/></l><r>preparation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>подигање<s n="n"/><s n="nt"/></l><r>awareness<s n="n"/></r></p></e>
+    <e c="  0"><p><l>поднесување<s n="n"/><s n="nt"/></l><r>submission<s n="n"/></r></p></e>
+    <e c="  0"><p><l>појавување<s n="n"/><s n="nt"/></l><r>appearance<s n="n"/></r></p></e>
+    <e c="  0"><p><l>покачување<s n="n"/><s n="nt"/></l><r>increase<s n="n"/></r></p></e>
+    <e c="  0"><p><l>покренување<s n="n"/><s n="nt"/></l><r>attempt<s n="n"/></r></p></e>
+    <e c="  0"><p><l>покривање<s n="n"/><s n="nt"/></l><r>coverage<s n="n"/></r></p></e>
+    <e c="  0"><p><l>помагање<s n="n"/><s n="nt"/></l><r>planning<s n="n"/></r></p></e>
+    <e slr="1"><p><l>помагање<s n="n"/><s n="nt"/></l><r>plan<s n="n"/></r></p></e>
+    <e c="  0"><p><l>помилување<s n="n"/><s n="nt"/></l><r>pardon<s n="n"/></r></p></e>
+    <e c="  0"><p><l>поништување<s n="n"/><s n="nt"/></l><r>nullification<s n="n"/></r></p></e>
+    <e slr="1"><p><l>поништување<s n="n"/><s n="nt"/></l><r>cancellation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>попречување<s n="n"/><s n="nt"/></l><r>obstruction<s n="n"/></r></p></e>
+    <e slr="1"><p><l>попречување<s n="n"/><s n="nt"/></l><r>interruption<s n="n"/></r></p></e>
+    <e c="  0"><p><l>пораз<s n="n"/><s n="m"/></l><r>defeat<s n="n"/></r></p></e>
+    <e slr="1"><p><l>пораз<s n="n"/><s n="m"/></l><r>loss<s n="n"/></r></p></e>
+    <e c="  0"><p><l>поседување<s n="n"/><s n="nt"/></l><r>possession<s n="n"/></r></p></e>
+    <e slr="1"><p><l>поседување<s n="n"/><s n="nt"/></l><r>ownership<s n="n"/></r></p></e>
+    <e c="  0"><p><l>посредник<s n="n"/><s n="m"/></l><r>mediator<s n="n"/></r></p></e>
+    <e slr="1"><p><l>посредник<s n="n"/><s n="m"/></l><r>intermediary<s n="n"/></r></p></e>
+    <e c="  0"><p><l>посредување<s n="n"/><s n="nt"/></l><r>mediation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>поставување<s n="n"/><s n="nt"/></l><r>installation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>постоење<s n="n"/><s n="nt"/></l><r>existence<s n="n"/></r></p></e>
+    <e c="  0"><p><l>поткопување<s n="n"/><s n="nt"/></l><r>undermining<s n="n"/></r></p></e>
+    <e c="  0"><p><l>потпис<s n="n"/><s n="m"/></l><r>signature<s n="n"/></r></p></e>
+    <e c="  0"><p><l>почитување<s n="n"/><s n="nt"/></l><r>respect<s n="n"/></r></p></e>
+    <e c="  0"><p><l>пребројување<s n="n"/><s n="nt"/></l><r>vote-counting<s n="n"/></r></p></e>
+    <e c="  0"><p><l>прегласување<s n="n"/><s n="nt"/></l><r>revote<s n="n"/></r></p></e>
+    <e c="  0"><p><l>предвидување<s n="n"/><s n="nt"/></l><r>prediction<s n="n"/></r></p></e>
+    <e slr="1"><p><l>предвидување<s n="n"/><s n="nt"/></l><r>forecast<s n="n"/></r></p></e>
+    <e c="  0"><p><l>предизвикување<s n="n"/><s n="nt"/></l><r>causing<s n="n"/></r></p></e>
+    <e c="  0"><p><l>преместување<s n="n"/><s n="nt"/></l><r>removal<s n="n"/></r></p></e>
+    <e c="  0"><p><l>претепување<s n="n"/><s n="nt"/></l><r>beating<s n="n"/></r></p></e>
+    <e c="  0"><p><l>претседавање<s n="n"/><s n="nt"/></l><r>presidency<s n="n"/></r></p></e>
+    <e c="  0"><p><l>претседателствување<s n="n"/><s n="nt"/></l><r>presidency<s n="n"/></r></p></e>
+    <e c="  0"><p><l>претставување<s n="n"/><s n="nt"/></l><r>inauguration<s n="n"/></r></p></e>
+    <e slr="1"><p><l>претставување<s n="n"/><s n="nt"/></l><r>introduction<s n="n"/></r></p></e>
+    <e c="  0"><p><l>привлекување<s n="n"/><s n="nt"/></l><r>attraction<s n="n"/></r></p></e>
+    <e c="  0"><p><l>придвижување<s n="n"/><s n="nt"/></l><r>advance<s n="n"/></r></p></e>
+    <e slr="1"><p><l>придвижување<s n="n"/><s n="nt"/></l><r>moving<b/>forward<s n="n"/></r></p></e>
+    <e c="  0"><p><l>приклучување<s n="n"/><s n="nt"/></l><r>membership<s n="n"/></r></p></e>
+    <e slr="1"><p><l>приклучување<s n="n"/><s n="nt"/></l><r>joining<s n="n"/></r></p></e>
+    <e c="  0"><p><l>прикривање<s n="n"/><s n="nt"/></l><r>cover-up<s n="n"/></r></p></e>
+    <e c="  0"><p><l>прилагодување<s n="n"/><s n="nt"/></l><r>adjustment<s n="n"/></r></p></e>
+    <e c="  0"><p><l>прислушување<s n="n"/><s n="nt"/></l><r>phone<b/>tap<s n="n"/></r></p></e>
+    <e slr="1"><p><l>прислушување<s n="n"/><s n="nt"/></l><r>wiretap<s n="n"/></r></p></e>
+    <e c="  0"><p><l>пристигнување<s n="n"/><s n="nt"/></l><r>arrival<s n="n"/></r></p></e>
+    <e slr="1"><p><l>пристигнување<s n="n"/><s n="nt"/></l><r>landing<s n="n"/></r></p></e>
+    <e c="  0"><p><l>продавница<s n="n"/><s n="f"/></l><r>shop<s n="n"/></r></p></e>
+    <e slr="1"><p><l>продавница<s n="n"/><s n="f"/></l><r>store<s n="n"/></r></p></e>
+    <e c="  0"><p><l>продлабочување<s n="n"/><s n="nt"/></l><r>deepening<s n="n"/></r></p></e>
+    <e c="  0"><p><l>просперитет<s n="n"/><s n="m"/></l><r>prosperity<s n="n"/></r></p></e>
+    <e c="  0"><p><l>протекување<s n="n"/><s n="nt"/></l><r>leak<s n="n"/></r></p></e>
+    <e c="  0"><p><l>протерување<s n="n"/><s n="nt"/></l><r>expulsion<s n="n"/></r></p></e>
+    <e c="  0"><p><l>професор<s n="n"/><s n="m"/></l><r>professor<s n="n"/></r></p></e>
+    <e c="  0"><p><l>пукање<s n="n"/><s n="nt"/></l><r>shooting<s n="n"/></r></p></e>
+    <e c="  0"><p><l>работење<s n="n"/><s n="nt"/></l><r>operation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>радиодифузија<s n="n"/><s n="f"/></l><r>radio<b/>broadcast<s n="n"/></r></p></e>
+    <e c="  0"><p><l>разгледување<s n="n"/><s n="nt"/></l><r>review<s n="n"/></r></p></e>
+    <e c="  0"><p><l>разрешување<s n="n"/><s n="nt"/></l><r>dismissal<s n="n"/></r></p></e>
+    <e c="  0"><p><l>раководење<s n="n"/><s n="nt"/></l><r>management<s n="n"/></r></p></e>
+    <e c="  0"><p><l>рангирање<s n="n"/><s n="nt"/></l><r>rating<s n="n"/></r></p></e>
+    <e c="  0"><p><l>распоред<s n="n"/><s n="m"/></l><r>schedule<s n="n"/></r></p></e>
+    <e slr="1"><p><l>распоред<s n="n"/><s n="m"/></l><r>timetable<s n="n"/></r></p></e>
+    <e c="  0"><p><l>расчистување<s n="n"/><s n="nt"/></l><r>disappearance<s n="n"/></r></p></e>
+    <e c="  0"><p><l>реализирање<s n="n"/><s n="nt"/></l><r>realisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>регистрирање<s n="n"/><s n="nt"/></l><r>registration<s n="n"/></r></p></e>
+    <e c="  0"><p><l>регрутирање<s n="n"/><s n="nt"/></l><r>recruitment<s n="n"/></r></p></e>
+    <e c="  0"><p><l>регулирање<s n="n"/><s n="nt"/></l><r>regulation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>реновирање<s n="n"/><s n="nt"/></l><r>renovation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>роднина<s n="n"/><s n="f"/></l><r>cousin<s n="n"/></r></p></e>
+    <e slr="1"><p><l>роднина<s n="n"/><s n="f"/></l><r>relative<s n="n"/></r></p></e>
+    <e c="  0"><p><l>самоопределување<s n="n"/><s n="nt"/></l><r>self-determination<s n="n"/></r></p></e>
+    <e c="  0"><p><l>сведочење<s n="n"/><s n="nt"/></l><r>witness<s n="n"/></r></p></e>
+    <e slr="1"><p><l>сведочење<s n="n"/><s n="nt"/></l><r>testimonial<s n="n"/></r></p></e>
+    <e c="  0"><p><l>семинар<s n="n"/><s n="m"/></l><r>seminar<s n="n"/></r></p></e>
+    <e c="  0"><p><l>сервис<s n="n"/><s n="m"/></l><r>service<s n="n"/></r></p></e>
+    <e c="  0"><p><l>сеќавање<s n="n"/><s n="nt"/></l><r>rememberance<s n="n"/></r></p></e>
+    <e c="  0"><p><l>силување<s n="n"/><s n="nt"/></l><r>rape<s n="n"/></r></p></e>
+    <e c="  0"><p><l>сирење<s n="n"/><s n="nt"/></l><r>cheese<s n="n"/></r></p></e>
+    <e c="  0"><p><l>скијање<s n="n"/><s n="nt"/></l><r>skiing<s n="n"/></r></p></e>
+    <e slr="1"><p><l>скијање<s n="n"/><s n="nt"/></l><r>ski<s n="n"/></r></p></e>
+    <e c="  0"><p><l>слетување<s n="n"/><s n="nt"/></l><r>landing<s n="n"/></r></p></e>
+    <e c="  0"><p><l>сместување<s n="n"/><s n="nt"/></l><r>housing<s n="n"/></r></p></e>
+    <e slr="1"><p><l>сместување<s n="n"/><s n="nt"/></l><r>accommodation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>смирување<s n="n"/><s n="nt"/></l><r>defusion<s n="n"/></r></p></e>
+    <e c="  0"><p><l>собирање<s n="n"/><s n="nt"/></l><r>collection<s n="n"/></r></p></e>
+    <e c="  0"><p><l>соборување<s n="n"/><s n="nt"/></l><r>fall<s n="n"/></r></p></e>
+    <e slr="1"><p><l>соборување<s n="n"/><s n="nt"/></l><r>toppling<s n="n"/></r></p></e>
+    <e c="  0"><p><l>соочување<s n="n"/><s n="nt"/></l><r>challenge<s n="n"/></r></p></e>
+    <e c="  0"><p><l>сослушување<s n="n"/><s n="nt"/></l><r>questioning<s n="n"/></r></p></e>
+    <e c="  0"><p><l>составување<s n="n"/><s n="nt"/></l><r>formation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>спојување<s n="n"/><s n="nt"/></l><r>merger<s n="n"/></r></p></e>
+    <e c="  0"><p><l>спротивставување<s n="n"/><s n="nt"/></l><r>opposition<s n="n"/></r></p></e>
+    <e c="  0"><p><l>стабилизирање<s n="n"/><s n="nt"/></l><r>stabilisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>суспендирање<s n="n"/><s n="nt"/></l><r>suspension<s n="n"/></r></p></e>
+    <e c="  0"><p><l>сценарио<s n="n"/><s n="nt"/></l><r>scenario<s n="n"/></r></p></e>
+    <e c="  0"><p><l>тестирање<s n="n"/><s n="nt"/></l><r>testing<s n="n"/></r></p></e>
+    <e c="  0"><p><l>тројка<s n="n"/><s n="f"/></l><r>troika<s n="n"/></r></p></e>
+    <e c="  0"><p><l>трошење<s n="n"/><s n="nt"/></l><r>spending<s n="n"/></r></p></e>
+    <e c="  0"><p><l>убивање<s n="n"/><s n="nt"/></l><r>killing<s n="n"/></r></p></e>
+    <e slr="1"><p><l>убивање<s n="n"/><s n="nt"/></l><r>murder<s n="n"/></r></p></e>
+    <e c="  0"><p><l>уредник<s n="n"/><s n="m"/></l><r>editor<s n="n"/></r></p></e>
+    <e c="  0"><p><l>усогласување<s n="n"/><s n="nt"/></l><r>adjustment<s n="n"/></r></p></e>
+    <e c="  0"><p><l>фалсификување<s n="n"/><s n="nt"/></l><r>falsification<s n="n"/></r></p></e>
+    <e slr="1"><p><l>фалсификување<s n="n"/><s n="nt"/></l><r>fraud<s n="n"/></r></p></e>
+    <e c="  0"><p><l>фаќање<s n="n"/><s n="nt"/></l><r>capture<s n="n"/></r></p></e>
+    <e c="  0"><p><l>финализирање<s n="n"/><s n="nt"/></l><r>finalisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>фрлање<s n="n"/><s n="nt"/></l><r>throw<s n="n"/></r></p></e>
+    <e c="  0"><p><l>функционирање<s n="n"/><s n="nt"/></l><r>functioning<s n="n"/></r></p></e>
+    <e slr="1"><p><l>функционирање<s n="n"/><s n="nt"/></l><r>function<s n="n"/></r></p></e>
+    <e c="  0"><p><l>хармонизирање<s n="n"/><s n="nt"/></l><r>harmonisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>хотел<s n="n"/><s n="m"/></l><r>hotel<s n="n"/></r></p></e>
+    <e c="  0"><p><l>чекање<s n="n"/><s n="nt"/></l><r>wait<s n="n"/></r></p></e>
+    <e c="  0"><p><l>чин<s n="n"/><s n="m"/></l><r>act<s n="n"/></r></p></e>
+    <e slr="1"><p><l>чин<s n="n"/><s n="m"/></l><r>step<s n="n"/></r></p></e>
+    <e slr="2"><p><l>чин<s n="n"/><s n="m"/></l><r>action<s n="n"/></r></p></e>
+    <e slr="3"><p><l>чин<s n="n"/><s n="m"/></l><r>move<s n="n"/></r></p></e>
+    <e c="  0"><p><l>чистење<s n="n"/><s n="nt"/></l><r>cleansing<s n="n"/></r></p></e>
+    <e slr="1"><p><l>чистење<s n="n"/><s n="nt"/></l><r>cleaning<s n="n"/></r></p></e>
+    <e c="  0"><p><l>ширење<s n="n"/><s n="nt"/></l><r>dissemination<s n="n"/></r></p></e>
+    <e slr="1"><p><l>ширење<s n="n"/><s n="nt"/></l><r>spread<s n="n"/></r></p></e>
+    <e slr="2"><p><l>ширење<s n="n"/><s n="nt"/></l><r>spreading<s n="n"/></r></p></e>
 
 
 
@@ -3536,8 +3825,8 @@
     <e><p><l>Анан<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Annan<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
     <e><p><l>Ахмети<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Ahmeti<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
     <e><p><l>Ахтисари<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Ahtisari<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
-    <e><p><l>Бабаџан<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Babadžan<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
-    <e><p><l>Бакојани<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Bakojani<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+    <e><p><l>Бабаџан<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Babacan<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+    <e><p><l>Бакојани<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Bakoyannis<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
     <e><p><l>Барнс<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Barns<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
     <e><p><l>Баросо<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Baroso<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
     <e><p><l>Басеску<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Basescu<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
@@ -3614,7 +3903,7 @@
     <e><p><l>Сабах<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Sabah<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
     <e><p><l>Самарџиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Samardžić<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
     <e><p><l>Санадер<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Sanader<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
-    <e><p><l>Саркози<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Sarkozi<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+    <e><p><l>Саркози<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Sarkozy<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
     <e><p><l>Свилановиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Svilanović<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
     <e><p><l>Сезер<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Sezer<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
     <e><p><l>Сејдиу<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Sejdiu<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
@@ -5719,7 +6008,8 @@
     <e c="  0"><p><l>неалбански<s n="adj"/></l><r>non-Albanian<s n="adj"/></r></p></e>
     <e c="  0"><p><l>невин<s n="adj"/></l><r>innocent<s n="adj"/></r></p></e>
     <e c="  0"><p><l>негативен<s n="adj"/></l><r>negative<s n="adj"/></r></p></e>
-    <e c="  0"><p><l>недоволен<s n="adj"/></l><r>disgruntled<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>недоволен<s n="adj"/></l><r>insufficient<s n="adj"/></r></p></e>
+    <e slr="1"><p><l>недоволен<s n="adj"/></l><r>disgruntled<s n="adj"/></r></p></e>
     <e c="  0"><p><l>независен<s n="adj"/></l><r>independent<s n="adj"/></r></p></e>
     <e c="  0"><p><l>незаконски<s n="adj"/></l><r>illegal<s n="adj"/></r></p></e>
     <e slr="1"><p><l>незаконски<s n="adj"/></l><r>illegitimate<s n="adj"/></r></p></e>
@@ -6520,7 +6810,9 @@
     <e><p><l>никогаш<s n="adv"/></l><r>never<s n="adv"/></r></p></e>
     <e c="  0"><p><l>сега<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
     <e slr="1"><p><l>сега<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
-    <e><p><l>сепак<s n="adv"/></l><r>however<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>сепак<s n="adv"/></l><r>however<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>сепак<s n="adv"/></l><r>for<b/>the<b/>time<b/>being<s n="adv"/></r></p></e>
+    <e><p><l>најмалку<s n="adv"/></l><r>at<b/>least<s n="adv"/></r></p></e>
     <e><p><l>истовремено<s n="adv"/></l><r>at<b/>the<b/>same<b/>time<s n="adv"/></r></p></e>
 
     <e c="  0"><p><l>многу<s n="adv"/></l><r>much<s n="adv"/></r></p></e>
@@ -6964,6 +7256,38 @@
     <e c="  0"><p><l>протестира<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>protest<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>почувствува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>feel<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>критикува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>criticise<s n="vblex"/></r></p></e>
+
+    <e><p><l>планира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>plan<s n="vblex"/></r></p></e>
+    <e><p><l>фокусира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>focus<s n="vblex"/></r></p></e>
+    <e><p><l>резултира<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>result<s n="vblex"/></r></p></e>
+    <e><p><l>презентира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>present<s n="vblex"/></r></p></e>
+    <e><p><l>информира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>inform<s n="vblex"/></r></p></e>
+    <e><p><l>инвестира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>invest<s n="vblex"/></r></p></e>
+    <e><p><l>инвестира<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>invest<s n="vblex"/></r></p></e>
+    <e><p><l>финансира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>finance<s n="vblex"/></r></p></e>
+    <e><p><l>интензивира<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>intensivise<s n="vblex"/></r></p></e>
+    <e><p><l>промовира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>promote<s n="vblex"/></r></p></e>
+    <e><p><l>номинира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>nominate<s n="vblex"/></r></p></e>
+    <e><p><l>контролира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>control<s n="vblex"/></r></p></e>
+    <e><p><l>екстрадира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>extradite<s n="vblex"/></r></p></e>
+    <e><p><l>функционира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>function<s n="vblex"/></r></p></e>
+    <e><p><l>бојкотира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>boycott<s n="vblex"/></r></p></e>
+    <e><p><l>координира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>coordinate<s n="vblex"/></r></p></e>
+    <e><p><l>комплетира<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>complete<s n="vblex"/></r></p></e>
+    <e><p><l>експлодира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>explode<s n="vblex"/></r></p></e>
+    <e><p><l>експлодира<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>explode<s n="vblex"/></r></p></e>
+    <e><p><l>имплементира<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>implement<s n="vblex"/></r></p></e>
+    <e><p><l>регулира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>regulate<s n="vblex"/></r></p></e>
+    <e><p><l>елиминира<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>eliminate<s n="vblex"/></r></p></e>
+    <e><p><l>реформира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>reform<s n="vblex"/></r></p></e>
+    <e><p><l>кофинансира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>cofinance<s n="vblex"/></r></p></e>
+    <e><p><l>деблокира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>deblock<s n="vblex"/></r></p></e>
+    <e><p><l>реорганизира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>reorganise<s n="vblex"/></r></p></e>
+    <e><p><l>редефинира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>redefine<s n="vblex"/></r></p></e>
+    <e><p><l>реинвестира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>reinvest<s n="vblex"/></r></p></e>
+    <e><p><l>реинвестира<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>reinvest<s n="vblex"/></r></p></e>
+    <e><p><l>дезорганизира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>disorganise<s n="vblex"/></r></p></e>
+
 
     <!-- Abbreviations -->
 
