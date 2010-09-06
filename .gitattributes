@@ -7,10 +7,6 @@
 /apertium-mk-en.mk-en.t2x -text
 /apertium-mk-en.mk-en.t3x -text
 dev/generation-test.sh -text
-dev/pending_adjectives.txt -text
-dev/pending_adverbs.txt -text
-dev/pending_nouns.txt -text
-dev/pending_verbs.txt -text
 dev/test_phrases.mk.txt -text
 dev/test_phrases.txt -text
 /lexchoicebil.xsl -text
