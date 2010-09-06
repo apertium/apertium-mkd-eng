@@ -87,6 +87,7 @@
     <!-- Particles -->
 
     <e><p><l>да<s n="part"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>ли<s n="part"/></l><r></r></p></e> <!-- Question particle -->
 
     <!-- Prepositions -->
  
@@ -249,6 +250,7 @@
     <e><p><l>твој<s n="det"/><s n="pos"/></l><r>your<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>свој<s n="det"/><s n="pos"/></l><r>its<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>нивен<s n="det"/><s n="pos"/></l><r>their<s n="det"/><s n="pos"/></r></p></e>
+    <e><p><l>негов<s n="det"/><s n="pos"/></l><r>his<s n="det"/><s n="pos"/></r></p></e>
 
     <!-- Pronouns -->
 
@@ -268,12 +270,20 @@
     <e r="RL"><p><l>некој<s n="prn"/><s n="ind"/><s n="GD"/><s n="sg"/></l><r>someone<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>некој<s n="prn"/><s n="ind"/><s n="mfn"/><s n="pl"/></l><r>some<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
 
+    <e r="LR"><p><l>секој<s n="prn"/><s n="tot"/><s n="m"/><s n="sg"/></l><r>everyone<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>секој<s n="prn"/><s n="tot"/><s n="f"/><s n="sg"/></l><r>everyone<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>секој<s n="prn"/><s n="tot"/><s n="nt"/><s n="sg"/></l><r>everyone<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>секој<s n="prn"/><s n="tot"/><s n="GD"/><s n="sg"/></l><r>everyone<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>секој<s n="prn"/><s n="tot"/><s n="mfn"/><s n="pl"/></l><r>all<s n="prn"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+
+
     <e><p><l>што<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
     <e><p><l>мој<s n="prn"/><s n="pos"/></l><r>mine<s n="prn"/><s n="pos"/></r></p><par n="кој_that__prn"/></e>
     <e><p><l>твој<s n="prn"/><s n="pos"/></l><r>yours<s n="prn"/><s n="pos"/></r></p><par n="кој_that__prn"/></e>
     <e><p><l>свој<s n="prn"/><s n="pos"/></l><r>its<s n="prn"/><s n="pos"/></r></p><par n="кој_that__prn"/></e>
     <e><p><l>нивен<s n="prn"/><s n="pos"/></l><r>theirs<s n="prn"/><s n="pos"/></r></p><par n="кој_that__prn"/></e>
+    <e><p><l>негов<s n="prn"/><s n="pos"/></l><r>his<s n="prn"/><s n="pos"/></r></p><par n="кој_that__prn"/></e>
 
     <e><p><l>кој<s n="prn"/><s n="rel"/></l><r>that<s n="rel"/><s n="an"/></r></p><par n="кој_that__prn"/></e>
 
@@ -315,6 +325,7 @@
     <e><p><l>милион<s n="num"/></l><r>million<s n="num"/></r></p></e>
     <e><p><l>милијарда<s n="num"/></l><r>milliard<s n="num"/></r></p></e>
 
+    <e><p><l>прв<s n="num"/></l><r>first<s n="num"/></r></p></e>
 
     <!-- Nouns -->
 
@@ -6232,6 +6243,8 @@
     <e><p><l>исто<b/>така<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
     <e><p><l>неодамна<s n="adv"/></l><r>recently<s n="adv"/></r></p></e>
     <e><p><l>можеби<s n="adv"/></l><r>maybe<s n="adv"/></r></p></e>
+    <e><p><l>никогаш<s n="adv"/></l><r>never<s n="adv"/></r></p></e>
+    <e><p><l>сега<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
 
     <e c="  0"><p><l>многу<s n="adv"/></l><r>much<s n="adv"/></r></p></e>
     <e slr="1"><p><l>многу<s n="adv"/></l><r>a<b/>lot<s n="adv"/></r></p></e>
@@ -6531,6 +6544,7 @@
     <e slr="1"><p><l>постои<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>recreate<s n="vblex"/></r></p></e>
 
     <e c="  0"><p><l>потврди<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>confirm<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>формира<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>form<s n="vblex"/></r></p></e>
 
     <e c="  0"><p><l>проценува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>assess<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>проценува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>evaluate<s n="vblex"/></r></p></e>
@@ -6540,6 +6554,9 @@
     <e slr="1"><p><l>станува<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>come<s n="vblex"/></r></p></e>
 
     <e c="  0"><p><l>значи<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>mean<s n="vblex"/></r></p></e>
+
+    <e c="  0"><p><l>протестира<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>protest<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>почувствува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>feel<s n="vblex"/></r></p></e>
 
     <!-- Abbreviations -->
 
