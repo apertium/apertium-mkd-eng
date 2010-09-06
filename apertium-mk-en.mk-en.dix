@@ -286,6 +286,7 @@
     <e><p><l>негов<s n="prn"/><s n="pos"/></l><r>his<s n="prn"/><s n="pos"/></r></p><par n="кој_that__prn"/></e>
 
     <e><p><l>кој<s n="prn"/><s n="rel"/></l><r>that<s n="rel"/><s n="an"/></r></p><par n="кој_that__prn"/></e>
+    <e><p><l>како<b/>што<s n="prn"/><s n="rel"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
 
     <e><p><l>кога<s n="prn"/><s n="rel"/></l><r>when<s n="cnjsub"/></r></p></e>
     <e><p><l>кога<s n="prn"/><s n="itg"/></l><r>when<s n="adv"/><s n="itg"/></r></p></e>
@@ -6245,6 +6246,7 @@
     <e><p><l>можеби<s n="adv"/></l><r>maybe<s n="adv"/></r></p></e>
     <e><p><l>никогаш<s n="adv"/></l><r>never<s n="adv"/></r></p></e>
     <e><p><l>сега<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
+    <e><p><l>сепак<s n="adv"/></l><r>however<s n="adv"/></r></p></e>
 
     <e c="  0"><p><l>многу<s n="adv"/></l><r>much<s n="adv"/></r></p></e>
     <e slr="1"><p><l>многу<s n="adv"/></l><r>a<b/>lot<s n="adv"/></r></p></e>
@@ -6571,14 +6573,14 @@
     <e><p><l>НАТО<s n="abbr"/></l><r>NATO<s n="abbr"/></r></p></e>
     <e><p><l>АП<s n="abbr"/></l><r>AP<s n="abbr"/></r></p></e>
     <e><p><l>АФП<s n="abbr"/></l><r>AFP<s n="abbr"/></r></p></e>
-    <e><p><l>ОБСЕ<s n="abbr"/></l><r>OBSE<s n="abbr"/></r></p></e>
+    <e><p><l>ОБСЕ<s n="abbr"/></l><r>OSCE<s n="abbr"/></r></p></e>
     <e><p><l>УНМИК<s n="abbr"/></l><r>UNMIK<s n="abbr"/></r></p></e>
     <e><p><l>ЕК<s n="abbr"/></l><r>EC<s n="abbr"/></r></p></e>
     <e><p><l>РС<s n="abbr"/></l><r>RS<s n="abbr"/></r></p></e>
     <e><p><l>СФОР<s n="abbr"/></l><r>SFOR<s n="abbr"/></r></p></e>
     <e><p><l>АКП<s n="abbr"/></l><r>AKP<s n="abbr"/></r></p></e>
     <e><p><l>ВОА<s n="abbr"/></l><r>VOA<s n="abbr"/></r></p></e>
-    <e><p><l>ММФ<s n="abbr"/></l><r>MMF<s n="abbr"/></r></p></e>
+    <e><p><l>ММФ<s n="abbr"/></l><r>IMF<s n="abbr"/></r></p></e>
     <e><p><l>РФЕ<s n="abbr"/></l><r>RFE<s n="abbr"/></r></p></e>
     <e><p><l>КФОР<s n="abbr"/></l><r>KFOR<s n="abbr"/></r></p></e>
     <e><p><l>ДСС<s n="abbr"/></l><r>DSS<s n="abbr"/></r></p></e>
