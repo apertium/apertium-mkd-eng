@@ -6,6 +6,11 @@
 /apertium-mk-en.mk-en.t1x -text
 /apertium-mk-en.mk-en.t2x -text
 /apertium-mk-en.mk-en.t3x -text
+dev/bidix/pending_adjectives.txt -text
+dev/bidix/pending_adverbs.txt -text
+dev/bidix/pending_nouns.txt -text
+dev/bidix/pending_prepositions.txt -text
+dev/bidix/pending_verbs.txt -text
 dev/generation-test.sh -text
 dev/test_phrases.mk.txt -text
 dev/test_phrases.txt -text
