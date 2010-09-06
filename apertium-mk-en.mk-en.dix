@@ -251,6 +251,7 @@
     <e><p><l>свој<s n="det"/><s n="pos"/></l><r>its<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>нивен<s n="det"/><s n="pos"/></l><r>their<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>негов<s n="det"/><s n="pos"/></l><r>his<s n="det"/><s n="pos"/></r></p></e>
+    <e><p><l>нејзин<s n="det"/><s n="pos"/></l><r>her<s n="det"/><s n="pos"/></r></p></e>
 
     <!-- Pronouns -->
 
@@ -284,6 +285,7 @@
     <e><p><l>свој<s n="prn"/><s n="pos"/></l><r>its<s n="prn"/><s n="pos"/></r></p><par n="кој_that__prn"/></e>
     <e><p><l>нивен<s n="prn"/><s n="pos"/></l><r>theirs<s n="prn"/><s n="pos"/></r></p><par n="кој_that__prn"/></e>
     <e><p><l>негов<s n="prn"/><s n="pos"/></l><r>his<s n="prn"/><s n="pos"/></r></p><par n="кој_that__prn"/></e>
+    <e><p><l>нејзин<s n="prn"/><s n="pos"/></l><r>hers<s n="prn"/><s n="pos"/></r></p><par n="кој_that__prn"/></e>
 
     <e><p><l>кој<s n="prn"/><s n="rel"/></l><r>that<s n="rel"/><s n="an"/></r></p><par n="кој_that__prn"/></e>
     <e><p><l>како<b/>што<s n="prn"/><s n="rel"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -6559,6 +6561,7 @@
 
     <e c="  0"><p><l>протестира<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>protest<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>почувствува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>feel<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>критикува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>criticise<s n="vblex"/></r></p></e>
 
     <!-- Abbreviations -->
 
