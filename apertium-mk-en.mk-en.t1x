@@ -15,9 +15,8 @@
     <def-cat n="num">
       <cat-item tags="num.*"/>
     </def-cat>
-    <def-cat n="ne">
+    <def-cat n="не">
       <cat-item lemma="не" tags="adv"/>
-      <cat-item lemma="clitic" tags="prn.pers.clt.p1.mfn.pl.acc"/>
     </def-cat>
     <def-cat n="vbhaver_fin_neg">
       <cat-item lemma="нема" tags="vbhaver.pres.*"/>
@@ -778,9 +777,9 @@
         </call-macro>
       </action>
     </rule>
-    <rule comment="REGLA: ne-nom">
+    <rule comment="REGLA: не-nom">
       <pattern>
-        <pattern-item n="ne"/>
+        <pattern-item n="не"/>
         <pattern-item n="guio"/>
         <pattern-item n="nom"/>
       </pattern>

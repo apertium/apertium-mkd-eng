@@ -911,7 +911,6 @@
       1 затегнува<vblex><imperf><tv>
       1 затврди<vblex><perf><tv>
       1 замаглува<vblex><imperf><tv>
-      1 закана<n><f><pl><nom><ind>
       1 задава<vblex><imperf><tv>
       1 загледа<vblex><perf><tv>/загледа<vblex><perf><iv>
       1 загинува<vblex><imperf><iv>
@@ -927,4 +926,3 @@
       1 бунтува<vblex><imperf><tv>
       1 боледува<vblex><imperf><tv>
       1 благословува<vblex><imperf><tv>
-      1 
