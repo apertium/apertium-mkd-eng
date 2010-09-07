@@ -5,6 +5,7 @@
     <sdef n="np"       c="Proper noun"/>
     <sdef n="pr"       c="Preposition"/>
     <sdef n="prn"      c="Pronoun"/>
+    <sdef n="ij"       c="Interjection"/>
     <sdef n="part"     c="Particle"/>
     <sdef n="num"      c="Numeral"/>
     <sdef n="det"      c="Determiner"/>
@@ -274,14 +275,17 @@
     <e><p><l>clitic<s n="prn"/><s n="ref"/><s n="pers"/></l><r/></p></e> <!-- traducció buida per ara -->
 
     <e><p><l>free<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/></r></p></e>
+
     <e><p><l>ништо<s n="prn"/><s n="neg"/></l><r>nothing<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e><p><l>никој<s n="prn"/><s n="neg"/></l><r>none<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>никаков<s n="prn"/><s n="neg"/></l><r>no<b/>kind<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
 
     <e><p><l>овој<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
     <e><p><l>оној<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
     <e><p><l>тој<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
 
-    <e><p><l>таков<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
+    <e><p><l>таков<s n="prn"/><s n="dem"/></l><r>such<b/>kind<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
+    <e><p><l>ваков<s n="prn"/><s n="dem"/></l><r>this<b/>kind<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
+    <e><p><l>онаков<s n="prn"/><s n="dem"/></l><r>that<b/>kind<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
 
     <e><p><l>сиот<s n="prn"/><s n="tot"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="кој_that__prn"/></e>
 
@@ -296,6 +300,13 @@
     <e r="LR"><p><l>секој<s n="prn"/><s n="tot"/><s n="nt"/><s n="sg"/></l><r>everyone<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>секој<s n="prn"/><s n="tot"/><s n="GD"/><s n="sg"/></l><r>everyone<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>секој<s n="prn"/><s n="tot"/><s n="mfn"/><s n="pl"/></l><r>all<s n="prn"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+
+    <e r="LR"><p><l>никој<s n="prn"/><s n="tot"/><s n="m"/><s n="sg"/></l><r>no<b/>one<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>никој<s n="prn"/><s n="tot"/><s n="f"/><s n="sg"/></l><r>no<b/>one<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>никој<s n="prn"/><s n="tot"/><s n="nt"/><s n="sg"/></l><r>no<b/>one<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>никој<s n="prn"/><s n="tot"/><s n="GD"/><s n="sg"/></l><r>no<b/>one<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>никој<s n="prn"/><s n="tot"/><s n="mfn"/><s n="pl"/></l><r>none<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
+
 
     <e><p><l>неколку<s n="prn"/><s n="ind"/><s n="ind"/></l><r>several<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
 
@@ -314,6 +325,7 @@
     <e><p><l>како<b/>што<s n="prn"/><s n="rel"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>којшто<s n="prn"/><s n="rel"/></l><r>who<s n="rel"/><s n="an"/></r></p><par n="кој_that__prn"/></e>
 
+    <e><p><l>кој<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>кога<s n="prn"/><s n="rel"/></l><r>when<s n="cnjsub"/></r></p></e>
     <e><p><l>бидејќи<s n="prn"/><s n="rel"/></l><r>since<s n="cnjsub"/></r></p></e>
     <e><p><l>каде<b/>што<s n="prn"/><s n="rel"/></l><r>where<s n="rel"/><s n="adv"/></r></p></e>
@@ -321,6 +333,9 @@
     <e><p><l>каде<s n="prn"/><s n="itg"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>зошто<s n="prn"/><s n="itg"/></l><r>what<b/>for<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>зашто<s n="prn"/><s n="rel"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e>
+
+    <e><p><l>колкав<s n="prn"/><s n="itg"/></l><r>how<b/>big<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>каков<s n="prn"/><s n="itg"/></l><r>what<b/>kind<s n="prn"/><s n="itg"/></r></p></e>
 
     <!-- mk side should be tagged for number -->
     <e c="  0"><p><l>колку<s n="prn"/><s n="itg"/></l><r>how<b/>much<s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e> 
@@ -836,7 +851,7 @@
     <e c="  0"><p><l>бегалец<s n="n"/><s n="m"/></l><r>refugee<s n="n"/></r></p></e>
     <e slr="1"><p><l>бегалец<s n="n"/><s n="m"/></l><r>fugitive<s n="n"/></r></p></e>
     <e c="  0"><p><l>безбедност<s n="n"/><s n="f"/></l><r>security<s n="n"/></r></p></e>
-    <e c="  0"><p><l>берза<s n="n"/><s n="f"/></l><r>stock-exchange<s n="n"/></r></p></e>
+    <e c="  0"><p><l>берза<s n="n"/><s n="f"/></l><r>stock<b/>exchange<s n="n"/></r></p></e>
     <e slr="1"><p><l>берза<s n="n"/><s n="f"/></l><r>market<s n="n"/></r></p></e>
     <e c="  0"><p><l>библија<s n="n"/><s n="f"/></l><r>bible<s n="n"/></r></p></e>
     <e c="  0"><p><l>бизнис<s n="n"/><s n="m"/></l><r>business<s n="n"/></r></p></e>
@@ -3357,6 +3372,7 @@
     <e><p><l>Швајцарија<s n="np"/><s n="top"/><s n="f"/></l><r>Switzerland<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Шпанија<s n="np"/><s n="top"/><s n="f"/></l><r>Spain<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Шумен<s n="np"/><s n="top"/><s n="m"/></l><r>Shumen<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Црна<b/>Гора<s n="np"/><s n="top"/><s n="f"/></l><r>Montenegro<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
     <e><p><l>Марија<s n="np"/><s n="ant"/><s n="f"/></l><r>Marija<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Лабина<s n="np"/><s n="ant"/><s n="f"/></l><r>Labina<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
@@ -5914,7 +5930,7 @@
     <e c="  0"><p><l>кубански<s n="adj"/></l><r>Cuban<s n="adj"/></r></p></e>
     <e c="  0"><p><l>кувајтски<s n="adj"/></l><r>Kuwaiti<s n="adj"/></r></p></e>
     <e c="  0"><p><l>културен<s n="adj"/></l><r>cultural<s n="adj"/></r></p></e>
-    <e c="  0"><p><l>курдистански<s n="adj"/></l><r>Kurdish<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>курдистански<s n="adj"/></l><r>Kurdistan<s n="adj"/></r></p></e>
     <e c="  0"><p><l>курдски<s n="adj"/></l><r>Kurdish<s n="adj"/></r></p></e>
     <e c="  0"><p><l>лабораториски<s n="adj"/></l><r>laboratory<s n="adj"/></r></p></e>
     <e c="  0"><p><l>ладен<s n="adj"/></l><r>cool<s n="adj"/><s n="sint"/></r></p></e>
@@ -7754,6 +7770,8 @@
     <e c="  0"><p><l>носи<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>carry<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>носи<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>bring<s n="vblex"/></r></p></e>
 
+    <e c="  0"><p><l>праша<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>ask<s n="vblex"/></r></p></e>
+
 <!--
     <e c="  0"><p><l>назначи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>препорача<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
@@ -8151,7 +8169,6 @@
     <e c="  0"><p><l>припадне<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>@<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>придава<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>преименува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>праша<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>отежнува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>овластува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>обрне<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
@@ -8653,6 +8670,10 @@
     <e><p><l>ВМРО<s n="abbr"/></l><r>VMRO<s n="abbr"/></r></p></e>
     <e><p><l>БА<s n="abbr"/></l><r>BA<s n="abbr"/></r></p></e>
     <e><p><l>АТА<s n="abbr"/></l><r>ATA<s n="abbr"/></r></p></e>
+
+    <!-- Interjections -->
+
+    <e><p><l>да<s n="ij"/></l><r>yes<s n="ij"/></r></p></e>
 
     <!-- Punctuation -->
 
