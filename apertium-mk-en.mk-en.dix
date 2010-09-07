@@ -3526,7 +3526,6 @@
     <e><p><l>Неџдет<s n="np"/><s n="ant"/><s n="m"/></l><r>Nedždet<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Никола<s n="np"/><s n="ant"/><s n="m"/></l><r>Nikola<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Абдула<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdula<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-    <e><p><l>Ивица<s n="np"/><s n="ant"/><s n="m"/></l><r>Ivica<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Мирча<s n="np"/><s n="ant"/><s n="m"/></l><r>Mirča<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Мустафа<s n="np"/><s n="ant"/><s n="m"/></l><r>Mustafa<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Небојша<s n="np"/><s n="ant"/><s n="m"/></l><r>Nebojša<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -8260,6 +8259,9 @@
     <e c="  0"><p><l>искористува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>use<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>искористува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>exploit<s n="vblex"/></r></p></e>
 
+    <e c="  0"><p><l>заземе<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>protect<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>заземе<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>seize<s n="vblex"/></r></p></e>
+
 <!--
     <e c="  0"><p><l>насобере<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>напушти<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
@@ -8681,7 +8683,6 @@
     <e c="  0"><p><l>посочува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>изнесе<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>@<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>изгласа<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>заземе<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>посредува<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>@<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>обелодени<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>должи<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>@<s n="vblex"/></r></p></e>

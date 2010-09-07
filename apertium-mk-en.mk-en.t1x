@@ -21,6 +21,12 @@
     <def-cat n="num">
       <cat-item tags="num.*"/>
     </def-cat>
+    <def-cat n="mora">
+      <cat-item lemma="мора" tags="vbmod.*"/>
+    </def-cat>
+    <def-cat n="trebe">
+      <cat-item lemma="требе" tags="vbmod.*"/>
+    </def-cat>
     <def-cat n="не">
       <cat-item lemma="не" tags="adv"/>
     </def-cat>
@@ -720,8 +726,8 @@
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="nbr"/>
               <clip pos="1" side="tl" part="gen"/>
+              <clip pos="1" side="tl" part="nbr"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
@@ -1430,6 +1436,79 @@
               <clip pos="2" side="tl" part="pers"/>
               <clip pos="2" side="tl" part="nbr"/>
               <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: мора да v_pres">
+      <pattern>
+        <pattern-item n="mora"/>
+        <pattern-item n="inf"/>
+        <pattern-item n="v_pres"/>
+      </pattern>
+      <action>
+        <call-macro n="conv_verb_tense1">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1">
+                <lit v="must"/>
+              </get-case-from>
+              <lit-tag v="vaux.inf"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+              <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: требе да prn_clitic v_pres">
+      <pattern>
+        <pattern-item n="trebe"/>
+        <pattern-item n="inf"/>
+        <pattern-item n="prn_clitic"/>
+        <pattern-item n="v_pres"/>
+      </pattern>
+      <action>
+        <call-macro n="conv_verb_tense1">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1">
+                <lit v="should"/>
+              </get-case-from>
+              <lit-tag v="vaux.inf"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="be"/>
+              <lit-tag v="vbser.inf"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="4" side="tl" part="lemh"/>
+              <clip pos="4" side="tl" part="a_verb"/>
+              <lit-tag v="pp"/>
+              <clip pos="4" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
