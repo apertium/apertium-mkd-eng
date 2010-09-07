@@ -31,16 +31,19 @@
       <cat-item tags="vbhaver.pii.*"/>
       <cat-item tags="vbhaver.aor.*"/>
     </def-cat>
-    <def-cat n="v_pres_sg3">
-      <cat-item tags="vblex.*.*.pres.p3.sg"/>
-      <cat-item tags="vblex.*.*.pres.p3.sg.*"/>
-      <cat-item tags="vbhaver.pres.p3.sg"/>
-      <cat-item tags="vbhaver.pres.p3.sg.*"/>
+    <def-cat n="v_pres">
+      <cat-item tags="vblex.*.*.pres.*"/>
+      <cat-item tags="vbhaver.pres"/>
+      <cat-item tags="vbhaver.pres.*"/>
     </def-cat>
     <def-cat n="v_cop_fin">
       <cat-item tags="vbser.pres.*"/>
       <cat-item tags="vbser.pii.*"/>
       <cat-item tags="vbser.aor.*"/>
+    </def-cat>
+    <def-cat n="pprs_adv"> 
+      <cat-item tags="vblex.*.*.pprs.adv"/>
+      <cat-item tags="vblex.*.*.pprs.adv.*"/>
     </def-cat>
     <def-cat n="pp">
       <cat-item tags="vblex.*.pp.*"/>
@@ -427,7 +430,38 @@
           </let>
         </when>
       </choose>
-
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal>
+                <clip pos="1" side="sl" part="a_verb"/>
+                <lit-tag v="vblex"/>
+              </equal>
+              <not>
+                <and>
+                  <equal>
+                    <clip pos="1" side="sl" part="pers"/>
+                    <lit-tag v="p3"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="nbr"/>
+                    <lit-tag v="sg"/>
+                  </equal>
+                </and>
+              </not>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="nbr"/>
+            <lit v=""/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="pers"/>
+            <lit v=""/>
+          </let>
+        </when>
+      </choose>
     </def-macro>
 
     <def-macro n="adj_set_grau2" npar="2">
@@ -1183,10 +1217,10 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: да v_pres_sg3">
+    <rule comment="REGLA: да v_pres">
       <pattern>
         <pattern-item n="inf"/>
-        <pattern-item n="v_pres_sg3"/>
+        <pattern-item n="v_pres"/>
       </pattern>
       <action>
         <out>
@@ -1211,10 +1245,10 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: ќе v_pres_sg3">
+    <rule comment="REGLA: ќе v_pres">
       <pattern>
         <pattern-item n="exp"/>
-        <pattern-item n="v_pres_sg3"/>
+        <pattern-item n="v_pres"/>
       </pattern>
       <action>
         <out>
@@ -1240,11 +1274,11 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: ќе prn_clitic v_pres_sg3">
+    <rule comment="REGLA: ќе prn_clitic v_pres">
       <pattern>
         <pattern-item n="exp"/>
         <pattern-item n="prn_clitic"/>
-        <pattern-item n="v_pres_sg3"/>
+        <pattern-item n="v_pres"/>
       </pattern>
       <action>
         <out>
@@ -1270,11 +1304,11 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: да prn_clitic v_pres_sg3">
+    <rule comment="REGLA: да prn_clitic v_pres">
       <pattern>
         <pattern-item n="inf"/>
         <pattern-item n="prn_clitic"/>
-        <pattern-item n="v_pres_sg3"/>
+        <pattern-item n="v_pres"/>
       </pattern>
       <action>
         <out>
@@ -1302,12 +1336,15 @@
 
 
 
-    <rule comment="REGLA: prn_clitic v_pres_sg3">
+    <rule comment="REGLA: prn_clitic v_pres">
       <pattern>
         <pattern-item n="prn_clitic"/>
-        <pattern-item n="v_pres_sg3"/>
+        <pattern-item n="v_pres"/>
       </pattern>
       <action>
+        <call-macro n="conv_verb_tense1">
+          <with-param pos="2"/>
+        </call-macro>
         <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
@@ -1326,13 +1363,26 @@
       </action>
     </rule>
 
-
-
-
-
-
-
-
+    <rule comment="REGLA: pprs_adv">
+      <pattern>
+        <pattern-item n="pprs_adv"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="ger"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
   </section-rules>
 </transfer>
