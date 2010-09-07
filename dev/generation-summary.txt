@@ -1,7 +1,3 @@
-Corpus in: /home/fran/corpora/makedonski
-Processing corpus for generation test... done.
-Translating corpus for generation test (this could take some time)... done.
-
 ===============================================================================
 Multiple surface forms for a single lexical form
 ===============================================================================
@@ -21,40 +17,25 @@ Multiple bidix entries for a single source language lexical form
 ===============================================================================
 Tag mismatch between transfer and generation
 ===============================================================================
-  16172 #EU\<abbr\>	^EU<abbr>$
   10239 #prpers\<prn\>\<obj\>\<p2\>\<mf\>\<sg\>	^prpers<prn><obj><p2><mf><sg>$
    8838 #other\<adj\>	^other<adj>$
    7626 #war\<adj\>	^war<adj>$
    7313 #prpers\<prn\>\<subj\>\<p2\>\<mf\>\<sg\>	^prpers<prn><subj><p2><mf><sg>$
-   5328 #NATO\<abbr\>	^NATO<abbr>$
-   4832 #AFP\<abbr\>	^AFP<abbr>$
    3967 #AP\<abbr\>	^AP<abbr>$
    3941 #should\<vaux\>\<p3\>\<sg\>	^should<vaux><aor><p3><sg>$
-   3913 #police\<n\>\<sg\>	^police<n><sg>$
-   3559 #tribunal\<n\>\<sg\>	^tribunal<n><sg>$
    3449 #million\<num\>\<pl\>	^million<num><pl>$
    3145 #first\<sg\>	^first<sg>$
-   3085 #accession\<n\>\<sg\>	^accession<n><sg>$
    2992 #three\<num\>	^three<num>$
    2763 #own\<adj\>\<f\>\<sg\>\<def\>	^own<adj><f><sg><def>$
    2598 #can\<vaux\>\<pres\>\<p3\>\<sg\>	^can<vaux><pres><p3><sg>$
    2542 #own\<adj\>\<m\>\<sg\>\<def\>	^own<adj><m><sg><def>$
    2501 #own\<adj\>\<pl\>\<def\>	^own<adj><mfn><pl><def>$
    2492 #must\<vaux\>\<pres\>\<p3\>\<sg\>	^must<vaux><pres><p3><sg>$
-   2378 #croatian\<adj\>	^croatian<adj>$
    2243 #media\<n\>\<pl\>	^media<n><pl>$
-   2170 #kosovar\<adj\>	^kosovar<adj>$
-   2108 #Serb\<n\>\<pl\>	^Serb<n><pl>$
    2046 #emphasise\<vblex\>\<past\>	^emphasise<vblex><past>$
-   2006 #bosnian\<adj\>	^bosnian<adj>$
-   1956 #Croatian\<adj\>	^Croatian<adj>$
-   1889 #commissioner\<n\>\<sg\>	^commissioner<n><sg>$
-   1841 #RS\<abbr\>	^RS<abbr>$
    1791 #suspect\<adj\>	^suspect<adj>$
    1768 #second\<sg\>	^second<sg>$
-   1631 #TV\<abbr\>	^TV<abbr>$
    1623 #opposition\<adj\>	^opposition<adj>$
-   1616 #OSCE\<abbr\>	^OSCE<abbr>$
    1610 #four\<num\>	^four<num>$
    1557 #resume\<vblex\>\<inf\>	^resume<vblex><inf>$
    1551 #all\<adj\>	^all<adj>$
@@ -62,34 +43,25 @@ Tag mismatch between transfer and generation
    1435 #RTRS\<abbr\>	^RTRS<abbr>$
    1384 #HINA\<abbr\>	^HINA<abbr>$
    1377 #news\<adj\>	^news<adj>$
-   1315 #EC\<abbr\>	^EC<abbr>$
    1235 #South-Eastern\<adj\>	^South-Eastern<adj>$
    1230 #five\<num\>	^five<num>$
-   1198 #UNMIK\<abbr\>	^UNMIK<abbr>$
+   1189 #police\<n\>\<sg\>	^police<n><sg>$
    1138 #balkan\<n\>\<sg\>	^balkan<n><sg>$
    1060 #likely\<adj\>	^likely<adj>$
    1057 #the\<det\>\<def\>\<sp\>	^the<det><def><sp>$
-   1056 #stability\<n\>\<sg\>	^stability<n><sg>$
-   1050 #resignation\<n\>\<sg\>	^resignation<n><sg>$
    1042 #six\<num\>	^six<num>$
-   1027 #deadline\<n\>\<sg\>	^deadline<n><sg>$
-   1018 #PKK\<abbr\>	^PKK<abbr>$
    1017 #hague\<adj\>	^hague<adj>$
    1013 #peace\<adj\>	^peace<adj>$
     999 #border\<adj\>	^border<adj>$
-    994 #Rehn\<np\>\<ant\>\<m\>\<sg\>	^Rehn<np><ant><m><sg>$
-    980 #lawmaker\<n\>\<pl\>	^lawmaker<n><pl>$
+    994 #Rehn\<np\>\<ant\>\<sg\>\<m\>	^Rehn<np><ant><sg><m>$
+    976 #ANA\<np\>\<ant\>\<sg\>\<f\>	^ANA<np><ant><sg><f>$
     968 #declared\<adj\>	^declared<adj>$
     959 #own\<adj\>\<nt\>\<sg\>\<def\>	^own<adj><nt><sg><def>$
-    954 #Kosovar\<adj\>	^Kosovar<adj>$
+    944 #Boris\<np\>\<ant\>\<sg\>\<m\>	^Boris<np><ant><sg><m>$
     936 #in total\<adv\>	^in total<adv>$
-    927 #RTS\<abbr\>	^RTS<abbr>$
     927 #able\<adj\>	^able<adj>$
     916 #hurt\<adj\>	^hurt<adj>$
     902 #the\<det\>\<def\>	^the<det><def>$
-    896 #Bosnian\<adj\>	^Bosnian<adj>$
-    895 #mandate\<n\>\<sg\>	^mandate<n><sg>$
-    894 #IMF\<abbr\>	^IMF<abbr>$
     848 #OHR\<abbr\>	^OHR<abbr>$
     841 #two-day\<adj\>	^two-day<adj>$
     833 #with\<cnjsub\>	^with<cnjsub>$
@@ -99,168 +71,153 @@ Tag mismatch between transfer and generation
     800 #press\<adj\>	^press<adj>$
     787 #DPA\<abbr\>	^DPA<abbr>$
     769 #Balkan\<n\>\<sg\>	^Balkan<n><sg>$
+    766 #Zoran\<np\>\<ant\>\<sg\>\<m\>	^Zoran<np><ant><sg><m>$
     762 #BTA\<abbr\>	^BTA<abbr>$
     758 #third\<sg\>	^third<sg>$
-    744 #middle\<n\>\<sg\>	^middle<n><sg>$
-    719 #HRT\<abbr\>	^HRT<abbr>$
     702 #MPA\<abbr\>	^MPA<abbr>$
     687 #take\<vblex\>\<inf\># over	^take<vblex><inf># over$
-    657 #regime\<n\>\<sg\>	^regime<n><sg>$
     646 #armed\<adj\>	^armed<adj>$
-    638 #serb\<n\>\<pl\>	^serb<n><pl>$
-    628 #KFOR\<abbr\>	^KFOR<abbr>$
+    644 #Vojislav\<np\>\<ant\>\<sg\>\<m\>	^Vojislav<np><ant><sg><m>$
+    636 #Ratko\<np\>\<ant\>\<sg\>\<m\>	^Ratko<np><ant><sg><m>$
     625 #first\<pl\>	^first<pl>$
     625 #bTV\<abbr\>	^bTV<abbr>$
     605 #further\<adj\>	^further<adj>$
     604 #take\<vblex\>\<past\># over	^take<vblex><past># over$
     604 #seven\<num\>	^seven<num>$
+    602 #Nikola\<np\>\<ant\>\<sg\>\<m\>	^Nikola<np><ant><sg><m>$
     587 #eight\<num\>	^eight<num>$
     586 #comprehensively\<adv\>	^comprehensively<adv>$
-    586 #Abdula\<np\>\<ant\>\<m\>\<sg\>	^Abdula<np><ant><m><sg>$
-    547 #AKP\<abbr\>	^AKP<abbr>$
+    586 #Abdula\<np\>\<ant\>\<sg\>\<m\>	^Abdula<np><ant><sg><m>$
     542 #southern\<adj\>	^southern<adj>$
     535 #can\<vaux\>\<pii\>\<f\>\<sg\>	^can<vaux><lp><pii><f><sg>$
     531 #can\<vaux\>\<pii\>\<pl\>	^can<vaux><lp><pii><mfn><pl>$
+    530 #Ivo\<np\>\<ant\>\<sg\>\<m\>	^Ivo<np><ant><sg><m>$
     525 #Morning\<adj\>	^Morning<adj>$
-    511 #SFOR\<abbr\>	^SFOR<abbr>$
-    511 #judiciary\<n\>\<sg\>	^judiciary<n><sg>$
+    525 #Dragan\<np\>\<ant\>\<sg\>\<m\>	^Dragan<np><ant><sg><m>$
+    512 #Branko\<np\>\<ant\>\<sg\>\<m\>	^Branko<np><ant><sg><m>$
+    511 #Slobodan\<np\>\<ant\>\<sg\>\<m\>	^Slobodan<np><ant><sg><m>$
     507 #ATA\<abbr\>	^ATA<abbr>$
-    501 #personnel\<n\>\<sg\>	^personnel<n><sg>$
+    477 #Ali\<np\>\<ant\>\<sg\>\<m\>	^Ali<np><ant><sg><m>$
     472 #welcome\<vblex\>\<pres\>\<p3\>\<sg\>	^welcome<vblex><pres><p3><sg>$
+    459 #Oli\<np\>\<ant\>\<sg\>\<m\>	^Oli<np><ant><sg><m>$
     458 #worker\<adj\>	^worker<adj>$
+    457 #Kostas\<np\>\<ant\>\<sg\>\<m\>	^Kostas<np><ant><sg><m>$
     451 #UPI\<abbr\>	^UPI<abbr>$
     451 #can\<vaux\>\<pii\>\<m\>\<sg\>	^can<vaux><lp><pii><m><sg>$
+    447 #Trajan\<np\>\<ant\>\<sg\>\<m\>	^Trajan<np><ant><sg><m>$
     446 #DP\<abbr\>	^DP<abbr>$
-    439 #fulfillment\<n\>\<sg\>	^fulfillment<n><sg>$
     439 #customs\<adj\>	^customs<adj>$
-    436 #general staff\<n\>\<sg\>	^general staff<n><sg>$
-    430 #borough\<n\>\<pl\>	^borough<n><pl>$
+    436 #Karla\<np\>\<ant\>\<sg\>\<f\>	^Karla<np><ant><sg><f>$
     426 #tourist\<adj\>	^tourist<adj>$
+    423 #Stipe\<np\>\<ant\>\<sg\>\<m\>	^Stipe<np><ant><sg><m>$
     423 #air\<adj\>	^air<adj>$
-    415 #VMRO\<abbr\>	^VMRO<abbr>$
-    414 #prosecution\<n\>\<sg\>	^prosecution<n><sg>$
     412 #nine\<num\>	^nine<num>$
-    411 #Pedi\<np\>\<ant\>\<f\>\<sg\>	^Pedi<np><ant><f><sg>$
+    411 #Pedi\<np\>\<ant\>\<sg\>\<f\>	^Pedi<np><ant><sg><f>$
     410 #Nine\<num\>	^Nine<num>$
     408 #Other\<adj\>	^Other<adj>$
     406 #articulate\<adj\>	^articulate<adj>$
+    405 #Georgi\<np\>\<ant\>\<sg\>\<m\>	^Georgi<np><ant><sg><m>$
     402 #film\<adj\>	^film<adj>$
     399 #this kind\<prn\>\<dem\>\<mf\>\<sg\>	^this kind<prn><dem><mf><sg>$
     397 #elected\<adj\>	^elected<adj>$
-    392 #VOA\<abbr\>	^VOA<abbr>$
-    387 #RFE\<abbr\>	^RFE<abbr>$
-    387 #olympiad\<n\>\<sg\>	^olympiad<n><sg>$
-    386 #adriatic\<adj\>	^adriatic<adj>$
+    386 #Sali\<np\>\<ant\>\<sg\>\<m\>	^Sali<np><ant><sg><m>$
     385 #The\<det\>\<def\>\<sp\>	^The<det><def><sp>$
+    381 #Vladimir\<np\>\<ant\>\<sg\>\<m\>	^Vladimir<np><ant><sg><m>$
     381 #pension\<adj\>	^pension<adj>$
     377 #MIA\<abbr\>	^MIA<abbr>$
     376 #mass\<adj\>	^mass<adj>$
     376 #can\<vaux\>\<pii\>\<nt\>\<sg\>	^can<vaux><lp><pii><nt><sg>$
-    368 #charter\<n\>\<sg\>	^charter<n><sg>$
     364 #reform\<adj\>	^reform<adj>$
     358 #fetch\<vblex\>\<inf\>	^fetch<vblex><inf>$
     356 #television\<adj\>	^television<adj>$
     354 #RTK\<abbr\>	^RTK<abbr>$
+    353 #Jorgos\<np\>\<ant\>\<sg\>\<m\>	^Jorgos<np><ant><sg><m>$
     350 takes place	^take<vblex><pres><p3><sg># place$
-    348 #EP\<abbr\>	^EP<abbr>$
-    347 #EUFOR\<abbr\>	^EUFOR<abbr>$
-    347 #belgrade\<adj\>	^belgrade<adj>$
-    341 #PSD\<abbr\>	^PSD<abbr>$
+    346 #Miroslav\<np\>\<ant\>\<sg\>\<m\>	^Miroslav<np><ant><sg><m>$
+    344 #Alfred\<np\>\<ant\>\<sg\>\<m\>	^Alfred<np><ant><sg><m>$
     340 #coalition\<adj\>	^coalition<adj>$
-    331 #Hop\<np\>\<ant\>\<m\>\<sg\>	^Hop<np><ant><m><sg>$
+    331 #Hop\<np\>\<ant\>\<sg\>\<m\>	^Hop<np><ant><sg><m>$
     325 #so\<adv\>	^so<adv>$
     324 #News\<adj\>	^News<adj>$
     323 #DUI\<abbr\>	^DUI<abbr>$
     319 #approved\<adj\>	^approved<adj>$
-    318 #Kalin\<np\>\<ant\>\<m\>\<sg\>	^Kalin<np><ant><m><sg>$
+    318 #Kalin\<np\>\<ant\>\<sg\>\<m\>	^Kalin<np><ant><sg><m>$
     316 #three-day\<adj\>	^three-day<adj>$
-    314 #Vlado\<np\>\<ant\>\<m\>\<sg\>	^Vlado<np><ant><m><sg>$
-    313 #mistrust\<n\>\<sg\>	^mistrust<n><sg>$
+    314 #Vlado\<np\>\<ant\>\<sg\>\<m\>	^Vlado<np><ant><sg><m>$
     313 #minority\<adj\>	^minority<adj>$
+    313 #Javier\<np\>\<ant\>\<sg\>\<m\>	^Javier<np><ant><sg><m>$
     312 #remaining\<adj\>	^remaining<adj>$
     312 #missing\<adj\>	^missing<adj>$
     312 #initiated\<adj\>	^initiated<adj>$
     312 #avian\<adj\>	^avian<adj>$
     310 #SP\<abbr\>	^SP<abbr>$
     308 #BNT\<abbr\>	^BNT<abbr>$
+    307 #Milorad\<np\>\<ant\>\<sg\>\<m\>	^Milorad<np><ant><sg><m>$
     306 #Evening\<adv\>	^Evening<adv>$
     306 #bomb\<adj\>	^bomb<adj>$
+    305 #Vuk\<np\>\<ant\>\<sg\>\<m\>	^Vuk<np><ant><sg><m>$
     305 #such kind\<prn\>\<dem\>\<mf\>\<sg\>	^such kind<prn><dem><mf><sg>$
     305 #party\<adj\>	^party<adj>$
     303 #summer\<adj\>	^summer<adj>$
-    303 #HDZ\<abbr\>	^HDZ<abbr>$
-    297 #Fatmir\<np\>\<ant\>\<m\>\<sg\>	^Fatmir<np><ant><m><sg>$
+    303 #Ante\<np\>\<ant\>\<sg\>\<m\>	^Ante<np><ant><sg><m>$
+    297 #Fatmir\<np\>\<ant\>\<sg\>\<m\>	^Fatmir<np><ant><sg><m>$
     297 #army\<adj\>	^army<adj>$
     294 #intelligence\<adj\>	^intelligence<adj>$
     292 #own\<adj\>\<f\>\<sg\>\<ind\>	^own<adj><f><sg><ind>$
     291 #DS\<abbr\>	^DS<abbr>$
-    291 #Belgrade\<adj\>	^Belgrade<adj>$
     289 #then\<adv\>	^then<adv>$
-    285 #Goran\<np\>\<ant\>\<m\>\<sg\>	^Goran<np><ant><m><sg>$
-    278 #Fatos\<np\>\<ant\>\<m\>\<sg\>	^Fatos<np><ant><m><sg>$
-    277 #compromise\<n\>\<sg\>	^compromise<n><sg>$
+    286 #Igor\<np\>\<ant\>\<sg\>\<m\>	^Igor<np><ant><sg><m>$
+    285 #Goran\<np\>\<ant\>\<sg\>\<m\>	^Goran<np><ant><sg><m>$
+    278 #Fatos\<np\>\<ant\>\<sg\>\<m\>	^Fatos<np><ant><sg><m>$
+    277 #Milan\<np\>\<ant\>\<sg\>\<m\>	^Milan<np><ant><sg><m>$
     275 #FT\<abbr\>	^FT<abbr>$
+    274 #Ivan\<np\>\<ant\>\<sg\>\<m\>	^Ivan<np><ant><sg><m>$
     273 #social-democratic\<adj\>	^social-democratic<adj>$
-    272 #oil pipeline\<n\>\<sg\>	^oil pipeline<n><sg>$
     272 #entertaining\<adj\>	^entertaining<adj>$
-    271 #SDP\<abbr\>	^SDP<abbr>$
-    270 #DSS\<abbr\>	^DSS<abbr>$
     266 take place	^take<vblex><inf># place$
     266 #own\<adj\>\<m\>\<sg\>\<ind\>	^own<adj><m><sg><ind>$
     265 #tax\<adj\>	^tax<adj>$
-    265 #Sergej\<np\>\<ant\>\<m\>\<sg\>	^Sergej<np><ant><m><sg>$
-    265 #deployment\<n\>\<sg\>	^deployment<n><sg>$
-    265 #Croat\<n\>\<pl\>	^Croat<n><pl>$
-    264 #munition\<n\>\<sg\>	^munition<n><sg>$
+    265 #Sergej\<np\>\<ant\>\<sg\>\<m\>	^Sergej<np><ant><sg><m>$
     262 #investing\<adj\>	^investing<adj>$
     259 #million\<num\>\<sg\>	^million<num><sg>$
     258 #this kind\<prn\>\<dem\>\<mf\>\<pl\>	^this kind<prn><dem><mf><pl>$
     257 #fetch\<vblex\>\<pres\>\<p3\>\<sg\>	^fetch<vblex><pres><p3><sg>$
     256 took place	^take<vblex><past># place$
     256 #recovered\<adj\>	^recovered<adj>$
-    254 #Ahmet\<np\>\<ant\>\<m\>\<sg\>	^Ahmet<np><ant><m><sg>$
+    254 #Ahmet\<np\>\<ant\>\<sg\>\<m\>	^Ahmet<np><ant><sg><m>$
     253 #destined\<adj\>	^destined<adj>$
     251 #resume\<vblex\>\<pres\>\<p3\>\<sg\>	^resume<vblex><pres><p3><sg>$
-    250 #Ivica\<np\>\<ant\>\<m\>\<sg\>	^Ivica<np><ant><m><sg>$
-    250 #estimation\<n\>\<sg\>	^estimation<n><sg>$
-    249 #Aleksandar\<np\>\<ant\>\<m\>\<sg\>	^Aleksandar<np><ant><m><sg>$
-    248 #Mehmet\<np\>\<ant\>\<m\>\<sg\>	^Mehmet<np><ant><m><sg>$
-    248 #Filip\<np\>\<ant\>\<m\>\<sg\>	^Filip<np><ant><m><sg>$
+    250 #Ivica\<np\>\<ant\>\<sg\>\<m\>	^Ivica<np><ant><sg><m>$
+    249 #Aleksandar\<np\>\<ant\>\<sg\>\<m\>	^Aleksandar<np><ant><sg><m>$
+    248 #Mehmet\<np\>\<ant\>\<sg\>\<m\>	^Mehmet<np><ant><sg><m>$
+    248 #Filip\<np\>\<ant\>\<sg\>\<m\>	^Filip<np><ant><sg><m>$
     247 #than\<pr\>	^than<pr>$
     247 #football\<adj\>	^football<adj>$
     247 #fierce\<adj\>	^fierce<adj>$
-    247 #diplomat\<n\>\<sg\>	^diplomat<n><sg>$
-    246 #euro-Atlantic\<adj\>	^euro-Atlantic<adj>$
     245 #Plus\<pr\>	^Plus<pr>$
-    245 #diplomat\<n\>\<pl\>	^diplomat<n><pl>$
     242 #satisfied\<adj\>	^satisfied<adj>$
     241 #Three\<num\>	^Three<num>$
     241 #presented\<adj\>	^presented<adj>$
-    239 #aspiration\<n\>\<pl\>	^aspiration<n><pl>$
+    240 #Milo\<np\>\<ant\>\<sg\>\<m\>	^Milo<np><ant><sg><m>$
     238 #In total\<adv\>	^In total<adv>$
     237 #EBRD\<abbr\>	^EBRD<abbr>$
-    237 #borough\<n\>\<sg\>	^borough<n><sg>$
-    236 #Jap\<np\>\<ant\>\<m\>\<sg\>	^Jap<np><ant><m><sg>$
-    233 #Marti\<np\>\<ant\>\<m\>\<sg\>	^Marti<np><ant><m><sg>$
+    236 #Jap\<np\>\<ant\>\<sg\>\<m\>	^Jap<np><ant><sg><m>$
+    233 #Marti\<np\>\<ant\>\<sg\>\<m\>	^Marti<np><ant><sg><m>$
     233 #evening\<adv\>	^evening<adv>$
     232 #live\<adv\>	^live<adv>$
-    231 #PASOK\<abbr\>	^PASOK<abbr>$
+    228 #George\<np\>\<ant\>\<sg\>\<m\>	^George<np><ant><sg><m>$
     227 #telephone\<adj\>	^telephone<adj>$
     227 #own\<adj\>\<pl\>\<ind\>	^own<adj><mfn><pl><ind>$
     226 #assure\<vblex\>\<pres\>\<p3\>\<sg\>	^assure<vblex><pres><p3><sg>$
     225 #Social-democratic\<adj\>	^Social-democratic<adj>$
     221 #should\<vaux\>\<pii\>\<p3\>\<sg\>	^should<vaux><pii><p3><sg>$
-    217 #Simeon\<np\>\<ant\>\<m\>\<sg\>	^Simeon<np><ant><m><sg>$
+    217 #Simeon\<np\>\<ant\>\<sg\>\<m\>	^Simeon<np><ant><sg><m>$
     217 #in other words\<adv\>	^in other words<adv>$
     216 #registered\<adj\>	^registered<adj>$
     214 #yearly\<adv\>	^yearly<adv>$
-    214 #Serb\<n\>\<sg\>	^Serb<n><sg>$
-    212 #veto\<n\>\<sg\>	^veto<n><sg>$
     211 #tight\<adj\>\<sint\>	^tight<adj><sint>$
     211 #negotiating\<adj\>	^negotiating<adj>$
     211 #banking\<adj\>	^banking<adj>$
-    209 #ratification\<n\>\<sg\>	^ratification<n><sg>$
-    207 #Ohrid\<adj\>	^Ohrid<adj>$
     205 #operational\<adj\>	^operational<adj>$
     205 #multi-ethnic\<adj\>	^multi-ethnic<adj>$
     205 #employed\<adj\>	^employed<adj>$
@@ -273,289 +230,243 @@ Tag mismatch between transfer and generation
     197 #rotational\<adj\>	^rotational<adj>$
     197 #anti-corruption\<adj\>	^anti-corruption<adj>$
     196 #The\<det\>\<def\>	^The<det><def>$
-    194 #Sarajevan\<adj\>	^Sarajevan<adj>$
-    194 #sanction\<n\>\<pl\>	^sanction<n><pl>$
-    194 #Kristijan\<np\>\<ant\>\<m\>\<sg\>	^Kristijan<np><ant><m><sg>$
+    194 #Kristijan\<np\>\<ant\>\<sg\>\<m\>	^Kristijan<np><ant><sg><m>$
     193 #managing\<adj\>	^managing<adj>$
-    193 #lawmaker\<n\>\<sg\>	^lawmaker<n><sg>$
-    193 #croat\<n\>\<pl\>	^croat<n><pl>$
-    193 #BSP\<abbr\>	^BSP<abbr>$
-    192 #criminal code\<n\>\<sg\>	^criminal code<n><sg>$
-    190 #Dushan\<np\>\<ant\>\<m\>\<sg\>	^Dushan<np><ant><m><sg>$
-    187 #Adrijan\<np\>\<ant\>\<m\>\<sg\>	^Adrijan<np><ant><m><sg>$
+    190 #Dushan\<np\>\<ant\>\<sg\>\<m\>	^Dushan<np><ant><sg><m>$
+    187 #Adrijan\<np\>\<ant\>\<sg\>\<m\>	^Adrijan<np><ant><sg><m>$
     186 #candidate\<adj\>	^candidate<adj>$
     184 #market\<adj\>	^market<adj>$
-    183 #Olympiad\<n\>\<sg\>	^Olympiad<n><sg>$
     183 #into consideration\<adv\>	^into consideration<adv>$
-    180 #social democrat\<n\>\<pl\>	^social democrat<n><pl>$
+    181 #personnel\<n\>\<sg\>	^personnel<n><sg>$
     180 #Four\<num\>	^Four<num>$
-    179 #vice-premier\<n\>\<sg\>	^vice-premier<n><sg>$
     178 #such kind\<prn\>\<dem\>\<mf\>\<pl\>	^such kind<prn><dem><mf><pl>$
+    177 #Jon\<np\>\<ant\>\<sg\>\<m\>	^Jon<np><ant><sg><m>$
     176 #SDSM\<abbr\>	^SDSM<abbr>$
-    176 #Nebojša\<np\>\<ant\>\<m\>\<sg\>	^Nebojša<np><ant><m><sg>$
-    176 #Mladen\<np\>\<ant\>\<m\>\<sg\>	^Mladen<np><ant><m><sg>$
-    175 #remainder\<n\>\<pl\>	^remainder<n><pl>$
+    176 #Nebojša\<np\>\<ant\>\<sg\>\<m\>	^Nebojša<np><ant><sg><m>$
+    176 #Mladen\<np\>\<ant\>\<sg\>\<m\>	^Mladen<np><ant><sg><m>$
+    176 #Antonio\<np\>\<ant\>\<sg\>\<m\>	^Antonio<np><ant><sg><m>$
     175 #keen\<adj\>\<sint\>	^keen<adj><sint>$
-    175 #goods\<n\>\<sg\>	^goods<n><sg>$
-    175 #Dayton\<adj\>	^Dayton<adj>$
+    173 #Kofi\<np\>\<ant\>\<sg\>\<m\>	^Kofi<np><ant><sg><m>$
     173 #constructive\<adj\>	^constructive<adj>$
     172 #voting\<adj\>	^voting<adj>$
     171 #PBS\<abbr\>	^PBS<abbr>$
-    171 #HIV\<abbr\>	^HIV<abbr>$
-    171 #directorate\<n\>\<sg\>	^directorate<n><sg>$
-    170 #gas pipeline\<n\>\<sg\>	^gas pipeline<n><sg>$
     168 #intensivise\<vblex\>\<inf\>	^intensivise<vblex><inf>$
     167 #three-party\<adj\>	^three-party<adj>$
     167 #Southern\<adj\>	^Southern<adj>$
-    167 #shore\<n\>\<sg\>	^shore<n><sg>$
     167 #ratify\<vblex\>\<past\>	^ratify<vblex><past>$
-    166 #SRS\<abbr\>	^SRS<abbr>$
     166 #should\<vaux\>\<pii\>\<nt\>\<sg\>	^should<vaux><lp><pii><nt><sg>$
-    165 #Euro-Atlantic\<adj\>	^Euro-Atlantic<adj>$
     164 #milliard\<num\>\<sg\>	^milliard<num><sg>$
-    163 #Rasim\<np\>\<ant\>\<m\>\<sg\>	^Rasim<np><ant><m><sg>$
-    163 #Hashim\<np\>\<ant\>\<m\>\<sg\>	^Hashim<np><ant><m><sg>$
-    163 #Hari\<np\>\<ant\>\<m\>\<sg\>	^Hari<np><ant><m><sg>$
-    160 #Svetozar\<np\>\<ant\>\<m\>\<sg\>	^Svetozar<np><ant><m><sg>$
-    160 #stalemate\<n\>\<sg\>	^stalemate<n><sg>$
-    160 #libyan\<adj\>	^libyan<adj>$
+    163 #Rasim\<np\>\<ant\>\<sg\>\<m\>	^Rasim<np><ant><sg><m>$
+    163 #Hashim\<np\>\<ant\>\<sg\>\<m\>	^Hashim<np><ant><sg><m>$
+    163 #Hari\<np\>\<ant\>\<sg\>\<m\>	^Hari<np><ant><sg><m>$
+    160 #Svetozar\<np\>\<ant\>\<sg\>\<m\>	^Svetozar<np><ant><sg><m>$
     158 #south-Eastern\<adj\>	^south-Eastern<adj>$
     158 #overall\<adj\>	^overall<adj>$
     158 #have\<vbhaver\>\<pii\>\<m\>\<sg\>	^have<vbhaver><lp><pii><m><sg>$
     157 #so many\<adv\>	^so many<adv>$
-    156 #Bajram\<np\>\<ant\>\<m\>\<sg\>	^Bajram<np><ant><m><sg>$
-    156 #Agim\<np\>\<ant\>\<m\>\<sg\>	^Agim<np><ant><m><sg>$
+    156 #Bajram\<np\>\<ant\>\<sg\>\<m\>	^Bajram<np><ant><sg><m>$
+    156 #Agim\<np\>\<ant\>\<sg\>\<m\>	^Agim<np><ant><sg><m>$
     155 #welcome\<vblex\>\<past\>	^welcome<vblex><past>$
+    155 #Jovan\<np\>\<ant\>\<sg\>\<m\>	^Jovan<np><ant><sg><m>$
     154 #no one\<prn\>\<ind\>\<mf\>\<sg\>	^no one<prn><ind><mf><sg><nom>$
+    154 #Natasha\<np\>\<ant\>\<sg\>\<f\>	^Natasha<np><ant><sg><f>$
     153 #no kind\<prn\>\<ind\>\<nt\>\<sg\>\<pl\>	^no kind<prn><ind><nt><sg><mfn><pl>$
     152 #telecom\<n\>\<sg\>	^telecom<n><sg>$
-    152 #co-operation\<n\>\<sg\>	^co-operation<n><sg>$
+    150 #Joana\<np\>\<ant\>\<sg\>\<f\>	^Joana<np><ant><sg><f>$
     149 #failed\<adj\>	^failed<adj>$
-    149 #Dora\<np\>\<ant\>\<f\>\<sg\>	^Dora<np><ant><f><sg>$
+    149 #Dora\<np\>\<ant\>\<sg\>\<f\>	^Dora<np><ant><sg><f>$
+    147 #Michael\<np\>\<ant\>\<sg\>\<m\>	^Michael<np><ant><sg><m>$
     147 #involved\<adj\>	^involved<adj>$
-    145 #Marija\<np\>\<ant\>\<f\>\<sg\>	^Marija<np><ant><f><sg>$
-    145 #download\<n\>\<sg\>	^download<n><sg>$
+    145 #Marija\<np\>\<ant\>\<sg\>\<f\>	^Marija<np><ant><sg><f>$
     145 #devoted\<adj\>	^devoted<adj>$
-    143 #SDS\<abbr\>	^SDS<abbr>$
-    143 #BBC\<abbr\>	^BBC<abbr>$
-    142 #Soren\<np\>\<ant\>\<m\>\<sg\>	^Soren<np><ant><m><sg>$
-    142 #PNL\<abbr\>	^PNL<abbr>$
+    143 #Ibrahim\<np\>\<ant\>\<sg\>\<m\>	^Ibrahim<np><ant><sg><m>$
+    142 #Soren\<np\>\<ant\>\<sg\>\<m\>	^Soren<np><ant><sg><m>$
     142 #city\<adj\>	^city<adj>$
     141 #Telecom\<n\>\<sg\>	^Telecom<n><sg>$
-    141 #Adnan\<np\>\<ant\>\<m\>\<sg\>	^Adnan<np><ant><m><sg>$
-    139 #remainder\<n\>\<sg\>	^remainder<n><sg>$
-    138 #Tomislav\<np\>\<ant\>\<m\>\<sg\>	^Tomislav<np><ant><m><sg>$
+    141 #Adnan\<np\>\<ant\>\<sg\>\<m\>	^Adnan<np><ant><sg><m>$
+    140 #Nikolas\<np\>\<ant\>\<sg\>\<m\>	^Nikolas<np><ant><sg><m>$
+    140 #Davor\<np\>\<ant\>\<sg\>\<m\>	^Davor<np><ant><sg><m>$
+    139 #Robert\<np\>\<ant\>\<sg\>\<m\>	^Robert<np><ant><sg><m>$
+    138 #Tomislav\<np\>\<ant\>\<sg\>\<m\>	^Tomislav<np><ant><sg><m>$
+    138 #Solomon\<np\>\<ant\>\<sg\>\<m\>	^Solomon<np><ant><sg><m>$
     137 #rich\<adj\>	^rich<adj>$
     137 #OVK\<abbr\>	^OVK<abbr>$
     136 #reported\<adj\>	^reported<adj>$
-    135 #violation\<n\>\<sg\>	^violation<n><sg>$
-    135 #Sulejman\<np\>\<ant\>\<m\>\<sg\>	^Sulejman<np><ant><m><sg>$
+    135 #Sulejman\<np\>\<ant\>\<sg\>\<m\>	^Sulejman<np><ant><sg><m>$
     134 #sixth\<sg\>	^sixth<sg>$
     134 #infrastructure\<adj\>	^infrastructure<adj>$
     134 #Five\<num\>	^Five<num>$
-    132 #UNESCO\<abbr\>	^UNESCO<abbr>$
+    133 #Manuel\<np\>\<ant\>\<sg\>\<m\>	^Manuel<np><ant><sg><m>$
     132 #carried\<adj\>	^carried<adj>$
-    129 #Tasos\<np\>\<ant\>\<m\>\<sg\>	^Tasos<np><ant><m><sg>$
-    129 #islamist\<adj\>	^islamist<adj>$
+    129 #Tasos\<np\>\<ant\>\<sg\>\<m\>	^Tasos<np><ant><sg><m>$
+    129 #John\<np\>\<ant\>\<sg\>\<m\>	^John<np><ant><sg><m>$
     128 #deadly\<adj\>\<sint\>	^deadly<adj><sint>$
-    128 #Condoleezza\<np\>\<ant\>\<f\>\<sg\>	^Condoleezza<np><ant><f><sg>$
+    128 #Condoleezza\<np\>\<ant\>\<sg\>\<f\>	^Condoleezza<np><ant><sg><f>$
     127 #beforehand\<adv\>	^beforehand<adv>$
     126 #can\<vaux\>\<pres\>\<p1\>\<pl\>	^can<vaux><pres><p1><pl>$
-    125 #Žoze\<np\>\<ant\>\<m\>\<sg\>	^Žoze<np><ant><m><sg>$
+    125 #Žoze\<np\>\<ant\>\<sg\>\<m\>	^Žoze<np><ant><sg><m>$
     125 #unlike\<adv\>	^unlike<adv>$
-    125 #laundering\<n\>\<sg\>	^laundering<n><sg>$
     125 #computer\<adj\>	^computer<adj>$
-    123 #Željko\<np\>\<ant\>\<m\>\<sg\>	^Željko<np><ant><m><sg>$
+    123 #Željko\<np\>\<ant\>\<sg\>\<m\>	^Željko<np><ant><sg><m>$
     123 #resume\<vblex\>\<past\>	^resume<vblex><past>$
-    123 #embezzlement\<n\>\<sg\>	^embezzlement<n><sg>$
     122 #under secretary\<n\>\<sg\>	^under secretary<n><sg>$
-    121 #Marko\<np\>\<ant\>\<m\>\<sg\>	^Marko<np><ant><m><sg>$
+    121 #Marko\<np\>\<ant\>\<sg\>\<m\>	^Marko<np><ant><sg><m>$
+    120 #Peter\<np\>\<ant\>\<sg\>\<m\>	^Peter<np><ant><sg><m>$
     120 #CIK\<abbr\>	^CIK<abbr>$
     119 #published\<adj\>	^published<adj>$
-    119 #Nikolaj\<np\>\<ant\>\<m\>\<sg\>	^Nikolaj<np><ant><m><sg>$
+    119 #Nikolaj\<np\>\<ant\>\<sg\>\<m\>	^Nikolaj<np><ant><sg><m>$
     118 #inhabited\<adj\>	^inhabited<adj>$
     118 #emphasise\<vblex\>\<pp\>	^emphasise<vblex><pp>$
     117 #BA\<abbr\>	^BA<abbr>$
-    115 #parliament member\<n\>\<pl\>	^parliament member<n><pl>$
+    115 members of parliament	^member<n><pl># of parliament$
     114 #morning\<adv\>	^morning<adv>$
-    114 #Ilinka\<np\>\<ant\>\<f\>\<sg\>	^Ilinka<np><ant><f><sg>$
+    114 #Ilinka\<np\>\<ant\>\<sg\>\<f\>	^Ilinka<np><ant><sg><f>$
     114 #cheap\<adj\>	^cheap<adj>$
     113 #Split\<np\>\<top\>\<sg\>	^Split<np><top><sg>$
     113 #conditionally\<adv\>	^conditionally<adv>$
-    112 #Kurd\<n\>\<pl\>	^Kurd<n><pl>$
+    112 #Richard\<np\>\<ant\>\<sg\>\<m\>	^Richard<np><ant><sg><m>$
     112 #fetch\<vblex\>\<pp\>	^fetch<vblex><pp>$
     112 #All\<adj\>	^All<adj>$
     111 #have\<vbhaver\>\<pii\>\<nt\>\<sg\>	^have<vbhaver><lp><pii><nt><sg>$
     111 #have\<vbhaver\>\<pii\>\<pl\>	^have<vbhaver><lp><pii><mfn><pl>$
-    110 #tolerance\<n\>\<sg\>	^tolerance<n><sg>$
     110 #Suspect\<adj\>	^Suspect<adj>$
     109 #consist\<vblex\>\<pres\>\<p3\>\<sg\># of	^consist<vblex><pres><p3><sg># of$
-    109 #Bozhidar\<np\>\<ant\>\<m\>\<sg\>	^Bozhidar<np><ant><m><sg>$
+    109 #Bozhidar\<np\>\<ant\>\<sg\>\<m\>	^Bozhidar<np><ant><sg><m>$
     109 #be\<vbser\>\<pii\>\<pl\>	^be<vbser><lp><pii><mfn><pl>$
-    109 #Adriatic\<adj\>	^Adriatic<adj>$
-    108 #Teodor\<np\>\<ant\>\<m\>\<sg\>	^Teodor<np><ant><m><sg>$
-    108 #Demetris\<np\>\<ant\>\<m\>\<sg\>	^Demetris<np><ant><m><sg>$
-    106 #Veselin\<np\>\<ant\>\<m\>\<sg\>	^Veselin<np><ant><m><sg>$
+    108 #Teodor\<np\>\<ant\>\<sg\>\<m\>	^Teodor<np><ant><sg><m>$
+    108 #Demetris\<np\>\<ant\>\<sg\>\<m\>	^Demetris<np><ant><sg><m>$
+    107 #Mustafa\<np\>\<ant\>\<sg\>\<m\>	^Mustafa<np><ant><sg><m>$
+    106 #Veselin\<np\>\<ant\>\<sg\>\<m\>	^Veselin<np><ant><sg><m>$
     106 #control\<adj\>	^control<adj>$
-    105 #questioning\<n\>\<sg\>	^questioning<n><sg>$
-    105 #Bamir\<np\>\<ant\>\<m\>\<sg\>	^Bamir<np><ant><m><sg>$
+    105 #Bamir\<np\>\<ant\>\<sg\>\<m\>	^Bamir<np><ant><sg><m>$
     104 #resume\<vblex\>\<pp\>	^resume<vblex><pp>$
-    104 #Petar\<np\>\<ant\>\<m\>\<sg\>	^Petar<np><ant><m><sg>$
+    104 #Petar\<np\>\<ant\>\<sg\>\<m\>	^Petar<np><ant><sg><m>$
     104 #fishing\<adj\>	^fishing<adj>$
     103 #ultra-nationalist\<adj\>	^ultra-nationalist<adj>$
     103 #ratify\<vblex\>\<inf\>	^ratify<vblex><inf>$
     103 #in a row\<adv\>	^in a row<adv>$
+    101 #Mirko\<np\>\<ant\>\<sg\>\<m\>	^Mirko<np><ant><sg><m>$
     101 #macroeconomic\<adj\>	^macroeconomic<adj>$
     100 #thousand\<num\>\<pl\>	^thousand<num><pl>$
-     99 #Rumen\<np\>\<ant\>\<m\>\<sg\>	^Rumen<np><ant><m><sg>$
-     99 #Kolin\<np\>\<ant\>\<m\>\<sg\>	^Kolin<np><ant><m><sg>$
-     99 #Jak\<np\>\<ant\>\<m\>\<sg\>	^Jak<np><ant><m><sg>$
-     98 #deadline\<n\>\<pl\>	^deadline<n><pl>$
+     99 #Rumen\<np\>\<ant\>\<sg\>\<m\>	^Rumen<np><ant><sg><m>$
+     99 #Kolin\<np\>\<ant\>\<sg\>\<m\>	^Kolin<np><ant><sg><m>$
+     99 #Jak\<np\>\<ant\>\<sg\>\<m\>	^Jak<np><ant><sg><m>$
+     98 #Paul\<np\>\<ant\>\<sg\>\<m\>	^Paul<np><ant><sg><m>$
      97 #tank\<vblex\>\<pres\>\<p3\>\<sg\>	^tank<vblex><pres><p3><sg>$
-     96 #ohrid\<adj\>	^ohrid<adj>$
-     96 #dayton\<adj\>	^dayton<adj>$
+     96 #James\<np\>\<ant\>\<sg\>\<m\>	^James<np><ant><sg><m>$
      95 #Six\<num\>	^Six<num>$
      95 #anti\<adj\>	^anti<adj>$
      94 #nursery\<adj\>	^nursery<adj>$
      94 #must\<vaux\>\<pii\>\<p3\>\<sg\>	^must<vaux><pii><p3><sg>$
      94 #liberation\<adj\>	^liberation<adj>$
-     94 #Ilir\<np\>\<ant\>\<m\>\<sg\>	^Ilir<np><ant><m><sg>$
-     94 #Franko\<np\>\<ant\>\<m\>\<sg\>	^Franko<np><ant><m><sg>$
+     94 #Ilir\<np\>\<ant\>\<sg\>\<m\>	^Ilir<np><ant><sg><m>$
+     94 #Franko\<np\>\<ant\>\<sg\>\<m\>	^Franko<np><ant><sg><m>$
+     93 #Stefan\<np\>\<ant\>\<sg\>\<m\>	^Stefan<np><ant><sg><m>$
      93 #corrupt\<adj\>	^corrupt<adj>$
      93 #boosting\<n\>\<sg\>	^boosting<n><sg>$
-     92 #Zagreb\<adj\>	^Zagreb<adj>$
      91 #So\<adv\>	^So<adv>$
      91 #Press\<adj\>	^Press<adj>$
-     91 #Dimitris\<np\>\<ant\>\<m\>\<sg\>	^Dimitris<np><ant><m><sg>$
+     91 #Dimitris\<np\>\<ant\>\<sg\>\<m\>	^Dimitris<np><ant><sg><m>$
      90 #Sv\<abbr\>	^Sv<abbr>$
-     90 #sarajevan\<adj\>	^sarajevan<adj>$
+     90 #Jan\<np\>\<ant\>\<sg\>\<m\>	^Jan<np><ant><sg><m>$
      89 #extradited\<adj\>	^extradited<adj>$
      89 #be\<vbser\>\<pii\>\<m\>\<sg\>	^be<vbser><lp><pii><m><sg>$
-     88 #istanbul\<adj\>	^istanbul<adj>$
      87 #Opposition\<adj\>	^Opposition<adj>$
-     85 #General staff\<n\>\<sg\>	^General staff<n><sg>$
      85 #fetch\<vblex\>\<past\>	^fetch<vblex><past>$
-     84 #trimestre\<n\>\<sg\>	^trimestre<n><sg>$
+     85 #David\<np\>\<ant\>\<sg\>\<m\>	^David<np><ant><sg><m>$
      84 #overcoming\<n\>\<sg\>	^overcoming<n><sg>$
-     83 #Stojan\<np\>\<ant\>\<m\>\<sg\>	^Stojan<np><ant><m><sg>$
-     83 #scenario\<n\>\<sg\>	^scenario<n><sg>$
-     83 #mediator\<n\>\<sg\>	^mediator<n><sg>$
-     83 #Kemal\<np\>\<ant\>\<m\>\<sg\>	^Kemal<np><ant><m><sg>$
+     83 #Stojan\<np\>\<ant\>\<sg\>\<m\>	^Stojan<np><ant><sg><m>$
+     83 #Kemal\<np\>\<ant\>\<sg\>\<m\>	^Kemal<np><ant><sg><m>$
      82 #since then\<adv\>	^since then<adv>$
      82 #pledge\<vblex\>\<ger\>	^pledge<vblex><ger>$
-     82 #kidnapping\<n\>\<sg\>	^kidnapping<n><sg>$
-     82 #hand grenade\<n\>\<pl\>	^hand grenade<n><pl>$
+     82 #Emil\<np\>\<ant\>\<sg\>\<m\>	^Emil<np><ant><sg><m>$
      82 #congratulate\<vblex\>\<past\>	^congratulate<vblex><past>$
      81 #No one\<prn\>\<ind\>\<mf\>\<sg\>	^No one<prn><ind><mf><sg><nom>$
      81 #honoured\<adj\>	^honoured<adj>$
      81 #authorisation\<n\>\<pl\>	^authorisation<n><pl>$
-     80 #admiral\<n\>\<sg\>	^admiral<n><sg>$
-     78 #instability\<n\>\<sg\>	^instability<n><sg>$
-     78 #faculty\<n\>\<sg\>	^faculty<n><sg>$
-     78 #adjustment\<n\>\<sg\>	^adjustment<n><sg>$
-     77 #Razvan\<np\>\<ant\>\<m\>\<sg\>	^Razvan<np><ant><m><sg>$
+     80 #Toni\<np\>\<ant\>\<sg\>\<f\>	^Toni<np><ant><sg><f>$
+     80 #Jordan\<np\>\<ant\>\<sg\>\<m\>	^Jordan<np><ant><sg><m>$
+     79 #Stiven\<np\>\<ant\>\<sg\>\<m\>	^Stiven<np><ant><sg><m>$
+     78 #Ana\<np\>\<ant\>\<sg\>\<f\>	^Ana<np><ant><sg><f>$
+     77 #Razvan\<np\>\<ant\>\<sg\>\<m\>	^Razvan<np><ant><sg><m>$
+     77 #Mark\<np\>\<ant\>\<sg\>\<m\>	^Mark<np><ant><sg><m>$
+     77 #Donald\<np\>\<ant\>\<sg\>\<m\>	^Donald<np><ant><sg><m>$
      76 #premier\<adj\>	^premier<adj>$
-     76 #Joakim\<np\>\<ant\>\<m\>\<sg\>	^Joakim<np><ant><m><sg>$
+     76 #Joakim\<np\>\<ant\>\<sg\>\<m\>	^Joakim<np><ant><sg><m>$
      75 #take\<vblex\>\<pp\># over	^take<vblex><pp># over$
      75 #online\<adv\>	^online<adv>$
-     75 #decision-making\<n\>\<sg\>	^decision-making<n><sg>$
-     74 #Nedždet\<np\>\<ant\>\<m\>\<sg\>	^Nedždet<np><ant><m><sg>$
-     74 #Miodrag\<np\>\<ant\>\<m\>\<sg\>	^Miodrag<np><ant><m><sg>$
-     74 #Mihai\<np\>\<ant\>\<m\>\<sg\>	^Mihai<np><ant><m><sg>$
-     74 #Karolos\<np\>\<ant\>\<m\>\<sg\>	^Karolos<np><ant><m><sg>$
+     74 #Nedždet\<np\>\<ant\>\<sg\>\<m\>	^Nedždet<np><ant><sg><m>$
+     74 #Miodrag\<np\>\<ant\>\<sg\>\<m\>	^Miodrag<np><ant><sg><m>$
+     74 #Mihai\<np\>\<ant\>\<sg\>\<m\>	^Mihai<np><ant><sg><m>$
+     74 #Karolos\<np\>\<ant\>\<sg\>\<m\>	^Karolos<np><ant><sg><m>$
      73 #procurement\<n\>\<pl\>	^procurement<n><pl>$
      73 #mixing\<n\>\<sg\>	^mixing<n><sg>$
-     73 #Metju\<np\>\<ant\>\<m\>\<sg\>	^Metju<np><ant><m><sg>$
+     73 #Metju\<np\>\<ant\>\<sg\>\<m\>	^Metju<np><ant><sg><m>$
      73 #in first place\<adv\>	^in first place<adv>$
      73 #can\<vaux\>\<pii\>\<p3\>\<sg\>	^can<vaux><pii><p3><sg>$
      73 #available\<n\>\<sg\>	^available<n><sg>$
      72 #winter\<adj\>	^winter<adj>$
-     72 #Radmila\<np\>\<ant\>\<f\>\<sg\>	^Radmila<np><ant><f><sg>$
-     72 #Daglas\<np\>\<ant\>\<m\>\<sg\>	^Daglas<np><ant><m><sg>$
+     72 #Radmila\<np\>\<ant\>\<sg\>\<f\>	^Radmila<np><ant><sg><f>$
+     72 #Daglas\<np\>\<ant\>\<sg\>\<m\>	^Daglas<np><ant><sg><m>$
      72 #consumed\<adj\>	^consumed<adj>$
-     72 #Chemil\<np\>\<ant\>\<m\>\<sg\>	^Chemil<np><ant><m><sg>$
-     71 #Tim\<np\>\<ant\>\<m\>\<sg\>	^Tim<np><ant><m><sg>$
+     72 #Chemil\<np\>\<ant\>\<sg\>\<m\>	^Chemil<np><ant><sg><m>$
+     71 #Tim\<np\>\<ant\>\<sg\>\<m\>	^Tim<np><ant><sg><m>$
      71 #resignation\<n\>\<pl\>	^resignation<n><pl>$
-     71 #Mladjan\<np\>\<ant\>\<m\>\<sg\>	^Mladjan<np><ant><m><sg>$
+     71 #Mladjan\<np\>\<ant\>\<sg\>\<m\>	^Mladjan<np><ant><sg><m>$
      70 #Seven\<num\>	^Seven<num>$
-     70 #Roma\<adj\>	^Roma<adj>$
      70 #communication\<adj\>	^communication<adj>$
-     69 #zagreb\<adj\>	^zagreb<adj>$
-     69 #secularism\<n\>\<sg\>	^secularism<n><sg>$
+     69 #Martin\<np\>\<ant\>\<sg\>\<m\>	^Martin<np><ant><sg><m>$
      69 #have\<vbhaver\>\<pii\>\<f\>\<sg\>	^have<vbhaver><lp><pii><f><sg>$
      69 #can\<vaux\>\<pii\>\<p3\>\<pl\>	^can<vaux><pii><p3><pl>$
      68 #what for\<prn\>\<itg\>	^what for<prn><itg>$
+     68 #Vesna\<np\>\<ant\>\<sg\>\<f\>	^Vesna<np><ant><sg><f>$
      68 #Ten\<num\>	^Ten<num>$
-     68 #slander\<n\>\<sg\>	^slander<n><sg>$
-     68 #Saudi\<adj\>	^Saudi<adj>$
      68 #extradite\<vblex\>\<inf\>	^extradite<vblex><inf>$
      67 #wearing\<n\>\<sg\>	^wearing<n><sg>$
-     67 #Predrag\<np\>\<ant\>\<m\>\<sg\>	^Predrag<np><ant><m><sg>$
+     67 #Predrag\<np\>\<ant\>\<sg\>\<m\>	^Predrag<np><ant><sg><m>$
      67 #own\<adj\>\<nt\>\<sg\>\<ind\>	^own<adj><nt><sg><ind>$
-     67 #Dimitrij\<np\>\<ant\>\<m\>\<sg\>	^Dimitrij<np><ant><m><sg>$
-     67 #Bet\<np\>\<ant\>\<f\>\<sg\>	^Bet<np><ant><f><sg>$
+     67 #Dimitrij\<np\>\<ant\>\<sg\>\<m\>	^Dimitrij<np><ant><sg><m>$
+     67 #Bet\<np\>\<ant\>\<sg\>\<f\>	^Bet<np><ant><sg><f>$
      66 #youth\<adj\>	^youth<adj>$
      66 #no kind\<prn\>\<ind\>\<nt\>\<sg\>\<f\>\<sg\>	^no kind<prn><ind><nt><sg><f><sg>$
-     66 #coworker\<n\>\<sg\>	^coworker<n><sg>$
-     65 #roma\<adj\>	^roma<adj>$
-     65 #Istanbul\<adj\>	^Istanbul<adj>$
-     65 #impeachment\<n\>\<sg\>	^impeachment<n><sg>$
-     65 #Armenian\<adj\>	^Armenian<adj>$
-     65 #armenian\<adj\>	^armenian<adj>$
      64 #underground\<adj\>	^underground<adj>$
      64 #Then\<adv\>	^Then<adv>$
-     64 #Mihail\<np\>\<ant\>\<m\>\<sg\>	^Mihail<np><ant><m><sg>$
+     64 #Mihail\<np\>\<ant\>\<sg\>\<m\>	^Mihail<np><ant><sg><m>$
      64 #Liberation\<adj\>	^Liberation<adj>$
-     63 #rejection\<n\>\<sg\>	^rejection<n><sg>$
      63 #plus\<pr\>	^plus<pr>$
-     63 #Ottoman\<adj\>	^Ottoman<adj>$
-     63 #Bojko\<np\>\<ant\>\<m\>\<sg\>	^Bojko<np><ant><m><sg>$
+     63 #Bojko\<np\>\<ant\>\<sg\>\<m\>	^Bojko<np><ant><sg><m>$
      62 #Second\<pl\>	^Second<pl>$
-     62 #radio broadcast\<n\>\<sg\>	^radio broadcast<n><sg>$
-     62 #Jashar\<np\>\<ant\>\<m\>\<sg\>	^Jashar<np><ant><m><sg>$
-     62 #Ivajlo\<np\>\<ant\>\<m\>\<sg\>	^Ivajlo<np><ant><m><sg>$
+     62 #Jashar\<np\>\<ant\>\<sg\>\<m\>	^Jashar<np><ant><sg><m>$
+     62 #Ivajlo\<np\>\<ant\>\<sg\>\<m\>	^Ivajlo<np><ant><sg><m>$
      61 #vblex\>\<vblex\>\<pres\>\<p3\>\<sg\>	^vblex><vblex><pres><p3><sg>$
      61 #pro-european\<adj\>	^pro-european<adj>$
-     61 #priština\<adj\>	^priština<adj>$
-     60 #mandate\<n\>\<pl\>	^mandate<n><pl>$
      60 #estimation\<n\>\<pl\>	^estimation<n><pl>$
-     60 #cleansing\<n\>\<sg\>	^cleansing<n><sg>$
      59 #War\<adj\>	^War<adj>$
      59 #refrain\<vblex\>\<inf\>	^refrain<vblex><inf>$
-     59 #enactment\<n\>\<sg\>	^enactment<n><sg>$
      58 #should\<vaux\>\<pii\>\<p3\>\<pl\>	^should<vaux><pii><p3><pl>$
      58 #partner\<adj\>	^partner<adj>$
      58 #First\<sg\>	^First<sg>$
-     58 #Croat\<n\>\<sg\>	^Croat<n><sg>$
-     58 #authorisation\<n\>\<sg\>	^authorisation<n><sg>$
-     57 #stoppage\<n\>\<sg\>	^stoppage<n><sg>$
      57 #be\<vbser\>\<pii\>\<nt\>\<sg\>	^be<vbser><lp><pii><nt><sg>$
-     57 #armenian\<n\>\<pl\>	^armenian<n><pl>$
      56 #wooden\<adj\>	^wooden<adj>$
      56 #Twenty\<num\>	^Twenty<num>$
-     56 #skopjan\<adj\>	^skopjan<adj>$
      56 #Since then\<adv\>	^Since then<adv>$
+     56 #Hans\<np\>\<ant\>\<sg\>\<m\>	^Hans<np><ant><sg><m>$
      56 #avow\<vblex\>\<ger\>	^avow<vblex><ger>$
      55 #swine\<adj\>	^swine<adj>$
      55 #neighbourly\<adj\>	^neighbourly<adj>$
-     55 #kurd\<n\>\<pl\>	^kurd<n><pl>$
      55 #inhabit\<vblex\>\<past\>	^inhabit<vblex><past>$
      55 #blocking\<n\>\<sg\>	^blocking<n><sg>$
      54 #student\<adj\>	^student<adj>$
-     54 #Skopjan\<adj\>	^Skopjan<adj>$
      54 #ship\<adj\>	^ship<adj>$
-     54 #Per\<np\>\<ant\>\<m\>\<sg\>	^Per<np><ant><m><sg>$
-     53 #donation\<n\>\<sg\>	^donation<n><sg>$
+     54 #Per\<np\>\<ant\>\<sg\>\<m\>	^Per<np><ant><sg><m>$
      52 #pledge\<vblex\>\<pres\>\<p3\>\<sg\>	^pledge<vblex><pres><p3><sg>$
-     52 #electricity production\<n\>\<sg\>	^electricity production<n><sg>$
-     50 #hand grenade\<n\>\<sg\>	^hand grenade<n><sg>$
      50 #cantonal\<adj\>	^cantonal<adj>$
      50 #assure\<vblex\>\<pp\>	^assure<vblex><pp>$
      49 #tennis\<adj\>	^tennis<adj>$
      49 #planned\<adj\>	^planned<adj>$
      49 #must\<vaux\>\<pii\>\<p3\>\<pl\>	^must<vaux><pii><p3><pl>$
      49 #intensivise\<vblex\>\<pp\>	^intensivise<vblex><pp>$
-     49 #Dejan\<np\>\<ant\>\<m\>\<sg\>	^Dejan<np><ant><m><sg>$
+     49 #Dejan\<np\>\<ant\>\<sg\>\<m\>	^Dejan<np><ant><sg><m>$
      49 #biometric\<adj\>	^biometric<adj>$
      48 #Summer\<adj\>	^Summer<adj>$
      48 #personnel\<adj\>	^personnel<adj>$
@@ -566,171 +477,106 @@ Tag mismatch between transfer and generation
      47 #have\<vbhaver\>\<pii\>\<nt\>\<sg\>	^have<vbhaver><neg><lp><pii><nt><sg>$
      47 #Employed\<adj\>	^Employed<adj>$
      47 #emphasise\<vblex\>\<inf\>	^emphasise<vblex><inf>$
-     47 #donation\<n\>\<pl\>	^donation<n><pl>$
-     46 #finalisation\<n\>\<sg\>	^finalisation<n><sg>$
-     46 #commemoration\<n\>\<sg\>	^commemoration<n><sg>$
      45 #no kind\<prn\>\<ind\>\<nt\>\<sg\>\<m\>\<sg\>	^no kind<prn><ind><nt><sg><m><sg>$
      45 #Eight\<num\>	^Eight<num>$
      45 #car\<adj\>	^car<adj>$
-     45 #Black Sea\<adj\>	^Black Sea<adj>$
      44 #retrieval\<n\>\<sg\>	^retrieval<n><sg>$
      44 #ill\<adv\>	^ill<adv>$
-     44 #destabilisation\<n\>\<sg\>	^destabilisation<n><sg>$
      44 #BTV\<abbr\>	^BTV<abbr>$
      44 #assure\<vblex\>\<past\>	^assure<vblex><past>$
-     43 #slovak\<adj\>	^slovak<adj>$
      43 #Second\<sg\>	^Second<sg>$
      43 #ratify\<vblex\>\<pp\>	^ratify<vblex><pp>$
-     43 #Konstantin\<np\>\<ant\>\<m\>\<sg\>	^Konstantin<np><ant><m><sg>$
-     43 #freeze\<n\>\<sg\>	^freeze<n><sg>$
+     43 #Konstantin\<np\>\<ant\>\<sg\>\<m\>	^Konstantin<np><ant><sg><m>$
      43 #consist\<vblex\>\<inf\># of	^consist<vblex><inf># of$
      43 #Able\<adj\>	^Able<adj>$
-     42 #scenario\<n\>\<pl\>	^scenario<n><pl>$
-     42 #M\<abbr\>	^M<abbr>$
-     42 #Jadranka\<np\>\<ant\>\<f\>\<sg\>	^Jadranka<np><ant><f><sg>$
+     42 #Jadranka\<np\>\<ant\>\<sg\>\<f\>	^Jadranka<np><ant><sg><f>$
      42 #emphasise\<vblex\>\<pres\>	^emphasise<vblex><pres>$
-     41 #revote\<n\>\<sg\>	^revote<n><sg>$
-     41 #remoteness\<n\>\<sg\>	^remoteness<n><sg>$
      41 #must\<vaux\>\<pres\>\<p1\>\<pl\>	^must<vaux><pres><p1><pl>$
      39 #satellite\<adj\>	^satellite<adj>$
-     39 #central European\<adj\>	^central European<adj>$
      38 wait for	^wait<vblex><inf># for$
      38 #infantry\<adj\>	^infantry<adj>$
      38 #forbidden\<adj\>	^forbidden<adj>$
-     38 #Eurasian\<adj\>	^Eurasian<adj>$
-     37 #Thracian\<adj\>	^Thracian<adj>$
      37 #spring\<adj\>	^spring<adj>$
      37 #software\<adj\>	^software<adj>$
-     37 #km\<abbr\>	^km<abbr>$
-     37 #electricity distribution\<n\>\<sg\>	^electricity distribution<n><sg>$
      37 #can\<vaux\>\<pres\>\<p1\>\<sg\>	^can<vaux><pres><p1><sg>$
      36 #Welcome\<vblex\>\<ger\>	^Welcome<vblex><ger>$
-     36 #lustration\<n\>\<sg\>	^lustration<n><sg>$
      36 #hiding\<n\>\<sg\>	^hiding<n><sg>$
      36 #bus\<adj\>	^bus<adj>$
      36 #aviation\<adj\>	^aviation<adj>$
      35 #Such kind\<prn\>\<dem\>\<mf\>\<pl\>	^Such kind<prn><dem><mf><pl>$
-     35 #statehood\<n\>\<sg\>	^statehood<n><sg>$
-     35 #procurement\<n\>\<sg\>	^procurement<n><sg>$
-     35 #Priština\<adj\>	^Priština<adj>$
      35 #one\<num\>\<pl\>	^one<num><pl>$
      35 #Hague\<adj\>	^Hague<adj>$
-     35 #general staff\<n\>\<pl\>	^general staff<n><pl>$
      35 #be\<vbser\>\<pii\>\<f\>\<sg\>	^be<vbser><lp><pii><f><sg>$
-     34 #piracy\<n\>\<sg\>	^piracy<n><sg>$
      34 #must\<vaux\>\<pres\>\<p3\>\<pl\>	^must<vaux><pres><p3><pl>$
-     34 #evasion\<n\>\<sg\>	^evasion<n><sg>$
      34 #Armed\<adj\>	^Armed<adj>$
      33 #Such kind\<prn\>\<dem\>\<mf\>\<sg\>	^Such kind<prn><dem><mf><sg>$
-     33 #retraction\<n\>\<sg\>	^retraction<n><sg>$
-     33 #reinforcement\<n\>\<sg\>	^reinforcement<n><sg>$
-     33 #readiness\<n\>\<sg\>	^readiness<n><sg>$
      33 #practice\<vblex\>\<pres\>\<p3\>\<sg\>	^practice<vblex><pres><p3><sg>$
      33 #pan-European\<adj\>	^pan-European<adj>$
      33 #opera\<adj\>	^opera<adj>$
      33 #no kind\<prn\>\<ind\>\<nt\>\<sg\>\<nt\>\<sg\>	^no kind<prn><ind><nt><sg><nt><sg>$
      33 #have\<vbhaver\>\<pii\>\<m\>\<sg\>	^have<vbhaver><neg><lp><pii><m><sg>$
-     33 #falsification\<n\>\<sg\>	^falsification<n><sg>$
      33 #Eleven\<num\>	^Eleven<num>$
-     33 #defusion\<n\>\<sg\>	^defusion<n><sg>$
-     32 #win\<n\>\<sg\>	^win<n><sg>$
      32 #take\<vblex\>\<pres\>\<p3\>\<sg\># over	^take<vblex><pres><p3><sg># over$
      32 #surrounding\<adj\>	^surrounding<adj>$
      32 #programme\<adj\>	^programme<adj>$
-     32 #nullification\<n\>\<sg\>	^nullification<n><sg>$
      32 #Milorad\<np\>\<ant\>\<sg\>	^Milorad<np><ant><sg>$
      32 #kilometre\<adj\>	^kilometre<adj>$
-     32 #escalation\<n\>\<sg\>	^escalation<n><sg>$
      32 #bullying\<n\>\<sg\>	^bullying<n><sg>$
-     32 #apology\<n\>\<sg\>	^apology<n><sg>$
-     31 #water supply\<n\>\<sg\>	^water supply<n><sg>$
-     31 #phone tap\<n\>\<sg\>	^phone tap<n><sg>$
-     31 #Pavel\<np\>\<ant\>\<m\>\<sg\>	^Pavel<np><ant><m><sg>$
+     31 #Pavel\<np\>\<ant\>\<sg\>\<m\>	^Pavel<np><ant><sg><m>$
      31 #organisation\<adj\>	^organisation<adj>$
-     31 #black Sea\<adj\>	^black Sea<adj>$
      31 #avow\<vblex\>\<pres\>\<p3\>\<sg\>	^avow<vblex><pres><p3><sg>$
      30 takes part	^take<vblex><pres><p3><sg># part$
      30 #should\<vaux\>\<p2\>\<sg\>	^should<vaux><aor><p2><sg>$
      30 #resume\<vblex\>\<pres\>	^resume<vblex><pres>$
      30 #plentiful\<adj\>	^plentiful<adj>$
-     30 #ottoman\<adj\>	^ottoman<adj>$
+     30 #Karl\<np\>\<ant\>\<sg\>\<m\>	^Karl<np><ant><sg><m>$
      30 #intensivise\<vblex\>\<past\>	^intensivise<vblex><past>$
-     30 #inefficiency\<n\>\<sg\>	^inefficiency<n><sg>$
      30 #hotel\<adj\>	^hotel<adj>$
      30 #First\<pl\>	^First<pl>$
-     30 #consolidation\<n\>\<sg\>	^consolidation<n><sg>$
-     29 #vote-counting\<n\>\<sg\>	^vote-counting<n><sg>$
      29 #undermining\<n\>\<sg\>	^undermining<n><sg>$
      29 #Twelve\<num\>	^Twelve<num>$
      29 #author\<adj\>	^author<adj>$
      28 #testing\<n\>\<pl\>	^testing<n><pl>$
-     28 #streamlining\<n\>\<sg\>	^streamlining<n><sg>$
-     28 #spill\<n\>\<sg\>	^spill<n><sg>$
-     28 #rehabilitation\<n\>\<sg\>	^rehabilitation<n><sg>$
      28 #prpers\<prn\>\<obj\>\<p2\>\<mf\>\<pl\>	^prpers<prn><obj><p2><mf><pl>$
-     28 #mediator\<n\>\<pl\>	^mediator<n><pl>$
-     28 #london\<adj\>	^london<adj>$
-     28 #dismantling\<n\>\<sg\>	^dismantling<n><sg>$
      28 #consist\<vblex\>\<past\># of	^consist<vblex><past># of$
      28 #climate\<adj\>	^climate<adj>$
-     27 #wrestler\<n\>\<sg\>	^wrestler<n><sg>$
-     27 #skiing\<n\>\<sg\>	^skiing<n><sg>$
      27 #Should\<vaux\>\<p3\>\<sg\>	^Should<vaux><aor><p3><sg>$
      27 #second\<pl\>	^second<pl>$
      27 #pledge\<vblex\>\<pres\>	^pledge<vblex><pres>$
-     27 #mining\<n\>\<sg\>	^mining<n><sg>$
-     27 #lisbon\<adj\>	^lisbon<adj>$
      27 #extradite\<vblex\>\<pres\>\<p3\>\<sg\>	^extradite<vblex><pres><p3><sg>$
      26 #Thirty\<num\>	^Thirty<num>$
-     26 #Thessaloniki\<adj\>	^Thessaloniki<adj>$
      26 #supervisory\<adj\>	^supervisory<adj>$
-     26 #Slovak\<adj\>	^Slovak<adj>$
-     26 #Kiril\<np\>\<ant\>\<m\>\<sg\>	^Kiril<np><ant><m><sg>$
-     26 #coproduction\<n\>\<sg\>	^coproduction<n><sg>$
+     26 #Kiril\<np\>\<ant\>\<sg\>\<m\>	^Kiril<np><ant><sg><m>$
      25 #legendary\<adj\>	^legendary<adj>$
-     25 #Hristo\<np\>\<ant\>\<m\>\<sg\>	^Hristo<np><ant><m><sg>$
-     25 #croat\<n\>\<sg\>	^croat<n><sg>$
+     25 #Hristo\<np\>\<ant\>\<sg\>\<m\>	^Hristo<np><ant><sg><m>$
      24 #water\<adj\>	^water<adj>$
-     24 #walkout\<n\>\<sg\>	^walkout<n><sg>$
      24 #vigorous\<adj\>	^vigorous<adj>$
      24 #twenty\<num\>	^twenty<num>$
-     24 #rememberance\<n\>\<sg\>	^rememberance<n><sg>$
      24 #referendum\<adj\>	^referendum<adj>$
      24 #non-Albanian\<adj\>	^non-Albanian<adj>$
      24 #inhabit\<vblex\>\<inf\>	^inhabit<vblex><inf>$
      24 #assure\<vblex\>\<inf\>	^assure<vblex><inf>$
-     23 #viennese\<adj\>	^viennese<adj>$
      23 #twelve\<num\>	^twelve<num>$
      23 take part	^take<vblex><pres># part$
      23 #qualify\<vblex\>\<pp\>	^qualify<vblex><pp>$
      23 #qualify\<vblex\>\<past\>	^qualify<vblex><past>$
-     23 #plea\<n\>\<sg\>	^plea<n><sg>$
      23 #Jan\<np\>\<ant\>\<sg\>	^Jan<np><ant><sg>$
      23 #engineering\<adj\>	^engineering<adj>$
-     23 #Berlin\<adj\>	^Berlin<adj>$
      22 #Thirteen\<num\>	^Thirteen<num>$
-     22 #spending\<n\>\<sg\>	^spending<n><sg>$
      22 #Pledge\<vblex\>\<ger\>	^Pledge<vblex><ger>$
      22 #helicopter\<adj\>	^helicopter<adj>$
-     22 #European integration\<n\>\<sg\>	^European integration<n><sg>$
      22 #ballet\<adj\>	^ballet<adj>$
-     21 #throw\<n\>\<sg\>	^throw<n><sg>$
      21 #This kind\<prn\>\<dem\>\<mf\>\<pl\>	^This kind<prn><dem><mf><pl>$
      21 #third\<pl\>	^third<pl>$
-     21 #regime\<n\>\<pl\>	^regime<n><pl>$
      21 #radio-television\<adj\>	^radio-television<adj>$
      21 #june\<adj\>	^june<adj>$
      21 #Fifteen\<num\>	^Fifteen<num>$
      21 #demographic\<adj\>	^demographic<adj>$
-     21 #commissioner\<n\>\<pl\>	^commissioner<n><pl>$
-     21 #clarification\<n\>\<sg\>	^clarification<n><sg>$
      20 #Winter\<adj\>	^Winter<adj>$
      20 #welcome\<vblex\>\<pres\>	^welcome<vblex><pres>$
      20 #vblex\>\<vblex\>\<past\>	^vblex><vblex><past>$
      20 #testing\<n\>\<sg\>	^testing<n><sg>$
      20 #refugee\<adj\>	^refugee<adj>$
-     20 #outbreak\<n\>\<sg\>	^outbreak<n><sg>$
-     20 #moldovan\<adj\>	^moldovan<adj>$
      20 #have\<vbhaver\>\<pres\>\<p1\>\<sg\>	^have<vbhaver><pres><p1><sg>$
      20 #have\<vbhaver\>\<pprs\>\<adv\>	^have<vbhaver><pprs><adv>$
      20 #artilliary\<adj\>	^artilliary<adj>$
@@ -739,112 +585,68 @@ Tag mismatch between transfer and generation
      19 #qualifying\<adj\>	^qualifying<adj>$
      19 #petrol\<adj\>	^petrol<adj>$
      19 #no one\<prn\>\<ind\>\<mf\>\<sg\>	^no one<prn><ind><mf><sg><acc>$
-     19 #kidnapping\<n\>\<pl\>	^kidnapping<n><pl>$
-     18 #Split\<adj\>	^Split<adj>$
-     18 #Slavic\<adj\>	^Slavic<adj>$
      18 #ruin\<vblex\>\<pres\>\<p3\>\<sg\>	^ruin<vblex><pres><p3><sg>$
      18 #Remaining\<adj\>	^Remaining<adj>$
      18 #Pension\<adj\>	^Pension<adj>$
-     18 #Pakistani\<adj\>	^Pakistani<adj>$
      18 #Must\<vaux\>\<pres\>\<p1\>\<pl\>	^Must<vaux><pres><p1><pl>$
-     18 #London\<adj\>	^London<adj>$
-     18 #Libyan\<adj\>	^Libyan<adj>$
      18 #Have\<vbhaver\>\<pprs\>\<adv\>	^Have<vbhaver><pprs><adv>$
-     18 #estonian\<adj\>	^estonian<adj>$
      18 #dairy\<adj\>	^dairy<adj>$
      18 #congratulate\<vblex\>\<pres\>\<p3\>\<sg\>	^congratulate<vblex><pres><p3><sg>$
      18 #can\<vaux\>\<pres\>\<p2\>\<pl\>	^can<vaux><pres><p2><pl>$
      18 #ambassador\<adj\>	^ambassador<adj>$
      17 #Wooden\<adj\>	^Wooden<adj>$
-     17 #voyage\<n\>\<sg\>	^voyage<n><sg>$
-     17 #slavic\<adj\>	^slavic<adj>$
      17 #radar\<adj\>	^radar<adj>$
      17 #qualify\<vblex\>\<inf\>	^qualify<vblex><inf>$
      17 #PRPERS\<prn\>\<subj\>\<p2\>\<mf\>\<sg\>	^PRPERS<prn><subj><p2><mf><sg>$
      17 #PRPERS\<prn\>\<obj\>\<p2\>\<mf\>\<sg\>	^PRPERS<prn><obj><p2><mf><sg>$
      17 #Must\<vaux\>\<pres\>\<p3\>\<sg\>	^Must<vaux><pres><p3><sg>$
-     17 #middle\<n\>\<pl\>	^middle<n><pl>$
      17 #intersecting\<adj\>	^intersecting<adj>$
      17 #have\<vbhaver\>\<pii\>\<pl\>	^have<vbhaver><neg><lp><pii><mfn><pl>$
      17 #Fifty\<num\>	^Fifty<num>$
      17 #field\<adj\>	^field<adj>$
-     17 #faculty\<n\>\<pl\>	^faculty<n><pl>$
      17 #extradite\<vblex\>\<pp\>	^extradite<vblex><pp>$
-     17 #extermination\<n\>\<sg\>	^extermination<n><sg>$
      17 #European integration\<n\>\<pl\>	^European integration<n><pl>$
-     17 #domination\<n\>\<sg\>	^domination<n><sg>$
-     17 #compromise\<n\>\<pl\>	^compromise<n><pl>$
      17 #Anti\<adj\>	^Anti<adj>$
-     16 #Viennese\<adj\>	^Viennese<adj>$
      16 #Two-day\<adj\>	^Two-day<adj>$
-     16 #thessaloniki\<adj\>	^thessaloniki<adj>$
-     16 #parliament member\<n\>\<sg\>	^parliament member<n><sg>$
-     16 #naming\<n\>\<sg\>	^naming<n><sg>$
-     16 #Kabul\<adj\>	^Kabul<adj>$
+     16 member of parliament	^member<n><sg># of parliament$
+     16 #goods\<n\>\<sg\>	^goods<n><sg>$
      16 #Fourty\<num\>	^Fourty<num>$
      16 #deepening\<n\>\<sg\>	^deepening<n><sg>$
      16 #Can\<vaux\>\<pres\>\<p3\>\<sg\>	^Can<vaux><pres><p3><sg>$
      15 #wedding\<adj\>	^wedding<adj>$
-     15 #verification\<n\>\<sg\>	^verification<n><sg>$
-     15 #tampering\<n\>\<sg\>	^tampering<n><sg>$
      15 #shareholder's\<adj\>	^shareholder's<adj>$
-     15 #pakistani\<adj\>	^pakistani<adj>$
-     15 #Moldovan\<adj\>	^Moldovan<adj>$
      15 #Mihai\<np\>\<ant\>\<sg\>	^Mihai<np><ant><sg>$
-     15 #media\<n\>\<sg\>	^media<n><sg>$
-     15 #m\<abbr\>	^m<abbr>$
      15 #Formed\<adj\>	^Formed<adj>$
-     15 #demilitarisation\<n\>\<sg\>	^demilitarisation<n><sg>$
      15 #deblock\<vblex\>\<inf\>	^deblock<vblex><inf>$
      15 #assure\<vblex\>\<ger\>	^assure<vblex><ger>$
      14 #verify\<vblex\>\<inf\>	^verify<vblex><inf>$
-     14 #Tribunal\<n\>\<sg\>	^Tribunal<n><sg>$
-     14 #Transylvanian\<adj\>	^Transylvanian<adj>$
      14 #This kind\<prn\>\<dem\>\<mf\>\<sg\>	^This kind<prn><dem><mf><sg>$
      14 #Striking\<adj\>	^Striking<adj>$
      14 #Sixty\<num\>	^Sixty<num>$
-     14 #sewerage system\<n\>\<sg\>	^sewerage system<n><sg>$
      14 #ratify\<vblex\>\<pres\>\<p3\>\<sg\>	^ratify<vblex><pres><p3><sg>$
      14 #must\<vaux\>\<pii\>\<pl\>	^must<vaux><lp><pii><mfn><pl>$
-     14 #Ljubljana\<adj\>	^Ljubljana<adj>$
-     14 #kuwaiti\<adj\>	^kuwaiti<adj>$
-     14 #judiciary\<n\>\<pl\>	^judiciary<n><pl>$
      14 #inhabit\<vblex\>\<pres\>	^inhabit<vblex><pres>$
      14 #have\<vbhaver\>\<pii\>\<f\>\<sg\>	^have<vbhaver><neg><lp><pii><f><sg>$
      14 #Dragan\<np\>\<ant\>\<sg\>	^Dragan<np><ant><sg>$
-     14 #christian-democratic\<adj\>	^christian-democratic<adj>$
-     14 #bribe\<n\>\<sg\>	^bribe<n><sg>$
      13 #What for\<prn\>\<itg\>	^What for<prn><itg>$
-     13 #thracian\<adj\>	^thracian<adj>$
-     13 #serb\<n\>\<sg\>	^serb<n><sg>$
      13 #raising\<n\>\<sg\>	^raising<n><sg>$
      13 #non-Muslim\<adj\>	^non-Muslim<adj>$
      13 #moment\<adj\>	^moment<adj>$
      13 #June\<adj\>	^June<adj>$
-     13 #imposition\<n\>\<sg\>	^imposition<n><sg>$
      13 #hygenic\<adj\>	^hygenic<adj>$
      13 #Fourteen\<num\>	^Fourteen<num>$
      13 #eleven\<num\>	^eleven<num>$
-     13 #cover-up\<n\>\<sg\>	^cover-up<n><sg>$
-     13 #Banat\<adj\>	^Banat<adj>$
-     13 #april\<adj\>	^april<adj>$
-     13 #Anatolian\<adj\>	^Anatolian<adj>$
-     13 #accreditation\<n\>\<sg\>	^accreditation<n><sg>$
      12 #violation\<n\>\<pl\>	^violation<n><pl>$
      12 #undemocratic\<adj\>	^undemocratic<adj>$
      12 #tank\<vblex\>\<past\>	^tank<vblex><past>$
      12 #Seventeen\<num\>	^Seventeen<num>$
      12 #pro-democratic\<adj\>	^pro-democratic<adj>$
      12 #migrant\<adj\>	^migrant<adj>$
-     12 #loyalty\<n\>\<sg\>	^loyalty<n><sg>$
      12 #ignoral\<n\>\<sg\>	^ignoral<n><sg>$
      12 #Hurt\<adj\>	^Hurt<adj>$
      12 #festival\<adj\>	^festival<adj>$
      12 #embezzlement\<n\>\<pl\>	^embezzlement<n><pl>$
      12 #do\<vblex\>\<pres\>\<p1\>\<sg\>	^do<vblex><pres><p1><sg>$
-     12 #defection\<n\>\<sg\>	^defection<n><sg>$
-     12 #Deadline\<n\>\<sg\>	^Deadline<n><sg>$
-     12 #damages\<n\>\<sg\>	^damages<n><sg>$
      12 #cofinance\<vblex\>\<pp\>	^cofinance<vblex><pp>$
      12 #causing\<n\>\<sg\>	^causing<n><sg>$
      12 #Anti-corruption\<adj\>	^Anti-corruption<adj>$
@@ -855,7 +657,6 @@ Tag mismatch between transfer and generation
      11 #SPLIT\<np\>\<top\>\<sg\>	^SPLIT<np><top><sg>$
      11 #ruin\<vblex\>\<pres\>	^ruin<vblex><pres>$
      11 #ruin\<vblex\>\<ger\>	^ruin<vblex><ger>$
-     11 #renaming\<n\>\<sg\>	^renaming<n><sg>$
      11 #questioning\<n\>\<pl\>	^questioning<n><pl>$
      11 #Prpers\<prn\>\<subj\>\<p2\>\<mf\>\<pl\>	^Prpers<prn><subj><p2><mf><pl>$
      11 #prpers\<prn\>\<subj\>\<p2\>\<mf\>\<pl\>	^prpers<prn><subj><p2><mf><pl>$
@@ -866,25 +667,17 @@ Tag mismatch between transfer and generation
      11 #inhabit\<vblex\>\<pres\>\<p3\>\<sg\>	^inhabit<vblex><pres><p3><sg>$
      11 #fifteen\<num\>	^fifteen<num>$
      11 #extradite\<vblex\>\<pres\>	^extradite<vblex><pres>$
-     11 #Estonian\<adj\>	^Estonian<adj>$
      11 #Emphasise\<vblex\>\<pp\>	^Emphasise<vblex><pp>$
-     11 #East European\<adj\>	^East European<adj>$
-     11 #east European\<adj\>	^east European<adj>$
      11 #airport\<adj\>	^airport<adj>$
      10 #Youth\<adj\>	^Youth<adj>$
-     10 #wrestler\<n\>\<pl\>	^wrestler<n><pl>$
-     10 #west European\<adj\>	^west European<adj>$
      10 #Titular\<adj\>	^Titular<adj>$
      10 #striking\<adj\>	^striking<adj>$
      10 #September\<adj\>	^September<adj>$
-     10 #saudi\<adj\>	^saudi<adj>$
      10 #relate\<vblex\>\<imp\>\<sg\>	^relate<vblex><imp><sg>$
      10 #Ratko\<np\>\<ant\>\<sg\>	^Ratko<np><ant><sg>$
      10 #pro-Serbian\<adj\>	^pro-Serbian<adj>$
-     10 #oil pipeline\<n\>\<pl\>	^oil pipeline<n><pl>$
      10 #no one\<prn\>\<ind\>\<mf\>\<sg\>	^no one<prn><ind><mf><sg><dat>$
      10 #junior\<adj\>	^junior<adj>$
-     10 #denationalisation\<n\>\<sg\>	^denationalisation<n><sg>$
      10 #cutting-edge\<adj\>	^cutting-edge<adj>$
      10 #consultant\<adj\>	^consultant<adj>$
      10 #City\<adj\>	^City<adj>$
@@ -895,7 +688,6 @@ Tag mismatch between transfer and generation
      10 #anterior\<adj\>	^anterior<adj>$
      10 #agile\<adj\>	^agile<adj>$
       9 #X-ray\<adj\>	^X-ray<adj>$
-      9 #Western Balkan\<adj\>	^Western Balkan<adj>$
       9 #upholding\<n\>\<sg\>	^upholding<n><sg>$
       9 #thirty\<num\>	^thirty<num>$
       9 #sixty\<num\>	^sixty<num>$
@@ -906,150 +698,90 @@ Tag mismatch between transfer and generation
       9 #post-diplomatic\<adj\>	^post-diplomatic<adj>$
       9 #Plentiful\<adj\>	^Plentiful<adj>$
       9 #philosophic\<adj\>	^philosophic<adj>$
-      9 #openness\<n\>\<sg\>	^openness<n><sg>$
-      9 #neolithic\<adj\>	^neolithic<adj>$
       9 #must\<vaux\>\<pii\>\<m\>\<sg\>	^must<vaux><lp><pii><m><sg>$
-      9 #Moscovite\<adj\>	^Moscovite<adj>$
       9 #monopolistic\<adj\>	^monopolistic<adj>$
       9 #medical equipment\<n\>\<pl\>	^medical equipment<n><pl>$
       9 #marathon\<adj\>	^marathon<adj>$
-      9 #Madrid\<adj\>	^Madrid<adj>$
-      9 #liquidation\<n\>\<sg\>	^liquidation<n><sg>$
       9 #leader\<adj\>	^leader<adj>$
       9 #laboratory\<adj\>	^laboratory<adj>$
       9 #Film\<adj\>	^Film<adj>$
-      9 #Faculty\<n\>\<sg\>	^Faculty<n><sg>$
-      9 #contamination\<n\>\<sg\>	^contamination<n><sg>$
-      9 #confrontation\<n\>\<sg\>	^confrontation<n><sg>$
-      9 #Central European\<adj\>	^Central European<adj>$
       9 #Can\<vaux\>\<pres\>\<p2\>\<pl\>	^Can<vaux><pres><p2><pl>$
       9 #boxer\<adj\>	^boxer<adj>$
-      8 #WASP\<n\>\<sg\>	^WASP<n><sg>$
       8 #vice-premier\<adj\>	^vice-premier<adj>$
       8 #vblex\>\<vblex\>\<inf\>	^vblex><vblex><inf>$
       8 #Unlike\<adv\>	^Unlike<adv>$
       8 #Ultra-nationalist\<adj\>	^Ultra-nationalist<adj>$
-      8 #transylvanian\<adj\>	^transylvanian<adj>$
       8 #Tourist\<adj\>	^Tourist<adj>$
       8 #Three-day\<adj\>	^Three-day<adj>$
       8 #Take\<vblex\>\<imp\>\<sg\>	^Take<vblex><imp><sg>$
-      8 #split\<adj\>	^split<adj>$
       8 #september\<adj\>	^september<adj>$
-      8 #schengen\<adj\>	^schengen<adj>$
       8 #propaganda\<adj\>	^propaganda<adj>$
-      8 #politicisation\<n\>\<sg\>	^politicisation<n><sg>$
       8 #Per\<np\>\<ant\>\<sg\>	^Per<np><ant><sg>$
       8 #Nineteen\<num\>	^Nineteen<num>$
       8 #morning\<adj\>	^morning<adj>$
       8 #May\<adj\>	^May<adj>$
       8 #Managing\<adj\>	^Managing<adj>$
       8 #Live\<adv\>	^Live<adv>$
-      8 #Kuwaiti\<adj\>	^Kuwaiti<adj>$
       8 #intensivise\<vblex\>\<pres\>\<p3\>\<sg\>	^intensivise<vblex><pres><p3><sg>$
-      8 #indebtedness\<n\>\<sg\>	^indebtedness<n><sg>$
       8 #Have\<vbhaver\>\<pres\>\<p1\>\<sg\>	^Have<vbhaver><pres><p1><sg>$
       8 #european integration\<n\>\<pl\>	^european integration<n><pl>$
       8 #devoid\<adj\>	^devoid<adj>$
-      8 #clergy member\<n\>\<sg\>	^clergy member<n><sg>$
-      8 #central heating\<n\>\<sg\>	^central heating<n><sg>$
       8 #beating\<n\>\<sg\>	^beating<n><sg>$
-      8 #Azerbaijani\<adj\>	^Azerbaijani<adj>$
-      8 #azerbaijani\<adj\>	^azerbaijani<adj>$
       8 #advertising\<adj\>	^advertising<adj>$
-      8 #Admiral\<n\>\<sg\>	^Admiral<n><sg>$
-      8 #absorption\<n\>\<sg\>	^absorption<n><sg>$
-      7 #western Balkan\<adj\>	^western Balkan<adj>$
       7 #volunteer\<adj\>	^volunteer<adj>$
       7 #verify\<vblex\>\<past\>	^verify<vblex><past>$
-      7 #unwillingness\<n\>\<sg\>	^unwillingness<n><sg>$
       7 took part	^take<vblex><past># part$
       7 take part	^take<vblex><inf># part$
-      7 #standardisation\<n\>\<sg\>	^standardisation<n><sg>$
       7 #stall\<vblex\>\<pres\>\<p3\>\<sg\>	^stall<vblex><pres><p3><sg>$
       7 #Sixteen\<num\>	^Sixteen<num>$
       7 #should\<vaux\>\<pii\>\<pl\>	^should<vaux><lp><pii><mfn><pl>$
       7 #should\<vaux\>\<p3\>\<pl\>	^should<vaux><aor><p3><pl>$
-      7 #shore\<n\>\<pl\>	^shore<n><pl>$
       7 #ruin\<vblex\>\<inf\>	^ruin<vblex><inf>$
-      7 #rememberance\<n\>\<pl\>	^rememberance<n><pl>$
       7 #Razvan\<np\>\<ant\>\<sg\>	^Razvan<np><ant><sg>$
-      7 #racketeering\<n\>\<sg\>	^racketeering<n><sg>$
       7 #pro-Islamic\<adj\>	^pro-Islamic<adj>$
       7 #Online\<adv\>	^Online<adv>$
       7 #Nursery\<adj\>	^Nursery<adj>$
       7 #no one\<prn\>\<ind\>\<mf\>\<sg\>\<gen\>	^no one<prn><ind><mf><sg><gen>$
-      7 #moscovite\<adj\>	^moscovite<adj>$
       7 #may\<adj\>	^may<adj>$
-      7 #Malaysian\<adj\>	^Malaysian<adj>$
       7 #Legendary\<adj\>	^Legendary<adj>$
-      7 #Kazakhstani\<adj\>	^Kazakhstani<adj>$
-      7 #january\<adj\>	^january<adj>$
-      7 #hyperinflation\<n\>\<sg\>	^hyperinflation<n><sg>$
-      7 #gas pipeline\<n\>\<pl\>	^gas pipeline<n><pl>$
       7 #formality\<n\>\<sg\>	^formality<n><sg>$
       7 #Football\<adj\>	^Football<adj>$
       7 #Eighteen\<num\>	^Eighteen<num>$
       7 #Can\<vaux\>\<pres\>\<p1\>\<sg\>	^Can<vaux><pres><p1><sg>$
-      7 #bologna\<adj\>	^bologna<adj>$
-      7 #beatification\<n\>\<sg\>	^beatification<n><sg>$
-      7 #aeronautics\<n\>\<sg\>	^aeronautics<n><sg>$
-      6 #vice-premier\<n\>\<pl\>	^vice-premier<n><pl>$
-      6 #validity\<n\>\<sg\>	^validity<n><sg>$
-      6 #Todor\<np\>\<ant\>\<m\>\<sg\>	^Todor<np><ant><m><sg>$
-      6 #tirana\<adj\>	^tirana<adj>$
+      6 #Todor\<np\>\<ant\>\<sg\>\<m\>	^Todor<np><ant><sg><m>$
       6 #thousand\<num\>\<sg\>	^thousand<num><sg>$
       6 #that kind\<prn\>\<dem\>\<mf\>\<sg\>	^that kind<prn><dem><mf><sg>$
       6 #Television\<adj\>	^Television<adj>$
       6 #symphonic\<adj\>	^symphonic<adj>$
-      6 #Shiite\<adj\>	^Shiite<adj>$
       6 #revisionary\<adj\>	^revisionary<adj>$
-      6 #relocation\<n\>\<sg\>	^relocation<n><sg>$
       6 #qualify\<vblex\>\<pres\>\<p3\>\<sg\>	^qualify<vblex><pres><p3><sg>$
-      6 #prosecution\<n\>\<pl\>	^prosecution<n><pl>$
       6 #privatising\<adj\>	^privatising<adj>$
-      6 #prevalence\<n\>\<sg\>	^prevalence<n><sg>$
       6 #Pan-European\<adj\>	^Pan-European<adj>$
       6 #Overall\<adj\>	^Overall<adj>$
       6 #occupying\<adj\>	^occupying<adj>$
-      6 #novi Sad\<adj\>	^novi Sad<adj>$
       6 #No one\<prn\>\<ind\>\<mf\>\<sg\>\<gen\>	^No one<prn><ind><mf><sg><gen>$
       6 #must\<vaux\>\<pres\>\<p2\>\<pl\>	^must<vaux><pres><p2><pl>$
       6 #mujahadeen\<adj\>	^mujahadeen<adj>$
-      6 #malaysian\<adj\>	^malaysian<adj>$
       6 #machine\<adj\>	^machine<adj>$
       6 #leave\<vblex\>\<imp\>\<pl\>	^leave<vblex><imp><pl>$
-      6 #kazakhstani\<adj\>	^kazakhstani<adj>$
       6 #hundred\<num\>	^hundred<num>$
       6 #FIVE\<num\>	^FIVE<num>$
-      6 #Electricity production\<n\>\<sg\>	^Electricity production<n><sg>$
       6 #consist\<vblex\>\<pres\># of	^consist<vblex><pres># of$
       6 #congratulate\<vblex\>\<inf\>	^congratulate<vblex><inf>$
       6 #commuter\<adj\>	^commuter<adj>$
       6 #champion\<adj\>	^champion<adj>$
-      6 #Central heating\<n\>\<sg\>	^Central heating<n><sg>$
-      6 #caucasian\<adj\>	^caucasian<adj>$
       6 #can\<vaux\>\<pii\>\<p1\>\<pl\>	^can<vaux><pii><p1><pl>$
       6 #body\<adj\>	^body<adj>$
-      6 #berlin\<adj\>	^berlin<adj>$
-      6 #Bass\<n\>\<sg\>	^Bass<n><sg>$
       6 #assure\<vblex\>\<pres\>	^assure<vblex><pres>$
-      6 #April\<adj\>	^April<adj>$
       6 #anti-monopoly\<adj\>	^anti-monopoly<adj>$
-      6 #Algerian\<adj\>	^Algerian<adj>$
-      5 #West European\<adj\>	^West European<adj>$
       5 #welcome\<vblex\>\<ger\>	^welcome<vblex><ger>$
-      5 #washington\<adj\>	^washington<adj>$
       5 #vegetarian\<adj\>	^vegetarian<adj>$
       5 #transfer\<adj\>\<sint\>	^transfer<adj><sint>$
       5 #trans-Balkan\<adj\>	^trans-Balkan<adj>$
       5 #Tight\<adj\>\<sint\>	^Tight<adj><sint>$
-      5 #taliban\<adj\>	^taliban<adj>$
       5 #Spring\<adj\>	^Spring<adj>$
-      5 #South African\<adj\>	^South African<adj>$
       5 #sixteen\<num\>	^sixteen<num>$
       5 #single-party\<adj\>	^single-party<adj>$
-      5 #sensation\<n\>\<sg\>	^sensation<n><sg>$
-      5 #sanction\<n\>\<sg\>	^sanction<n><sg>$
       5 #Put\<vblex\>\<imp\>\<pl\>	^Put<vblex><imp><pl>$
       5 #pro-reform\<adj\>	^pro-reform<adj>$
       5 #phantom\<adj\>	^phantom<adj>$
@@ -1059,120 +791,75 @@ Tag mismatch between transfer and generation
       5 #parental\<adj\>	^parental<adj>$
       5 #Para-Olympic\<adj\>	^Para-Olympic<adj>$
       5 #optimal\<adj\>	^optimal<adj>$
-      5 #new Zealand\<adj\>	^new Zealand<adj>$
       5 #naïve\<adj\>	^naïve<adj>$
-      5 #multi-ethnicity\<n\>\<sg\>	^multi-ethnicity<n><sg>$
       5 #Minority\<adj\>	^Minority<adj>$
       5 #Likely\<adj\>	^Likely<adj>$
-      5 #kabul\<adj\>	^kabul<adj>$
       5 #intensivise\<vblex\>\<pres\>	^intensivise<vblex><pres>$
-      5 #indifference\<n\>\<sg\>	^indifference<n><sg>$
       5 #gymnastic\<adj\>	^gymnastic<adj>$
       5 #Further\<adj\>	^Further<adj>$
       5 #FP\<abbr\>	^FP<abbr>$
       5 #fourty\<num\>	^fourty<num>$
-      5 #flooding\<n\>\<sg\>	^flooding<n><sg>$
-      5 #european integration\<n\>\<sg\>	^european integration<n><sg>$
       5 #Eighty\<num\>	^Eighty<num>$
       5 #early-Christian\<adj\>	^early-Christian<adj>$
-      5 #Directorate\<n\>\<sg\>	^Directorate<n><sg>$
-      5 #Diplomat\<n\>\<sg\>	^Diplomat<n><sg>$
       5 #destabilising\<adj\>	^destabilising<adj>$
       5 #Dejan\<np\>\<ant\>\<sg\>	^Dejan<np><ant><sg>$
       5 #Declared\<adj\>	^Declared<adj>$
       5 #deadly\<adj\>\<sint\>\<sup\>	^deadly<adj><sint><sup>$
-      5 #Danube\<adj\>	^Danube<adj>$
-      5 #dalmatian\<adj\>	^dalmatian<adj>$
       5 #container\<adj\>	^container<adj>$
-      5 #Christian-democratic\<adj\>	^Christian-democratic<adj>$
-      5 #chechen\<adj\>	^chechen<adj>$
-      5 #Caucasian\<adj\>	^Caucasian<adj>$
       5 #Can\<vaux\>\<pres\>\<p1\>\<pl\>	^Can<vaux><pres><p1><pl>$
       5 #canary\<adj\>	^canary<adj>$
       5 #Border\<adj\>	^Border<adj>$
-      5 #bitola\<adj\>	^bitola<adj>$
       5 #autocratic\<adj\>	^autocratic<adj>$
-      5 #aspiration\<n\>\<sg\>	^aspiration<n><sg>$
       5 #Army\<adj\>	^Army<adj>$
-      5 #Armenian\<n\>\<pl\>	^Armenian<n><pl>$
       5 #Apprehensive\<adj\>	^Apprehensive<adj>$
       5 #anti-Serbian\<adj\>	^anti-Serbian<adj>$
-      5 #adjustment\<n\>\<pl\>	^adjustment<n><pl>$
-      5 #accreditation\<n\>\<pl\>	^accreditation<n><pl>$
       4 #Yearly\<adv\>	^Yearly<adv>$
       4 #write\<vblex\>\<pres\># down	^write<vblex><pres># down$
       4 #write\<vblex\>\<past\># down	^write<vblex><past># down$
-      4 #Vice-premier\<n\>\<sg\>	^Vice-premier<n><sg>$
       4 #verify\<vblex\>\<pp\>	^verify<vblex><pp>$
       4 #trade-union\<adj\>	^trade-union<adj>$
-      4 #Tirana\<adj\>	^Tirana<adj>$
       4 #Three-party\<adj\>	^Three-party<adj>$
-      4 #teleconference\<n\>\<sg\>	^teleconference<n><sg>$
       4 taking part	^take<vblex><ger># part$
       4 #stall\<vblex\>\<pres\>	^stall<vblex><pres>$
       4 #SS\<abbr\>	^SS<abbr>$
       4 #spy\<adj\>	^spy<adj>$
-      4 #south Korean\<adj\>	^south Korean<adj>$
       4 #Software\<adj\>	^Software<adj>$
-      4 #social democrat\<n\>\<sg\>	^social democrat<n><sg>$
       4 #slander\<n\>\<pl\>	^slander<n><pl>$
       4 #say\<vblex\>\<imp\>\<sg\>	^say<vblex><imp><sg>$
       4 #ratify\<vblex\>\<pres\>	^ratify<vblex><pres>$
       4 #put\<vblex\>\<imp\>\<pl\>	^put<vblex><imp><pl>$
       4 #Prpers\<prn\>\<obj\>\<p2\>\<mf\>\<sg\>	^Prpers<prn><obj><p2><mf><sg>$
       4 #priestly\<adj\>	^priestly<adj>$
-      4 #preoccupation\<n\>\<sg\>	^preoccupation<n><sg>$
-      4 #Police\<n\>\<sg\>	^Police<n><sg>$
       4 #petrochemical\<adj\>	^petrochemical<adj>$
       4 #Operational\<adj\>	^Operational<adj>$
-      4 #Olympiad\<n\>\<pl\>	^Olympiad<n><pl>$
-      4 #olympiad\<n\>\<pl\>	^olympiad<n><pl>$
-      4 #Novi Sad\<adj\>	^Novi Sad<adj>$
-      4 #non-recognition\<n\>\<sg\>	^non-recognition<n><sg>$
       4 #nineteen\<num\>	^nineteen<num>$
       4 #naming\<n\>\<pl\>	^naming<n><pl>$
       4 #nadgleduvan\<adj\>	^nadgleduvan<adj>$
       4 #Must\<vaux\>\<pres\>\<p1\>\<sg\>	^Must<vaux><pres><p1><sg>$
       4 #museum\<adj\>	^museum<adj>$
       4 #Missing\<adj\>	^Missing<adj>$
-      4 #Media\<n\>\<sg\>	^Media<n><sg>$
-      4 #madrid\<adj\>	^madrid<adj>$
-      4 #ljubljana\<adj\>	^ljubljana<adj>$
-      4 #Kliment\<np\>\<ant\>\<m\>\<sg\>	^Kliment<np><ant><m><sg>$
+      4 #Kliment\<np\>\<ant\>\<sg\>\<m\>	^Kliment<np><ant><sg><m>$
       4 #keen\<adj\>\<sint\>\<comp\>	^keen<adj><sint><comp>$
-      4 #January\<adj\>	^January<adj>$
       4 #Intensivise\<vblex\>\<pp\>	^Intensivise<vblex><pp>$
       4 #insurance\<n\>\<pl\>	^insurance<n><pl>$
-      4 #insulation\<n\>\<sg\>	^insulation<n><sg>$
-      4 #inconvenience\<n\>\<pl\>	^inconvenience<n><pl>$
       4 #hooligan\<adj\>	^hooligan<adj>$
       4 #Hans\<np\>\<ant\>\<sg\>	^Hans<np><ant><sg>$
       4 #fourteen\<num\>	^fourteen<num>$
       4 #Emphasise\<vblex\>\<pres\>	^Emphasise<vblex><pres>$
-      4 #directorate\<n\>\<pl\>	^directorate<n><pl>$
-      4 #demobilisation\<n\>\<sg\>	^demobilisation<n><sg>$
       4 #Customs\<adj\>	^Customs<adj>$
       4 #conference\<adj\>	^conference<adj>$
-      4 #commemoration\<n\>\<pl\>	^commemoration<n><pl>$
       4 #cofinance\<vblex\>\<inf\>	^cofinance<vblex><inf>$
-      4 #Charter\<n\>\<sg\>	^Charter<n><sg>$
       4 #can\<vaux\>\<pres\>\<p2\>\<sg\>	^can<vaux><pres><p2><sg>$
       4 #can\<vaux\>\<pii\>\<p1\>\<sg\>	^can<vaux><pii><p1><sg>$
       4 #Canary\<adj\>	^Canary<adj>$
-      4 #Borough\<n\>\<sg\>	^Borough<n><sg>$
       4 #bg\<abbr\>	^bg<abbr>$
       4 #Be\<vbser\>\<pres\>\<p2\>\<sg\>	^Be<vbser><pres><p2><sg>$
-      4 #baking\<n\>\<sg\>	^baking<n><sg>$
       4 #avow\<vblex\>\<pres\>	^avow<vblex><pres>$
       4 #anti-Israeli\<adj\>	^anti-Israeli<adj>$
       4 #anti-European\<adj\>	^anti-European<adj>$
       4 #Allow\<vblex\>\<imp\>\<pl\>	^Allow<vblex><imp><pl>$
       4 #AG\<abbr\>	^AG<abbr>$
-      4 #accession\<n\>\<pl\>	^accession<n><pl>$
       3 #write\<vblex\>\<inf\># down	^write<vblex><inf># down$
-      3 #unfunctionality\<n\>\<sg\>	^unfunctionality<n><sg>$
-      3 #UN\<abbr\>	^UN<abbr>$
-      3 #tribunal\<n\>\<pl\>	^tribunal<n><pl>$
       3 #tele-medical\<adj\>	^tele-medical<adj>$
       3 #Telecommunications\<adj\>	^Telecommunications<adj>$
       3 #teenage\<adj\>	^teenage<adj>$
@@ -1181,18 +868,12 @@ Tag mismatch between transfer and generation
       3 #Student\<adj\>	^Student<adj>$
       3 #Stefan\<np\>\<ant\>\<sg\>	^Stefan<np><ant><sg>$
       3 #Stefan\<np\>\<ant\>\<pl\>	^Stefan<np><ant><pl>$
-      3 #statistic\<n\>\<sg\>	^statistic<n><sg>$
       3 #stall\<vblex\>\<past\>	^stall<vblex><past>$
-      3 #South Korean\<adj\>	^South Korean<adj>$
-      3 #south African\<adj\>	^south African<adj>$
       3 #Sixth\<sg\>	^Sixth<sg>$
       3 #sixth\<pl\>	^sixth<pl>$
       3 #should\<vaux\>\<pii\>\<f\>\<sg\>	^should<vaux><lp><pii><f><sg>$
       3 #sewerage\<adj\>	^sewerage<adj>$
-      3 #self-rule\<n\>\<sg\>	^self-rule<n><sg>$
       3 #ruin\<vblex\>\<past\>	^ruin<vblex><past>$
-      3 #Revote\<n\>\<sg\>	^Revote<n><sg>$
-      3 #revote\<n\>\<pl\>	^revote<n><pl>$
       3 #Resume\<vblex\>\<pres\>\<p3\>\<sg\>	^Resume<vblex><pres><p3><sg>$
       3 #Resume\<vblex\>\<pp\>	^Resume<vblex><pp>$
       3 #resume\<vblex\>\<imp\>\<pl\>	^resume<vblex><imp><pl>$
@@ -1200,21 +881,15 @@ Tag mismatch between transfer and generation
       3 #reinvest\<vblex\>\<pp\>	^reinvest<vblex><pp>$
       3 #Registered\<adj\>	^Registered<adj>$
       3 #Referendum\<adj\>	^Referendum<adj>$
-      3 #redaction\<n\>\<sg\>	^redaction<n><sg>$
       3 #Rasim\<np\>\<ant\>\<sg\>	^Rasim<np><ant><sg>$
       3 #qualify\<vblex\>\<ger\>	^qualify<vblex><ger>$
-      3 #Qatar\<adj\>	^Qatar<adj>$
       3 #pro-Macedonian\<adj\>	^pro-Macedonian<adj>$
       3 #Pro-european\<adj\>	^Pro-european<adj>$
-      3 #prequalification\<n\>\<sg\>	^prequalification<n><sg>$
       3 #Pledge\<vblex\>\<pres\>	^Pledge<vblex><pres>$
       3 #pledge\<vblex\>\<past\>	^pledge<vblex><past>$
-      3 #phone tap\<n\>\<pl\>	^phone tap<n><pl>$
       3 #philharmonic\<adj\>	^philharmonic<adj>$
-      3 #peacekeeping operation\<n\>\<sg\>	^peacekeeping operation<n><sg>$
       3 #Paul\<np\>\<ant\>\<sg\>	^Paul<np><ant><sg>$
       3 #pan-Albanian\<adj\>	^pan-Albanian<adj>$
-      3 #North American\<adj\>	^North American<adj>$
       3 #neighbourly relations\<n\>\<sg\>	^neighbourly relations<n><sg>$
       3 #Must\<vaux\>\<pres\>\<p2\>\<pl\>	^Must<vaux><pres><p2><pl>$
       3 #must\<vaux\>\<pii\>\<p1\>\<sg\>	^must<vaux><pii><p1><sg>$
@@ -1223,9 +898,7 @@ Tag mismatch between transfer and generation
       3 #Million\<num\>\<pl\>	^Million<num><pl>$
       3 #millimetre\<adj\>	^millimetre<adj>$
       3 #metal\<adj\>	^metal<adj>$
-      3 #loading\<n\>\<sg\>	^loading<n><sg>$
       3 #Leave\<vblex\>\<imp\>\<pl\>	^Leave<vblex><imp><pl>$
-      3 #Lawmaker\<n\>\<pl\>	^Lawmaker<n><pl>$
       3 #Kostas\<np\>\<ant\>\<sg\>	^Kostas<np><ant><sg>$
       3 #Keen\<adj\>\<sint\>	^Keen<adj><sint>$
       3 #Jovan\<np\>\<ant\>\<pl\>	^Jovan<np><ant><pl>$
@@ -1237,59 +910,39 @@ Tag mismatch between transfer and generation
       3 #how big\<prn\>\<itg\>\<nt\>\<sg\>	^how big<prn><itg><nt><sg>$
       3 #holographic\<adj\>	^holographic<adj>$
       3 #Give\<vblex\>\<imp\>\<pl\>	^Give<vblex><imp><pl>$
-      3 #gasification\<n\>\<sg\>	^gasification<n><sg>$
-      3 #Francophone\<adj\>	^Francophone<adj>$
-      3 #francophone\<adj\>	^francophone<adj>$
       3 #fifty\<num\>	^fifty<num>$
       3 #Fetch\<vblex\>\<past\>	^Fetch<vblex><past>$
       3 #Failed\<adj\>	^Failed<adj>$
-      3 #expanse\<n\>\<sg\>	^expanse<n><sg>$
+      3 #Eduard\<np\>\<ant\>\<sg\>\<m\>	^Eduard<np><ant><sg><m>$
       3 #East\<n\>\<pl\>	^East<n><pl>$
-      3 #Dublin\<adj\>	^Dublin<adj>$
-      3 #Dr\<abbr\>	^Dr<abbr>$
-      3 #denar\<n\>\<sg\>	^denar<n><sg>$
       3 #deblock\<vblex\>\<pp\>	^deblock<vblex><pp>$
       3 #Deadly\<adj\>\<sint\>	^Deadly<adj><sint>$
-      3 #Dalmatian\<adj\>	^Dalmatian<adj>$
       3 #Cover\<vblex\>\<imp\>\<pl\>	^Cover<vblex><imp><pl>$
       3 #congratulate\<vblex\>\<pres\>	^congratulate<vblex><pres>$
-      3 #confrontation\<n\>\<pl\>	^confrontation<n><pl>$
       3 #Comprehensively\<adv\>	^Comprehensively<adv>$
-      3 #Commissioner\<n\>\<sg\>	^Commissioner<n><sg>$
       3 #Coming\<adj\>	^Coming<adj>$
       3 #Coalition\<adj\>	^Coalition<adj>$
       3 #choreographic\<adj\>	^choreographic<adj>$
       3 #chess\<adj\>	^chess<adj>$
-      3 #Chechen\<adj\>	^Chechen<adj>$
-      3 #charter\<n\>\<pl\>	^charter<n><pl>$
       3 #carneval\<adj\>	^carneval<adj>$
       3 #BOK\<abbr\>	^BOK<abbr>$
       3 #BF\<abbr\>	^BF<abbr>$
       3 #Beforehand\<adv\>	^Beforehand<adv>$
       3 #become\<vblex\>\<imp\>\<sg\>	^become<vblex><imp><sg>$
-      3 #bass\<n\>\<sg\>	^bass<n><sg>$
       3 #Banking\<adj\>	^Banking<adj>$
       3 #Assure\<vblex\>\<ger\>	^Assure<vblex><ger>$
       3 #anti-discrimination\<adj\>	^anti-discrimination<adj>$
       3 #Amateur\<adj\>	^Amateur<adj>$
-      3 #Accession\<n\>\<sg\>	^Accession<n><sg>$
       2 #write\<vblex\>\<pp\># down	^write<vblex><pp># down$
       2 #Worker\<adj\>	^Worker<adj>$
-      2 #WASP\<n\>\<pl\>	^WASP<n><pl>$
-      2 #Washington\<adj\>	^Washington<adj>$
       2 #Voting\<adj\>	^Voting<adj>$
       2 #vote\<vblex\>\<imp\>\<sg\>	^vote<vblex><imp><sg>$
       2 #violin\<adj\>	^violin<adj>$
       2 #vandal\<adj\>	^vandal<adj>$
-      2 #vaccination\<n\>\<sg\>	^vaccination<n><sg>$
-      2 #Uzbekistani\<adj\>	^Uzbekistani<adj>$
       2 #unsustainable\<adj\>	^unsustainable<adj>$
       2 #under secretary\<n\>\<pl\>	^under secretary<n><pl>$
       2 #Underground\<adj\>	^Underground<adj>$
-      2 #Turkmen\<adj\>	^Turkmen<adj>$
-      2 #turkmen\<adj\>	^turkmen<adj>$
       2 #Turkey\<np\>\<top\>\<pl\>	^Turkey<np><top><pl>$
-      2 #Tolerance\<n\>\<sg\>	^Tolerance<n><sg>$
       2 #Tim\<np\>\<ant\>\<sg\>	^Tim<np><ant><sg>$
       2 #Third\<pl\>	^Third<pl>$
       2 #terrorising\<n\>\<sg\>	^terrorising<n><sg>$
@@ -1298,36 +951,20 @@ Tag mismatch between transfer and generation
       2 #Symphonic\<adj\>	^Symphonic<adj>$
       2 #stall\<vblex\>\<pp\>	^stall<vblex><pp>$
       2 #stall\<vblex\>\<inf\>	^stall<vblex><inf>$
-      2 #Stability\<n\>\<sg\>	^Stability<n><sg>$
       2 #spending\<n\>\<pl\>	^spending<n><pl>$
-      2 #South European\<adj\>	^South European<adj>$
       2 #So many\<adv\>	^So many<adv>$
-      2 #Social democrat\<n\>\<pl\>	^Social democrat<n><pl>$
       2 #Slovenia\<np\>\<top\>\<pl\>	^Slovenia<np><top><pl>$
-      2 #signage\<n\>\<sg\>	^signage<n><sg>$
-      2 #Siberian\<adj\>	^Siberian<adj>$
       2 #Should\<vaux\>\<pii\>\<p3\>\<sg\>	^Should<vaux><pii><p3><sg>$
       2 #should\<vaux\>\<pii\>\<p2\>\<sg\>	^should<vaux><pii><p2><sg>$
       2 #should\<vaux\>\<pii\>\<m\>\<sg\>	^should<vaux><lp><pii><m><sg>$
-      2 #Shore\<n\>\<sg\>	^Shore<n><sg>$
       2 #Ship\<adj\>	^Ship<adj>$
-      2 #shiite\<adj\>	^shiite<adj>$
       2 #seventeen\<num\>	^seventeen<num>$
       2 #send\<vblex\>\<imp\>\<pl\>	^send<vblex><imp><pl>$
-      2 #self-satisfaction\<n\>\<sg\>	^self-satisfaction<n><sg>$
       2 #see\<vblex\>\<imp\>\<pl\>	^see<vblex><imp><pl>$
-      2 #Schengen\<adj\>	^Schengen<adj>$
       2 #Say\<vblex\>\<imp\>\<sg\>	^Say<vblex><imp><sg>$
-      2 #Saxon\<adj\>	^Saxon<adj>$
       2 #romania\<np\>\<top\>\<sg\>	^romania<np><top><sg>$
       2 #Rich\<adj\>	^Rich<adj>$
       2 #Repeat\<vblex\>\<imp\>\<pl\>	^Repeat<vblex><imp><pl>$
-      2 #reparation\<n\>\<sg\>	^reparation<n><sg>$
-      2 #Rememberance\<n\>\<sg\>	^Rememberance<n><sg>$
-      2 #Remainder\<n\>\<pl\>	^Remainder<n><pl>$
-      2 #rejection\<n\>\<pl\>	^rejection<n><pl>$
-      2 #refinancing\<n\>\<sg\>	^refinancing<n><sg>$
-      2 #reconfiguration\<n\>\<sg\>	^reconfiguration<n><sg>$
       2 #qualify\<vblex\>\<pres\>	^qualify<vblex><pres>$
       2 #Prpers\<prn\>\<subj\>\<p2\>\<mf\>\<sg\>	^Prpers<prn><subj><p2><mf><sg>$
       2 #Prpers\<prn\>\<obj\>\<p2\>\<mf\>\<pl\>	^Prpers<prn><obj><p2><mf><pl>$
@@ -1339,8 +976,7 @@ Tag mismatch between transfer and generation
       2 #post-traumatic\<adj\>	^post-traumatic<adj>$
       2 #pornographic\<adj\>	^pornographic<adj>$
       2 #Philharmonic\<adj\>	^Philharmonic<adj>$
-      2 #personalisation\<n\>\<sg\>	^personalisation<n><sg>$
-      2 #PER\<np\>\<ant\>\<m\>\<sg\>	^PER<np><ant><m><sg>$
+      2 #PER\<np\>\<ant\>\<sg\>\<m\>	^PER<np><ant><sg><m>$
       2 #Own\<adj\>\<nt\>\<sg\>\<def\>	^Own<adj><nt><sg><def>$
       2 #Own\<adj\>\<m\>\<sg\>\<def\>	^Own<adj><m><sg><def>$
       2 #Organisation\<adj\>	^Organisation<adj>$
@@ -1348,55 +984,35 @@ Tag mismatch between transfer and generation
       2 #non-Islamic\<adj\>	^non-Islamic<adj>$
       2 #non-discriminatory\<adj\>	^non-discriminatory<adj>$
       2 #Nikola\<np\>\<ant\>\<sg\>	^Nikola<np><ant><sg>$
-      2 #New Zealand\<adj\>	^New Zealand<adj>$
       2 #must\<vaux\>\<pres\>\<p1\>\<sg\>	^must<vaux><pres><p1><sg>$
       2 #must\<vaux\>\<pii\>\<f\>\<sg\>	^must<vaux><lp><pii><f><sg>$
-      2 #Morrocan\<adj\>	^Morrocan<adj>$
       2 #Milan\<np\>\<ant\>\<sg\>	^Milan<np><ant><sg>$
       2 #micro-finance\<adj\>	^micro-finance<adj>$
       2 #Media\<n\>\<pl\>	^Media<n><pl>$
       2 #Macroeconomic\<adj\>	^Macroeconomic<adj>$
-      2 #Latin American\<adj\>	^Latin American<adj>$
-      2 #Kurd\<n\>\<sg\>	^Kurd<n><sg>$
       2 #Junior\<adj\>	^Junior<adj>$
-      2 #Islamist\<adj\>	^Islamist<adj>$
       2 #Involved\<adj\>	^Involved<adj>$
-      2 #in the middle of\<pr\>	^in the middle of<pr>$
       2 #Intersecting\<adj\>	^Intersecting<adj>$
       2 #Intelligence\<adj\>	^Intelligence<adj>$
       2 #Infantry\<adj\>	^Infantry<adj>$
       2 #Hristo\<np\>\<ant\>\<sg\>	^Hristo<np><ant><sg>$
       2 #how big\<prn\>\<itg\>\<m\>\<sg\>	^how big<prn><itg><m><sg>$
       2 #Hotel\<adj\>	^Hotel<adj>$
-      2 #Hittite\<adj\>	^Hittite<adj>$
-      2 #Herzegovinian\<adj\>	^Herzegovinian<adj>$
       2 #Georgi\<np\>\<ant\>\<sg\>	^Georgi<np><ant><sg>$
       2 #gangster\<adj\>	^gangster<adj>$
-      2 #frankfurt\<adj\>	^frankfurt<adj>$
       2 #formality\<n\>\<pl\>	^formality<n><pl>$
       2 #fetch\<vblex\>\<pres\>	^fetch<vblex><pres>$
-      2 #February\<adj\>	^February<adj>$
-      2 #february\<adj\>	^february<adj>$
-      2 #expanse\<n\>\<pl\>	^expanse<n><pl>$
       2 #ethnographic\<adj\>	^ethnographic<adj>$
       2 #enter\<vblex\>\<imp\>\<sg\>	^enter<vblex><imp><sg>$
       2 #eighty\<num\>	^eighty<num>$
-      2 #deployment\<n\>\<pl\>	^deployment<n><pl>$
-      2 #denar\<n\>\<pl\>	^denar<n><pl>$
-      2 #danube\<adj\>	^danube<adj>$
       2 #culinary\<adj\>	^culinary<adj>$
-      2 #criminal code\<n\>\<pl\>	^criminal code<n><pl>$
-      2 #coproduction\<n\>\<pl\>	^coproduction<n><pl>$
       2 #co-operation\<n\>\<pl\>	^co-operation<n><pl>$
-      2 #constructiveness\<n\>\<sg\>	^constructiveness<n><sg>$
       2 #Congratulate\<vblex\>\<ger\>	^Congratulate<vblex><ger>$
       2 #congratulate\<vblex\>\<ger\>	^congratulate<vblex><ger>$
       2 #cofinance\<vblex\>\<pres\>\<p3\>\<sg\>	^cofinance<vblex><pres><p3><sg>$
       2 #clarification\<n\>\<pl\>	^clarification<n><pl>$
-      2 #capitulation\<n\>\<sg\>	^capitulation<n><sg>$
       2 #Can\<vaux\>\<pres\>\<p3\>\<pl\>	^Can<vaux><pres><p3><pl>$
       2 #canonical\<adj\>	^canonical<adj>$
-      2 #Borough\<n\>\<pl\>	^Borough<n><pl>$
       2 #Bomb\<adj\>	^Bomb<adj>$
       2 #be\<vbser\>\<imp\>\<sg\>	^be<vbser><imp><sg>$
       2 #belorusian\<adj\>	^belorusian<adj>$
@@ -1404,9 +1020,6 @@ Tag mismatch between transfer and generation
       2 #barcelona\<adj\>	^barcelona<adj>$
       2 #await\<vblex\>\<imp\>\<sg\>	^await<vblex><imp><sg>$
       2 #Associated\<adj\>	^Associated<adj>$
-      2 #ash\<n\>\<sg\>	^ash<n><sg>$
-      2 #Argentine\<adj\>	^Argentine<adj>$
-      2 #argentine\<adj\>	^argentine<adj>$
       2 #anti-semitic\<adj\>	^anti-semitic<adj>$
       2 #anti-roma\<adj\>	^anti-roma<adj>$
       2 #anti-immigrant\<adj\>	^anti-immigrant<adj>$
@@ -1418,34 +1031,22 @@ Tag mismatch between transfer and generation
       2 #Ali\<np\>\<ant\>\<sg\>	^Ali<np><ant><sg>$
       2 #Alfred\<np\>\<ant\>\<sg\>	^Alfred<np><ant><sg>$
       2 #Aleksandar\<np\>\<ant\>\<sg\>	^Aleksandar<np><ant><sg>$
-      2 #air-conditioning\<n\>\<sg\>	^air-conditioning<n><sg>$
       2 #Agora\<n\>\<sg\>	^Agora<n><sg>$
-      2 #admiral\<n\>\<pl\>	^admiral<n><pl>$
       1 #Željko\<np\>\<ant\>\<pl\>	^Željko<np><ant><pl>$
       1 #write\<vblex\>\<pres\>\<p3\>\<sg\># down	^write<vblex><pres><p3><sg># down$
-      1 #Wrestler\<n\>\<sg\>	^Wrestler<n><sg>$
-      1 #win\<n\>\<pl\>	^win<n><pl>$
       1 #Welcome\<vblex\>\<pp\>	^Welcome<vblex><pp>$
       1 #Water\<adj\>	^Water<adj>$
-      1 #Wasp\<n\>\<sg\>	^Wasp<n><sg>$
-      1 #wasp\<n\>\<sg\>	^wasp<n><sg>$
-      1 #Wasp\<n\>\<pl\>	^Wasp<n><pl>$
-      1 #wasp\<n\>\<pl\>	^wasp<n><pl>$
       1 #Vuk\<np\>\<ant\>\<sg\>	^Vuk<np><ant><sg>$
-      1 #Voyage\<n\>\<sg\>	^Voyage<n><sg>$
       1 #vomit\<vblex\>\<pres\>	^vomit<vblex><pres>$
       1 #vojvodina\<np\>\<top\>\<sg\>	^vojvodina<np><top><sg>$
       1 #Vojislav\<np\>\<ant\>\<sg\>	^Vojislav<np><ant><sg>$
       1 #Vlado\<np\>\<ant\>\<sg\>	^Vlado<np><ant><sg>$
-      1 #Vladislav\<np\>\<ant\>\<m\>\<sg\>	^Vladislav<np><ant><m><sg>$
+      1 #Vladislav\<np\>\<ant\>\<sg\>\<m\>	^Vladislav<np><ant><sg><m>$
       1 #Visit\<vblex\>\<imp\>\<pl\>	^Visit<vblex><imp><pl>$
       1 #Vigorous\<adj\>	^Vigorous<adj>$
-      1 #Venezuelan\<adj\>	^Venezuelan<adj>$
-      1 #uzbekistani\<adj\>	^uzbekistani<adj>$
       1 #USA\<np\>\<top\>\<pl\>	^USA<np><top><pl>$
       1 #unpatriotic\<adj\>	^unpatriotic<adj>$
       1 #unolympic\<adj\>	^unolympic<adj>$
-      1 #universality\<n\>\<sg\>	^universality<n><sg>$
       1 #uneconomical\<adj\>	^uneconomical<adj>$
       1 #troubadour\<adj\>	^troubadour<adj>$
       1 #Trans-Balkan\<adj\>	^Trans-Balkan<adj>$
@@ -1453,8 +1054,7 @@ Tag mismatch between transfer and generation
       1 #topographic\<adj\>	^topographic<adj>$
       1 #Toni\<np\>\<ant\>\<sg\>	^Toni<np><ant><sg>$
       1 #tirana\<np\>\<top\>\<sg\>	^tirana<np><top><sg>$
-      1 #TIM\<np\>\<ant\>\<m\>\<sg\>	^TIM<np><ant><m><sg>$
-      1 #Tibetan\<adj\>	^Tibetan<adj>$
+      1 #TIM\<np\>\<ant\>\<sg\>\<m\>	^TIM<np><ant><sg><m>$
       1 #thirteen\<num\>	^thirteen<num>$
       1 #Testing\<n\>\<sg\>	^Testing<n><sg>$
       1 #Telephone\<adj\>	^Telephone<adj>$
@@ -1463,22 +1063,14 @@ Tag mismatch between transfer and generation
       1 #TELECOM\<n\>\<sg\>	^TELECOM<n><sg>$
       1 #tectonic\<adj\>	^tectonic<adj>$
       1 #tampering\<n\>\<pl\>	^tampering<n><pl>$
-      1 #Taliban\<adj\>	^Taliban<adj>$
       1 #take\<vblex\>\<imp\>\<sg\>	^take<vblex><imp><sg>$
       1 #Swine\<adj\>	^Swine<adj>$
       1 #Svetozar\<np\>\<ant\>\<sg\>	^Svetozar<np><ant><sg>$
       1 #Surrounding\<adj\>	^Surrounding<adj>$
-      1 #Stoppage\<n\>\<sg\>	^Stoppage<n><sg>$
       1 #stall\<vblex\>\<ger\>	^stall<vblex><ger>$
-      1 #spontaneity\<n\>\<sg\>	^spontaneity<n><sg>$
-      1 #spill\<n\>\<pl\>	^spill<n><pl>$
-      1 #South Slavic\<adj\>	^South Slavic<adj>$
       1 #Soren\<np\>\<ant\>\<sg\>	^Soren<np><ant><sg>$
-      1 #Social democrat\<n\>\<sg\>	^Social democrat<n><sg>$
       1 #Slobodan\<np\>\<ant\>\<sg\>	^Slobodan<np><ant><sg>$
       1 #skiing\<n\>\<pl\>	^skiing<n><pl>$
-      1 #Singaporean\<adj\>	^Singaporean<adj>$
-      1 #sewerage system\<n\>\<pl\>	^sewerage system<n><pl>$
       1 #seventy\<num\>	^seventy<num>$
       1 #Serve\<vblex\>\<imp\>\<pl\>	^Serve<vblex><imp><pl>$
       1 #serve\<vblex\>\<imp\>\<pl\>	^serve<vblex><imp><pl>$
@@ -1492,21 +1084,17 @@ Tag mismatch between transfer and generation
       1 #Rotational\<adj\>	^Rotational<adj>$
       1 #Romania\<np\>\<top\>\<pl\>	^Romania<np><top><pl>$
       1 #Retrieval\<n\>\<sg\>	^Retrieval<n><sg>$
-      1 #retraction\<n\>\<pl\>	^retraction<n><pl>$
       1 #Resume\<vblex\>\<imp\>\<pl\>	^Resume<vblex><imp><pl>$
       1 #resolve\<vblex\>\<imp\>\<pl\>	^resolve<vblex><imp><pl>$
       1 #require\<vblex\>\<imp\>\<pl\>	^require<vblex><imp><pl>$
       1 #reinvest\<vblex\>\<pres\>	^reinvest<vblex><pres>$
-      1 #reinforcement\<n\>\<pl\>	^reinforcement<n><pl>$
       1 #Refugee\<adj\>	^Refugee<adj>$
       1 #refrain\<vblex\>\<pres\>\<p3\>\<sg\>	^refrain<vblex><pres><p3><sg>$
       1 #Reform\<adj\>	^Reform<adj>$
       1 #reduce\<vblex\>\<imp\>\<pl\>	^reduce<vblex><imp><pl>$
-      1 #redaction\<n\>\<pl\>	^redaction<n><pl>$
       1 #Recovered\<adj\>	^Recovered<adj>$
       1 #ratification\<n\>\<pl\>	^ratification<n><pl>$
       1 #radiographic\<adj\>	^radiographic<adj>$
-      1 #qatar\<adj\>	^qatar<adj>$
       1 #psychotropic\<adj\>	^psychotropic<adj>$
       1 #psychosomatic\<adj\>	^psychosomatic<adj>$
       1 #prove\<vblex\>\<imp\>\<sg\>	^prove<vblex><imp><sg>$
@@ -1521,13 +1109,9 @@ Tag mismatch between transfer and generation
       1 #pre-coalition\<adj\>	^pre-coalition<adj>$
       1 #post-socialist\<adj\>	^post-socialist<adj>$
       1 #pledge\<vblex\>\<pp\>	^pledge<vblex><pp>$
-      1 #plea\<n\>\<pl\>	^plea<n><pl>$
       1 #Philosophic\<adj\>	^Philosophic<adj>$
       1 #Petar\<np\>\<ant\>\<pl\>	^Petar<np><ant><pl>$
-      1 #Personnel\<n\>\<sg\>	^Personnel<n><sg>$
-      1 #Peloponnesian\<adj\>	^Peloponnesian<adj>$
       1 #Pediatric\<adj\>	^Pediatric<adj>$
-      1 #Parliament member\<n\>\<sg\>	^Parliament member<n><sg>$
       1 #Pan-Cypriot\<adj\>	^Pan-Cypriot<adj>$
       1 #pan-Arab\<adj\>	^pan-Arab<adj>$
       1 #paleolithic\<adj\>	^paleolithic<adj>$
@@ -1540,8 +1124,6 @@ Tag mismatch between transfer and generation
       1 #Old-town\<adj\>	^Old-town<adj>$
       1 #nullification\<n\>\<pl\>	^nullification<n><pl>$
       1 #north Korean\<adj\>	^north Korean<adj>$
-      1 #North Anatolian\<adj\>	^North Anatolian<adj>$
-      1 #north American\<adj\>	^north American<adj>$
       1 #none\<prn\>\<ind\>\<nt\>\<sg\>	^none<prn><ind><nt><sg><nom>$
       1 #None\<prn\>\<ind\>\<nt\>\<sg\>\<gen\>	^None<prn><ind><nt><sg><gen>$
       1 #none\<prn\>\<ind\>\<nt\>\<sg\>\<gen\>	^none<prn><ind><nt><sg><gen>$
@@ -1550,36 +1132,27 @@ Tag mismatch between transfer and generation
       1 #Ninety\<num\>	^Ninety<num>$
       1 #ninety\<num\>	^ninety<num>$
       1 #Next to\<adv\>	^Next to<adv>$
-      1 #Neolithic\<adj\>	^Neolithic<adj>$
       1 #must\<vaux\>\<pii\>\<p2\>\<sg\>	^must<vaux><pii><p2><sg>$
       1 #must\<vaux\>\<pii\>\<nt\>\<sg\>	^must<vaux><lp><pii><nt><sg>$
       1 #Museum\<adj\>	^Museum<adj>$
       1 #Multi-ethnic\<adj\>	^Multi-ethnic<adj>$
       1 #mountainous\<n\>\<sg\>	^mountainous<n><sg>$
-      1 #Mongol\<adj\>	^Mongol<adj>$
       1 #Mirko\<np\>\<ant\>\<sg\>	^Mirko<np><ant><sg>$
       1 #Miodrag\<np\>\<ant\>\<sg\>	^Miodrag<np><ant><sg>$
       1 #Milorad\<np\>\<ant\>\<pl\>	^Milorad<np><ant><pl>$
       1 #Million\<num\>\<sg\>	^Million<num><sg>$
       1 #milan\<adj\>	^milan<adj>$
       1 #micro-climate\<adj\>	^micro-climate<adj>$
+      1 Member of parliament	^Member<n><sg># of parliament$
       1 #megalomanic\<adj\>	^megalomanic<adj>$
       1 #mean\<vblex\>\<imp\>\<sg\>	^mean<vblex><imp><sg>$
       1 #Marko\<np\>\<ant\>\<sg\>	^Marko<np><ant><sg>$
       1 #Marathon\<adj\>	^Marathon<adj>$
-      1 #Mandarin\<adj\>	^Mandarin<adj>$
       1 #Machine\<adj\>	^Machine<adj>$
       1 #Live\<vblex\>\<imp\>\<sg\>	^Live<vblex><imp><sg>$
-      1 #Lisbon\<adj\>	^Lisbon<adj>$
-      1 #Lichensteinian\<adj\>	^Lichensteinian<adj>$
-      1 #Lawmaker\<n\>\<sg\>	^Lawmaker<n><sg>$
-      1 #latin American\<adj\>	^latin American<adj>$
-      1 #Labina\<np\>\<ant\>\<f\>\<sg\>	^Labina<np><ant><f><sg>$
-      1 #labelling\<n\>\<sg\>	^labelling<n><sg>$
-      1 #kurd\<n\>\<sg\>	^kurd<n><sg>$
+      1 #Labina\<np\>\<ant\>\<sg\>\<f\>	^Labina<np><ant><sg><f>$
       1 #kosovo\<np\>\<top\>\<sg\>	^kosovo<np><top><sg>$
       1 #Konstantin\<np\>\<ant\>\<pl\>	^Konstantin<np><ant><pl>$
-      1 #KM\<abbr\>	^KM<abbr>$
       1 #Kliment\<np\>\<ant\>\<pl\>	^Kliment<np><ant><pl>$
       1 #Kiril\<np\>\<ant\>\<pl\>	^Kiril<np><ant><pl>$
       1 #keen\<adj\>\<sint\>\<sup\>	^keen<adj><sint><sup>$
@@ -1589,18 +1162,13 @@ Tag mismatch between transfer and generation
       1 #Italy\<np\>\<top\>\<pl\>	^Italy<np><top><pl>$
       1 #Invest\<vblex\>\<imp\>\<pl\>	^Invest<vblex><imp><pl>$
       1 #introduce\<vblex\>\<imp\>\<sg\>	^introduce<vblex><imp><sg>$
-      1 #institutionalisation\<n\>\<sg\>	^institutionalisation<n><sg>$
-      1 #injection\<n\>\<pl\>	^injection<n><pl>$
       1 #inhabit\<vblex\>\<ger\>	^inhabit<vblex><ger>$
       1 #Infrastructure\<adj\>	^Infrastructure<adj>$
       1 #In first place\<adv\>	^In first place<adv>$
       1 #inefficiency\<n\>\<pl\>	^inefficiency<n><pl>$
-      1 #inconvenience\<n\>\<sg\>	^inconvenience<n><sg>$
       1 #implement\<vblex\>\<imp\>\<sg\>	^implement<vblex><imp><sg>$
-      1 #Igi\<np\>\<ant\>\<m\>\<sg\>	^Igi<np><ant><m><sg>$
+      1 #Igi\<np\>\<ant\>\<sg\>\<m\>	^Igi<np><ant><sg><m>$
       1 #Hop\<np\>\<ant\>\<sg\>	^Hop<np><ant><sg>$
-      1 #hooliganism\<n\>\<sg\>	^hooliganism<n><sg>$
-      1 #herzegovinian\<adj\>	^herzegovinian<adj>$
       1 #Have\<vbhaver\>\<pii\>\<m\>\<sg\>	^Have<vbhaver><neg><lp><pii><m><sg>$
       1 #Have\<vbhaver\>\<pii\>\<nt\>\<sg\>	^Have<vbhaver><lp><pii><nt><sg>$
       1 #Gymnastic\<adj\>	^Gymnastic<adj>$
@@ -1610,13 +1178,10 @@ Tag mismatch between transfer and generation
       1 #Goran\<np\>\<ant\>\<sg\>	^Goran<np><ant><sg>$
       1 #Give\<vblex\>\<imp\>\<sg\>	^Give<vblex><imp><sg>$
       1 #George\<np\>\<ant\>\<sg\>	^George<np><ant><sg>$
-      1 #Geo\<np\>\<ant\>\<m\>\<sg\>	^Geo<np><ant><m><sg>$
+      1 #Geo\<np\>\<ant\>\<sg\>\<m\>	^Geo<np><ant><sg><m>$
       1 #geomagnetic\<adj\>	^geomagnetic<adj>$
       1 #geoeconomic\<adj\>	^geoeconomic<adj>$
-      1 #Gas pipeline\<n\>\<sg\>	^Gas pipeline<n><sg>$
       1 #fruit-growing\<n\>\<sg\>	^fruit-growing<n><sg>$
-      1 #Frankfurt\<adj\>	^Frankfurt<adj>$
-      1 #Franciscan\<adj\>	^Franciscan<adj>$
       1 #four-metre\<adj\>	^four-metre<adj>$
       1 #Forbidden\<adj\>	^Forbidden<adj>$
       1 #Fishing\<adj\>	^Fishing<adj>$
@@ -1626,51 +1191,36 @@ Tag mismatch between transfer and generation
       1 #Fetch\<vblex\>\<pp\>	^Fetch<vblex><pp>$
       1 #fetch\<vblex\>\<imp\>\<sg\>	^fetch<vblex><imp><sg>$
       1 #Feel\<vblex\>\<imp\>\<sg\>	^Feel<vblex><imp><sg>$
-      1 #eurasian\<adj\>	^eurasian<adj>$
       1 #Enjoy\<vblex\>\<imp\>\<pl\>	^Enjoy<vblex><imp><pl>$
       1 #Engineering\<adj\>	^Engineering<adj>$
       1 #encyclopaedic\<adj\>	^encyclopaedic<adj>$
-      1 #Electricity distribution\<n\>\<sg\>	^Electricity distribution<n><sg>$
       1 #Elected\<adj\>	^Elected<adj>$
       1 #eighteen\<num\>	^eighteen<num>$
       1 #eat\<vblex\>\<imp\>\<sg\>	^eat<vblex><imp><sg>$
       1 #Dushan\<np\>\<ant\>\<sg\>	^Dushan<np><ant><sg>$
-      1 #DR\<abbr\>	^DR<abbr>$
-      1 #Download\<n\>\<sg\>	^Download<n><sg>$
-      1 #download\<n\>\<pl\>	^download<n><pl>$
       1 #do\<vblex\>\<imp\>\<sg\>	^do<vblex><imp><sg>$
       1 #do\<vblex\>\<imp\>\<pl\>	^do<vblex><imp><pl>$
       1 #disorganise\<vblex\>\<pp\>	^disorganise<vblex><pp>$
-      1 #Diplomat\<n\>\<pl\>	^Diplomat<n><pl>$
       1 #Destined\<adj\>	^Destined<adj>$
       1 #Designer\<adj\>	^Designer<adj>$
       1 #designer\<adj\>	^designer<adj>$
       1 #depressing\<adj\>	^depressing<adj>$
-      1 #demystification\<n\>\<sg\>	^demystification<n><sg>$
-      1 #demoralisation\<n\>\<sg\>	^demoralisation<n><sg>$
-      1 #Demilitarisation\<n\>\<sg\>	^Demilitarisation<n><sg>$
-      1 #defection\<n\>\<pl\>	^defection<n><pl>$
       1 #defeat\<vblex\>\<imp\>\<pl\>	^defeat<vblex><imp><pl>$
+      1 #damages\<n\>\<sg\>	^damages<n><sg>$
       1 #Crystal\<adj\>	^Crystal<adj>$
       1 #cryptographic\<adj\>	^cryptographic<adj>$
       1 #Croatia\<np\>\<top\>\<pl\>	^Croatia<np><top><pl>$
-      1 #Criminal code\<n\>\<sg\>	^Criminal code<n><sg>$
       1 #cosmopolitan\<adj\>	^cosmopolitan<adj>$
       1 #Control\<adj\>	^Control<adj>$
       1 #Conference\<adj\>	^Conference<adj>$
       1 #Conditionally\<adv\>	^Conditionally<adv>$
-      1 #Compromise\<n\>\<sg\>	^Compromise<n><sg>$
       1 #compensatory\<adj\>	^compensatory<adj>$
       1 #Commuter\<adj\>	^Commuter<adj>$
       1 #Communication\<adj\>	^Communication<adj>$
-      1 #Commemoration\<n\>\<pl\>	^Commemoration<n><pl>$
       1 #Come\<vblex\>\<imp\>\<sg\>	^Come<vblex><imp><sg>$
       1 #cofinance\<vblex\>\<past\>	^cofinance<vblex><past>$
       1 #cofinance\<vblex\>\<ger\>	^cofinance<vblex><ger>$
-      1 #cloning\<n\>\<sg\>	^cloning<n><sg>$
       1 #chemotherapy\<adj\>	^chemotherapy<adj>$
-      1 #Central Asian\<adj\>	^Central Asian<adj>$
-      1 #central Asian\<adj\>	^central Asian<adj>$
       1 #can\<vaux\>\<pii\>\<p2\>\<pl\>	^can<vaux><pii><p2><pl>$
       1 #Can\<vaux\>\<pii\>\<p1\>\<pl\>	^Can<vaux><pii><p1><pl>$
       1 #caligraphic\<adj\>	^caligraphic<adj>$
@@ -1679,10 +1229,7 @@ Tag mismatch between transfer and generation
       1 #boston\<adj\>	^boston<adj>$
       1 #Boris\<np\>\<ant\>\<sg\>	^Boris<np><ant><sg>$
       1 #Boosting\<n\>\<sg\>	^Boosting<n><sg>$
-      1 #Bologna\<adj\>	^Bologna<adj>$
-      1 #Bitola\<adj\>	^Bitola<adj>$
       1 #biographic\<adj\>	^biographic<adj>$
-      1 #biochemistry\<n\>\<sg\>	^biochemistry<n><sg>$
       1 #BG\<abbr\>	^BG<abbr>$
       1 #berne\<adj\>	^berne<adj>$
       1 #Believe\<vblex\>\<imp\>\<pl\>	^Believe<vblex><imp><pl>$
@@ -1694,9 +1241,7 @@ Tag mismatch between transfer and generation
       1 #Avow\<vblex\>\<ger\>	^Avow<vblex><ger>$
       1 #Aviation\<adj\>	^Aviation<adj>$
       1 #Author\<adj\>	^Author<adj>$
-      1 #aubergine\<n\>\<sg\>	^aubergine<n><sg>$
       1 #Assure\<vblex\>\<pp\>	^Assure<vblex><pp>$
-      1 #Ash\<n\>\<sg\>	^Ash<n><sg>$
       1 #Arrest\<vblex\>\<imp\>\<pl\>	^Arrest<vblex><imp><pl>$
       1 #aramaic\<adj\>	^aramaic<adj>$
       1 #Approved\<adj\>	^Approved<adj>$
@@ -1706,16 +1251,14 @@ Tag mismatch between transfer and generation
       1 #anti-Montenegrin\<adj\>	^anti-Montenegrin<adj>$
       1 #Anti-democratic\<adj\>	^Anti-democratic<adj>$
       1 #anti-corruption\<n\>\<sg\>	^anti-corruption<n><sg>$
-      1 #anatolian\<adj\>	^anatolian<adj>$
       1 #ANA\<np\>\<ant\>\<sg\>	^ANA<np><ant><sg>$
-      1 #algerian\<adj\>	^algerian<adj>$
       1 #Aleksandar\<np\>\<ant\>\<pl\>	^Aleksandar<np><ant><pl>$
       1 #Albania\<np\>\<top\>\<pl\>	^Albania<np><top><pl>$
       1 #Airport\<adj\>	^Airport<adj>$
       1 #Air\<adj\>	^Air<adj>$
       1 #Agim\<np\>\<ant\>\<sg\>	^Agim<np><ant><sg>$
       1 #Adnan\<np\>\<ant\>\<sg\>	^Adnan<np><ant><sg>$
-      1 #Adi\<np\>\<ant\>\<f\>\<sg\>	^Adi<np><ant><f><sg>$
+      1 #Adi\<np\>\<ant\>\<sg\>\<f\>	^Adi<np><ant><sg><f>$
       1 #acrobatic\<adj\>	^acrobatic<adj>$
       1 #Accompany\<vblex\>\<imp\>\<pl\>	^Accompany<vblex><imp><pl>$
 
@@ -1724,5 +1267,5 @@ Summary
 ===============================================================================
     8 /tmp/mk-en.multiform
     0 /tmp/mk-en.multibidix
- 1697 /tmp/mk-en.tagmismatch
- 1705 total
+ 1244 /tmp/mk-en.tagmismatch
+ 1252 total
