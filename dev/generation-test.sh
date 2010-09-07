@@ -35,10 +35,10 @@ if [[ ! -f /tmp/mk-en.gentest.postchunk ]]; then
 	exit;
 fi
 
-cat /tmp/mk-en.gentest.postchunk  | sed 's/^ //g' | grep -v -e '@' -e '*' -e '[0-9]<Num>' -e '#}' -e '#{' | sed 's/\$>/$/g' | sort -f | uniq -c | sort -gr > /tmp/mk-en.gentest.stripped
-cat /tmp/mk-en.gentest.stripped | lt-proc -d ../mk-en.autogen.bin > /tmp/mk-en.gentest.surface
-cat /tmp/mk-en.gentest.stripped | sed 's/^ *[0-9]* \^/^/g' > /tmp/mk-en.gentest.nofreq
-paste /tmp/mk-en.gentest.surface /tmp/mk-en.gentest.nofreq | grep -e '\/' -e '#[A-Za-z]'  > /tmp/mk-en.generation.errors.txt
+cat /tmp/mk-en.gentest.postchunk  | sed 's/^ //g' | grep -v -e '@' -e '*' -e '[0-9]<num>' -e '#}' -e '#{' | sed 's/\$>/$/g' | sed 's/^\W*\^/^/g' | sort -f | uniq -c | sort -gr > /tmp/mk-en.gentest.stripped
+cat /tmp/mk-en.gentest.stripped | grep -v '\^\W<' | lt-proc -d ../mk-en.autogen.bin > /tmp/mk-en.gentest.surface
+cat /tmp/mk-en.gentest.stripped |  grep -v '\^\W<'  | sed 's/^ *[0-9]* \^/^/g' > /tmp/mk-en.gentest.nofreq
+paste /tmp/mk-en.gentest.surface /tmp/mk-en.gentest.nofreq  > /tmp/mk-en.generation.errors.txt
 cat /tmp/mk-en.generation.errors.txt  | grep -v '#' | grep '\/' > /tmp/mk-en.multiform
 cat /tmp/mk-en.generation.errors.txt  | grep '#.*\/' > /tmp/mk-en.multibidix 
 cat /tmp/mk-en.generation.errors.txt  | grep '#' | grep -v '\/' > /tmp/mk-en.tagmismatch 
