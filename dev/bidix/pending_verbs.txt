@@ -1,163 +1,24 @@
-   4485 започне<vblex><perf><tv>/започне<vblex><perf><iv>
    3922 очекува<vblex><imperf><tv>
    3630 состане<vblex><perf><tv>
-   3233 добие<vblex><perf><tv>
    2845 претставува<vblex><imperf><tv>
-   2817 побара<vblex><perf><tv>
-   2802 потпише<vblex><perf><tv>/потпише<vblex><perf><iv>
-   2596 повика<vblex><perf><tv>
-   2593 отвори<vblex><perf><tv>/отвори<vblex><perf><iv>
-   2268 истакне<vblex><perf><tv>
-   2213 мие<vblex><imperf><tv>/мие<vblex><imperf><iv>
-   2078 постигне<vblex><perf><tv>
-   2075 продолжи<vblex><perf><tv>/продолжи<vblex><perf><iv>
-   2043 заврши<vblex><perf><tv>/заврши<vblex><perf><iv>
-   1882 смета<vblex><imperf><tv>
-   1753 додаде<vblex><perf><tv>
-   1738 поднесе<vblex><perf><tv>
-   1736 усвои<vblex><perf><tv>/усвои<vblex><perf><iv>
-   1732 посети<vblex><perf><tv>
-   1721 одобри<vblex><perf><tv>
-   1678 уапси<vblex><imperf><tv>
-   1638 обвини<vblex><perf><tv>
-   1534 изрази<vblex><perf><tv>
-   1523 учествува<vblex><imperf><iv>
-   1487 одлучи<vblex><perf><tv>
-   1473 одржи<vblex><perf><tv>
-   1465 стане<vblex><perf><iv>
-   1411 преземе<vblex><perf><tv>
-   1306 покаже<vblex><perf><tv>
-   1298 помогне<vblex><perf><iv>
-   1265 обезбеди<vblex><perf><tv>
-   1248 подготви<vblex><perf><tv>
-   1248 освои<vblex><perf><tv>/освои<vblex><perf><iv>
-   1243 поддржи<vblex><perf><tv>
-   1232 отфрли<vblex><perf><tv>
-   1219 работи<vblex><imperf><tv>/работи<vblex><imperf><iv>
-   1214 присуствува<vblex><imperf><iv>
-   1156 остане<vblex><perf><iv>
-   1088 предупреди<vblex><perf><tv>
-   1072 предложи<vblex><perf><tv>
-   1057 исполни<vblex><perf><tv>
-   1052 следи<vblex><imperf><tv>/следи<vblex><imperf><iv>
-    996 загине<vblex><perf><iv>
-    950 испрати<vblex><perf><tv>
-    935 одреди<vblex><perf><tv>
-    911 предвидува<vblex><imperf><tv>
-    900 реши<vblex><perf><tv>
-    900 надева<vblex><imperf><iv>
-    895 предаде<vblex><perf><tv>
-    883 тврди<vblex><imperf><tv>
-    877 поддржува<vblex><imperf><tv>
-    875 случи<vblex><perf><tv>
-    875 пофали<vblex><perf><tv>
-    864 намали<vblex><perf><tv>
-    842 спроведе<vblex><perf><tv>
-    819 донесе<vblex><perf><tv>
-    818 користи<vblex><imperf><tv>
-    815 успее<vblex><perf><iv>
     798 соочува<vblex><imperf><tv>
-    783 признае<vblex><perf><tv>/признае<vblex><perf><iv>
-    776 цитира<vblex><imperf><tv>
-    752 предизвика<vblex><perf><tv>
-    743 избере<vblex><perf><tv>
-    731 претстави<vblex><perf><tv>
-    729 доведе<vblex><perf><tv>
-    725 открие<vblex><perf><tv>
-    725 осуди<vblex><perf><tv>
     708 соопшти<vblex><perf><tv>
-    703 покажува<vblex><imperf><tv>
-    702 одбие<vblex><perf><tv>/одбие<vblex><perf><iv>
-    691 зајакне<vblex><perf><tv>
-    687 дојде<vblex><perf><iv>
-    679 изврши<vblex><perf><tv>
-    670 плати<vblex><perf><tv>/плати<vblex><perf><iv>
-    661 истакнува<vblex><imperf><tv>
-    653 пристигне<vblex><perf><iv>
-    643 издаде<vblex><perf><tv>
-    642 стави<vblex><perf><tv>
-    631 поздрави<vblex><perf><tv>/поздрави<vblex><perf><iv>
-    630 живее<vblex><imperf><tv>/живее<vblex><imperf><iv>
-    625 спречи<vblex><perf><tv>
-    604 подобри<vblex><perf><tv>
-    602 одложи<vblex><perf><tv>
-    597 прекине<vblex><perf><tv>/прекине<vblex><perf><iv>
-    578 изнесува<vblex><imperf><tv>
-    568 прогласи<vblex><perf><tv>
     566 приклучи<vblex><perf><tv>
-    560 соработува<vblex><imperf><iv>
-    559 додава<vblex><imperf><tv>
-    553 победи<vblex><perf><tv>/победи<vblex><perf><iv>
-    545 прифати<vblex><perf><tv>/прифати<vblex><perf><iv>
-    544 трае<vblex><imperf><iv>
-    544 опише<vblex><perf><tv>
-    540 негира<vblex><imperf><tv>/негира<vblex><imperf><iv>
-    538 повлече<vblex><perf><tv>
-    537 дозволи<vblex><perf><tv>
     531 однесува<vblex><imperf><tv>
     529 познае<vblex><perf><tv>
-    524 повикува<vblex><imperf><tv>
-    514 овозможи<vblex><perf><tv>
-    513 собере<vblex><perf><tv>
-    510 почине<vblex><perf><iv>
-    506 прави<vblex><imperf><tv>
-    498 соочи<vblex><perf><tv>
-    490 чини<vblex><imperf><iv>
-    465 оствари<vblex><perf><tv>
-    463 додели<vblex><perf><tv>
-    447 измени<vblex><perf><tv>
-    444 помине<vblex><perf><iv>
-    444 помага<vblex><imperf><iv>
-    444 појави<vblex><perf><iv>
-    443 достигне<vblex><perf><tv>
-    436 ослободи<vblex><perf><tv>
-    433 наведе<vblex><perf><iv>
-    427 повтори<vblex><perf><tv>
+    423 пронајде<vblex><perf><tv>
     420 стори<vblex><perf><tv>
-    418 обиде<vblex><perf><tv>
-    418 наведува<vblex><imperf><tv>
-    417 промени<vblex><perf><tv>
     412 уследи<vblex><perf><tv>
-    411 покрене<vblex><perf><tv>
     411 важи<vblex><imperf><iv>
-    402 суди<vblex><imperf><tv>/суди<vblex><imperf><iv>
-    390 подготвува<vblex><imperf><tv>
-    388 продолжува<vblex><imperf><tv>/продолжува<vblex><imperf><iv>
-    387 зависи<vblex><imperf><iv>
-    382 посочи<vblex><perf><tv>
-    381 изгради<vblex><perf><tv>
-    374 забрза<vblex><perf><tv>
     368 сочинува<vblex><imperf><tv>
     368 предвиди<vblex><perf><tv>
     368 постави<vblex><perf><tv>
-    366 нарече<vblex><perf><tv>
-    360 предводи<vblex><perf><tv>
-    358 заплени<vblex><perf><tv>
-    354 укине<vblex><perf><iv>
-    353 спротивстави<vblex><perf><tv>
-    352 испитува<vblex><imperf><tv>
-    350 задржи<vblex><perf><tv>
-    347 разгледа<vblex><perf><tv>
     338 пристапи<vblex><perf><iv>
-    337 увери<vblex><perf><tv>
-    331 ратификува<vblex><imperf><tv>
     330 спроведува<vblex><imperf><tv>
-    329 замени<vblex><perf><tv>
-    326 нареди<vblex><imperf><tv>/нареди<vblex><perf><tv>
-    324 создаде<vblex><perf><tv>
-    316 заштити<vblex><perf><tv>
     313 изразува<vblex><imperf><tv>
-    311 убеди<vblex><perf><tv>
     311 земе<vblex><perf><tv>
     309 откаже<vblex><perf><tv>/откаже<vblex><perf><iv>
-    308 купи<vblex><perf><tv>
-    307 покани<vblex><perf><tv>
-    306 избегне<vblex><perf><tv>
     306 затвори<vblex><perf><tv>
-    306 забрани<vblex><perf><tv>
-    305 почитува<vblex><imperf><tv>
-    305 идентификува<vblex><imperf><tv>
-    301 носи<vblex><imperf><tv>
     301 назначи<vblex><perf><tv>
     292 препорача<vblex><perf><tv>
     292 обезбедува<vblex><imperf><tv>
@@ -169,12 +30,10 @@
     283 почнува<vblex><imperf><tv>/почнува<vblex><imperf><iv>
     281 поттикне<vblex><perf><tv>
     280 нуди<vblex><imperf><tv>
-    279 опишува<vblex><imperf><tv>
     278 претседава<vblex><imperf><tv>
     275 утврди<vblex><perf><tv>
     274 отпатува<vblex><imperf><iv>
     273 крие<vblex><imperf><tv>
-    272 почне<vblex><perf><iv>
     270 изјасни<vblex><perf><tv>
     265 презема<vblex><imperf><tv>
     265 достави<vblex><perf><tv>
@@ -186,6 +45,7 @@
     247 најави<vblex><perf><tv>
     242 искаже<vblex><perf><tv>
     239 отпушти<vblex><perf><tv>
+    236 обедини<vblex><perf><tv>
     235 игра<vblex><imperf><tv>/игра<vblex><imperf><iv>
     235 засили<vblex><perf><tv>
     234 смени<vblex><perf><tv>
@@ -238,6 +98,7 @@
     171 нарекува<vblex><imperf><tv>
     171 зборува<vblex><imperf><tv>
     169 размислува<vblex><imperf><tv>
+    169 изведе<vblex><perf><tv>
     168 олесни<vblex><perf><tv>
     167 упати<vblex><perf><tv>
     167 согласува<vblex><imperf><iv>
@@ -287,6 +148,7 @@
     129 поминува<vblex><imperf><tv>
     128 навести<vblex><perf><tv>
     127 заклучи<vblex><perf><tv>
+    125 спомене<vblex><perf><tv>
     125 пропадне<vblex><perf><iv>
     124 поздравува<vblex><imperf><tv>
     124 обелодени<vblex><perf><tv>
@@ -308,6 +170,7 @@
     110 забранува<vblex><imperf><tv>
     109 скрие<vblex><perf><tv>
     109 придружува<vblex><imperf><tv>
+    109 напише<vblex><perf><tv>
     108 чува<vblex><imperf><tv>
     108 продава<vblex><imperf><tv>
     108 наштети<vblex><perf><iv>
@@ -334,6 +197,7 @@
      89 емитува<vblex><imperf><tv>
      87 осудува<vblex><imperf><tv>
      86 чувствува<vblex><imperf><tv>
+     86 оцени<vblex><perf><tv>
      86 оддаде<vblex><perf><tv>
      85 произведува<vblex><imperf><tv>
      84 лета<vblex><imperf><iv>
@@ -342,8 +206,10 @@
      80 охрабрува<vblex><imperf><tv>
      79 собира<vblex><imperf><tv>
      79 препорачува<vblex><imperf><tv>
+     78 окарактеризира<vblex><imperf><tv>
      78 конфискува<vblex><imperf><tv>
      77 одлучува<vblex><imperf><tv>
+     75 штити<vblex><imperf><tv>
      75 повторува<vblex><imperf><tv>
      75 истече<vblex><perf><iv>
      74 советува<vblex><imperf><tv>
@@ -382,7 +248,6 @@
      57 прифаќа<vblex><imperf><tv>
      57 поднесува<vblex><imperf><tv>
      57 ограничува<vblex><imperf><tv>
-     57 обедини<vblex><perf><tv>
      56 разбира<vblex><imperf><tv>/разбира<vblex><imperf><iv>
      55 прима<vblex><imperf><tv>
      55 одредува<vblex><imperf><tv>
@@ -402,6 +267,7 @@
      51 оценува<vblex><imperf><tv>
      51 зајакнува<vblex><imperf><tv>
      50 посетува<vblex><imperf><tv>
+     50 поразува<vblex><imperf><tv>
      50 подобрува<vblex><imperf><tv>
      50 командува<vblex><imperf><tv>
      50 јавува<vblex><imperf><tv>
@@ -498,7 +364,6 @@
      23 потпомогне<vblex><perf><iv>
      23 изведува<vblex><imperf><tv>
      23 доближува<vblex><imperf><tv>
-     22 спие<vblex><imperf><iv>
      22 слуша<vblex><imperf><iv>
      22 прекинува<vblex><imperf><tv>
      22 посветува<vblex><imperf><tv>
@@ -910,7 +775,9 @@
       1 затоплува<vblex><imperf><tv>
       1 затегнува<vblex><imperf><tv>
       1 затврди<vblex><perf><tv>
+      1 *занимава
       1 замаглува<vblex><imperf><tv>
+      1 закана<n><f><pl><nom><ind>
       1 задава<vblex><imperf><tv>
       1 загледа<vblex><perf><tv>/загледа<vblex><perf><iv>
       1 загинува<vblex><imperf><iv>
@@ -926,3 +793,4 @@
       1 бунтува<vblex><imperf><tv>
       1 боледува<vblex><imperf><tv>
       1 благословува<vblex><imperf><tv>
+      1 
