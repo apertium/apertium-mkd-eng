@@ -391,6 +391,7 @@
     <e><p><l>петстотини<s n="num"/></l><r>five<b/>hundred<s n="num"/></r></p></e>
     <e><p><l>шестотини<s n="num"/></l><r>six<b/>hundred<s n="num"/></r></p></e>
     <e><p><l>илјада<s n="num"/></l><r>thousand<s n="num"/></r></p></e>
+    <e r="LR"><p><l>илјадница<s n="num"/></l><r>thousand<s n="num"/></r></p></e>
     <e><p><l>милион<s n="num"/></l><r>million<s n="num"/></r></p></e>
     <e><p><l>трилион<s n="num"/></l><r>trillion<s n="num"/></r></p></e>
     <e><p><l>милијарда<s n="num"/></l><r>milliard<s n="num"/></r></p></e>

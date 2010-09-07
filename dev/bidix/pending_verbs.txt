@@ -47,7 +47,6 @@
     135 посочува<vblex><imperf><tv>
     135 изнесе<vblex><perf><iv>
     134 изгласа<vblex><perf><tv>
-    133 заземе<vblex><perf><tv>
     130 посредува<vblex><imperf><iv>
     125 спомене<vblex><perf><tv>
     124 обелодени<vblex><perf><tv>
