@@ -8,6 +8,12 @@
     <def-cat n="cog">
       <cat-item tags="np.cog.*"/>
     </def-cat>
+    <def-cat n="ant">
+      <cat-item tags="np.ant.*"/>
+    </def-cat>
+    <def-cat n="top">
+      <cat-item tags="np.top.*"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
@@ -696,6 +702,57 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: ant">
+      <pattern>
+        <pattern-item n="ant"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="ant" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="syn"/></tag>
+              <tag><var n="ANT"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="gen"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: top">
+      <pattern>
+        <pattern-item n="top"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="top" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="syn"/></tag>
+              <tag><var n="TOP"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: num">
       <pattern>
         <pattern-item n="num"/>
@@ -749,6 +806,7 @@
               <var n="np_chunk_h"/>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="gen"/>
               <clip pos="1" side="tl" part="nbr" link-to="4"/>
               <clip pos="1" side="tl" part="lemq"/>
               <var n="np_chunk_q"/>
