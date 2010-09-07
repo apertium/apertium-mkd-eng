@@ -30,7 +30,7 @@
     <def-cat n="trebe">
       <cat-item lemma="требе" tags="vbmod.*"/>
     </def-cat>
-    <def-cat n="не">
+    <def-cat n="ne">
       <cat-item lemma="не" tags="adv"/>
     </def-cat>
     <def-cat n="vbhaver_fin_neg">
@@ -109,6 +109,10 @@
       <attr-item tags="vbser"/>
       <attr-item tags="vbmod"/>
       <attr-item tags="vbhaver"/>
+    </def-attr>
+    <def-attr n="a_adv">
+      <attr-item tags="adv"/>
+      <attr-item tags="adv.itg"/>
     </def-attr>
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
@@ -928,7 +932,7 @@
     </rule>
     <rule comment="REGLA: не-nom">
       <pattern>
-        <pattern-item n="не"/>
+        <pattern-item n="ne"/>
         <pattern-item n="guio"/>
         <pattern-item n="nom"/>
       </pattern>
@@ -1059,7 +1063,7 @@
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="np_chunk_s"/></tag>
               <tag><var n="defin"/></tag>
-              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+              <tag><clip pos="2" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
               <var n="np_chunk_h"/>
@@ -1571,6 +1575,77 @@
         </out>
       </action>
     </rule>
+
+
+    <rule comment="REGLA: не требе да v_cop_fin">
+      <pattern>
+        <pattern-item n="ne"/>
+        <pattern-item n="trebe"/>
+        <pattern-item n="inf"/>
+        <pattern-item n="v_cop_fin"/>
+      </pattern>
+      <action>
+        <call-macro n="conv_verb_tense1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1">
+                <lit v="should"/>
+              </get-case-from>
+              <lit-tag v="vaux.inf"/>
+            </lu>
+            <b pos="1"/>
+            <lu> 
+              <clip pos="1" side="tl" part="lemh"/>> 
+              <clip pos="1" side="tl" part="a_adv"/>> 
+              <clip pos="1" side="tl" part="lemq"/>> 
+            </lu> 
+            <b pos="2"/>
+            <lu>
+              <lit v="be"/>
+              <lit-tag v="vbser.inf"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: требе да v_cop_fin">
+      <pattern>
+        <pattern-item n="trebe"/>
+        <pattern-item n="inf"/>
+        <pattern-item n="v_cop_fin"/>
+      </pattern>
+      <action>
+        <call-macro n="conv_verb_tense1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1">
+                <lit v="should"/>
+              </get-case-from>
+              <lit-tag v="vaux.inf"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="be"/>
+              <lit-tag v="vbser.inf"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: требе да prn_clitic v_pres">
       <pattern>

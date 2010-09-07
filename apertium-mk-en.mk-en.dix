@@ -399,6 +399,8 @@
     <e><p><l>трилион<s n="num"/></l><r>trillion<s n="num"/></r></p></e>
     <e><p><l>милијарда<s n="num"/></l><r>milliard<s n="num"/></r></p></e>
 
+    <e r="LR"><p><l>милионски<s n="num"/></l><r>million<s n="num"/></r></p></e> 
+
     <e><p><l>прв<s n="num"/></l><r>first<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>втор<s n="num"/></l><r>second<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>трет<s n="num"/></l><r>third<s n="adj"/><s n="ord"/></r></p></e>
@@ -423,6 +425,7 @@
     <e r="LR"><p><l>седумдесетти<s n="num"/></l><r>seventeenth<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>осумнаесетти<s n="num"/></l><r>eighteenth<s n="adj"/><s n="ord"/></r></p></e>
     <e r="LR"><p><l>осумдесетти<s n="num"/></l><r>eighteenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>деведесетти<s n="num"/></l><r>nineteenth<s n="adj"/><s n="ord"/></r></p></e>
 
     <!-- Nouns -->
 
