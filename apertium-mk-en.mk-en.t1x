@@ -127,6 +127,7 @@
     </def-attr>
     <def-attr n="a_num">
       <attr-item tags="num"/>
+      <attr-item tags="adj.ord"/>
     </def-attr>
     <def-attr n="pers">
       <attr-item tags="p1"/>
@@ -761,6 +762,20 @@
         <call-macro n="np_set_defnes1">
           <with-param pos="1"/>
         </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="tl" part="a_num"/>
+                <lit-tag v="adj.ord"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="nbr"/>
+              <lit v=""/>
+            </let>
+          </when>
+        </choose>
         <out>
           <chunk namefrom="np_chunk_n" case="caseFirstWord">
             <tags>

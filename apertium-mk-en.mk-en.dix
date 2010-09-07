@@ -7135,7 +7135,7 @@
     <e c="  0"><p><l>брои<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>count<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>брои<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>number<s n="vblex"/></r></p></e>
     <e slr="2"><p><l>брои<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>include<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>вежба<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>practice<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>вежба<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>practise<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>вели<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>say<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>вели<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>go<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>верификува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>verify<s n="vblex"/></r></p></e>
@@ -8868,6 +8868,7 @@
     <e><p><l>]<s n="rpar"/></l><r>]<s n="rpar"/></r></p></e>
     <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
     <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9]+([., ][0-9]+)?</re><p><l><b/>г.<s n="num"/></l><r><s n="num"/></r></p></e>
     <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
   </section>
 </dictionary>
