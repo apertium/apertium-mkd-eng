@@ -356,6 +356,7 @@
 
     <!-- Numerals -->
 
+    <e><p><l>нула<s n="num"/></l><r>zero<s n="num"/></r></p></e>
     <e><p><l>еден<s n="num"/></l><r>one<s n="num"/></r></p></e>
     <e r="LR"><p><l>два<s n="num"/></l><r>two<s n="num"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>два<s n="num"/><s n="ND"/></l><r>two<s n="num"/><s n="sp"/></r></p></e>
@@ -385,14 +386,33 @@
     <e><p><l>осумдесет<s n="num"/></l><r>eighty<s n="num"/></r></p></e>
     <e><p><l>деведесет<s n="num"/></l><r>ninety<s n="num"/></r></p></e>
     <e><p><l>сто<s n="num"/></l><r>hundred<s n="num"/></r></p></e>
+    <e><p><l>двесте<s n="num"/></l><r>two<b/>hundred<s n="num"/></r></p></e>
+    <e><p><l>триста<s n="num"/></l><r>three<b/>hundred<s n="num"/></r></p></e>
+    <e><p><l>петстотини<s n="num"/></l><r>five<b/>hundred<s n="num"/></r></p></e>
+    <e><p><l>шестотини<s n="num"/></l><r>six<b/>hundred<s n="num"/></r></p></e>
     <e><p><l>илјада<s n="num"/></l><r>thousand<s n="num"/></r></p></e>
     <e><p><l>милион<s n="num"/></l><r>million<s n="num"/></r></p></e>
+    <e><p><l>трилион<s n="num"/></l><r>trillion<s n="num"/></r></p></e>
     <e><p><l>милијарда<s n="num"/></l><r>milliard<s n="num"/></r></p></e>
 
     <e><p><l>прв<s n="num"/></l><r>first<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>втор<s n="num"/></l><r>second<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>трет<s n="num"/></l><r>third<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>четврти<s n="num"/></l><r>fourth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>петти<s n="num"/></l><r>fifth<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>шести<s n="num"/></l><r>sixth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>седми<s n="num"/></l><r>seventh<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>осми<s n="num"/></l><r>eighth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>деветти<s n="num"/></l><r>ninth<s n="adj"/><s n="ord"/></r></p></e>
+    <e r="LR"><p><l>девети<s n="num"/></l><r>ninth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>десетти<s n="num"/></l><r>tenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>единаесетти<s n="num"/></l><r>eleventh<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>дванаесетти<s n="num"/></l><r>twelfth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>тринаесетти<s n="num"/></l><r>thirteenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>петнаесетти<s n="num"/></l><r>fifteenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>шеснаесетти<s n="num"/></l><r>sixteenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>седумнаесетти<s n="num"/></l><r>seventeenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>осумнаесетти<s n="num"/></l><r>eighteenth<s n="adj"/><s n="ord"/></r></p></e>
 
     <!-- Nouns -->
 
