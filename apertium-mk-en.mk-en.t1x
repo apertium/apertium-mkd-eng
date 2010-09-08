@@ -51,6 +51,9 @@
       <cat-item tags="vbhaver.pres"/>
       <cat-item tags="vbhaver.pres.*"/>
     </def-cat>
+    <def-cat n="v_cop_fin_pres">
+      <cat-item tags="vbser.pres.*"/>
+    </def-cat>
     <def-cat n="v_cop_fin">
       <cat-item tags="vbser.pres.*"/>
       <cat-item tags="vbser.pii.*"/>
@@ -1615,11 +1618,42 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: требе да v_cop_fin">
+    <rule comment="REGLA: ќе v_cop_fin_pres">
+      <pattern>
+        <pattern-item n="exp"/>
+        <pattern-item n="v_cop_fin_pres"/>
+      </pattern>
+      <action>
+        <call-macro n="conv_verb_tense1">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1">
+                <lit v="will"/>
+              </get-case-from>
+              <lit-tag v="vaux.inf"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="be"/>
+              <lit-tag v="vbser.inf"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: требе да v_cop_fin_pres">
       <pattern>
         <pattern-item n="trebe"/>
         <pattern-item n="inf"/>
-        <pattern-item n="v_cop_fin"/>
+        <pattern-item n="v_cop_fin_pres"/>
       </pattern>
       <action>
         <call-macro n="conv_verb_tense1">

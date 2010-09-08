@@ -1,12 +1,12 @@
    3922 очекува<vblex><imperf><tv>
-   3630 состане<vblex><perf><tv>
+   3629 состане<vblex><perf><tv>
     798 соочува<vblex><imperf><tv>
     566 приклучи<vblex><perf><tv>
     553 победи<vblex><perf><tv>/победи<vblex><perf><iv>
     531 однесува<vblex><imperf><tv>
     529 познае<vblex><perf><tv>
     423 пронајде<vblex><perf><tv>
-    420 стори<vblex><perf><tv>
+    419 стори<vblex><perf><tv>
     412 уследи<vblex><perf><tv>
     411 важи<vblex><imperf><iv>
     368 сочинува<vblex><imperf><tv>
@@ -39,7 +39,7 @@
     169 изведе<vblex><perf><tv>
     163 нагласи<vblex><perf><tv>
     154 произлегува<vblex><imperf><iv>
-    150 напади<vblex><imperf><tv>
+    149 напади<vblex><imperf><tv>
     148 избие<vblex><perf><tv>
     146 истекува<vblex><imperf><tv>
     137 заложи<vblex><perf><tv>
@@ -52,8 +52,8 @@
     124 обелодени<vblex><perf><tv>
     112 должи<vblex><imperf><tv>
     109 напише<vblex><perf><tv>
-    101 пресуди<vblex><perf><tv>
     101 положи<vblex><perf><tv>
+    100 пресуди<vblex><perf><tv>
      94 става<vblex><perf><tv>
      91 застане<vblex><perf><iv>
      89 емитува<vblex><imperf><tv>
@@ -185,7 +185,6 @@
      12 занемарува<vblex><imperf><tv>
      11 споредува<vblex><imperf><tv>
      11 расчистува<vblex><imperf><tv>
-     11 расправи<vblex><perf><tv>
      11 продлабочува<vblex><imperf><tv>
      11 претпочитува<vblex><imperf><tv>
      11 преовладува<vblex><imperf><tv>
@@ -196,6 +195,7 @@
      11 заобиколува<vblex><imperf><tv>
      10 удира<vblex><imperf><tv>
      10 толкува<vblex><imperf><tv>
+     10 расправи<vblex><perf><tv>
      10 распоредува<vblex><imperf><tv>
      10 разгорува<vblex><imperf><tv>
      10 претрпува<vblex><imperf><tv>
