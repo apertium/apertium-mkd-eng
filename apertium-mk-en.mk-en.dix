@@ -72,12 +72,15 @@
     <sdef n="sent"     c="End of sentence marker"/>
   </sdefs>
   <pardefs>
-    <pardef n="исток__east__n">
+    <pardef n="четири_four__num">
+      <e><p><l></l><r><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="исток_east__n">
       <e r="LR"><p><l><s n="sg"/></l><r><s n="sg"/></r></p></e>
       <e r="LR"><p><l><s n="pl"/></l><r><s n="sg"/></r></p></e>
       <e r="RL"><p><l><s n="GD"/></l><r><s n="sg"/></r></p></e>
     </pardef>
-    <pardef n="полиција__police__n">
+    <pardef n="полиција_police__n">
       <e r="LR"><p><l><s n="sg"/></l><r><s n="pl"/></r></p></e>
       <e r="LR"><p><l><s n="pl"/></l><r><s n="pl"/></r></p></e>
       <e r="RL"><p><l><s n="GD"/></l><r><s n="pl"/></r></p></e>
@@ -358,46 +361,45 @@
 
     <!-- Numerals -->
 
-    <e><p><l>нула<s n="num"/></l><r>zero<s n="num"/></r></p></e>
-    <e><p><l>еден<s n="num"/></l><r>one<s n="num"/></r></p></e>
-    <e r="LR"><p><l>два<s n="num"/></l><r>two<s n="num"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>два<s n="num"/><s n="ND"/></l><r>two<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>три<s n="num"/></l><r>three<s n="num"/></r></p></e>
-    <e><p><l>четири<s n="num"/></l><r>four<s n="num"/></r></p></e>
-    <e><p><l>пет<s n="num"/></l><r>five<s n="num"/></r></p></e>
-    <e><p><l>шест<s n="num"/></l><r>six<s n="num"/></r></p></e>
-    <e><p><l>седум<s n="num"/></l><r>seven<s n="num"/></r></p></e>
-    <e><p><l>осум<s n="num"/></l><r>eight<s n="num"/></r></p></e>
-    <e><p><l>девет<s n="num"/></l><r>nine<s n="num"/></r></p></e>
-    <e><p><l>десет<s n="num"/></l><r>ten<s n="num"/></r></p></e>
-    <e><p><l>единаесет<s n="num"/></l><r>eleven<s n="num"/></r></p></e>
-    <e><p><l>дванаесет<s n="num"/></l><r>twelve<s n="num"/></r></p></e>
-    <e><p><l>тринаесет<s n="num"/></l><r>thirteen<s n="num"/></r></p></e>
-    <e><p><l>четиринаесет<s n="num"/></l><r>fourteen<s n="num"/></r></p></e>
-    <e><p><l>петнаесет<s n="num"/></l><r>fifteen<s n="num"/></r></p></e>
-    <e><p><l>шеснаесет<s n="num"/></l><r>sixteen<s n="num"/></r></p></e>
-    <e><p><l>седумнаесет<s n="num"/></l><r>seventeen<s n="num"/></r></p></e>
-    <e><p><l>осумнаесет<s n="num"/></l><r>eighteen<s n="num"/></r></p></e>
-    <e><p><l>деветнаесет<s n="num"/></l><r>nineteen<s n="num"/></r></p></e>
-    <e><p><l>дваесет<s n="num"/></l><r>twenty<s n="num"/></r></p></e>
-    <e><p><l>триесет<s n="num"/></l><r>thirty<s n="num"/></r></p></e>
-    <e><p><l>четириесет<s n="num"/></l><r>fourty<s n="num"/></r></p></e>
-    <e><p><l>педесет<s n="num"/></l><r>fifty<s n="num"/></r></p></e>
-    <e><p><l>шеесет<s n="num"/></l><r>sixty<s n="num"/></r></p></e>
-    <e><p><l>седумдесет<s n="num"/></l><r>seventy<s n="num"/></r></p></e>
-    <e><p><l>осумдесет<s n="num"/></l><r>eighty<s n="num"/></r></p></e>
-    <e><p><l>деведесет<s n="num"/></l><r>ninety<s n="num"/></r></p></e>
-    <e><p><l>сто<s n="num"/></l><r>hundred<s n="num"/></r></p></e>
-    <e><p><l>двесте<s n="num"/></l><r>two<b/>hundred<s n="num"/></r></p></e>
-    <e><p><l>триста<s n="num"/></l><r>three<b/>hundred<s n="num"/></r></p></e>
-    <e><p><l>петстотини<s n="num"/></l><r>five<b/>hundred<s n="num"/></r></p></e>
-    <e><p><l>шестотини<s n="num"/></l><r>six<b/>hundred<s n="num"/></r></p></e>
-    <e><p><l>седумстотини<s n="num"/></l><r>seven<b/>hundred<s n="num"/></r></p></e>
-    <e><p><l>илјада<s n="num"/></l><r>thousand<s n="num"/></r></p></e>
-    <e r="LR"><p><l>илјадница<s n="num"/></l><r>thousand<s n="num"/></r></p></e>
-    <e><p><l>милион<s n="num"/></l><r>million<s n="num"/></r></p></e>
-    <e><p><l>трилион<s n="num"/></l><r>trillion<s n="num"/></r></p></e>
-    <e><p><l>милијарда<s n="num"/></l><r>milliard<s n="num"/></r></p></e>
+    <e><p><l>нула<s n="num"/></l><r>zero<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>еден<s n="num"/></l><r>one<s n="num"/></r></p><par n="исток_east__n"/></e>
+    <e><p><l>два<s n="num"/></l><r>two<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>три<s n="num"/></l><r>three<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>четири<s n="num"/></l><r>four<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>пет<s n="num"/></l><r>five<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>шест<s n="num"/></l><r>six<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>седум<s n="num"/></l><r>seven<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>осум<s n="num"/></l><r>eight<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>девет<s n="num"/></l><r>nine<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>десет<s n="num"/></l><r>ten<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>единаесет<s n="num"/></l><r>eleven<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>дванаесет<s n="num"/></l><r>twelve<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>тринаесет<s n="num"/></l><r>thirteen<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>четиринаесет<s n="num"/></l><r>fourteen<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>петнаесет<s n="num"/></l><r>fifteen<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>шеснаесет<s n="num"/></l><r>sixteen<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>седумнаесет<s n="num"/></l><r>seventeen<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>осумнаесет<s n="num"/></l><r>eighteen<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>деветнаесет<s n="num"/></l><r>nineteen<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>дваесет<s n="num"/></l><r>twenty<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>триесет<s n="num"/></l><r>thirty<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>четириесет<s n="num"/></l><r>fourty<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>педесет<s n="num"/></l><r>fifty<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>шеесет<s n="num"/></l><r>sixty<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>седумдесет<s n="num"/></l><r>seventy<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>осумдесет<s n="num"/></l><r>eighty<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>деведесет<s n="num"/></l><r>ninety<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>сто<s n="num"/></l><r>hundred<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>двесте<s n="num"/></l><r>two<b/>hundred<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>триста<s n="num"/></l><r>three<b/>hundred<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>петстотини<s n="num"/></l><r>five<b/>hundred<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>шестотини<s n="num"/></l><r>six<b/>hundred<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>седумстотини<s n="num"/></l><r>seven<b/>hundred<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>илјада<s n="num"/></l><r>thousand<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e r="LR"><p><l>илјадница<s n="num"/></l><r>thousand<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>милион<s n="num"/></l><r>million<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>трилион<s n="num"/></l><r>trillion<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>милијарда<s n="num"/></l><r>milliard<s n="num"/></r></p><par n="четири_four__num"/></e>
 
     <e r="LR"><p><l>милионски<s n="num"/></l><r>million<s n="num"/></r></p></e> 
 
@@ -1461,7 +1463,7 @@
     <e c="  0"><p><l>исполнување<s n="n"/><s n="nt"/></l><r>fulfillment<s n="n"/></r></p></e>
     <e c="  0"><p><l>испраќање<s n="n"/><s n="nt"/></l><r>deployment<s n="n"/></r></p></e>
     <e slr="1"><p><l>испраќање<s n="n"/><s n="nt"/></l><r>sending<s n="n"/></r></p></e>
-    <e c="  0"><p><l>исток<s n="n"/><s n="m"/></l><r>east<s n="n"/></r></p><par n="исток__east__n"/></e>
+    <e c="  0"><p><l>исток<s n="n"/><s n="m"/></l><r>east<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>историја<s n="n"/><s n="f"/></l><r>history<s n="n"/></r></p></e>
     <e c="  0"><p><l>истрага<s n="n"/><s n="f"/></l><r>investigation<s n="n"/></r></p></e>
     <e slr="1"><p><l>истрага<s n="n"/><s n="f"/></l><r>inquiry<s n="n"/></r></p></e>
@@ -2140,7 +2142,7 @@
     <e c="  0"><p><l>пензија<s n="n"/><s n="f"/></l><r>pension<s n="n"/></r></p></e>
     <e c="  0"><p><l>перење<s n="n"/><s n="nt"/></l><r>laundering<s n="n"/></r></p></e>
     <e c="  0"><p><l>период<s n="n"/><s n="m"/></l><r>period<s n="n"/></r></p></e>
-    <e c="  0"><p><l>персонал<s n="n"/><s n="m"/></l><r>personnel<s n="n"/></r></p><par n="полиција__police__n"/></e>
+    <e c="  0"><p><l>персонал<s n="n"/><s n="m"/></l><r>personnel<s n="n"/></r></p><par n="полиција_police__n"/></e>
     <e slr="1"><p><l>персонал<s n="n"/><s n="m"/></l><r>staff<s n="n"/></r></p></e>
     <e c="  0"><p><l>перспектива<s n="n"/><s n="f"/></l><r>perspective<s n="n"/></r></p></e>
     <e c="  0"><p><l>песна<s n="n"/><s n="f"/></l><r>song<s n="n"/></r></p></e>
@@ -2192,7 +2194,7 @@
     <e c="  0"><p><l>поле<s n="n"/><s n="nt"/></l><r>field<s n="n"/></r></p></e>
     <e c="  0"><p><l>полицаец<s n="n"/><s n="m"/></l><r>policeman<s n="n"/></r></p></e>
     <e slr="1"><p><l>полицаец<s n="n"/><s n="m"/></l><r>police<b/>officer<s n="n"/></r></p></e>
-    <e c="  0"><p><l>полиција<s n="n"/><s n="f"/></l><r>police<s n="n"/></r></p><par n="полиција__police__n"/></e>
+    <e c="  0"><p><l>полиција<s n="n"/><s n="f"/></l><r>police<s n="n"/></r></p><par n="полиција_police__n"/></e>
     <e c="  0"><p><l>половина<s n="n"/><s n="f"/></l><r>half<s n="n"/></r></p></e>
     <e c="  0"><p><l>помирување<s n="n"/><s n="nt"/></l><r>reconciliation<s n="n"/></r></p></e>
     <e slr="1"><p><l>помирување<s n="n"/><s n="nt"/></l><r>conciliation<s n="n"/></r></p></e>
@@ -2548,7 +2550,7 @@
     <e slr="2"><p><l>степен<s n="n"/><s n="f"/></l><r>magnitude<s n="n"/></r></p></e>
     <e slr="3"><p><l>степен<s n="n"/><s n="f"/></l><r>extent<s n="n"/></r></p></e>
     <e c="  0"><p><l>стил<s n="n"/><s n="m"/></l><r>style<s n="n"/></r></p></e>
-    <e c="  0"><p><l>стока<s n="n"/><s n="f"/></l><r>goods<s n="n"/></r></p><par n="полиција__police__n"/></e>
+    <e c="  0"><p><l>стока<s n="n"/><s n="f"/></l><r>goods<s n="n"/></r></p><par n="полиција_police__n"/></e>
     <e c="  0"><p><l>стотица<s n="n"/><s n="f"/></l><r>hundred<s n="n"/></r></p></e>
     <e c="  0"><p><l>страница<s n="n"/><s n="f"/></l><r>site<s n="n"/></r></p></e>
     <e slr="1"><p><l>страница<s n="n"/><s n="f"/></l><r>website<s n="n"/></r></p></e>
@@ -3105,7 +3107,7 @@
     <e slr="1"><p><l>несогласување<s n="n"/><s n="nt"/></l><r>contention<s n="n"/></r></p></e>
     <e c="  0"><p><l>носење<s n="n"/><s n="nt"/></l><r>wearing<s n="n"/></r></p></e>
     <e c="  0"><p><l>обврзница<s n="n"/><s n="f"/></l><r>bond<s n="n"/></r></p></e>
-    <e c="  0"><p><l>обештетување<s n="n"/><s n="nt"/></l><r>damages<s n="n"/></r></p><par n="полиција__police__n"/></e>
+    <e c="  0"><p><l>обештетување<s n="n"/><s n="nt"/></l><r>damages<s n="n"/></r></p><par n="полиција_police__n"/></e>
     <e c="  0"><p><l>објаснување<s n="n"/><s n="nt"/></l><r>explanation<s n="n"/></r></p></e>
     <e c="  0"><p><l>овластување<s n="n"/><s n="nt"/></l><r>authorisation<s n="n"/></r></p></e>
     <e c="  0"><p><l>оданочување<s n="n"/><s n="nt"/></l><r>taxation<s n="n"/></r></p></e>
