@@ -46,6 +46,7 @@
     </def-cat>
     <def-cat n="v_lp_aor">
       <cat-item tags="vblex.*.*.lp.aor.*"/>
+      <cat-item tags="vblex.*.*.lp.pii.*"/>
     </def-cat>
     <def-cat n="v_fin">
       <cat-item tags="vblex.*.*.pres.*"/>
@@ -1825,6 +1826,43 @@
         </out>
       </action>
     </rule>
+
+
+    <rule comment="REGLA: ќе мора да prn_clitic v_pres">
+      <pattern>
+        <pattern-item n="exp"/>
+        <pattern-item n="mora"/>
+        <pattern-item n="inf"/>
+        <pattern-item n="prn_clitic"/>
+        <pattern-item n="v_pres"/>
+      </pattern>
+      <action>
+        <call-macro n="conv_verb_tense1">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1">
+                <lit v="must"/>
+              </get-case-from>
+              <lit-tag v="vaux.inf"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="5" side="tl" part="lemh"/>
+              <clip pos="5" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+              <clip pos="5" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
   </section-rules>
 </transfer>

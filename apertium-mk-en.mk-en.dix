@@ -254,6 +254,14 @@
     <e c="  0"><p><l>кон<s n="pr"/></l><r>towards<s n="pr"/></r></p></e>
     <e slr="1"><p><l>кон<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
 
+    <e c="  0"><p><l>ипокрај<s n="pr"/></l><r>despite<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>ипокрај<s n="pr"/></l><r>even<b/>with<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>во<b/>висина<b/>од<s n="pr"/></l><r>in<b/>the<b/>amount<b/>of<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>во<b/>висина<b/>од<s n="pr"/></l><r>at<b/>the<b/>height<b/>of<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>долж<s n="pr"/></l><r>along<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>во<b/>траење<b/>од<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>во<b/>траење<b/>од<s n="pr"/></l><r>for<b/>the<b/>duration<b/>of<s n="pr"/></r></p></e>
+
     <!-- Conjunctions -->
    
     <e><p><l>и<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
@@ -410,6 +418,7 @@
     <e><p><l>милијарда<s n="num"/></l><r>milliard<s n="num"/></r></p><par n="четири_four__num"/></e>
 
     <e r="LR"><p><l>милионски<s n="num"/></l><r>million<s n="num"/></r></p></e> 
+    <e r="LR"><p><l>илјаден<s n="num"/></l><r>thousand<s n="num"/></r></p></e> 
 
     <e><p><l>прв<s n="num"/></l><r>first<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>втор<s n="num"/></l><r>second<s n="adj"/><s n="ord"/></r></p></e>
@@ -7076,6 +7085,190 @@
     <e><p><l>автобиографски<s n="adj"/></l><r>autobiographical<s n="adj"/></r></p></e>
 
 
+    <e c="  0"><p><l>предводен<s n="adj"/></l><r>led<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>уапсен<s n="adj"/></l><r>arrested<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>низок<s n="adj"/></l><r>low<s n="adj"/><s n="sint"/></r></p></e>
+    <e c="  0"><p><l>осуден<s n="adj"/></l><r>sentenced<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>визен<s n="adj"/></l><r>visa<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>вклучен<s n="adj"/></l><r>involved<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>закажан<s n="adj"/></l><r>scheduled<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>традиционален<s n="adj"/></l><r>traditional<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>железнички<s n="adj"/></l><r>rail<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>образовен<s n="adj"/></l><r>educational<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>месечен<s n="adj"/></l><r>monthly<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>испратен<s n="adj"/></l><r>follow<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>одложен<s n="adj"/></l><r>delayed<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>пронајден<s n="adj"/></l><r>found<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>безбеден<s n="adj"/></l><r>secure<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>чешки<s n="adj"/></l><r>Czech<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>строг<s n="adj"/></l><r>strict<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>прекуграничен<s n="adj"/></l><r>cross-country<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>еколошки<s n="adj"/></l><r>ecological<s n="adj"/></r></p></e>
+    <e slr="1"><p><l>еколошки<s n="adj"/></l><r>environmental<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>распореден<s n="adj"/></l><r>serving<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>претставен<s n="adj"/></l><r>presented<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>неприфатлив<s n="adj"/></l><r>unacceptable<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>насочен<s n="adj"/></l><r>aimed<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>паравоен<s n="adj"/></l><r>paramilitary<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>неформален<s n="adj"/></l><r>informal<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>секуларен<s n="adj"/></l><r>secular<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>смртен<s n="adj"/></l><r>death<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>воздухопловен<s n="adj"/></l><r>air<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>истражувачки<s n="adj"/></l><r>research<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>искористен<s n="adj"/></l><r>tapped<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>откриен<s n="adj"/></l><r>discovered<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>длабок<s n="adj"/></l><r>deep<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>сомнителен<s n="adj"/></l><r>suspected<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>мнозински<s n="adj"/></l><r>majority<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>окружен<s n="adj"/></l><r>district<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>взаемен<s n="adj"/></l><r>joint<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>спонзориран<s n="adj"/></l><r>sponsored<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>доживотен<s n="adj"/></l><r>life-long<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>доделен<s n="adj"/></l><r>extended<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>притворен<s n="adj"/></l><r>returned<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>одржлив<s n="adj"/></l><r>sustainable<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>релевантен<s n="adj"/></l><r>relevant<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>егејски<s n="adj"/></l><r>Adriatic<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>одржан<s n="adj"/></l><r>held<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>борбен<s n="adj"/></l><r>battle<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>земунски<s n="adj"/></l><r>Zemun<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>еднодневен<s n="adj"/></l><r>one-day<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>несрпски<s n="adj"/></l><r>non-Serb<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>прогласен<s n="adj"/></l><r>observed<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>невозможен<s n="adj"/></l><r>impossible<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>патнички<s n="adj"/></l><r>travel<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>бригаден<s n="adj"/></l><r>brigadier<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>рамковен<s n="adj"/></l><r>framework<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>рачен<s n="adj"/></l><r>propelled<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>нареден<s n="adj"/></l><r>ordered<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>квадратен<s n="adj"/></l><r>square<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>невработен<s n="adj"/></l><r>unemployed<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>индиректен<s n="adj"/></l><r>indirect<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>зголемен<s n="adj"/></l><r>increased<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>номиниран<s n="adj"/></l><r>nominated<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>самостоен<s n="adj"/></l><r>solo<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>кубен<s n="adj"/></l><r>cubic<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>обвинителски<s n="adj"/></l><r>prosecutorial<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>недвижен<s n="adj"/></l><r>real-estate<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>јонски<s n="adj"/></l><r>Ionian<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>реизбран<s n="adj"/></l><r>re-elected<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>тутунски<s n="adj"/></l><r>tobacco<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>нето<s n="adj"/></l><r>net<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>поканет<s n="adj"/></l><r>invited<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>жупански<s n="adj"/></l><r>county<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>грузиски<s n="adj"/></l><r>Georgian<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>тетовски<s n="adj"/></l><r>Tetovan<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>осигурителен<s n="adj"/></l><r>insurance<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>прокурдистански<s n="adj"/></l><r>pro-Kurdish<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>исполнет<s n="adj"/></l><r>approved<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>регистарски<s n="adj"/></l><r>registration<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>побаран<s n="adj"/></l><r>asked<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>внатрепартиски<s n="adj"/></l><r>party-internal<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>неколкудецениски<s n="adj"/></l><r>decades-long<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>моден<s n="adj"/></l><r>fashion<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>определен<s n="adj"/></l><r>presented<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>одбојкарски<s n="adj"/></l><r>volleyball<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>велигденски<s n="adj"/></l><r>Easter<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>централнодесничарски<s n="adj"/></l><r>centre-right<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>антитенковски<s n="adj"/></l><r>anti-tank<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>илирски<s n="adj"/></l><r>Illyrian<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>земен<s n="adj"/></l><r>taken<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>противпешадиски<s n="adj"/></l><r>anti-personnel<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>стражарски<s n="adj"/></l><r>guard<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>кадровски<s n="adj"/></l><r>personnel<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>доверителски<s n="adj"/></l><r>monetary<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>холивудски<s n="adj"/></l><r>Hollywood<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>регистерски<s n="adj"/></l><r>registration<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>наречен<s n="adj"/></l><r>titled<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>меѓуминистерски<s n="adj"/></l><r>interministerial<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>малолетен<s n="adj"/></l><r>underage<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>вински<s n="adj"/></l><r>wine<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>пожарникарски<s n="adj"/></l><r>firefighting<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>арт<s n="adj"/></l><r>art<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>шверцерски<s n="adj"/></l><r>smuggling<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>манастирски<s n="adj"/></l><r>monastery<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>етрурски<s n="adj"/></l><r>Etruscan<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>сунитски<s n="adj"/></l><r>Sunni<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>системски<s n="adj"/></l><r>systematic<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>коњски<s n="adj"/></l><r>horse<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>прославен<s n="adj"/></l><r>pro-Slav<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>мерен<s n="adj"/></l><r>measurement<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>магистерски<s n="adj"/></l><r>master's<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>винарски<s n="adj"/></l><r>wine<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>студиски<s n="adj"/></l><r>study<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>снајперски<s n="adj"/></l><r>sniper<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>ловџиски<s n="adj"/></l><r>shotgun<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>императорски<s n="adj"/></l><r>imperial<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>грнчарски<s n="adj"/></l><r>pottery<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>варшавски<s n="adj"/></l><r>Warsaw<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>тенковски<s n="adj"/></l><r>tank<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>противтенковски<s n="adj"/></l><r>anti-tank<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>нехигиенски<s n="adj"/></l><r>unhygienic<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>нервен<s n="adj"/></l><r>nerve<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>некоректен<s n="adj"/></l><r>imprecise<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>инвеститорски<s n="adj"/></l><r>investment<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>занаетчиски<s n="adj"/></l><r>craft<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>железничарски<s n="adj"/></l><r>railway<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>дистрибуциски<s n="adj"/></l><r>distribution<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>директорски<s n="adj"/></l><r>director<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>гувернерски<s n="adj"/></l><r>governor<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>горски<s n="adj"/></l><r>mountain<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>голански<s n="adj"/></l><r>Golan<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>гаранциски<s n="adj"/></l><r>guarantee<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>брокерски<s n="adj"/></l><r>broker<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>александриски<s n="adj"/></l><r>Alexandrian<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>акциски<s n="adj"/></l><r>action<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>шпедитерски<s n="adj"/></l><r>shipping<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>шеријатски<s n="adj"/></l><r>Sharia<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>членски<s n="adj"/></l><r>membership<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>томографски<s n="adj"/></l><r>tomographical<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>реставрациски<s n="adj"/></l><r>restoration<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>поствизантиски<s n="adj"/></l><r>post-Byzantine<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>позиционерски<s n="adj"/></l><r>positioning<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>конзерваторски<s n="adj"/></l><r>conservation<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>картонски<s n="adj"/></l><r>plastic<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>јаничарски<s n="adj"/></l><r>janissary<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>интеграциски<s n="adj"/></l><r>integration<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>инспекторски<s n="adj"/></l><r>investigation<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>илинденски<s n="adj"/></l><r>Ilinden<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>измирски<s n="adj"/></l><r>Izmir<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>готварски<s n="adj"/></l><r>cooking<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>варварски<s n="adj"/></l><r>barbaric<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>амандмански<s n="adj"/></l><r>ammendment<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>хилендарски<s n="adj"/></l><r>highland<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>функционерски<s n="adj"/></l><r>civil<b/>service<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>фармакотерапевтски<s n="adj"/></l><r>pharmacotherapeutic<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>угледен<s n="adj"/></l><r>reputable<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>тројански<s n="adj"/></l><r>Troy<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>трансмиторски<s n="adj"/></l><r>transmission<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>тандемски<s n="adj"/></l><r>tandem<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>суперминистерски<s n="adj"/></l><r>super-ministerial<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>ротациски<s n="adj"/></l><r>rotational<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>ренесански<s n="adj"/></l><r>Renaissance<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>прокосовски<s n="adj"/></l><r>pro-Kosovo<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>предримски<s n="adj"/></l><r>pre-Roman<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>парфимериски<s n="adj"/></l><r>perfumery<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>операторски<s n="adj"/></l><r>operational<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>океански<s n="adj"/></l><r>oceanic<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>неспортски<s n="adj"/></l><r>non-sports<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>неруски<s n="adj"/></l><r>non-Russian<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>менторски<s n="adj"/></l><r>mentoring<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>мезолитски<s n="adj"/></l><r>mesolithic<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>меѓуцивилизациски<s n="adj"/></l><r>inter-civilisation<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>кредиторски<s n="adj"/></l><r>creditor<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>конвенциски<s n="adj"/></l><r>convention<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>задушен<s n="adj"/></l><r>clogged<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>жандермериски<s n="adj"/></l><r>gendarmerie<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>диверзантски<s n="adj"/></l><r>raider<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>демонстрациски<s n="adj"/></l><r>demonstration<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>блогерски<s n="adj"/></l><r>blogging<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>биоземјоделски<s n="adj"/></l><r>bioagricultural<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>библиотекарски<s n="adj"/></l><r>library<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>безгаранциски<s n="adj"/></l><r>non-guaranteed<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>амфитеатарски<s n="adj"/></l><r>ampitheatre<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>администраторски<s n="adj"/></l><r>administrator<s n="adj"/></r></p></e>
+
+
     <!-- Adverbs -->
 
     <e c="  0"><p><l>не<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
@@ -7095,6 +7288,20 @@
     <e slr="1"><p><l>сепак<s n="adv"/></l><r>for<b/>the<b/>time<b/>being<s n="adv"/></r></p></e>
     <e><p><l>најмалку<s n="adv"/></l><r>at<b/>least<s n="adv"/></r></p></e>
     <e><p><l>истовремено<s n="adv"/></l><r>at<b/>the<b/>same<b/>time<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>отколку<s n="adv"/></l><r>than<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>изгледа<s n="adv"/></l><r>seemingly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>сеуште<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>сеуште<s n="adv"/></l><r>yet<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>дотогаш<s n="adv"/></l><r>by<b/>then<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>настрана<s n="adv"/></l><r>outside<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>настрана<s n="adv"/></l><r>apart<b/>from<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>настрана<s n="adv"/></l><r>away<b/>from<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>настрана<s n="adv"/></l><r>wide<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>подеднакво<s n="adv"/></l><r>equally<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>напорно<s n="adv"/></l><r>hard<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>во<b/>просек<s n="adv"/></l><r>on<b/>average<s n="adv"/></r></p></e>
+
 
     <e c="  0"><p><l>многу<s n="adv"/></l><r>much<s n="adv"/></r></p></e>
     <e slr="1"><p><l>многу<s n="adv"/></l><r>a<b/>lot<s n="adv"/></r></p></e>
