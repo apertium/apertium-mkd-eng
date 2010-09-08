@@ -8,8 +8,11 @@ Multiple surface forms for a single lexical form
     920 Milošević/Milošević	^Milošević<np><cog><sg>$
     878 Basescu/Basescu	^Basescu<np><cog><sg>$
     380 Nastase/Nastase	^Nastase<np><cog><sg>$
+     28 lied/lain	^lie<vblex><pp>$
+      9 lied/lay	^lie<vblex><past>$
       3 VAN/VAN	^VAN<np><cog><sg>$
       2 NIKŠIĆ/NIKŠIĆ	^NIKŠIĆ<np><cog><sg>$
+      2 Lied/Lay	^Lie<vblex><past>$
       1 TESLIĆ/TESLIĆ	^TESLIĆ<np><cog><sg>$
       1 SANDANSKI/SANDANSKI	^SANDANSKI<np><cog><sg>$
       1 PALIĆ/PALIĆ	^PALIĆ<np><cog><sg>$
@@ -17,6 +20,7 @@ Multiple surface forms for a single lexical form
 ===============================================================================
 Multiple bidix entries for a single source language lexical form
 ===============================================================================
+      1 #defeat\<vblex\>\<imp\>\<pl\>\/disappear\<vblex\>\<imp\>\<pl\>	^defeat<vblex><imp><pl>/disappear<vblex><imp><pl>$
       1 #correction n="n"\/\>\<sg\>	^correction n="n"/><sg>$
 
 ===============================================================================
@@ -61,16 +65,16 @@ Tag mismatch between transfer and generation
     701 #press\<adj\>	^press<adj>$
     697 #The\<det\>\<def\>	^The<det><def>$
     682 #Balkan\<n\>\<sg\>	^Balkan<n><sg>$
+    667 take over	^take<vblex><inf># over$
     650 #armed\<adj\>	^armed<adj>$
-    629 take over	^take<vblex><inf># over$
+    609 took over	^take<vblex><past># over$
     605 #further\<adj\>	^further<adj>$
     603 #The\<det\>\<def\>\<sp\>	^The<det><def><sp>$
-    603 took over	^take<vblex><past># over$
     586 #comprehensively\<adv\>	^comprehensively<adv>$
     586 #Abdula\<np\>\<ant\>\<m\>\<sg\>	^Abdula<np><ant><m><sg>$
     572 #air\<adj\>	^air<adj>$
     554 #involved\<adj\>	^involved<adj>$
-    472 #welcome\<vblex\>\<pres\>\<p3\>\<sg\>	^welcome<vblex><pres><p3><sg>$
+    475 #welcome\<vblex\>\<pres\>\<p3\>\<sg\>	^welcome<vblex><pres><p3><sg>$
     458 #worker\<adj\>	^worker<adj>$
     439 #visa\<adj\>	^visa<adj>$
     439 #customs\<adj\>	^customs<adj>$
@@ -126,6 +130,7 @@ Tag mismatch between transfer and generation
     262 #investing\<adj\>	^investing<adj>$
     258 #this kind\<prn\>\<dem\>\<mf\>\<pl\>	^this kind<prn><dem><mf><pl>$
     257 #fetch\<vblex\>\<pres\>\<p3\>\<sg\>	^fetch<vblex><pres><p3><sg>$
+    257 #account\<vblex\>\<pres\>	^account<vblex><pres>$
     256 took place	^take<vblex><past># place$
     256 #recovered\<adj\>	^recovered<adj>$
     255 #entertaining\<adj\>	^entertaining<adj>$
@@ -183,6 +188,7 @@ Tag mismatch between transfer and generation
     184 #market\<adj\>	^market<adj>$
     183 #into consideration\<adv\>	^into consideration<adv>$
     181 #delayed\<adj\>	^delayed<adj>$
+    179 #expire\<vblex\>\<pres\>\<p3\>\<sg\>	^expire<vblex><pres><p3><sg>$
     178 #such kind\<prn\>\<dem\>\<mf\>\<pl\>	^such kind<prn><dem><mf><pl>$
     176 #SDSM\<abbr\>	^SDSM<abbr>$
     176 #Nebojša\<np\>\<ant\>\<m\>\<sg\>	^Nebojša<np><ant><m><sg>$
@@ -197,6 +203,7 @@ Tag mismatch between transfer and generation
     163 #Hashim\<np\>\<ant\>\<m\>\<sg\>	^Hashim<np><ant><m><sg>$
     163 #Hari\<np\>\<ant\>\<m\>\<sg\>	^Hari<np><ant><m><sg>$
     162 #serving\<adj\>	^serving<adj>$
+    160 #welcome\<vblex\>\<past\>	^welcome<vblex><past>$
     160 #Svetozar\<np\>\<ant\>\<m\>\<sg\>	^Svetozar<np><ant><m><sg>$
     158 #south-Eastern\<adj\>	^south-Eastern<adj>$
     158 #overall\<adj\>	^overall<adj>$
@@ -204,7 +211,6 @@ Tag mismatch between transfer and generation
     157 #so many\<adv\>	^so many<adv>$
     156 #Bajram\<np\>\<ant\>\<m\>\<sg\>	^Bajram<np><ant><m><sg>$
     156 #Agim\<np\>\<ant\>\<m\>\<sg\>	^Agim<np><ant><m><sg>$
-    155 #welcome\<vblex\>\<past\>	^welcome<vblex><past>$
     155 #telecom\<n\>\<sg\>	^telecom<n><sg>$
     155 #aimed\<adj\>	^aimed<adj>$
     154 #paramilitary\<adj\>	^paramilitary<adj>$
@@ -215,6 +221,8 @@ Tag mismatch between transfer and generation
     151 #death\<adj\>	^death<adj>$
     149 #failed\<adj\>	^failed<adj>$
     149 #Dora\<np\>\<ant\>\<f\>\<sg\>	^Dora<np><ant><f><sg>$
+    147 taken over	^take<vblex><pp># over$
+    145 #plead\<vblex\>\<pres\>\<p3\>\<sg\>	^plead<vblex><pres><p3><sg>$
     145 #Marija\<np\>\<ant\>\<f\>\<sg\>	^Marija<np><ant><f><sg>$
     145 #devoted\<adj\>	^devoted<adj>$
     144 #HINA\<abbr\>	^HINA<abbr>$
@@ -229,13 +237,14 @@ Tag mismatch between transfer and generation
     138 #Tomislav\<np\>\<ant\>\<m\>\<sg\>	^Tomislav<np><ant><m><sg>$
     137 #rich\<adj\>	^rich<adj>$
     137 #OVK\<abbr\>	^OVK<abbr>$
+    137 gave up	^give<vblex><past># up$
     136 #reported\<adj\>	^reported<adj>$
     136 #deep\<adj\>	^deep<adj>$
     135 #Thousand\<num\>\<sp\>	^Thousand<num><sp>$
     135 #Sulejman\<np\>\<ant\>\<m\>\<sg\>	^Sulejman<np><ant><m><sg>$
-    134 taken over	^take<vblex><pp># over$
     134 #infrastructure\<adj\>	^infrastructure<adj>$
     133 #majority\<adj\>	^majority<adj>$
+    132 #take\<vblex\>\<inf\># effect	^take<vblex><inf># effect$
     132 #carried\<adj\>	^carried<adj>$
     131 #suspected\<adj\>	^suspected<adj>$
     129 #Tasos\<np\>\<ant\>\<m\>\<sg\>	^Tasos<np><ant><m><sg>$
@@ -243,6 +252,7 @@ Tag mismatch between transfer and generation
     128 #deadly\<adj\>\<sint\>	^deadly<adj><sint>$
     128 #Condoleezza\<np\>\<ant\>\<f\>\<sg\>	^Condoleezza<np><ant><f><sg>$
     127 #life-long\<adj\>	^life-long<adj>$
+    127 give up	^give<vblex><inf># up$
     127 #district\<adj\>	^district<adj>$
     127 #beforehand\<adv\>	^beforehand<adv>$
     126 members of parliament	^member<n><pl># of parliament$
@@ -257,6 +267,7 @@ Tag mismatch between transfer and generation
     120 #extended\<adj\>	^extended<adj>$
     120 #emphasise\<vblex\>\<pp\>	^emphasise<vblex><pp>$
     120 #CIK\<abbr\>	^CIK<abbr>$
+    120 #authorise\<vblex\>\<pres\>\<p3\>\<sg\>	^authorise<vblex><pres><p3><sg>$
     119 #published\<adj\>	^published<adj>$
     119 #Nikolaj\<np\>\<ant\>\<m\>\<sg\>	^Nikolaj<np><ant><m><sg>$
     118 #inhabited\<adj\>	^inhabited<adj>$
@@ -303,6 +314,7 @@ Tag mismatch between transfer and generation
      97 #tank\<vblex\>\<pres\>\<p3\>\<sg\>	^tank<vblex><pres><p3><sg>$
      97 #corridor\<n\>\<sg\>	^corridor<n><sg>$
      95 #anti\<adj\>	^anti<adj>$
+     94 #wound\<vblex\>\<pp\>	^wound<vblex><pp>$
      94 #travel\<adj\>	^travel<adj>$
      94 #nursery\<adj\>	^nursery<adj>$
      94 #liberation\<adj\>	^liberation<adj>$
@@ -356,6 +368,7 @@ Tag mismatch between transfer and generation
      72 #Chemil\<np\>\<ant\>\<m\>\<sg\>	^Chemil<np><ant><m><sg>$
      71 #Tim\<np\>\<ant\>\<m\>\<sg\>	^Tim<np><ant><m><sg>$
      71 #resignation\<n\>\<pl\>	^resignation<n><pl>$
+     71 #plead\<vblex\>\<past\>	^plead<vblex><past>$
      71 #nominated\<adj\>	^nominated<adj>$
      71 #Mladjan\<np\>\<ant\>\<m\>\<sg\>	^Mladjan<np><ant><m><sg>$
      70 #solo\<adj\>	^solo<adj>$
@@ -377,6 +390,7 @@ Tag mismatch between transfer and generation
      65 #cutter\<n\>\<sg\>	^cutter<n><sg>$
      64 #underground\<adj\>	^underground<adj>$
      64 #Then\<adv\>	^Then<adv>$
+     64 #take\<vblex\>\<pres\>\<p3\>\<sg\># effect	^take<vblex><pres><p3><sg># effect$
      64 #prosecutorial\<adj\>	^prosecutorial<adj>$
      64 #Mihail\<np\>\<ant\>\<m\>\<sg\>	^Mihail<np><ant><m><sg>$
      64 #Liberation\<adj\>	^Liberation<adj>$
@@ -400,6 +414,7 @@ Tag mismatch between transfer and generation
      57 #plus\<pr\>	^plus<pr>$
      57 #be\<vbser\>\<pii\>\<nt\>\<sg\>	^be<vbser><lp><pii><nt><sg>$
      56 #wooden\<adj\>	^wooden<adj>$
+     56 #welcome\<vblex\>\<pp\>	^welcome<vblex><pp>$
      56 #Since then\<adv\>	^Since then<adv>$
      56 #ionian\<adj\>	^ionian<adj>$
      56 #avow\<vblex\>\<ger\>	^avow<vblex><ger>$
@@ -407,20 +422,25 @@ Tag mismatch between transfer and generation
      55 #neighbourly\<adj\>	^neighbourly<adj>$
      55 #inhabit\<vblex\>\<past\>	^inhabit<vblex><past>$
      55 #blocking\<n\>\<sg\>	^blocking<n><sg>$
+     54 #trail\<vblex\>\<pres\>\<p3\>\<sg\>	^trail<vblex><pres><p3><sg>$
+     54 #survey\<vblex\>\<pp\>	^survey<vblex><pp>$
      54 #student\<adj\>	^student<adj>$
      54 #ship\<adj\>	^ship<adj>$
      54 #Per\<np\>\<ant\>\<m\>\<sg\>	^Per<np><ant><m><sg>$
      53 #retaliation\<n\>\<sg\>	^retaliation<n><sg>$
      53 #readmission\<n\>\<sg\>	^readmission<n><sg>$
+     53 #plead\<vblex\>\<inf\>	^plead<vblex><inf>$
      52 #pledge\<vblex\>\<pres\>\<p3\>\<sg\>	^pledge<vblex><pres><p3><sg>$
+     51 #finalise\<vblex\>\<inf\>	^finalise<vblex><inf>$
      50 #tobacco\<adj\>	^tobacco<adj>$
+     50 #lay\<vblex\>\<pres\>\<p3\>\<sg\># down	^lay<vblex><pres><p3><sg># down$
+     50 #finalise\<vblex\>\<pp\>	^finalise<vblex><pp>$
      50 #cantonal\<adj\>	^cantonal<adj>$
      50 #assure\<vblex\>\<pp\>	^assure<vblex><pp>$
      49 #tennis\<adj\>	^tennis<adj>$
      49 #planned\<adj\>	^planned<adj>$
      49 #Dejan\<np\>\<ant\>\<m\>\<sg\>	^Dejan<np><ant><m><sg>$
      49 #biometric\<adj\>	^biometric<adj>$
-     48 #welcome\<vblex\>\<pp\>	^welcome<vblex><pp>$
      48 #Summer\<adj\>	^Summer<adj>$
      48 #hard\<adv\>	^hard<adv>$
      48 #extradite\<vblex\>\<past\>	^extradite<vblex><past>$
@@ -430,6 +450,8 @@ Tag mismatch between transfer and generation
      47 #telecommunications\<adj\>	^telecommunications<adj>$
      47 #have\<vbhaver\>\<pii\>\<nt\>\<sg\>	^have<vbhaver><neg><lp><pii><nt><sg>$
      47 #Employed\<adj\>	^Employed<adj>$
+     46 #survey\<vblex\>\<inf\>	^survey<vblex><inf>$
+     46 #account\<vblex\>\<inf\>	^account<vblex><inf>$
      45 #ratify\<vblex\>\<pp\>	^ratify<vblex><pp>$
      45 #opposition_candidate\<n\>\<sg\>	^opposition_candidate<n><sg>$
      45 #no kind\<prn\>\<ind\>\<nt\>\<sg\>\<m\>\<sg\>	^no kind<prn><ind><nt><sg><m><sg>$
@@ -437,6 +459,8 @@ Tag mismatch between transfer and generation
      45 #condolences\<n\>\<sg\>	^condolences<n><sg>$
      45 #car\<adj\>	^car<adj>$
      44 #retrieval\<n\>\<sg\>	^retrieval<n><sg>$
+     44 #mediate\<vblex\>\<inf\>	^mediate<vblex><inf>$
+     44 #dismantle\<vblex\>\<pres\>\<p3\>\<sg\>	^dismantle<vblex><pres><p3><sg>$
      44 #assure\<vblex\>\<past\>	^assure<vblex><past>$
      43 #Konstantin\<np\>\<ant\>\<m\>\<sg\>	^Konstantin<np><ant><m><sg>$
      43 #ill\<adv\>	^ill<adv>$
@@ -451,6 +475,8 @@ Tag mismatch between transfer and generation
      40 #software\<adj\>	^software<adj>$
      40 #net\<adj\>	^net<adj>$
      40 #infantry\<adj\>	^infantry<adj>$
+     40 #account\<vblex\>\<pres\>\<p3\>\<sg\>	^account<vblex><pres><p3><sg>$
+     39 #side\<vblex\>\<pp\>	^side<vblex><pp>$
      39 #Lynx\<n\>\<sg\>	^Lynx<n><sg>$
      38 #satellite\<adj\>	^satellite<adj>$
      38 #registration\<adj\>	^registration<adj>$
@@ -469,7 +495,10 @@ Tag mismatch between transfer and generation
      35 #Such kind\<prn\>\<dem\>\<mf\>\<pl\>	^Such kind<prn><dem><mf><pl>$
      35 #Morning\<adj\>	^Morning<adj>$
      35 #Hague\<adj\>	^Hague<adj>$
+     35 #dismantle\<vblex\>\<past\>	^dismantle<vblex><past>$
      34 #pan-European\<adj\>	^pan-European<adj>$
+     34 #lobby\<vblex\>\<inf\>	^lobby<vblex><inf>$
+     34 #lay\<vblex\>\<inf\># down	^lay<vblex><inf># down$
      33 #Such kind\<prn\>\<dem\>\<mf\>\<sg\>	^Such kind<prn><dem><mf><sg>$
      33 #opera\<adj\>	^opera<adj>$
      33 #no kind\<prn\>\<ind\>\<nt\>\<sg\>\<nt\>\<sg\>	^no kind<prn><ind><nt><sg><nt><sg>$
@@ -480,56 +509,75 @@ Tag mismatch between transfer and generation
      32 #programme\<adj\>	^programme<adj>$
      32 #kilometre\<adj\>	^kilometre<adj>$
      32 #bullying\<n\>\<sg\>	^bullying<n><sg>$
+     31 #wound\<vblex\>\<pres\>	^wound<vblex><pres>$
      31 #Pavel\<np\>\<ant\>\<m\>\<sg\>	^Pavel<np><ant><m><sg>$
      31 #organisation\<adj\>	^organisation<adj>$
      31 #avow\<vblex\>\<pres\>\<p3\>\<sg\>	^avow<vblex><pres><p3><sg>$
+     31 #authorise\<vblex\>\<ger\>	^authorise<vblex><ger>$
      30 takes part	^take<vblex><pres><p3><sg># part$
      30 #resume\<vblex\>\<pres\>	^resume<vblex><pres>$
      30 #pro-Kurdish\<adj\>	^pro-Kurdish<adj>$
      30 #plentiful\<adj\>	^plentiful<adj>$
      30 #intensivise\<vblex\>\<past\>	^intensivise<vblex><past>$
      30 #hotel\<adj\>	^hotel<adj>$
+     30 given up	^give<vblex><pp># up$
      30 #Armed\<adj\>	^Armed<adj>$
      29 #undermining\<n\>\<sg\>	^undermining<n><sg>$
      29 #must\<vaux\>\<pres\>\<p1\>\<pl\>	^must<vaux><pres><p1><pl>$
      29 #monastry\<n\>\<pl\>	^monastry<n><pl>$
      29 #Corridor\<n\>\<sg\>	^Corridor<n><sg>$
+     29 #carry\<vblex\>\<inf\># out	^carry<vblex><inf># out$
+     29 #authorise\<vblex\>\<pres\>	^authorise<vblex><pres>$
      29 #author\<adj\>	^author<adj>$
      28 #testing\<n\>\<pl\>	^testing<n><pl>$
+     28 #side\<vblex\>\<inf\>	^side<vblex><inf>$
+     28 #mediate\<vblex\>\<pres\>\<p3\>\<sg\>	^mediate<vblex><pres><p3><sg>$
      28 #depot\<n\>\<pl\>	^depot<n><pl>$
      28 consisted of	^consist<vblex><past># of$
      28 #climate\<adj\>	^climate<adj>$
+     28 #broadcast\<vblex\>\<inf\>	^broadcast<vblex><inf>$
      27 #pledge\<vblex\>\<pres\>	^pledge<vblex><pres>$
+     27 #mediate\<vblex\>\<past\>	^mediate<vblex><past>$
      27 #extradite\<vblex\>\<pres\>\<p3\>\<sg\>	^extradite<vblex><pres><p3><sg>$
+     27 #broadcast\<vblex\>\<pp\>	^broadcast<vblex><pp>$
      26 #supervisory\<adj\>	^supervisory<adj>$
      26 #Kiril\<np\>\<ant\>\<m\>\<sg\>	^Kiril<np><ant><m><sg>$
+     26 #finalise\<vblex\>\<past\>	^finalise<vblex><past>$
+     26 #expire\<vblex\>\<inf\>	^expire<vblex><inf>$
      25 #legendary\<adj\>	^legendary<adj>$
      24 #water\<adj\>	^water<adj>$
      24 #vigorous\<adj\>	^vigorous<adj>$
      24 #tetovan\<adj\>	^tetovan<adj>$
+     24 #survey\<vblex\>\<pres\>\<p3\>\<sg\>	^survey<vblex><pres><p3><sg>$
      24 #referendum\<adj\>	^referendum<adj>$
      24 #party-internal\<adj\>	^party-internal<adj>$
      24 #non-Albanian\<adj\>	^non-Albanian<adj>$
      24 #inhabit\<vblex\>\<inf\>	^inhabit<vblex><inf>$
      24 #Hristo\<np\>\<ant\>\<m\>\<sg\>	^Hristo<np><ant><m><sg>$
      24 #engineering\<adj\>	^engineering<adj>$
+     24 #broadcast\<vblex\>\<past\>	^broadcast<vblex><past>$
      24 #assure\<vblex\>\<inf\>	^assure<vblex><inf>$
+     24 #account\<vblex\>\<past\>	^account<vblex><past>$
      23 take part	^take<vblex><pres># part$
      23 #qualify\<vblex\>\<pp\>	^qualify<vblex><pp>$
      23 #qualify\<vblex\>\<past\>	^qualify<vblex><past>$
      23 #Jan\<np\>\<ant\>\<sg\>	^Jan<np><ant><sg>$
+     22 #welcome\<vblex\>\<inf\>	^welcome<vblex><inf>$
      22 #Pledge\<vblex\>\<ger\>	^Pledge<vblex><ger>$
      22 #helicopter\<adj\>	^helicopter<adj>$
      22 #ballet\<adj\>	^ballet<adj>$
      22 #activation\<n\>\<sg\>	^activation<n><sg>$
      21 #This kind\<prn\>\<dem\>\<mf\>\<pl\>	^This kind<prn><dem><mf><pl>$
      21 #radio-television\<adj\>	^radio-television<adj>$
+     21 #lobby\<vblex\>\<past\>	^lobby<vblex><past>$
      21 #june\<adj\>	^june<adj>$
      21 #demographic\<adj\>	^demographic<adj>$
      20 #Winter\<adj\>	^Winter<adj>$
      20 #welcome\<vblex\>\<pres\>	^welcome<vblex><pres>$
      20 #vblex\>\<vblex\>\<past\>	^vblex><vblex><past>$
      20 #testing\<n\>\<sg\>	^testing<n><sg>$
+     20 #take\<vblex\>\<pres\>\<p3\>\<sg\># up	^take<vblex><pres><p3><sg># up$
+     20 #smuggle\<vblex\>\<pp\>	^smuggle<vblex><pp>$
      20 #refugee\<adj\>	^refugee<adj>$
      20 #have\<vbhaver\>\<pprs\>\<adv\>	^have<vbhaver><pprs><adv>$
      20 #decades-long\<adj\>	^decades-long<adj>$
@@ -538,10 +586,11 @@ Tag mismatch between transfer and generation
      19 #petrol\<adj\>	^petrol<adj>$
      19 #no one\<prn\>\<ind\>\<mf\>\<sg\>	^no one<prn><ind><mf><sg><acc>$
      19 #must\<vaux\>\<pres\>\<p3\>\<pl\>	^must<vaux><pres><p3><pl>$
+     19 #mediate\<vblex\>\<pres\>	^mediate<vblex><pres>$
      19 #have\<vbhaver\>\<pres\>\<p1\>\<sg\>	^have<vbhaver><pres><p1><sg>$
      19 #Georgian\<adj\>	^Georgian<adj>$
-     18 #welcome\<vblex\>\<inf\>	^welcome<vblex><inf>$
      18 #volleyball\<adj\>	^volleyball<adj>$
+     18 #side\<vblex\>\<pres\>\<p3\>\<sg\>	^side<vblex><pres><p3><sg>$
      18 #ruin\<vblex\>\<pres\>\<p3\>\<sg\>	^ruin<vblex><pres><p3><sg>$
      18 #Remaining\<adj\>	^Remaining<adj>$
      18 #Pension\<adj\>	^Pension<adj>$
@@ -566,28 +615,38 @@ Tag mismatch between transfer and generation
      17 #Anti\<adj\>	^Anti<adj>$
      16 #Two-day\<adj\>	^Two-day<adj>$
      16 taken place	^take<vblex><pp># place$
+     16 #take\<vblex\>\<past\># effect	^take<vblex><past># effect$
      16 #Should\<vaux\>\<p3\>\<sg\>	^Should<vaux><aor><p3><sg>$
+     16 #lobby\<vblex\>\<pres\>\<p3\>\<sg\>	^lobby<vblex><pres><p3><sg>$
      16 #Fourty\<num\>\<sp\>	^Fourty<num><sp>$
      16 #anti-tank\<adj\>	^anti-tank<adj>$
+     15 #wound\<vblex\>\<past\>	^wound<vblex><past>$
      15 #wedding\<adj\>	^wedding<adj>$
+     15 #smuggle\<vblex\>\<past\>	^smuggle<vblex><past>$
      15 #shareholder's\<adj\>	^shareholder's<adj>$
      15 #Mihai\<np\>\<ant\>\<sg\>	^Mihai<np><ant><sg>$
+     15 #lay\<vblex\>\<past\># down	^lay<vblex><past># down$
      15 #Formed\<adj\>	^Formed<adj>$
      15 #deblock\<vblex\>\<inf\>	^deblock<vblex><inf>$
      15 #corridor\<n\>\<pl\>	^corridor<n><pl>$
      15 #centre-right\<adj\>	^centre-right<adj>$
      15 #assure\<vblex\>\<ger\>	^assure<vblex><ger>$
+     14 #wound\<vblex\>\<pres\>\<p3\>\<sg\>	^wound<vblex><pres><p3><sg>$
      14 #verify\<vblex\>\<inf\>	^verify<vblex><inf>$
      14 #This kind\<prn\>\<dem\>\<mf\>\<sg\>	^This kind<prn><dem><mf><sg>$
+     14 #theorise\<vblex\>\<pp\>	^theorise<vblex><pp>$
+     14 #take\<vblex\>\<pres\># up	^take<vblex><pres># up$
      14 #Striking\<adj\>	^Striking<adj>$
      14 #should\<vaux\>\<p2\>\<sg\>	^should<vaux><aor><p2><sg>$
      14 #Roma\<n\>\<sg\>	^Roma<n><sg>$
      14 #ratify\<vblex\>\<pres\>\<p3\>\<sg\>	^ratify<vblex><pres><p3><sg>$
      14 #inhabit\<vblex\>\<pres\>	^inhabit<vblex><pres>$
      14 #have\<vbhaver\>\<pii\>\<f\>\<sg\>	^have<vbhaver><neg><lp><pii><f><sg>$
+     14 #fulful\<vblex\>\<pres\>\<p3\>\<sg\>	^fulful<vblex><pres><p3><sg>$
      14 #Dragan\<np\>\<ant\>\<sg\>	^Dragan<np><ant><sg>$
      14 #By then\<adv\>	^By then<adv>$
      14 #ATA\<abbr\>	^ATA<abbr>$
+     14 #amount\<vblex\>\<pres\>	^amount<vblex><pres>$
      13 #wine\<adj\>	^wine<adj>$
      13 #What for\<prn\>\<itg\>	^What for<prn><itg>$
      13 #taken\<adj\>	^taken<adj>$
@@ -601,20 +660,26 @@ Tag mismatch between transfer and generation
      13 #amateur\<adj\>	^amateur<adj>$
      12 #violation\<n\>\<pl\>	^violation<n><pl>$
      12 #undemocratic\<adj\>	^undemocratic<adj>$
+     12 #trail\<vblex\>\<pres\>	^trail<vblex><pres>$
      12 #tank\<vblex\>\<past\>	^tank<vblex><past>$
+     12 take over	^take<vblex><pres># over$
+     12 #survey\<vblex\>\<past\>	^survey<vblex><past>$
      12 #pro-democratic\<adj\>	^pro-democratic<adj>$
      12 #migrant\<adj\>	^migrant<adj>$
+     12 #mediate\<vblex\>\<pp\>	^mediate<vblex><pp>$
      12 #ignoral\<n\>\<sg\>	^ignoral<n><sg>$
      12 #Hurt\<adj\>	^Hurt<adj>$
      12 #festival\<adj\>	^festival<adj>$
+     12 #expire\<vblex\>\<past\>	^expire<vblex><past>$
      12 #embezzlement\<n\>\<pl\>	^embezzlement<n><pl>$
      12 #do\<vblex\>\<pres\>\<p1\>\<sg\>	^do<vblex><pres><p1><sg>$
+     12 #conform\<vblex\>\<pres\>\<p3\>\<sg\>	^conform<vblex><pres><p3><sg>$
+     12 #compromise\<vblex\>\<pres\>	^compromise<vblex><pres>$
      12 #cofinance\<vblex\>\<pp\>	^cofinance<vblex><pp>$
      12 #causing\<n\>\<sg\>	^causing<n><sg>$
      12 #anti-personnel\<adj\>	^anti-personnel<adj>$
      12 #Anti-corruption\<adj\>	^Anti-corruption<adj>$
      11 #Tetovan\<adj\>	^Tetovan<adj>$
-     11 take over	^take<vblex><pres># over$
      11 #stabilising\<adj\>	^stabilising<adj>$
      11 #SPLIT\<np\>\<top\>\<sg\>	^SPLIT<np><top><sg>$
      11 #ruin\<vblex\>\<pres\>	^ruin<vblex><pres>$
@@ -630,6 +695,7 @@ Tag mismatch between transfer and generation
      11 #guard\<adj\>	^guard<adj>$
      11 #extradite\<vblex\>\<pres\>	^extradite<vblex><pres>$
      11 #Emphasise\<vblex\>\<pp\>	^Emphasise<vblex><pp>$
+     11 #amount\<vblex\>\<pres\>\<p3\>\<sg\>	^amount<vblex><pres><p3><sg>$
      11 #airport\<adj\>	^airport<adj>$
      10 #Youth\<adj\>	^Youth<adj>$
      10 #Titular\<adj\>	^Titular<adj>$
@@ -643,11 +709,16 @@ Tag mismatch between transfer and generation
      10 #Must\<vaux\>\<pres\>\<p3\>\<sg\>	^Must<vaux><pres><p3><sg>$
      10 #Must\<vaux\>\<pres\>\<p1\>\<pl\>	^Must<vaux><pres><p1><pl>$
      10 #junior\<adj\>	^junior<adj>$
+     10 #iron\<vblex\>\<pres\>\<p3\>\<sg\># out	^iron<vblex><pres><p3><sg># out$
      10 #interministerial\<adj\>	^interministerial<adj>$
+     10 #infringe\<vblex\>\<pres\>\<p3\>\<sg\>	^infringe<vblex><pres><p3><sg>$
+     10 #finalise\<vblex\>\<pres\>\<p3\>\<sg\>	^finalise<vblex><pres><p3><sg>$
      10 #Easter\<adj\>	^Easter<adj>$
+     10 #dismantle\<vblex\>\<pp\>	^dismantle<vblex><pp>$
      10 #cutting-edge\<adj\>	^cutting-edge<adj>$
      10 #convocation\<n\>\<sg\>	^convocation<n><sg>$
      10 #consultant\<adj\>	^consultant<adj>$
+     10 #compromise\<vblex\>\<pres\>\<p3\>\<sg\>	^compromise<vblex><pres><p3><sg>$
      10 #Be\<vbser\>\<pres\>\<p2\>\<sg\>	^Be<vbser><pres><p2><sg>$
      10 #archive\<adj\>	^archive<adj>$
      10 #anti-fireman\<adj\>	^anti-fireman<adj>$
@@ -674,15 +745,21 @@ Tag mismatch between transfer and generation
       9 #leader\<adj\>	^leader<adj>$
       9 #laboratory\<adj\>	^laboratory<adj>$
       9 #Illyrian\<adj\>	^Illyrian<adj>$
+      9 gives up	^give<vblex><pres><p3><sg># up$
       9 #City\<adj\>	^City<adj>$
+      9 #carry\<vblex\>\<pres\>\<p3\>\<sg\># out	^carry<vblex><pres><p3><sg># out$
+      9 #carry\<vblex\>\<pres\># out	^carry<vblex><pres># out$
+      9 #carry\<vblex\>\<past\># out	^carry<vblex><past># out$
       9 #boxer\<adj\>	^boxer<adj>$
       9 #archive\<n\>\<sg\>	^archive<n><sg>$
+      9 #amount\<vblex\>\<ger\>	^amount<vblex><ger>$
       8 #vice-premier\<adj\>	^vice-premier<adj>$
       8 #vblex\>\<vblex\>\<inf\>	^vblex><vblex><inf>$
       8 #Unlike\<adv\>	^Unlike<adv>$
       8 #Ultra-nationalist\<adj\>	^Ultra-nationalist<adj>$
       8 #Three-day\<adj\>	^Three-day<adj>$
       8 #telecom\<n\>\<pl\>	^telecom<n><pl>$
+      8 #smuggle\<vblex\>\<pres\>	^smuggle<vblex><pres>$
       8 #september\<adj\>	^september<adj>$
       8 #RTRS\<abbr\>	^RTRS<abbr>$
       8 #RTK\<abbr\>	^RTK<abbr>$
@@ -694,6 +771,7 @@ Tag mismatch between transfer and generation
       8 #Managing\<adj\>	^Managing<adj>$
       8 #Led\<adj\>	^Led<adj>$
       8 #intensivise\<vblex\>\<pres\>\<p3\>\<sg\>	^intensivise<vblex><pres><p3><sg>$
+      8 #infringe\<vblex\>\<pres\>	^infringe<vblex><pres>$
       8 #Have\<vbhaver\>\<pres\>\<p1\>\<sg\>	^Have<vbhaver><pres><p1><sg>$
       8 #firefighting\<adj\>	^firefighting<adj>$
       8 #Film\<adj\>	^Film<adj>$
@@ -722,14 +800,19 @@ Tag mismatch between transfer and generation
       7 #may\<adj\>	^may<adj>$
       7 #Legendary\<adj\>	^Legendary<adj>$
       7 #leave\<vblex\>\<imp\>\<pl\>	^leave<vblex><imp><pl>$
+      7 #launder\<vblex\>\<past\>	^launder<vblex><past>$
       7 #intersecting\<adj\>	^intersecting<adj>$
       7 #initialling\<n\>\<sg\>	^initialling<n><sg>$
       7 #hollywood\<adj\>	^hollywood<adj>$
       7 #formality\<n\>\<sg\>	^formality<n><sg>$
       7 #federalisation\<n\>\<sg\>	^federalisation<n><sg>$
       7 #Evening\<adv\>	^Evening<adv>$
+      7 #dismantle\<vblex\>\<inf\>	^dismantle<vblex><inf>$
+      7 #conform\<vblex\>\<pres\>	^conform<vblex><pres>$
+      7 #compromise\<vblex\>\<pp\>	^compromise<vblex><pp>$
       6 #What kind\<prn\>\<pl\>	^What kind<prn><mfn><pl>$
       6 #Todor\<np\>\<ant\>\<m\>\<sg\>	^Todor<np><ant><m><sg>$
+      6 #theorise\<vblex\>\<inf\>	^theorise<vblex><inf>$
       6 #that kind\<prn\>\<dem\>\<mf\>\<sg\>	^that kind<prn><dem><mf><sg>$
       6 #Television\<adj\>	^Television<adj>$
       6 #symphonic\<adj\>	^symphonic<adj>$
@@ -748,6 +831,7 @@ Tag mismatch between transfer and generation
       6 #Net\<adj\>	^Net<adj>$
       6 #mujahadeen\<adj\>	^mujahadeen<adj>$
       6 #machine\<adj\>	^machine<adj>$
+      6 #Launder\<vblex\>\<imp\>\<sg\>	^Launder<vblex><imp><sg>$
       6 #horse\<adj\>	^horse<adj>$
       6 #Football\<adj\>	^Football<adj>$
       6 #Etruscan\<adj\>	^Etruscan<adj>$
@@ -771,6 +855,7 @@ Tag mismatch between transfer and generation
       5 #Sunni\<adj\>	^Sunni<adj>$
       5 #Spring\<adj\>	^Spring<adj>$
       5 #single-party\<adj\>	^single-party<adj>$
+      5 #side\<vblex\>\<past\>	^side<vblex><past>$
       5 #Put\<vblex\>\<imp\>\<pl\>	^Put<vblex><imp><pl>$
       5 #pro-Slav\<adj\>	^pro-Slav<adj>$
       5 #pro-reform\<adj\>	^pro-reform<adj>$
@@ -788,6 +873,7 @@ Tag mismatch between transfer and generation
       5 #Minority\<adj\>	^Minority<adj>$
       5 #measurement\<adj\>	^measurement<adj>$
       5 #master's\<adj\>	^master's<adj>$
+      5 #lobby\<vblex\>\<pres\>	^lobby<vblex><pres>$
       5 #Live\<adv\>	^Live<adv>$
       5 #Likely\<adj\>	^Likely<adj>$
       5 #legality\<n\>\<sg\>	^legality<n><sg>$
@@ -806,6 +892,8 @@ Tag mismatch between transfer and generation
       5 #deadly\<adj\>\<sint\>\<sup\>	^deadly<adj><sint><sup>$
       5 #container\<adj\>	^container<adj>$
       5 #canary\<adj\>	^canary<adj>$
+      5 #broadcast\<vblex\>\<pres\>\<p3\>\<sg\>	^broadcast<vblex><pres><p3><sg>$
+      5 #broadcast\<vblex\>\<pres\>	^broadcast<vblex><pres>$
       5 #Battle\<adj\>	^Battle<adj>$
       5 #autocratic\<adj\>	^autocratic<adj>$
       5 #Army\<adj\>	^Army<adj>$
@@ -819,6 +907,7 @@ Tag mismatch between transfer and generation
       4 #trade-union\<adj\>	^trade-union<adj>$
       4 #Tight\<adj\>\<sint\>	^Tight<adj><sint>$
       4 #Three-party\<adj\>	^Three-party<adj>$
+      4 #take\<vblex\>\<past\># up	^take<vblex><past># up$
       4 taking part	^take<vblex><ger># part$
       4 #study\<adj\>	^study<adj>$
       4 #stall\<vblex\>\<pres\>	^stall<vblex><pres>$
@@ -844,6 +933,7 @@ Tag mismatch between transfer and generation
       4 #naming\<n\>\<pl\>	^naming<n><pl>$
       4 #nadgleduvan\<adj\>	^nadgleduvan<adj>$
       4 #must\<vaux\>\<pres\>\<p2\>\<pl\>	^must<vaux><pres><p2><pl>$
+      4 #lobby\<vblex\>\<ger\>	^lobby<vblex><ger>$
       4 #Lime\<n\>\<pl\>	^Lime<n><pl>$
       4 #licensing\<n\>\<sg\>	^licensing<n><sg>$
       4 #Kliment\<np\>\<ant\>\<m\>\<sg\>	^Kliment<np><ant><m><sg>$
@@ -855,11 +945,14 @@ Tag mismatch between transfer and generation
       4 #illyrian\<adj\>	^illyrian<adj>$
       4 #hooligan\<adj\>	^hooligan<adj>$
       4 #Hans\<np\>\<ant\>\<sg\>	^Hans<np><ant><sg>$
+      4 #finalise\<vblex\>\<pres\>	^finalise<vblex><pres>$
       4 #favouring\<n\>\<sg\>	^favouring<n><sg>$
       4 #Emphasise\<vblex\>\<pres\>	^Emphasise<vblex><pres>$
       4 #Deep\<adj\>	^Deep<adj>$
       4 #Customs\<adj\>	^Customs<adj>$
+      4 #conform\<vblex\>\<ger\>	^conform<vblex><ger>$
       4 #conference\<adj\>	^conference<adj>$
+      4 #compromise\<vblex\>\<ger\>	^compromise<vblex><ger>$
       4 #competence\<n\>\<sg\>	^competence<n><sg>$
       4 #cofinance\<vblex\>\<inf\>	^cofinance<vblex><inf>$
       4 #Canary\<adj\>	^Canary<adj>$
@@ -875,6 +968,7 @@ Tag mismatch between transfer and generation
       3 #write\<vblex\>\<inf\># down	^write<vblex><inf># down$
       3 #warsaw\<adj\>	^warsaw<adj>$
       3 #unhygienic\<adj\>	^unhygienic<adj>$
+      3 #trail\<vblex\>\<past\>	^trail<vblex><past>$
       3 #Tobacco\<adj\>	^Tobacco<adj>$
       3 #tele-medical\<adj\>	^tele-medical<adj>$
       3 #Telecommunications\<adj\>	^Telecommunications<adj>$
@@ -925,6 +1019,7 @@ Tag mismatch between transfer and generation
       3 #Kostas\<np\>\<ant\>\<sg\>	^Kostas<np><ant><sg>$
       3 #Ivan\<np\>\<ant\>\<sg\>	^Ivan<np><ant><sg>$
       3 #islamisation\<n\>\<sg\>	^islamisation<n><sg>$
+      3 #iron\<vblex\>\<pp\># out	^iron<vblex><pp># out$
       3 #investment\<adj\>	^investment<adj>$
       3 #Investing\<adj\>	^Investing<adj>$
       3 #In other words\<adv\>	^In other words<adv>$
@@ -936,7 +1031,9 @@ Tag mismatch between transfer and generation
       3 #guarantee\<adj\>	^guarantee<adj>$
       3 #governor\<adj\>	^governor<adj>$
       3 #Golan\<adj\>	^Golan<adj>$
+      3 Give up	^Give<vblex><pres># up$
       3 #Give\<vblex\>\<imp\>\<pl\>	^Give<vblex><imp><pl>$
+      3 #fulful\<vblex\>\<pres\>	^fulful<vblex><pres>$
       3 #Fetch\<vblex\>\<past\>	^Fetch<vblex><past>$
       3 #Fashion\<adj\>	^Fashion<adj>$
       3 #Failed\<adj\>	^Failed<adj>$
@@ -954,6 +1051,7 @@ Tag mismatch between transfer and generation
       3 #Coalition\<adj\>	^Coalition<adj>$
       3 #choreographic\<adj\>	^choreographic<adj>$
       3 #chess\<adj\>	^chess<adj>$
+      3 #carry\<vblex\>\<pp\># out	^carry<vblex><pp># out$
       3 #carneval\<adj\>	^carneval<adj>$
       3 #bypass\<vblex\>\<inf\>	^bypass<vblex><inf>$
       3 #broker\<adj\>	^broker<adj>$
@@ -962,6 +1060,7 @@ Tag mismatch between transfer and generation
       3 #Beforehand\<adv\>	^Beforehand<adv>$
       3 #become\<vblex\>\<imp\>\<sg\>	^become<vblex><imp><sg>$
       3 #Banking\<adj\>	^Banking<adj>$
+      3 #authorise\<vblex\>\<past\>	^authorise<vblex><past>$
       3 #Assure\<vblex\>\<ger\>	^Assure<vblex><ger>$
       3 #ART\<adj\>	^ART<adj>$
       3 #apologise\<vblex\>\<pres\>	^apologise<vblex><pres>$
@@ -983,18 +1082,25 @@ Tag mismatch between transfer and generation
       2 #under secretary\<n\>\<pl\>	^under secretary<n><pl>$
       2 #Underground\<adj\>	^Underground<adj>$
       2 #Turnout\<n\>\<sg\>	^Turnout<n><sg>$
+      2 #trail\<vblex\>\<inf\>	^trail<vblex><inf>$
+      2 #trail\<vblex\>\<ger\>	^trail<vblex><ger>$
       2 #tomographical\<adj\>	^tomographical<adj>$
       2 #Tim\<np\>\<ant\>\<sg\>	^Tim<np><ant><sg>$
+      2 #Theorise\<vblex\>\<pp\>	^Theorise<vblex><pp>$
+      2 #theorise\<vblex\>\<past\>	^theorise<vblex><past>$
       2 #terrorising\<n\>\<sg\>	^terrorising<n><sg>$
       2 #telecoms\<adj\>	^telecoms<adj>$
       2 #tank\<vblex\>\<pres\>	^tank<vblex><pres>$
       2 Taken over	^Take<vblex><pp># over$
+      2 #take\<vblex\>\<inf\># up	^take<vblex><inf># up$
       2 #Symphonic\<adj\>	^Symphonic<adj>$
       2 #stall\<vblex\>\<pp\>	^stall<vblex><pp>$
       2 #Sponsored\<adj\>	^Sponsored<adj>$
       2 #spending\<n\>\<pl\>	^spending<n><pl>$
       2 #speed\<vblex\>\<pres\># up	^speed<vblex><pres># up$
       2 #So many\<adv\>	^So many<adv>$
+      2 #smuggle\<vblex\>\<pres\>\<p3\>\<sg\>	^smuggle<vblex><pres><p3><sg>$
+      2 #sing\<vblex\>\<imp\>\<sg\>	^sing<vblex><imp><sg>$
       2 #Should\<vaux\>\<pii\>\<p3\>\<sg\>	^Should<vaux><pii><p3><sg>$
       2 #should\<vaux\>\<pii\>\<m\>\<sg\>	^should<vaux><lp><pii><m><sg>$
       2 #should\<vaux\>\<pii\>\<f\>\<sg\>	^should<vaux><lp><pii><f><sg>$
@@ -1046,12 +1152,18 @@ Tag mismatch between transfer and generation
       2 #Macroeconomic\<adj\>	^Macroeconomic<adj>$
       2 #lynx\<n\>\<pl\>	^lynx<n><pl>$
       2 #limelight\<n\>\<sg\>	^limelight<n><sg>$
+      2 #lay\<vblex\>\<pp\># down	^lay<vblex><pp># down$
+      2 #launder\<vblex\>\<pres\>	^launder<vblex><pres>$
+      2 #launder\<vblex\>\<pp\>	^launder<vblex><pp>$
+      2 #launder\<vblex\>\<inf\>	^launder<vblex><inf>$
       2 #Junior\<adj\>	^Junior<adj>$
       2 #janissary\<adj\>	^janissary<adj>$
       2 #Izmir\<adj\>	^Izmir<adj>$
+      2 #iron\<vblex\>\<inf\># out	^iron<vblex><inf># out$
       2 #investigation\<adj\>	^investigation<adj>$
       2 #Intelligence\<adj\>	^Intelligence<adj>$
       2 #integration\<adj\>	^integration<adj>$
+      2 #infringe\<vblex\>\<pp\>	^infringe<vblex><pp>$
       2 #Ilinden\<adj\>	^Ilinden<adj>$
       2 #Hristo\<np\>\<ant\>\<sg\>	^Hristo<np><ant><sg>$
       2 #how big\<prn\>\<itg\>\<m\>\<sg\>	^how big<prn><itg><m><sg>$
@@ -1059,16 +1171,20 @@ Tag mismatch between transfer and generation
       2 #Georgi\<np\>\<ant\>\<sg\>	^Georgi<np><ant><sg>$
       2 #gangster\<adj\>	^gangster<adj>$
       2 #gaffe\<n\>\<sg\>	^gaffe<n><sg>$
+      2 #fulful\<vblex\>\<inf\>	^fulful<vblex><inf>$
       2 #formality\<n\>\<pl\>	^formality<n><pl>$
       2 #Follow\<adj\>	^Follow<adj>$
-      2 #finalise\<vblex\>\<pres\>\<p3\>\<sg\>	^finalise<vblex><pres><p3><sg>$
+      2 #finalise\<vblex\>\<ger\>	^finalise<vblex><ger>$
       2 #fetch\<vblex\>\<pres\>	^fetch<vblex><pres>$
       2 #Feel\<vblex\>\<imp\>\<sg\>	^Feel<vblex><imp><sg>$
+      2 #Expire\<vblex\>\<pres\>\<p3\>\<sg\>	^Expire<vblex><pres><p3><sg>$
       2 #ethnographic\<adj\>	^ethnographic<adj>$
       2 #enter\<vblex\>\<imp\>\<sg\>	^enter<vblex><imp><sg>$
       2 #elimate\<vblex\>\<pp\>	^elimate<vblex><pp>$
       2 #electrical_engineering\<n\>\<sg\>	^electrical_engineering<n><sg>$
       2 #disqualify\<vblex\>\<pp\>	^disqualify<vblex><pp>$
+      2 #Dismantle\<vblex\>\<pp\>	^Dismantle<vblex><pp>$
+      2 #defeat\<vblex\>\<past\>\<p3\>\<sg\>	^defeat<vblex><past><p3><sg>$
       2 #Decades-long\<adj\>	^Decades-long<adj>$
       2 #cutter\<n\>\<pl\>	^cutter<n><pl>$
       2 #culinary\<adj\>	^culinary<adj>$
@@ -1081,6 +1197,7 @@ Tag mismatch between transfer and generation
       2 #cofinance\<vblex\>\<pres\>\<p3\>\<sg\>	^cofinance<vblex><pres><p3><sg>$
       2 #co-existence\<n\>\<sg\>	^co-existence<n><sg>$
       2 #clarification\<n\>\<pl\>	^clarification<n><pl>$
+      2 #carry\<vblex\>\<ger\># out	^carry<vblex><ger># out$
       2 #cantonisation\<n\>\<sg\>	^cantonisation<n><sg>$
       2 #canonical\<adj\>	^canonical<adj>$
       2 #bypass\<vblex\>\<pres\>\<p3\>\<sg\>	^bypass<vblex><pres><p3><sg>$
@@ -1091,6 +1208,7 @@ Tag mismatch between transfer and generation
       2 #barcelona\<adj\>	^barcelona<adj>$
       2 #barbaric\<adj\>	^barbaric<adj>$
       2 #await\<vblex\>\<imp\>\<sg\>	^await<vblex><imp><sg>$
+      2 #authorise\<vblex\>\<inf\>	^authorise<vblex><inf>$
       2 #Associated\<adj\>	^Associated<adj>$
       2 #anti-semitic\<adj\>	^anti-semitic<adj>$
       2 #anti-roma\<adj\>	^anti-roma<adj>$
@@ -1110,6 +1228,10 @@ Tag mismatch between transfer and generation
       2 #Agora\<n\>\<sg\>	^Agora<n><sg>$
       1 #Željko\<np\>\<ant\>\<sg\>	^Željko<np><ant><sg>$
       1 #write\<vblex\>\<pres\>\<p3\>\<sg\># down	^write<vblex><pres><p3><sg># down$
+      1 #Wound\<vblex\>\<pres\>\<p3\>\<sg\>	^Wound<vblex><pres><p3><sg>$
+      1 #Wound\<vblex\>\<pp\>	^Wound<vblex><pp>$
+      1 #Wound\<vblex\>\<past\>	^Wound<vblex><past>$
+      1 #wound\<vblex\>\<inf\>	^wound<vblex><inf>$
       1 works out	^work<vblex><pres><p3><sg># out$
       1 worked out	^work<vblex><past># out$
       1 work out	^work<vblex><inf># out$
@@ -1140,22 +1262,31 @@ Tag mismatch between transfer and generation
       1 #transmission\<adj\>	^transmission<adj>$
       1 #Trans-Balkan\<adj\>	^Trans-Balkan<adj>$
       1 #Trajan\<np\>\<ant\>\<sg\>	^Trajan<np><ant><sg>$
+      1 #train\<vblex\>\<past\>\<p3\>\<sg\>	^train<vblex><past><p3><sg>$
       1 #topographic\<adj\>	^topographic<adj>$
       1 #Toni\<np\>\<ant\>\<sg\>	^Toni<np><ant><sg>$
       1 #tirana\<np\>\<top\>\<sg\>	^tirana<np><top><sg>$
       1 #TIM\<np\>\<ant\>\<m\>\<sg\>	^TIM<np><ant><m><sg>$
       1 #thousand\<num\>\<pl\>	^thousand<num><pl>$
+      1 #theorise\<vblex\>\<pres\>\<p3\>\<sg\>	^theorise<vblex><pres><p3><sg>$
       1 #Testing\<n\>\<sg\>	^Testing<n><sg>$
       1 #Telephone\<adj\>	^Telephone<adj>$
       1 #TELECOM\<n\>\<sg\>	^TELECOM<n><sg>$
       1 #tectonic\<adj\>	^tectonic<adj>$
       1 #tandem\<adj\>	^tandem<adj>$
       1 #tampering\<n\>\<pl\>	^tampering<n><pl>$
+      1 #Take\<vblex\>\<pres\># up	^Take<vblex><pres># up$
+      1 #Take\<vblex\>\<pres\>\<p3\>\<sg\># effect	^Take<vblex><pres><p3><sg># effect$
+      1 #take\<vblex\>\<pres\># effect	^take<vblex><pres># effect$
+      1 #take\<vblex\>\<ger\># up	^take<vblex><ger># up$
+      1 #take# over\<vblex\>\<imp\>\<sg\>	^take# over<vblex><imp><sg>$
       1 #Swine\<adj\>	^Swine<adj>$
       1 #Svetozar\<np\>\<ant\>\<sg\>	^Svetozar<np><ant><sg>$
+      1 #Survey\<vblex\>\<pp\>	^Survey<vblex><pp>$
       1 #Surrounding\<adj\>	^Surrounding<adj>$
       1 #super-ministerial\<adj\>	^super-ministerial<adj>$
       1 #sunni\<adj\>	^sunni<adj>$
+      1 #suffer\<vblex\>\<imp\>\<sg\>	^suffer<vblex><imp><sg>$
       1 #starve\<vblex\>\<pres\>\<p3\>\<sg\>	^starve<vblex><pres><p3><sg>$
       1 #stall\<vblex\>\<ger\>	^stall<vblex><ger>$
       1 #spying\<n\>\<sg\>	^spying<n><sg>$
@@ -1166,8 +1297,10 @@ Tag mismatch between transfer and generation
       1 #solidify\<vblex\>\<pres\>\<p3\>\<sg\>	^solidify<vblex><pres><p3><sg>$
       1 #solidify\<vblex\>\<inf\>	^solidify<vblex><inf>$
       1 #Software\<adj\>	^Software<adj>$
+      1 #smuggle\<vblex\>\<inf\>	^smuggle<vblex><inf>$
       1 #Slobodan\<np\>\<ant\>\<sg\>	^Slobodan<np><ant><sg>$
       1 #skiing\<n\>\<pl\>	^skiing<n><pl>$
+      1 #share\<vblex\>\<imp\>\<pl\>	^share<vblex><imp><pl>$
       1 #Serve\<vblex\>\<imp\>\<pl\>	^Serve<vblex><imp><pl>$
       1 #serve\<vblex\>\<imp\>\<pl\>	^serve<vblex><imp><pl>$
       1 #senegalese\<adj\>	^senegalese<adj>$
@@ -1226,6 +1359,7 @@ Tag mismatch between transfer and generation
       1 #post-socialist\<adj\>	^post-socialist<adj>$
       1 #plunge\<vblex\>\<pres\>\<p3\>\<sg\>	^plunge<vblex><pres><p3><sg>$
       1 #pledge\<vblex\>\<pp\>	^pledge<vblex><pp>$
+      1 #plead\<vblex\>\<pp\>	^plead<vblex><pp>$
       1 #Philosophic\<adj\>	^Philosophic<adj>$
       1 #pharmacotherapeutic\<adj\>	^pharmacotherapeutic<adj>$
       1 #petulance\<n\>\<sg\>	^petulance<n><sg>$
@@ -1279,18 +1413,22 @@ Tag mismatch between transfer and generation
       1 #mesolithic\<adj\>	^mesolithic<adj>$
       1 #mentorship\<n\>\<sg\>	^mentorship<n><sg>$
       1 #mentoring\<adj\>	^mentoring<adj>$
+      1 #mention\<vblex\>\<imp\>\<sg\>	^mention<vblex><imp><sg>$
       1 Member of parliament	^Member<n><sg># of parliament$
       1 #megalomanic\<adj\>	^megalomanic<adj>$
+      1 #meet\<vblex\>\<imp\>\<sg\>	^meet<vblex><imp><sg>$
       1 #mean\<vblex\>\<imp\>\<sg\>	^mean<vblex><imp><sg>$
       1 #Marko\<np\>\<ant\>\<sg\>	^Marko<np><ant><sg>$
       1 #Marathon\<adj\>	^Marathon<adj>$
       1 #Majority\<adj\>	^Majority<adj>$
       1 #majesty\<n\>\<sg\>	^majesty<n><sg>$
       1 #Machine\<adj\>	^Machine<adj>$
+      1 #Lobby\<vblex\>\<pres\>\<p3\>\<sg\>	^Lobby<vblex><pres><p3><sg>$
       1 #Live\<vblex\>\<imp\>\<sg\>	^Live<vblex><imp><sg>$
       1 #liposuction\<n\>\<sg\>	^liposuction<n><sg>$
       1 #Limelight\<n\>\<sg\>	^Limelight<n><sg>$
       1 #library\<adj\>	^library<adj>$
+      1 #Launder\<vblex\>\<past\>	^Launder<vblex><past>$
       1 #Labina\<np\>\<ant\>\<f\>\<sg\>	^Labina<np><ant><f><sg>$
       1 #kosovo\<np\>\<top\>\<sg\>	^kosovo<np><top><sg>$
       1 #Konstantin\<np\>\<ant\>\<sg\>	^Konstantin<np><ant><sg>$
@@ -1308,6 +1446,8 @@ Tag mismatch between transfer and generation
       1 #intersect\<vblex\>\<ger\>	^intersect<vblex><ger>$
       1 #inter-civilisation\<adj\>	^inter-civilisation<adj>$
       1 #inhabit\<vblex\>\<ger\>	^inhabit<vblex><ger>$
+      1 #infringe\<vblex\>\<inf\>	^infringe<vblex><inf>$
+      1 #infringe\<vblex\>\<ger\>	^infringe<vblex><ger>$
       1 #Infrastructure\<adj\>	^Infrastructure<adj>$
       1 #In first place\<adv\>	^In first place<adv>$
       1 #inefficiency\<n\>\<pl\>	^inefficiency<n><pl>$
@@ -1324,7 +1464,10 @@ Tag mismatch between transfer and generation
       1 #grandiose\<adj\>	^grandiose<adj>$
       1 #go\<vblex\>\<imp\>\<pl\>	^go<vblex><imp><pl>$
       1 #Goran\<np\>\<ant\>\<sg\>	^Goran<np><ant><sg>$
+      1 give up	^give<vblex><pres># up$
+      1 Given up	^Give<vblex><pp># up$
       1 #Give\<vblex\>\<imp\>\<sg\>	^Give<vblex><imp><sg>$
+      1 #Give# up\<vblex\>\<imp\>\<sg\>	^Give# up<vblex><imp><sg>$
       1 #George\<np\>\<ant\>\<sg\>	^George<np><ant><sg>$
       1 #Geo\<np\>\<ant\>\<m\>\<sg\>	^Geo<np><ant><m><sg>$
       1 #geomagnetic\<adj\>	^geomagnetic<adj>$
@@ -1335,13 +1478,16 @@ Tag mismatch between transfer and generation
       1 #Forbidden\<adj\>	^Forbidden<adj>$
       1 #Fishing\<adj\>	^Fishing<adj>$
       1 #Finish\<vblex\>\<imp\>\<pl\>	^Finish<vblex><imp><pl>$
-      1 #finalise\<vblex\>\<pres\>	^finalise<vblex><pres>$
-      1 #finalise\<vblex\>\<inf\>	^finalise<vblex><inf>$
+      1 #Finalise\<vblex\>\<pp\>	^Finalise<vblex><pp>$
       1 #file\<vblex\>\<imp\>\<sg\>	^file<vblex><imp><sg>$
       1 #Fetch\<vblex\>\<pp\>	^Fetch<vblex><pp>$
       1 #fetch\<vblex\>\<imp\>\<sg\>	^fetch<vblex><imp><sg>$
       1 #extravaganza\<n\>\<sg\>	^extravaganza<n><sg>$
       1 #extravagance\<n\>\<sg\>	^extravagance<n><sg>$
+      1 #expire\<vblex\>\<pres\>	^expire<vblex><pres>$
+      1 #expire\<vblex\>\<pp\>	^expire<vblex><pp>$
+      1 #expect\<vblex\>\<imp\>\<pl\>	^expect<vblex><imp><pl>$
+      1 #exceed\<vblex\>\<imp\>\<sg\>	^exceed<vblex><imp><sg>$
       1 #etruscan\<adj\>	^etruscan<adj>$
       1 #Enjoy\<vblex\>\<imp\>\<pl\>	^Enjoy<vblex><imp><pl>$
       1 #encyclopaedic\<adj\>	^encyclopaedic<adj>$
@@ -1359,6 +1505,7 @@ Tag mismatch between transfer and generation
       1 #disqualify\<vblex\>\<past\>	^disqualify<vblex><past>$
       1 #disqualify\<vblex\>\<inf\>	^disqualify<vblex><inf>$
       1 #disorganise\<vblex\>\<pp\>	^disorganise<vblex><pp>$
+      1 #dismantle\<vblex\>\<imp\>\<sg\>	^dismantle<vblex><imp><sg>$
       1 #discrediting\<n\>\<sg\>	^discrediting<n><sg>$
       1 #discourage\<vblex\>\<pres\>	^discourage<vblex><pres>$
       1 #discourage\<vblex\>\<past\>	^discourage<vblex><past>$
@@ -1373,7 +1520,6 @@ Tag mismatch between transfer and generation
       1 #depressing\<adj\>	^depressing<adj>$
       1 #demonstration\<adj\>	^demonstration<adj>$
       1 #deflation\<n\>\<sg\>	^deflation<n><sg>$
-      1 #defeat\<vblex\>\<imp\>\<pl\>	^defeat<vblex><imp><pl>$
       1 #deadlock\<n\>\<sg\>	^deadlock<n><sg>$
       1 #Crystal\<adj\>	^Crystal<adj>$
       1 #cryptographic\<adj\>	^cryptographic<adj>$
@@ -1386,6 +1532,7 @@ Tag mismatch between transfer and generation
       1 consisted of	^consist<vblex><pp># of$
       1 #Conference\<adj\>	^Conference<adj>$
       1 #Conditionally\<adv\>	^Conditionally<adv>$
+      1 #compromise\<vblex\>\<inf\>	^compromise<vblex><inf>$
       1 #compensatory\<adj\>	^compensatory<adj>$
       1 #Commuter\<adj\>	^Commuter<adj>$
       1 #Communication\<adj\>	^Communication<adj>$
@@ -1435,6 +1582,7 @@ Tag mismatch between transfer and generation
       1 #anti-corruption\<n\>\<sg\>	^anti-corruption<n><sg>$
       1 #ANA\<np\>\<ant\>\<sg\>	^ANA<np><ant><sg>$
       1 #ampitheatre\<adj\>	^ampitheatre<adj>$
+      1 #amount\<vblex\>\<past\>	^amount<vblex><past>$
       1 #ambrosia\<n\>\<sg\>	^ambrosia<n><sg>$
       1 #allegory\<n\>\<sg\>	^allegory<n><sg>$
       1 #Airport\<adj\>	^Airport<adj>$
@@ -1444,13 +1592,14 @@ Tag mismatch between transfer and generation
       1 #administrator\<adj\>	^administrator<adj>$
       1 #Adi\<np\>\<ant\>\<f\>\<sg\>	^Adi<np><ant><f><sg>$
       1 #acrobatic\<adj\>	^acrobatic<adj>$
+      1 #Account\<vblex\>\<ger\>	^Account<vblex><ger>$
       1 #Accompany\<vblex\>\<imp\>\<pl\>	^Accompany<vblex><imp><pl>$
       1 #Abolition\<n\>\<sg\>	^Abolition<n><sg>$
 
 ===============================================================================
 Summary
 ===============================================================================
-    8 /tmp/mk-en.multiform
-    1 /tmp/mk-en.multibidix
- 1424 /tmp/mk-en.tagmismatch
- 1433 total
+   11 /tmp/mk-en.multiform
+    2 /tmp/mk-en.multibidix
+ 1569 /tmp/mk-en.tagmismatch
+ 1582 total

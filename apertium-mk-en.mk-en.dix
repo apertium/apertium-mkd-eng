@@ -9050,6 +9050,213 @@
     <e c="  0"><p><l>земе<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>take<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>уредува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>edit<s n="vblex"/></r></p></e>
 
+    <e c="  0"><p><l>очекува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>expect<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>состане<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>meet<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>победи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>disappear<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>победи<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>disappear<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>познае<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>know<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>исчезне<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>disappear<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>пронајде<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>find<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>стори<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>do<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>стори<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>make<s n="vblex"/></r></p></e>
+    <e slr="2"><p><l>стори<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>complete<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>уследи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>follow<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>важи<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>apply<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>важи<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>be<g><b/>valid</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>сочинува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>account<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>сочинува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>compose<s n="vblex"/></r></p></e>
+    <e slr="2"><p><l>сочинува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>consist<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>предвиди<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>predict<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>предвиди<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>forecast<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>постави<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>set<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>постави<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>establish<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>подели<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>share<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>пристапи<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>join<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>спроведува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>implement<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изразува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>express<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>откаже<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>give<g><b/>up</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>откаже<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>give<g><b/>up</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>затвори<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>close<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>закаже<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>schedule<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>одбележи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>mark<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>претседава<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>hold<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>отпатува<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>travel<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изјасни<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>plead<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>презема<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>assume<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>презема<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>take<g><b/>over</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>надмине<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>exceed<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>ограничи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>restrict<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>обедини<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>unite<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>смени<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>remove<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>стапи<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>take<g><b/>effect</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>држи<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>hold<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>натпреварува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>compete<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>отпочне<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>start<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>сведочи<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>testify<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>прослави<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>celebrate<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>забележи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>detect<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>овозможува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>authorise<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>префрли<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>transfer<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>пријави<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>report<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>замрзне<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>freeze<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>допатува<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>arrive<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>подигне<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>charge<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>нарекува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>refer<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изведе<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>perform<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>наметне<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>impose<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>принуди<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>force<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>нагласи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>stress<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>донира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>donate<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>рани<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>wound<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>доминира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>dominate<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>произлегува<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>stem<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>напади<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>rise<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>напади<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>climb<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>избие<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>emerge<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>истекува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>expire<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>иницира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>initiate<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>финализира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>finalise<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изложи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>exhibit<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>опфати<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>survey<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>заложи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>promote<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>опфаќа<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>cover<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>посочува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>find<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изнесе<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>give<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изгласа<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>approve<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>стигне<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>arrive<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>посредува<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>mediate<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>датира<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>date<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>спомене<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>mention<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>обелодени<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>disclose<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>аплицира<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>apply<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>претвори<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>develop<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>претвори<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>turn<g><b/>into</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>преживее<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>survive<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>реализира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>realise<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>реализира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>produce<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>должи<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>owe<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>базира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>base<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>вложи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>inject<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>вложи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>pump<g><b/>in</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>положи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>lay<g><b/>down</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>пресуди<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>rule<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>пресече<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>dismantle<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>става<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>end<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>застане<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>stop<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>забави<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>side<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>емитува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>broadcast<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>емитува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>air<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>поткопа<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>undermine<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>оцени<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>assess<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>доживее<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>suffer<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>лобира<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>lobby<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>апелира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>appeal<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>препорачува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>recommend<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>отиде<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>present<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>окарактеризира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>characterise<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>штити<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>protect<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>истече<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>expire<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>заостанува<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>trail<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>придвижи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>progress<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>придвижи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>move<g><b/>up</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>издава<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>issue<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>загрозува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>threaten<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>толерира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>tolerate<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>извршува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>carry<g><b/>out</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>придржува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>obey<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>придржува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>abide<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>превземе<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>take<g><b/>over</g><s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>превземе<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>take<g><b/>on</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>хармонизира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>harmonise<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>поднесува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>report<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>ограничува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>restrict<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>развива<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>improve<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>развива<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>boost<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>потекнува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>leak<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>напредува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>rise<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>заслужува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>deserve<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>настојува<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>seek<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>утврдува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>stipulate<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>јавува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>report<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>задолжи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>oblige<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>лежи<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>lie<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>шверцува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>smuggle<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>справува<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>handle<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>ризикува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>risk<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>посака<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>extend<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>лаже<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>lie<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>заминува<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>take<g><b/>up</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>предава<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>refer<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>остварува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>earn<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>остварува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>bring<g><b/>in</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>наметнува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>impose<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изгледа<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>appear<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изгледа<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>appear<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>вежба<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>train<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>вежба<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>drill<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>вежба<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>train<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>вежба<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>drill<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>собори<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>depose<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>запознае<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>know<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>вложува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>make<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>прикажува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>capture<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>преминува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>shift<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>означи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>mark<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>навестува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>amount<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>посакува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>extend<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>оспорува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>compromise<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>обраќа<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>pay<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>забележува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>expand<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>прашува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>ask<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>потрае<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>take<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>разликува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>differ<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>проучува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>study<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>отстапи<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>leave<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>забавува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>slow<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>повредува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>harm<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>пее<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>sing<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>зазема<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>occupy<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>плови<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>sail<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>тече<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>run<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>претпостави<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>theorise<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изнајде<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>find<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>упатува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>appeal<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>седи<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>sit<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>оневозможува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>prevent<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>потпомогне<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>support<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>потпомогне<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>maintain<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изведува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>conduct<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>доближува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>conform<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>слуша<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>listen<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>прекинува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>cut<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>посветува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>address<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>ослободува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>release<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>ослободува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>exonerate<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>нарушува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>infringe<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>располага<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>manage<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>располага<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>have<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>пријавува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>register<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>приближи<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>approach<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>покренува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>take<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>пере<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>launder<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>дочека<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>welcome<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>дочека<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>welcome<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>казнува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>fine<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>задоволува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>fulful<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>сослушува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>question<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>сослушува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>interrogate<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>откажува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>quit<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>обработува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>address<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>придава<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>attach<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>одгледува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>grow<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>обединува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>unite<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>извојува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>win<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>распредели<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>disburse<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>исправи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>iron<g><b/>out</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изложува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>present<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>изложува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>feature<s n="vblex"/></r></p></e>
+
+
 
     <!-- Abbreviations -->
 

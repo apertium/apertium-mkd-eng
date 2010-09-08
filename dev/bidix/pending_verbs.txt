@@ -1,193 +1,19 @@
-   3922 очекува<vblex><imperf><tv>
-   3629 состане<vblex><perf><tv>
-    553 победи<vblex><perf><tv>/победи<vblex><perf><iv>
-    529 познае<vblex><perf><tv>
-    429 исчезне<vblex><perf><iv>
-    423 пронајде<vblex><perf><tv>
-    419 стори<vblex><perf><tv>
-    412 уследи<vblex><perf><tv>
-    411 важи<vblex><imperf><iv>
-    368 сочинува<vblex><imperf><tv>
-    368 предвиди<vblex><perf><tv>
-    368 постави<vblex><perf><tv>
-    361 подели<vblex><perf><tv>
     339 договори<vblex><perf><tv>
-    338 пристапи<vblex><perf><iv>
-    330 спроведува<vblex><imperf><tv>
-    313 изразува<vblex><imperf><tv>
-    309 откаже<vblex><perf><tv>/откаже<vblex><perf><iv>
-    306 затвори<vblex><perf><tv>
-    283 закаже<vblex><perf><tv>
-    279 одбележи<vblex><perf><tv>
-    278 претседава<vblex><imperf><tv>
-    274 отпатува<vblex><imperf><iv>
-    270 изјасни<vblex><perf><tv>
-    265 презема<vblex><imperf><tv>
-    264 надмине<vblex><perf><tv>
-    236 ограничи<vblex><perf><tv>
-    236 обедини<vblex><perf><tv>
-    234 смени<vblex><perf><tv>
+    325 уследи<vblex><perf><tv>
     221 западне<vblex><perf><iv>
-    214 стапи<vblex><perf><iv>
-    207 држи<vblex><imperf><tv>
-    205 натпреварува<vblex><imperf><tv>
-    200 отпочне<vblex><perf><iv>
-    194 сведочи<vblex><imperf><tv>
-    191 прослави<vblex><perf><tv>
-    189 забележи<vblex><perf><tv>
-    185 овозможува<vblex><imperf><tv>
-    183 префрли<vblex><perf><tv>
-    180 пријави<vblex><perf><tv>
-    180 замрзне<vblex><perf><tv>
-    179 допатува<vblex><perf><iv>
-    178 подигне<vblex><perf><tv>
-    171 нарекува<vblex><imperf><tv>
-    169 изведе<vblex><perf><tv>
-    165 наметне<vblex><perf><tv>
-    164 принуди<vblex><perf><tv>
-    163 нагласи<vblex><perf><tv>
-    161 донира<vblex><imperf><tv>
     161 бере<vblex><imperf><tv>
-    158 рани<vblex><perf><tv>
     157 одговара<vblex><imperf><iv>
-    156 доминира<vblex><imperf><tv>
-    154 произлегува<vblex><imperf><iv>
-    149 напади<vblex><imperf><tv>
-    148 избие<vblex><perf><tv>
-    146 истекува<vblex><imperf><tv>
-    143 иницира<vblex><imperf><tv>
     141 смее<vblex><imperf><iv>
-    140 финализира<vblex><imperf><tv>
-    139 изложи<vblex><perf><tv>
-    137 опфати<vblex><perf><tv>
-    137 заложи<vblex><perf><tv>
-    136 опфаќа<vblex><imperf><tv>
-    135 посочува<vblex><imperf><tv>
-    135 изнесе<vblex><perf><iv>
-    134 изгласа<vblex><perf><tv>
-    132 стигне<vblex><perf><tv>
-    130 посредува<vblex><imperf><iv>
-    126 датира<vblex><imperf><iv>
-    125 спомене<vblex><perf><tv>
-    124 обелодени<vblex><perf><tv>
-    122 аплицира<vblex><imperf><iv>
-    118 претвори<vblex><perf><tv>
-    118 преживее<vblex><perf><iv>
-    116 реализира<vblex><imperf><tv>
-    112 должи<vblex><imperf><tv>
-    112 базира<vblex><imperf><tv>
-    109 вложи<vblex><perf><tv>
-    101 положи<vblex><perf><tv>
-     99 пресуди<vblex><perf><tv>
-     99 пресече<vblex><perf><tv>
-     94 става<vblex><perf><tv>
-     91 застане<vblex><perf><iv>
-     90 забави<vblex><perf><tv>
-     89 емитува<vblex><imperf><tv>
-     86 поткопа<vblex><imperf><tv>
-     86 оцени<vblex><perf><tv>
-     84 доживее<vblex><perf><iv>
-     81 лобира<vblex><imperf><iv>
-     80 апелира<vblex><imperf><tv>
-     79 препорачува<vblex><imperf><tv>
-     79 отиде<vblex><perf><iv>
-     78 окарактеризира<vblex><imperf><tv>
-     75 штити<vblex><imperf><tv>
-     75 истече<vblex><perf><iv>
-     73 заостанува<vblex><imperf><iv>
-     72 придвижи<vblex><perf><tv>
      72 доближи<vblex><perf><iv>
-     66 издава<vblex><imperf><tv>
      65 припишува<vblex><imperf><tv>
-     65 загрозува<vblex><imperf><tv>
-     64 толерира<vblex><imperf><tv>
-     61 извршува<vblex><imperf><tv>
-     59 придржува<vblex><imperf><tv>
-     59 превземе<vblex><perf><tv>
-     57 хармонизира<vblex><imperf><tv>
-     57 поднесува<vblex><imperf><tv>
-     57 ограничува<vblex><imperf><tv>
-     54 развива<vblex><imperf><tv>
-     53 потекнува<vblex><imperf><tv>
-     53 напредува<vblex><imperf><tv>
-     53 заслужува<vblex><imperf><tv>
-     52 настојува<vblex><imperf><iv>
-     51 утврдува<vblex><imperf><tv>
      50 поразува<vblex><imperf><tv>
-     50 јавува<vblex><imperf><tv>
-     50 задолжи<vblex><perf><tv>
-     47 лежи<vblex><imperf><iv>
-     46 шверцува<vblex><imperf><tv>
-     44 справува<vblex><imperf><iv>
-     43 ризикува<vblex><imperf><tv>
-     42 посака<vblex><perf><tv>
-     42 лаже<vblex><imperf><tv>
-     42 заминува<vblex><imperf><iv>
-     41 предава<vblex><imperf><tv>
-     40 остварува<vblex><imperf><tv>
-     40 наметнува<vblex><imperf><tv>
-     40 изгледа<vblex><imperf><tv>/изгледа<vblex><imperf><iv>
-     40 вежба<vblex><imperf><tv>/вежба<vblex><imperf><iv>
-     39 собори<vblex><perf><tv>
-     39 запознае<vblex><perf><tv>
-     39 вложува<vblex><imperf><tv>
-     38 прикажува<vblex><imperf><tv>
-     37 преминува<vblex><imperf><tv>
-     36 означи<vblex><perf><tv>
-     35 навестува<vblex><imperf><tv>
-     34 посакува<vblex><imperf><tv>
-     34 оспорува<vblex><imperf><tv>
-     34 обраќа<vblex><imperf><tv>
-     34 забележува<vblex><imperf><tv>
-     33 прашува<vblex><imperf><tv>
-     32 потрае<vblex><perf><iv>
-     31 разликува<vblex><imperf><tv>
-     29 проучува<vblex><imperf><tv>
-     29 отстапи<vblex><perf><iv>
-     29 забавува<vblex><imperf><tv>
-     28 повредува<vblex><imperf><tv>
-     28 пее<vblex><imperf><tv>
-     28 зазема<vblex><imperf><tv>
-     27 плови<vblex><imperf><iv>
-     26 тече<vblex><imperf><iv>
      26 иде<vblex><imperf><iv>
-     25 претпостави<vblex><perf><tv>
-     25 изнајде<vblex><perf><tv>
-     24 упатува<vblex><imperf><tv>
-     24 седи<vblex><imperf><iv>
-     24 оневозможува<vblex><imperf><tv>
-     23 потпомогне<vblex><perf><iv>
-     23 изведува<vblex><imperf><tv>
-     23 доближува<vblex><imperf><tv>
-     22 слуша<vblex><imperf><iv>
-     22 прекинува<vblex><imperf><tv>
-     22 посветува<vblex><imperf><tv>
-     22 ослободува<vblex><imperf><tv>
-     22 нарушува<vblex><imperf><tv>
      21 силува<vblex><imperf><tv>
-     21 располага<vblex><imperf><tv>
-     20 пријавува<vblex><imperf><tv>
-     20 приближи<vblex><perf><iv>
-     20 покренува<vblex><imperf><tv>
-     20 пере<vblex><imperf><tv>
-     20 дочека<vblex><perf><tv>/дочека<vblex><perf><iv>
      19 настане<vblex><perf><iv>
-     19 казнува<vblex><imperf><tv>
      19 застои<vblex><perf><iv>
-     19 задоволува<vblex><imperf><tv>
-     18 сослушува<vblex><imperf><tv>
-     18 откажува<vblex><imperf><tv>
-     18 обработува<vblex><imperf><tv>
      17 припадне<vblex><perf><iv>
-     17 придава<vblex><imperf><tv>
      17 отежнува<vblex><imperf><tv>
      17 овластува<vblex><imperf><tv>
-     16 одгледува<vblex><imperf><tv>
-     16 обединува<vblex><imperf><tv>
-     16 извојува<vblex><imperf><tv>
-     15 распредели<vblex><perf><tv>
-     15 исправи<vblex><perf><tv>
-     15 изложува<vblex><imperf><tv>
      15 издејствува<vblex><imperf><tv>
      14 стапува<vblex><imperf><iv>
      14 составува<vblex><imperf><tv>
@@ -308,6 +134,7 @@
       2 оддржува<vblex><imperf><tv>
       2 одгледа<vblex><perf><tv>
       2 облекува<vblex><imperf><tv>
+      2 натпреварува<vblex><imperf><tv>
       2 назадува<vblex><imperf><tv>
       2 линчува<vblex><imperf><tv>
       2 изоди<vblex><perf><iv>
