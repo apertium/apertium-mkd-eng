@@ -1,9 +1,6 @@
    3922 очекува<vblex><imperf><tv>
    3629 состане<vblex><perf><tv>
-    798 соочува<vblex><imperf><tv>
-    566 приклучи<vblex><perf><tv>
     553 победи<vblex><perf><tv>/победи<vblex><perf><iv>
-    531 однесува<vblex><imperf><tv>
     529 познае<vblex><perf><tv>
     429 исчезне<vblex><perf><iv>
     423 пронајде<vblex><perf><tv>
@@ -18,7 +15,6 @@
     338 пристапи<vblex><perf><iv>
     330 спроведува<vblex><imperf><tv>
     313 изразува<vblex><imperf><tv>
-    311 земе<vblex><perf><tv>
     309 откаже<vblex><perf><tv>/откаже<vblex><perf><iv>
     306 затвори<vblex><perf><tv>
     283 закаже<vblex><perf><tv>
@@ -80,7 +76,6 @@
     116 реализира<vblex><imperf><tv>
     112 должи<vblex><imperf><tv>
     112 базира<vblex><imperf><tv>
-    109 напише<vblex><perf><tv>
     109 вложи<vblex><perf><tv>
     101 положи<vblex><perf><tv>
      99 пресуди<vblex><perf><tv>
@@ -155,7 +150,6 @@
      28 зазема<vblex><imperf><tv>
      27 плови<vblex><imperf><iv>
      26 тече<vblex><imperf><iv>
-     26 наплаќа<vblex><imperf><iv>
      26 иде<vblex><imperf><iv>
      25 претпостави<vblex><perf><tv>
      25 изнајде<vblex><perf><tv>
@@ -186,7 +180,6 @@
      18 обработува<vblex><imperf><tv>
      17 припадне<vblex><perf><iv>
      17 придава<vblex><imperf><tv>
-     17 преименува<vblex><imperf><tv>
      17 отежнува<vblex><imperf><tv>
      17 овластува<vblex><imperf><tv>
      16 одгледува<vblex><imperf><tv>
@@ -208,7 +201,6 @@
      13 постапи<vblex><perf><iv>
      13 насочува<vblex><imperf><tv>
      13 доживува<vblex><imperf><tv>
-     12 уредува<vblex><imperf><tv>
      12 осврнува<vblex><imperf><tv>
      12 оплакува<vblex><imperf><tv>
      12 изземе<vblex><perf><tv>
@@ -250,28 +242,17 @@
       6 уценува<vblex><imperf><tv>
       6 турка<vblex><imperf><tv>
       6 разјаснува<vblex><imperf><tv>
-      6 препишува<vblex><imperf><tv>
       6 потценува<vblex><imperf><tv>
       6 поништува<vblex><imperf><tv>
       6 поедноставува<vblex><imperf><tv>
       6 подаде<vblex><perf><tv>
-      6 опслужува<vblex><imperf><tv>
-      6 одрече<vblex><perf><tv>
       6 обелоденува<vblex><imperf><tv>
-      6 наследува<vblex><imperf><tv>
-      6 наградува<vblex><imperf><tv>
-      6 издвојува<vblex><imperf><tv>
       6 избрзува<vblex><imperf><tv>
-      6 заплашува<vblex><imperf><tv>
       6 заложува<vblex><imperf><tv>
       6 зададе<vblex><perf><tv>
-      6 доврши<vblex><perf><tv>
-      5 членува<vblex><imperf><tv>
       5 следува<vblex><imperf><tv>
       5 свикува<vblex><imperf><tv>
       5 сведува<vblex><imperf><tv>
-      5 распродаде<vblex><perf><tv>
-      5 разработува<vblex><imperf><tv>
       5 пристапува<vblex><imperf><iv>
       5 прилагодува<vblex><imperf><tv>
       5 приврши<vblex><perf><tv>
@@ -280,124 +261,60 @@
       5 потресува<vblex><imperf><tv>
       5 посоветува<vblex><imperf><tv>
       5 пополнува<vblex><imperf><tv>
-      5 отфрлува<vblex><imperf><tv>
-      5 отвара<vblex><imperf><tv>
       5 оживува<vblex><imperf><tv>
-      5 одвраќа<vblex><imperf><tv>
       5 обликува<vblex><imperf><tv>
-      5 набројува<vblex><imperf><tv>
       5 изедначува<vblex><imperf><tv>
-      5 заострува<vblex><imperf><tv>
       5 допадне<vblex><perf><iv>
-      5 благодари<vblex><imperf><iv>
       4 усогласува<vblex><imperf><tv>
-      4 усложнува<vblex><imperf><tv>
       4 убедува<vblex><imperf><tv>
-      4 реже<vblex><imperf><tv>
-      4 разубеди<vblex><perf><tv>
       4 пресудува<vblex><imperf><tv>
-      4 понижува<vblex><imperf><tv>
-      4 оформува<vblex><imperf><tv>
-      4 отстапува<vblex><imperf><iv>
       4 осмелува<vblex><imperf><tv>
-      4 одблокира<vblex><perf><tv>
-      4 образложува<vblex><imperf><tv>
-      4 обележува<vblex><imperf><tv>
       4 навлегува<vblex><imperf><iv>
       4 исчезнува<vblex><imperf><tv>
-      4 ископува<vblex><imperf><tv>
       4 искачува<vblex><imperf><tv>
       4 изненадува<vblex><imperf><tv>
       4 засегнува<vblex><imperf><tv>
-      4 заробува<vblex><imperf><tv>
       4 замислува<vblex><imperf><tv>
-      4 закрие<vblex><perf><tv>
       4 дочекува<vblex><imperf><tv>
-      4 дише<vblex><imperf><iv>
-      4 дисквалификува<vblex><imperf><tv>
       4 врзува<vblex><imperf><tv>
-      4 воздржува<vblex><imperf><tv>
       3 услужи<vblex><perf><iv>
-      3 ублажува<vblex><imperf><tv>
       3 тагува<vblex><imperf><tv>
-      3 сретнува<vblex><imperf><tv>
-      3 согледа<vblex><perf><tv>
       3 соборува<vblex><imperf><tv>
       3 сместува<vblex><imperf><tv>
-      3 раскаже<vblex><perf><tv>
       3 прибегнува<vblex><imperf><tv>
       3 преселува<vblex><imperf><tv>
-      3 пресекува<vblex><imperf><tv>
       3 препродаде<vblex><perf><tv>
       3 пофалува<vblex><imperf><tv>
       3 потпомага<vblex><imperf><iv>
       3 поткрепува<vblex><imperf><tv>
-      3 постапува<vblex><imperf><iv>
-      3 посвојува<vblex><imperf><tv>
       3 подметнува<vblex><imperf><tv>
-      3 подигнува<vblex><imperf><tv>
       3 подготува<vblex><imperf><tv>
-      3 подава<vblex><imperf><tv>
-      3 оддолжува<vblex><imperf><tv>
-      3 огледа<vblex><perf><tv>
-      3 образува<vblex><imperf><tv>
-      3 населува<vblex><imperf><tv>
-      3 напојува<vblex><imperf><tv>
-      3 наложува<vblex><imperf><tv>
       3 нададе<vblex><perf><tv>
-      3 модификува<vblex><imperf><tv>
       3 изучува<vblex><imperf><tv>
-      3 изрекува<vblex><imperf><tv>
-      3 зачувува<vblex><imperf><tv>
       3 застанува<vblex><perf><iv>
-      3 задушува<vblex><imperf><tv>
       3 дотрае<vblex><perf><iv>
       3 дополнува<vblex><imperf><tv>
       3 греши<vblex><perf><tv>
       3 војува<vblex><imperf><tv>
-      3 брише<vblex><imperf><tv>
-      2 школува<vblex><imperf><tv>
       2 сочувствува<vblex><imperf><tv>
       2 слетува<vblex><imperf><tv>
-      2 распределува<vblex><imperf><tv>
-      2 распишува<vblex><imperf><tv>
       2 ракува<vblex><imperf><tv>
       2 разнишува<vblex><imperf><tv>
-      2 публикува<vblex><imperf><tv>
-      2 протекува<vblex><imperf><tv>
-      2 присвојува<vblex><imperf><tv>
       2 приземјува<vblex><imperf><tv>
-      2 придаде<vblex><perf><tv>
-      2 префрлува<vblex><imperf><tv>
       2 престои<vblex><perf><iv>
-      2 престанува<vblex><imperf><iv>
       2 прекорува<vblex><imperf><tv>
-      2 прегласува<vblex><imperf><tv>
       2 поткупи<vblex><perf><tv>
-      2 потиснува<vblex><imperf><tv>
-      2 помислува<vblex><imperf><tv>
-      2 позајмува<vblex><imperf><tv>
-      2 поделува<vblex><imperf><tv>
-      2 отцепува<vblex><imperf><tv>
       2 отсуствува<vblex><imperf><tv>
-      2 ослабнува<vblex><imperf><tv>
-      2 осветлува<vblex><imperf><tv>
       2 оддржува<vblex><imperf><tv>
       2 одгледа<vblex><perf><tv>
       2 облекува<vblex><imperf><tv>
-      2 обземе<vblex><perf><tv>
       2 назадува<vblex><imperf><tv>
-      2 надградува<vblex><imperf><tv>
       2 линчува<vblex><imperf><tv>
-      2 изостане<vblex><perf><iv>
       2 изоди<vblex><perf><iv>
       2 изминува<vblex><imperf><tv>
-      2 зацврстува<vblex><imperf><tv>
       2 запазува<vblex><imperf><tv>
       2 заживува<vblex><imperf><tv>
       2 задолжува<vblex><imperf><tv>
-      2 допринесува<vblex><imperf><iv>
-      2 восхитува<vblex><imperf><tv>
       2 вмешува<vblex><imperf><tv>
       2 вдишува<vblex><imperf><tv>
       1 украсува<vblex><imperf><tv>
@@ -405,9 +322,6 @@
       1 тргнува<vblex><imperf><tv>
       1 спасува<vblex><imperf><tv>
       1 соединува<vblex><imperf><tv>
-      1 смирува<vblex><imperf><tv>
-      1 сменува<vblex><imperf><tv>
-      1 симнува<vblex><imperf><tv>
       1 сврши<vblex><perf><tv>
       1 распродава<vblex><imperf><tv>
       1 расположува<vblex><imperf><tv>
@@ -415,35 +329,24 @@
       1 разочарува<vblex><imperf><tv>
       1 разоружува<vblex><imperf><tv>
       1 разместува<vblex><imperf><tv>
-      1 разделува<vblex><imperf><tv>
       1 раздаде<vblex><perf><tv>
       1 раздава<vblex><imperf><tv>
-      1 простува<vblex><imperf><tv>
       1 пропишува<vblex><imperf><tv>
       1 прооди<vblex><perf><iv>
-      1 проневерува<vblex><imperf><tv>
       1 причинува<vblex><imperf><tv>
       1 пристига<vblex><imperf><iv>
       1 приспособува<vblex><imperf><tv>
       1 приготвува<vblex><imperf><tv>
       1 претстатвува<vblex><imperf><tv>
       1 претскажува<vblex><imperf><tv>
-      1 претседателствува<vblex><imperf><tv>
       1 пресушува<vblex><imperf><tv>
       1 престапи<vblex><perf><iv>
       1 пресретнува<vblex><imperf><tv>
       1 пресоздаде<vblex><perf><tv>
-      1 прераскажува<vblex><imperf><tv>
-      1 преработува<vblex><imperf><tv>
       1 преместува<vblex><imperf><tv>
-      1 пребројува<vblex><imperf><tv>
       1 поткпува<vblex><imperf><tv>
       1 постига<vblex><imperf><tv>
-      1 послужува<vblex><imperf><tv>
       1 појаснува<vblex><imperf><tv>
-      1 позасили<vblex><perf><tv>
-      1 подржи<vblex><perf><tv>
-      1 подредува<vblex><imperf><tv>
       1 подмладува<vblex><imperf><tv>
       1 подджрува<vblex><imperf><tv>
       1 подарува<vblex><imperf><tv>
@@ -454,52 +357,26 @@
       1 откупува<vblex><imperf><tv>
       1 осмислува<vblex><imperf><tv>
       1 опслужи<vblex><perf><tv>
-      1 опседне<vblex><perf><iv>
       1 омаловажи<vblex><perf><tv>
-      1 одделува<vblex><imperf><tv>
       1 оддалечува<vblex><imperf><tv>
-      1 одвие<vblex><perf><tv>
       1 оградува<vblex><imperf><tv>
-      1 ограбува<vblex><imperf><tv>
-      1 огледува<vblex><imperf><tv>
-      1 начека<vblex><perf><tv>
       1 настанува<vblex><imperf><iv>
-      1 наклонува<vblex><imperf><tv>
-      1 наддава<vblex><imperf><tv>
       1 наврши<vblex><perf><tv>
-      1 наводнува<vblex><imperf><tv>
-      1 мирува<vblex><imperf><tv>
-      1 лишува<vblex><imperf><tv>
-      1 исцртува<vblex><imperf><tv>
       1 исфрлува<vblex><imperf><tv>
       1 истрае<vblex><perf><iv>
-      1 испробува<vblex><imperf><tv>
       1 испразнува<vblex><imperf><tv>
-      1 искривува<vblex><imperf><tv>
-      1 изостава<vblex><imperf><iv>
       1 изобилува<vblex><imperf><tv>
       1 изнудува<vblex><imperf><tv>
       1 изместува<vblex><imperf><tv>
-      1 излаже<vblex><perf><tv>
-      1 изискува<vblex><imperf><tv>
       1 издржува<vblex><imperf><tv>
-      1 издигнува<vblex><imperf><tv>
       1 извозува<vblex><imperf><tv>
-      1 зголамува<vblex><imperf><tv>
-      1 зближува<vblex><imperf><tv>
-      1 затоплува<vblex><imperf><tv>
-      1 затегнува<vblex><imperf><tv>
       1 затврди<vblex><perf><tv>
       1 *занимава
-      1 замаглува<vblex><imperf><tv>
       1 закана<n><f><pl><nom><ind>
-      1 задава<vblex><imperf><tv>
       1 загледа<vblex><perf><tv>/загледа<vblex><perf><iv>
       1 загинува<vblex><imperf><iv>
-      1 заболува<vblex><imperf><tv>
       1 доверува<vblex><imperf><tv>
       1 гладува<vblex><imperf><tv>
-      1 втурнува<vblex><imperf><tv>
       1 врежува<vblex><imperf><tv>
       1 вперува<vblex><imperf><tv>
       1 воодушевува<vblex><imperf><tv>
@@ -507,5 +384,4 @@
       1 видоизмени<vblex><perf><tv>
       1 бунтува<vblex><imperf><tv>
       1 боледува<vblex><imperf><tv>
-      1 благословува<vblex><imperf><tv>
       1 

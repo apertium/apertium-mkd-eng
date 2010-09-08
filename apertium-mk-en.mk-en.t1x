@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <transfer default="chunk">
   <section-def-cats>
+    <def-cat n="unknown">
+      <cat-item lemma="*" tags=""/>
+    </def-cat>
     <def-cat n="guio">
       <cat-item tags="guio"/>
       <cat-item tags="guio.*"/>
@@ -21,6 +24,9 @@
     <def-cat n="num">
       <cat-item tags="num.*"/>
     </def-cat>
+    <def-cat n="hyp">
+      <cat-item lemma="би" tags="vbser.*"/>
+    </def-cat>
     <def-cat n="može">
       <cat-item lemma="може" tags="vbmod.*"/>
     </def-cat>
@@ -37,6 +43,9 @@
       <cat-item lemma="нема" tags="vbhaver.pres.*"/>
       <cat-item lemma="нема" tags="vbhaver.pii.*"/>
       <cat-item lemma="нема" tags="vbhaver.aor.*"/>
+    </def-cat>
+    <def-cat n="v_lp_aor">
+      <cat-item tags="vblex.*.*.lp.aor.*"/>
     </def-cat>
     <def-cat n="v_fin">
       <cat-item tags="vblex.*.*.pres.*"/>
@@ -138,6 +147,7 @@
       <attr-item tags="n.acr"/>
       <attr-item tags="np"/>
       <attr-item tags="np.top"/>
+      <attr-item tags="np.al"/>
       <attr-item tags="np.cog"/>
       <attr-item tags="np.ant"/>
     </def-attr>
@@ -918,7 +928,7 @@
           </when>
         </choose>
         <out>
-          <chunk namefrom="np_chunk_n" case="caseFirstWord">
+          <chunk name="m_n" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="np_chunk_s"/></tag>
@@ -1348,6 +1358,33 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: ќе unknown">
+      <pattern>
+        <pattern-item n="exp"/>
+        <pattern-item n="unknown"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1">
+                <lit v="will"/>
+              </get-case-from>
+              <lit-tag v="vaux.inf"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: ќе v_pres">
       <pattern>
         <pattern-item n="exp"/>
@@ -1631,6 +1668,40 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: би v_lp_aor">
+      <pattern>
+        <pattern-item n="hyp"/>
+        <pattern-item n="v_lp_aor"/>
+      </pattern>
+      <action>
+        <call-macro n="conv_verb_tense1">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1">
+                <lit v="would"/>
+              </get-case-from>
+              <lit-tag v="vaux.inf"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
     <rule comment="REGLA: ќе v_cop_fin_pres">
       <pattern>
