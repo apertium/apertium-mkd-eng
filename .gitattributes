@@ -15,7 +15,6 @@ dev/bidix/pending_verbs.txt -text
 dev/generation-summary.txt -text
 dev/generation-test.sh -text
 dev/test_phrases.mk.txt -text
-dev/test_phrases.txt -text
 /lexchoicebil.xsl -text
 /mk-en.prob -text
 /modes.xml -text

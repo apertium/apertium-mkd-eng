@@ -473,7 +473,7 @@
       1 одделува<vblex><imperf><tv>
       1 оддалечува<vblex><imperf><tv>
       1 одвие<vblex><perf><tv>
-      1 ограничнува<vblex><imperf><tv>
+      1 *ограничнува
       1 оградува<vblex><imperf><tv>
       1 ограбува<vblex><imperf><tv>
       1 огледува<vblex><imperf><tv>
