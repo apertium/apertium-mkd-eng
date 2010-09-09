@@ -3806,6 +3806,26 @@
     <e><p><l>Шумен<s n="np"/><s n="top"/><s n="m"/></l><r>Shumen<s n="np"/><s n="top"/><s n="m"/></r></p></e>
     <e><p><l>Црна<b/>Гора<s n="np"/><s n="top"/><s n="f"/></l><r>Montenegro<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
+    <e><p><l>Сребреница<s n="np"/><s n="top"/><s n="f"/></l><r>Srebrenica<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Радован<s n="np"/><s n="top"/><s n="m"/></l><r>Radovan<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Митровица<s n="np"/><s n="top"/><s n="f"/></l><r>Mitrovica<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Вуковар<s n="np"/><s n="top"/><s n="m"/></l><r>Vukovar<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Брчко<s n="np"/><s n="top"/><s n="nt"/></l><r>Brčko<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Осиек<s n="np"/><s n="top"/><s n="m"/></l><r>Osijek<s n="np"/><s n="top"/></r></p></e>
+    <e c="  0"><p><l>Дијарбакир<s n="np"/><s n="top"/><s n="m"/></l><r>Diyarbakır<s n="np"/><s n="top"/></r></p></e>
+    <e slr="1"><p><l>Дијарбакир<s n="np"/><s n="top"/><s n="m"/></l><r>Amed<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Козлодуј<s n="np"/><s n="top"/><s n="m"/></l><r>Kozloduj<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Фоча<s n="np"/><s n="top"/><s n="f"/></l><r>Foča<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Краина<s n="np"/><s n="top"/><s n="f"/></l><r>Krajina<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Митровица<s n="np"/><s n="top"/><s n="f"/></l><r>Mitrovica<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Јужна<b/>Кореја<s n="np"/><s n="top"/><s n="f"/></l><r>South<b/>Korea<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Александрополис<s n="np"/><s n="top"/><s n="m"/></l><r>Alexandroupoli<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Трново<s n="np"/><s n="top"/><s n="nt"/></l><r>Trnovo<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Пештера<s n="np"/><s n="top"/><s n="f"/></l><r>Peštera<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Карнобат<s n="np"/><s n="top"/><s n="m"/></l><r>Karnobat<s n="np"/><s n="top"/></r></p></e>
+
+
+
     <e><p><l>Марија<s n="np"/><s n="ant"/><s n="f"/></l><r>Marija<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Лабина<s n="np"/><s n="ant"/><s n="f"/></l><r>Labina<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Џоана<s n="np"/><s n="ant"/><s n="f"/></l><r>Joana<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
@@ -5765,6 +5785,22 @@
 
     <e><p><l>Википедија<s n="np"/><s n="al"/><s n="f"/><s n="sg"/></l><r>Wikipedia<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Ксинхуа<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Xinhua<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Ројтерс<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Reuters<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Дневник<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Dnevnik<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Инсајт<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Insite<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Интерпол<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Interpol<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Евениментул<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Evenimentul<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Олимпик<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Olypmics<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Индипендант<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Independent<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Медиапул<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Mediapool<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Ергенекон<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Ergenekon<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Гардијан<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Guardian<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Макфакс<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Makfax<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Мајкрософт<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Microsoft<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Монитор<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Monitor<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Макфакс<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Makfax<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Мајкрософт<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Microsoft<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    
 
 
     <!-- Adjectives -->
