@@ -112,6 +112,9 @@
       <program name="apertium-tagger -p -g">
         <file name="mk-en.prob"/>
       </program>
+      <program name="cg-proc -w -n">
+        <file name="mk-en.lex.bin"/>
+      </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
         <file name="apertium-mk-en.mk-en.t1x"/>
