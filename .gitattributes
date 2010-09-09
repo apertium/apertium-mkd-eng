@@ -11,6 +11,7 @@ dev/bidix/pending_adverbs.txt -text
 dev/bidix/pending_nouns.txt -text
 dev/bidix/pending_numerals.txt -text
 dev/bidix/pending_prepositions.txt -text
+dev/bidix/pending_proper_nouns.txt -text
 dev/bidix/pending_verbs.txt -text
 dev/generation-summary.txt -text
 dev/generation-test.sh -text
