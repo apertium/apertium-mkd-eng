@@ -81,6 +81,9 @@
       <cat-item tags="vbhaver.pres"/>
       <cat-item tags="vbhaver.pres.*"/>
     </def-cat>
+    <def-cat n="vbmod">
+      <cat-item tags="vbmod.*"/>
+    </def-cat>
     <def-cat n="v_cop_fin_pres">
       <cat-item tags="vbser.pres.*"/>
     </def-cat>
@@ -92,6 +95,10 @@
     <def-cat n="pprs_adv"> 
       <cat-item tags="vblex.*.*.pprs.adv"/>
       <cat-item tags="vblex.*.*.pprs.adv.*"/>
+      <cat-item tags="vbhaver.pprs.adv"/>
+      <cat-item tags="vbhaver.pprs.adv.*"/>
+      <cat-item tags="vbser.pprs.adv"/>
+      <cat-item tags="vbser.pprs.adv.*"/>
     </def-cat>
     <def-cat n="pp">
       <cat-item tags="vblex.*.pp.*"/>
@@ -508,10 +515,16 @@
       <choose>
         <when>
           <test>
-            <equal>
-              <clip pos="1" side="sl" part="nbr"/>
-              <lit-tag v="pl"/>
-            </equal>
+            <or>
+              <equal>
+                <clip pos="1" side="sl" part="pers"/>
+                <lit-tag v="p2"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="nbr"/>
+                <lit-tag v="pl"/>
+              </equal>
+            </or>
           </test>
           <let>
             <clip pos="1" side="tl" part="nbr"/>
@@ -1464,6 +1477,32 @@
         </out>
       </action>
     </rule>
+
+
+    <rule comment="REGLA: vbmod">
+      <pattern>
+        <pattern-item n="vbmod"/>
+      </pattern>
+      <action>
+        <call-macro n="conv_verb_tense1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="REGLA: v_fin">
