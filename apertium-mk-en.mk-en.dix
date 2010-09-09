@@ -263,6 +263,8 @@
     <e c="  0"><p><l>во<b/>траење<b/>од<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
     <e slr="1"><p><l>во<b/>траење<b/>од<s n="pr"/></l><r>for<b/>the<b/>duration<b/>of<s n="pr"/></r></p></e>
 
+    <e c="  0"><p><l>како<b/>одговор<b/>на<s n="pr"/></l><r>in<b/>response<b/>to<s n="pr"/></r></p></e>
+
     <!-- Conjunctions -->
    
     <e><p><l>и<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
@@ -3876,6 +3878,7 @@
     <e><p><l>Бранко<s n="np"/><s n="ant"/><s n="m"/></l><r>Branko<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Петар<s n="np"/><s n="ant"/><s n="m"/></l><r>Petar<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Дејан<s n="np"/><s n="ant"/><s n="m"/></l><r>Dejan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Реџеп<s n="np"/><s n="ant"/><s n="m"/></l><r>Recep<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Драган<s n="np"/><s n="ant"/><s n="m"/></l><r>Dragan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Слободан<s n="np"/><s n="ant"/><s n="m"/></l><r>Slobodan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Георге<s n="np"/><s n="ant"/><s n="m"/></l><r>George<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -5831,6 +5834,44 @@
     <e><p><l>Макфакс<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Makfax<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Мајкрософт<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Microsoft<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     
+    <e><p><l>Бета<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Beta<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Блиц<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Blitz<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Независне<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Nezavisne<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Ромпрес<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Rompres<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Заман<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Zaman<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Танјуг<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Tanjug<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Турк<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Turk<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Дојче<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Dojče<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>ерлајнс<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Airlines<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Тркиш<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Turkish<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Анадолу<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Anadolu<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Фена<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Fena<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Катимерини<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Katimerini<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Фокус<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Focus<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Медиафакс<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Mediafax<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Еуроњус<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Euronews<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>инсајт<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>insite<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Хуријет<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Hurriet<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Вечерњи<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Večernji<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Косова<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Kosova<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Вијести<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Vijesti<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Милијет<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Miliyet<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Вјесник<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Vjesnik<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Фонет<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Fonet<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Ерлајнс<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Airlines<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Експрес<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Express<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Радикал<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Radical<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Данас<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Danas<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Зери<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Zeri<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Шекули<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Shekulli<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Реалитатеа<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Realitatea<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Ватан<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Vatan<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Аваз<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Avaz<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Нафтемборики<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Naftemporiki<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Аро<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Aro<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Дарик<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Darik<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Побједа<s n="np"/><s n="al"/><s n="f"/><s n="sg"/></l><r>Pobjeda<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+
 
 
     <!-- Adjectives -->
@@ -7538,6 +7579,61 @@
     <e c="  0"><p><l>едностран<s n="adj"/></l><r>one-sided<s n="adj"/></r></p></e>
     <e slr="1"><p><l>едностран<s n="adj"/></l><r>biased<s n="adj"/></r></p></e>
     <e slr="2"><p><l>едностран<s n="adj"/></l><r>unilateral<s n="adj"/></r></p></e>
+
+    <e c="  0"><p><l>свесен<s n="adj"/></l><r>conscious<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>траен<s n="adj"/></l><r>permanent<s n="adj"/></r></p></e> <!--   lasting-->
+    <e c="  0"><p><l>сив<s n="adj"/></l><r>grey<s n="adj"/><s n="sint"/></r></p></e>
+    <e c="  0"><p><l>женевски<s n="adj"/></l><r>Genevan<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>продажен<s n="adj"/></l><r>extended<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>навигациски<s n="adj"/></l><r>navigational<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>производен<s n="adj"/></l><r>production<s n="adj"/></r></p></e> <!--   (as an adj)-->
+    <e c="  0"><p><l>звучен<s n="adj"/></l><r>sound<s n="adj"/></r></p></e> <!--   or sonorous, not sure-->
+    <e c="  0"><p><l>тап<s n="adj"/></l><r>blunt<s n="adj"/><s n="sint"/></r></p></e>
+    <e c="  0"><p><l>вишеградски<s n="adj"/></l><r>Višegrad<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>измамен<s n="adj"/></l><r>deceived<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>августовски<s n="adj"/></l><r>August<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>цветен<s n="adj"/></l><r>flowery<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>просветен<s n="adj"/></l><r>education<s n="adj"/></r></p></e> <!--   (not educational, AFAIK)-->
+    <e c="  0"><p><l>микенски<s n="adj"/></l><r>Mycenean<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>крупен<s n="adj"/></l><r>large<s n="adj"/><s n="sint"/></r></p></e>
+    <e c="  0"><p><l>конгоански<s n="adj"/></l><r>Congolese<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>чудесен<s n="adj"/></l><r>wondrous<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>продуцентски<s n="adj"/></l><r>producer<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>гнил<s n="adj"/></l><r>rotten<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>вакуфски<s n="adj"/></l><r>market-town<s n="adj"/></r></p></e> <!--   vakuf = market town-->
+    <e c="  0"><p><l>хаџиски<s n="adj"/></l><r>Hajj<s n="adj"/></r></p></e> <!--   of a Haji, maybe meaning "cool"-->
+    <e c="  0"><p><l>средоземноморски<s n="adj"/></l><r>Mediterranean<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>слаткарски<s n="adj"/></l><r>confectionery<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>рамадански<s n="adj"/></l><r>Ramadan<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>разделувачки<s n="adj"/></l><r>distributional<s n="adj"/></r></p></e> <!--   (?)-->
+    <e c="  0"><p><l>подгорски<s n="adj"/></l><r>underhill<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>писателски<s n="adj"/></l><r>writer<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>мокар<s n="adj"/></l><r>wet<s n="adj"/><s n="sint"/></r></p></e>
+    <e c="  0"><p><l>миокенски<s n="adj"/></l><r>Miocenean<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>минејски<s n="adj"/></l><r>Minoan<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>меден<s n="adj"/></l><r>honey-like<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>кондиторски<s n="adj"/></l><r>confectionery<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>зетски<s n="adj"/></l><r>son-in-law<s n="adj"/></r></p></e> <!--   (?)-->
+    <e c="  0"><p><l>доброволски<s n="adj"/></l><r>voluntary<s n="adj"/></r></p></e> <!--    or, more likely, of volunteers-->
+    <e c="  0"><p><l>влажен<s n="adj"/></l><r>humid<s n="adj"/></r></p></e> <!--   /damp -->
+    <e c="  0"><p><l>византински<s n="adj"/></l><r>Byzantine<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>видеоконференциски<s n="adj"/></l><r>videoconferencing<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>вавилонски<s n="adj"/></l><r>Babylonian<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>бродвејски<s n="adj"/></l><r>Broadway<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>александровски<s n="adj"/></l><r>Alexander<s n="adj"/></r></p></e>
+
+    <e c="  0"><p><l>постојн<s n="adj"/></l><r>existing<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>еленовски<s n="adj"/></l><r>deer<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>самопрогласен<s n="adj"/></l><r>self-proclaimed<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>заобиколен<s n="adj"/></l><r>roundabout<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>претприемнички<s n="adj"/></l><r>enterprising<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>осоговски<s n="adj"/></l><r>Osogov<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>обиколен<s n="adj"/></l><r>roundabout<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>хасковски<s n="adj"/></l><r>Haskovo<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>резовски<s n="adj"/></l><r>Rezov<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>козарски<s n="adj"/></l><r>Kozara<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>аландски<s n="adj"/></l><r>Åland<s n="adj"/></r></p></e>
+
 
 
     <!-- Adverbs -->

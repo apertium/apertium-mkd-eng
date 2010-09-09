@@ -1389,6 +1389,29 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: ќе">
+      <pattern>
+        <pattern-item n="exp"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1">
+                <lit v="will"/>
+              </get-case-from>
+              <lit-tag v="vaux.inf"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
     <rule comment="REGLA: ќе unknown">
       <pattern>
         <pattern-item n="exp"/>
