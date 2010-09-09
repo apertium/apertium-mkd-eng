@@ -100,4 +100,3 @@
       1 вкоренува<vblex><imperf><tv>
       1 видоизмени<vblex><perf><tv>
       1 бунтува<vblex><imperf><tv>
-      1 
