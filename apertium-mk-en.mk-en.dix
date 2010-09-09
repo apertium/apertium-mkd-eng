@@ -3372,7 +3372,7 @@
     <e><p><l>ветеран<s n="n"/><s n="m"/></l><r>veteran<s n="n"/></r></p></e>
     <e><p><l>реактор<s n="n"/><s n="m"/></l><r>reactor<s n="n"/></r></p></e>
     <e><p><l>офанзива<s n="n"/><s n="f"/></l><r>offensive<s n="n"/></r></p></e>
-    <e><p><l>противкандидат<s n="n"/><s n="m"/></l><r>opposition_candidate<s n="n"/></r></p></e>
+    <e><p><l>противкандидат<s n="n"/><s n="m"/></l><r>opposition<b/>candidate<s n="n"/></r></p></e>
     <e><p><l>баталјон<s n="n"/><s n="m"/></l><r>batallion<s n="n"/></r></p></e>
     <e><p><l>рекорд<s n="n"/><s n="m"/></l><r>record<s n="n"/></r></p></e>
     <e><p><l>клаузула<s n="n"/><s n="f"/></l><r>clause<s n="n"/></r></p></e>
@@ -3418,7 +3418,7 @@
     <e><p><l>контрадикторност<s n="n"/><s n="f"/></l><r>contradiction<s n="n"/></r></p></e>
     <e><p><l>компетенција<s n="n"/><s n="f"/></l><r>competency<s n="n"/></r></p></e>
     <e><p><l>кантонизација<s n="n"/><s n="f"/></l><r>cantonisation<s n="n"/></r></p></e>
-    <e><p><l>електроинженерство<s n="n"/><s n="nt"/></l><r>electrical_engineering<s n="n"/></r></p></e>
+    <e><p><l>електроинженерство<s n="n"/><s n="nt"/></l><r>electrical<b/>engineering<s n="n"/></r></p></e>
     <e><p><l>дисертација<s n="n"/><s n="f"/></l><r>dissertion<s n="n"/></r></p></e>
     <e><p><l>видеоконференција<s n="n"/><s n="f"/></l><r>videoconference<s n="n"/></r></p></e>
     <e><p><l>амбасадорка<s n="n"/><s n="f"/></l><r>ambassador<s n="n"/></r></p></e>
@@ -7519,6 +7519,25 @@
     <e c="  0"><p><l>безгаранциски<s n="adj"/></l><r>non-guaranteed<s n="adj"/></r></p></e>
     <e c="  0"><p><l>амфитеатарски<s n="adj"/></l><r>ampitheatre<s n="adj"/></r></p></e>
     <e c="  0"><p><l>администраторски<s n="adj"/></l><r>administrator<s n="adj"/></r></p></e>
+
+    <e c="  0"><p><l>медиумски<s n="adj"/></l><r>media<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>еднаков<s n="adj"/></l><r>equal<s n="adj"/></r></p></e>
+    <e slr="1"><p><l>еднаков<s n="adj"/></l><r>identical<s n="adj"/></r></p></e>
+    <e slr="2"><p><l>еднаков<s n="adj"/></l><r>uniform<s n="adj"/></r></p></e>
+    <e slr="3"><p><l>еднаков<s n="adj"/></l><r>similar<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>мртов<s n="adj"/></l><r>dead<s n="adj"/></r></p></e>
+    <e slr="1"><p><l>мртов<s n="adj"/></l><r>deceased<s n="adj"/></r></p></e>
+    <e slr="2"><p><l>мртов<s n="adj"/></l><r>defunct<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>едногласен<s n="adj"/></l><r>monotonous<s n="adj"/></r></p></e>
+    <e slr="1"><p><l>едногласен<s n="adj"/></l><r>unanimous<s n="adj"/></r></p></e>
+    <e slr="2"><p><l>едногласен<s n="adj"/></l><r>universal<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>тркалезен<s n="adj"/></l><r>oval<s n="adj"/></r></p></e>
+    <e slr="1"><p><l>тркалезен<s n="adj"/></l><r>round<s n="adj"/></r></p></e>
+    <e slr="2"><p><l>тркалезен<s n="adj"/></l><r>spherical<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>музички<s n="adj"/></l><r>musical<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>едностран<s n="adj"/></l><r>one-sided<s n="adj"/></r></p></e>
+    <e slr="1"><p><l>едностран<s n="adj"/></l><r>biased<s n="adj"/></r></p></e>
+    <e slr="2"><p><l>едностран<s n="adj"/></l><r>unilateral<s n="adj"/></r></p></e>
 
 
     <!-- Adverbs -->
