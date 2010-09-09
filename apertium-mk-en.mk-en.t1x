@@ -1332,10 +1332,10 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: prn_clitic v_pres">
+    <rule comment="REGLA: prn_clitic v_fin">
       <pattern>
         <pattern-item n="prn_clitic"/>
-        <pattern-item n="v_pres"/>
+        <pattern-item n="v_fin"/>
       </pattern>
       <action>
         <call-macro n="conv_verb_tense1">

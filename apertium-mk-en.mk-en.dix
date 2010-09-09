@@ -3392,7 +3392,7 @@
     <e><p><l>рестартирање<s n="n"/><s n="nt"/></l><r>restarting<s n="n"/></r></p></e>
     <e><p><l>професионализација<s n="n"/><s n="f"/></l><r>professionalisation<s n="n"/></r></p></e>
     <e><p><l>легалност<s n="n"/><s n="f"/></l><r>legality<s n="n"/></r></p></e>
-    <e><p><l>дискредитација<s n="n"/><s n="f"/></l><r>discreditting<s n="n"/></r></p></e>
+    <e><p><l>дискредитација<s n="n"/><s n="f"/></l><r>discrediting<s n="n"/></r></p></e>
     <e><p><l>деполитизација<s n="n"/><s n="f"/></l><r>depoliticisation<s n="n"/></r></p></e>
     <e><p><l>фикција<s n="n"/><s n="f"/></l><r>fiction<s n="n"/></r></p></e>
     <e><p><l>неутрализирање<s n="n"/><s n="nt"/></l><r>neutralisation<s n="n"/></r></p></e>
@@ -7800,8 +7800,8 @@
     <e slr="0"><p><l>порано<s n="adv"/></l><r>in<b/>advance<s n="adv"/></r></p></e>
     <e c="  0"><p><l>засега<s n="adv"/></l><r>then<s n="adv"/></r></p></e> <!-- MWE: сега засега, 'for the time being' -->
     <e c="  0"><p><l>еднаш<s n="adv"/></l><r>once<s n="adv"/></r></p></e> <!-- MWE: еднаш еден, 'once upon a time' -->
-    <e c="  0"><p><l>затоа<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
-    <e slr="1"><p><l>затоа<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>затоа<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>затоа<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
     <e c="  0"><p><l>далеку<s n="adv"/></l><r>far<s n="adv"/></r></p></e>
     <e slr="1"><p><l>далеку<s n="adv"/></l><r>far<b/>away<s n="adv"/></r></p></e>
     <e c="  0"><p><l>условно<s n="adv"/></l><r>conditionally<s n="adv"/></r></p></e>
