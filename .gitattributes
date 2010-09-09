@@ -4,6 +4,7 @@
 /Makefile -text
 /apertium-mk-en.mk-en.alpha.dix -text
 /apertium-mk-en.mk-en.dix -text
+/apertium-mk-en.mk-en.lex -text
 /apertium-mk-en.mk-en.t1x -text
 /apertium-mk-en.mk-en.t2x -text
 /apertium-mk-en.mk-en.t3x -text

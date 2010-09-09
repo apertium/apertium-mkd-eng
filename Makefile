@@ -7,6 +7,7 @@ all:
 	lt-comp lr .deps/apertium-mk-en.mk-en.dix mk-en.autobil.bin
 	lt-comp rl apertium-mk-en.mk-en.alpha.dix mk-en.alpha.bin
 	cg-comp ../../trunk/apertium-mk-bg/apertium-mk-bg.mk-bg.rlx mk-en.rlx.bin
+	cg-comp apertium-mk-en.mk-en.lex mk-en.lex.bin
 	apertium-preprocess-transfer apertium-mk-en.mk-en.t1x mk-en.t1x.bin
 	apertium-preprocess-transfer apertium-mk-en.mk-en.t2x mk-en.t2x.bin
 	apertium-preprocess-transfer apertium-mk-en.mk-en.t3x mk-en.t3x.bin
