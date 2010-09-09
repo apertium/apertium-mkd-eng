@@ -371,6 +371,7 @@ Tag mismatch between transfer and generation
       2 #clarification\<n\>\<pl\>	^clarification<n><pl>$
       2 #cantonisation\<n\>\<sg\>	^cantonisation<n><sg>$
       2 #blunt\<adj\>\<sint\>	^blunt<adj><sint>$
+      2 #be\<vblex\>\<past\># at war	^be<vblex><past># at war$
       2 #belong\<vblex\>\<pres\># to	^belong<vblex><pres># to$
       2 #ascend\<vblex\>\<pres\>\<p3\>\<sg\>	^ascend<vblex><pres><p3><sg>$
       2 #anti-semitic\<adj\>	^anti-semitic<adj>$
@@ -394,23 +395,31 @@ Tag mismatch between transfer and generation
       1 #Thigh\<n\>\<sg\>	^Thigh<n><sg>$
       1 #thigh\<n\>\<sg\>	^thigh<n><sg>$
       1 #tampering\<n\>\<pl\>	^tampering<n><pl>$
+      1 #stray\<vblex\>\<inf\>	^stray<vblex><inf>$
+      1 #start\<vblex\>\<inf\># walk	^start<vblex><inf># walk$
       1 #Stagnate\<vblex\>\<inf\>	^Stagnate<vblex><inf>$
       1 #Son-in-law\<adj\>	^Son-in-law<adj>$
       1 #skiing\<n\>\<pl\>	^skiing<n><pl>$
       1 #Simončić\<np\>\<cog\>\<sg\>	^Simončić<np><cog><sg>$
       1 #Should\<vaux\>\<pii\>\<p3\>\<sg\>	^Should<vaux><pii><p3><sg>$
       1 #should\<vaux\>\<pii\>\<p2\>\<sg\>	^should<vaux><pii><p2><sg>$
+      1 #sever\<vblex\>\<ger\>	^sever<vblex><ger>$
+      1 #sell\<vblex\>\<pp\># out	^sell<vblex><pp># out$
       1 #self-preservation\<n\>\<sg\>	^self-preservation<n><sg>$
       1 #self-motivation\<n\>\<sg\>	^self-motivation<n><sg>$
       1 #self-government\<n\>\<pl\>	^self-government<n><pl>$
+      1 #run\<vblex\>\<pres\>\<p3\>\<sg\># out	^run<vblex><pres><p3><sg># out$
+      1 #run\<vblex\>\<pres\># out	^run<vblex><pres># out$
       1 #Rotten\<adj\>	^Rotten<adj>$
       1 #rotten\<adj\>	^rotten<adj>$
       1 #Rezov\<adj\>	^Rezov<adj>$
       1 #Retrieval\<n\>\<sg\>	^Retrieval<n><sg>$
+      1 #repay\<vblex\>\<inf\>	^repay<vblex><inf>$
       1 #reorientation\<n\>\<sg\>	^reorientation<n><sg>$
       1 #relocate\<vblex\>\<pp\>	^relocate<vblex><pp>$
       1 #reintergration\<n\>\<sg\>	^reintergration<n><sg>$
       1 #rectification\<n\>\<sg\>	^rectification<n><sg>$
+      1 #rebel\<vblex\>\<past\>	^rebel<vblex><past>$
       1 #ratification\<n\>\<pl\>	^ratification<n><pl>$
       1 #rape\<vblex\>\<pres\>	^rape<vblex><pres>$
       1 #rape\<vblex\>\<ger\>	^rape<vblex><ger>$
@@ -450,6 +459,7 @@ Tag mismatch between transfer and generation
       1 #Lisčević\<np\>\<cog\>\<sg\>	^Lisčević<np><cog><sg>$
       1 #liposuction\<n\>\<sg\>	^liposuction<n><sg>$
       1 #Limelight\<n\>\<sg\>	^Limelight<n><sg>$
+      1 #lift\<vblex\>\<inf\># the spirits	^lift<vblex><inf># the spirits$
       1 #Lie\<vblex\>\<pres\># ahead	^Lie<vblex><pres># ahead$
       1 #librarianship\<n\>\<sg\>	^librarianship<n><sg>$
       1 #laziness\<n\>\<sg\>	^laziness<n><sg>$
@@ -476,7 +486,10 @@ Tag mismatch between transfer and generation
       1 #extravagance\<n\>\<sg\>	^extravagance<n><sg>$
       1 #envision\<vblex\>\<pres\>\<p3\>\<sg\>	^envision<vblex><pres><p3><sg>$
       1 #envision\<vblex\>\<past\>	^envision<vblex><past>$
+      1 #entrench\<vblex\>\<pres\>\<p3\>\<sg\>	^entrench<vblex><pres><p3><sg>$
+      1 #elicit\<vblex\>\<pres\>	^elicit<vblex><pres>$
       1 #electrification\<n\>\<sg\>	^electrification<n><sg>$
+      1 #dry\<vblex\>\<pres\>\<p3\>\<sg\># up	^dry<vblex><pres><p3><sg># up$
       1 #Dropulić\<np\>\<cog\>\<sg\>	^Dropulić<np><cog><sg>$
       1 #dramatisation\<n\>\<sg\>	^dramatisation<n><sg>$
       1 #distributional\<adj\>	^distributional<adj>$
@@ -484,10 +497,12 @@ Tag mismatch between transfer and generation
       1 #dissertion\<n\>\<sg\>	^dissertion<n><sg>$
       1 #dissertion\<n\>\<pl\>	^dissertion<n><pl>$
       1 #dissent\<n\>\<sg\>	^dissent<n><sg>$
+      1 #disobey\<vblex\>\<pres\>	^disobey<vblex><pres>$
       1 #dishonesty\<n\>\<sg\>	^dishonesty<n><sg>$
       1 #disfavour\<n\>\<sg\>	^disfavour<n><sg>$
       1 #directness\<n\>\<sg\>	^directness<n><sg>$
       1 #diligence\<n\>\<sg\>	^diligence<n><sg>$
+      1 #dig\<vblex\>\<pres\>\<p3\>\<sg\># in	^dig<vblex><pres><p3><sg># in$
       1 #Dičić\<np\>\<cog\>\<sg\>	^Dičić<np><cog><sg>$
       1 #deregistration\<n\>\<sg\>	^deregistration<n><sg>$
       1 #deflation\<n\>\<sg\>	^deflation<n><sg>$
@@ -496,9 +511,12 @@ Tag mismatch between transfer and generation
       1 #counter-reaction\<n\>\<sg\>	^counter-reaction<n><sg>$
       1 #conditionality\<n\>\<sg\>	^conditionality<n><sg>$
       1 #Cauldron\<n\>\<pl\>	^Cauldron<n><pl>$
+      1 #buy\<vblex\>\<ger\># out	^buy<vblex><ger># out$
       1 #bullying\<n\>\<pl\>	^bullying<n><pl>$
       1 #Broadway\<adj\>	^Broadway<adj>$
       1 #bravery\<n\>\<sg\>	^bravery<n><sg>$
+      1 #be\<vblex\>\<pres\>\<p3\>\<sg\># at war	^be<vblex><pres><p3><sg># at war$
+      1 #be\<vblex\>\<pp\># reborn	^be<vblex><pp># reborn$
       1 #belong\<vblex\>\<pres\>\<p3\>\<sg\># to	^belong<vblex><pres><p3><sg># to$
       1 #Babylonian\<adj\>	^Babylonian<adj>$
       1 #autocrat\<n\>\<sg\>	^autocrat<n><sg>$
@@ -517,6 +535,7 @@ Tag mismatch between transfer and generation
       1 #aggrievedness\<n\>\<sg\>	^aggrievedness<n><sg>$
       1 #aerobics\<n\>\<sg\>	^aerobics<n><sg>$
       1 #acquaintance\<n\>\<sg\>	^acquaintance<n><sg>$
+      1 #abound\<vblex\>\<pres\>\<p3\>\<sg\>	^abound<vblex><pres><p3><sg>$
       1 #Abolition\<n\>\<sg\>	^Abolition<n><sg>$
 
 ===============================================================================
@@ -524,5 +543,5 @@ Summary
 ===============================================================================
    10 /tmp/mk-en.multiform
     0 /tmp/mk-en.multibidix
-  495 /tmp/mk-en.tagmismatch
-  505 total
+  514 /tmp/mk-en.tagmismatch
+  524 total
