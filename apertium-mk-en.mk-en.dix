@@ -25,6 +25,7 @@
     <sdef n="pers"     c="Personal pronoun"/>
     <sdef n="sint"     c="Synthetic adjective"/>
     <sdef n="unc"      c="Uncountable"/>
+    <sdef n="comp"     c="Comparative"/>
 
     <sdef n="top"      c="Toponym"/>
     <sdef n="ant"      c="Anthroponym"/>
@@ -337,7 +338,6 @@
     <e r="RL"><p><l>никој<s n="prn"/><s n="neg"/><s n="GD"/><s n="sg"/></l><r>no<b/>one<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>никој<s n="prn"/><s n="neg"/><s n="mfn"/><s n="pl"/></l><r>none<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
 
-
     <e><p><l>неколку<s n="prn"/><s n="ind"/><s n="ind"/></l><r>several<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
 
     <e><p><l>што<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -415,7 +415,8 @@
     <e r="LR"><p><l>илјадница<s n="num"/></l><r>thousand<s n="num"/></r></p><par n="четири_four__num"/></e>
     <e><p><l>милион<s n="num"/></l><r>million<s n="num"/></r></p><par n="четири_four__num"/></e>
     <e><p><l>трилион<s n="num"/></l><r>trillion<s n="num"/></r></p><par n="четири_four__num"/></e>
-    <e><p><l>милијарда<s n="num"/></l><r>milliard<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e r="RL"><p><l>милијарда<s n="num"/></l><r>milliard<s n="num"/></r></p><par n="четири_four__num"/></e>
+    <e><p><l>милијарда<s n="num"/></l><r>billion<s n="num"/></r></p><par n="четири_four__num"/></e>
 
     <e r="LR"><p><l>милионски<s n="num"/></l><r>million<s n="num"/></r></p></e> 
     <e r="LR"><p><l>илјаден<s n="num"/></l><r>thousand<s n="num"/></r></p></e> 
@@ -577,7 +578,7 @@
     <e><p><l>шија<s n="n"/><s n="f"/></l><r>neck<s n="n"/></r></p></e>
     <e><p><l>хеликоптер<s n="n"/><s n="m"/></l><r>helicopter<s n="n"/></r></p></e>
     <e><p><l>Балкан<s n="n"/><s n="m"/></l><r>Balkan<s n="n"/></r></p></e>
-    <e><p><l>луѓе<s n="n"/><s n="mfn"/></l><r>people<s n="n"/></r></p></e>
+    <e><p><l>луѓе<s n="n"/><s n="mfn"/><s n="pl"/></l><r>person<s n="n"/><s n="pl"/></r></p></e>
 
     <e c="  0"><p><l>грб<s n="n"/><s n="m"/></l><r>back<s n="n"/></r></p></e> <!-- anatomy -->
     <e slr="1"><p><l>грб<s n="n"/><s n="m"/></l><r>coat<g><b/>of<b/>arms</g><s n="n"/></r></p></e> <!-- heraldy -->
@@ -1709,7 +1710,7 @@
     <e c="  0"><p><l>масакр<s n="n"/><s n="m"/></l><r>massacre<s n="n"/></r></p></e>
     <e c="  0"><p><l>материјал<s n="n"/><s n="m"/></l><r>material<s n="n"/></r></p></e>
     <e c="  0"><p><l>медал<s n="n"/><s n="m"/></l><r>medal<s n="n"/></r></p></e>
-    <e c="  0"><p><l>медиум<s n="n"/><s n="m"/></l><r>media<s n="n"/></r></p></e>
+    <e c="  0"><p><l>медиум<s n="n"/><s n="m"/></l><r>medium<s n="n"/></r></p><par n="полиција_police__n"/></e>
     <e c="  0"><p><l>медицина<s n="n"/><s n="f"/></l><r>medicine<s n="n"/></r></p></e>
     <e c="  0"><p><l>меморандум<s n="n"/><s n="m"/></l><r>memorandum<s n="n"/></r></p></e>
     <e c="  0"><p><l>менаџмент<s n="n"/><s n="m"/></l><r>management<s n="n"/></r></p></e>
@@ -3643,6 +3644,35 @@
     <e c="  0"><p><l>влажност<s n="n"/><s n="f"/></l><r>humidity<s n="n"/></r></p></e>
     <e c="  0"><p><l>бут<s n="n"/><s n="m"/></l><r>thigh<s n="n"/></r></p></e>
     <e c="  0"><p><l>библиотекарство<s n="n"/><s n="nt"/></l><r>librarianship<s n="n"/></r></p></e>
+
+    <e c="  0"><p><l>ела<s n="n"/><s n="f"/></l><r>fir<b/>tree<s n="n"/></r></p></e>
+    <e c="  0"><p><l>кочан<s n="n"/><s n="m"/></l><r>corn-cob<s n="n"/></r></p></e>
+    <e c="  0"><p><l>полагање<s n="n"/><s n="nt"/></l><r>exam<s n="n"/></r></p></e>
+    <e slr="1"><p><l>полагање<s n="n"/><s n="nt"/></l><r>examination<s n="n"/></r></p></e>
+    <e c="  0"><p><l>префрлување<s n="n"/><s n="nt"/></l><r>move<s n="n"/></r></p></e>
+    <e c="  0"><p><l>истоштеност<s n="n"/><s n="f"/></l><r>fatigue<s n="n"/></r></p></e>
+    <e slr="1"><p><l>истоштеност<s n="n"/><s n="f"/></l><r>exhaustion<s n="n"/></r></p></e>
+    <e c="  0"><p><l>знаменитост<s n="n"/><s n="f"/></l><r>fame<s n="n"/></r></p></e>
+    <e slr="1"><p><l>знаменитост<s n="n"/><s n="f"/></l><r>importance<s n="n"/></r></p></e>
+    <e slr="2"><p><l>знаменитост<s n="n"/><s n="f"/></l><r>renown<s n="n"/></r></p></e>
+    <e c="  0"><p><l>спротивставеност<s n="n"/><s n="f"/></l><r>opposition<s n="n"/></r></p></e>
+    <e c="  0"><p><l>потење<s n="n"/><s n="nt"/></l><r>sweat<s n="n"/></r></p></e>
+    <e slr="1"><p><l>потење<s n="n"/><s n="nt"/></l><r>perspiration<s n="n"/></r></p></e>
+    <e c="  0"><p><l>оштетеност<s n="n"/><s n="f"/></l><r>aggrievedness<s n="n"/></r></p></e>
+    <e c="  0"><p><l>одалеченост<s n="n"/><s n="f"/></l><r>distant<s n="n"/></r></p></e>
+    <e c="  0"><p><l>мрзеливост<s n="n"/><s n="f"/></l><r>laziness<s n="n"/></r></p></e>
+    <e slr="1"><p><l>мрзеливост<s n="n"/><s n="f"/></l><r>indolence<s n="n"/></r></p></e>
+    <e c="  0"><p><l>мајсторство<s n="n"/><s n="nt"/></l><r>craftsmanship<s n="n"/></r></p></e>
+    <e slr="1"><p><l>мајсторство<s n="n"/><s n="nt"/></l><r>workmanship<s n="n"/></r></p></e>
+    <e slr="2"><p><l>мајсторство<s n="n"/><s n="nt"/></l><r>skilfulness<s n="n"/></r></p></e>
+    <e c="  0"><p><l>кораб<s n="n"/><s n="m"/></l><r>sailing<b/>boat<s n="n"/></r></p></e>
+    <e c="  0"><p><l>контрареакција<s n="n"/><s n="f"/></l><r>counter-reaction<s n="n"/></r></p></e>
+    <e c="  0"><p><l>инсценирање<s n="n"/><s n="nt"/></l><r>use<s n="n"/></r></p></e>
+    <e c="  0"><p><l>издигање<s n="n"/><s n="nt"/></l><r>rise<s n="n"/></r></p></e>
+    <e c="  0"><p><l>зазорување<s n="n"/><s n="nt"/></l><r>dawn<s n="n"/></r></p></e>
+    <e c="  0"><p><l>дисидентство<s n="n"/><s n="nt"/></l><r>dissent<s n="n"/></r></p></e>
+    <e slr="1"><p><l>дисидентство<s n="n"/><s n="nt"/></l><r>dissidence<s n="n"/></r></p></e>
+    <e c="  0"><p><l>воинственост<s n="n"/><s n="f"/></l><r>militancy<s n="n"/></r></p></e>
 
 
 
@@ -6040,7 +6070,7 @@
     <e c="  0"><p><l>велосипедски<s n="adj"/></l><r>scenic<s n="adj"/></r></p></e>
     <e c="  0"><p><l>венецијански<s n="adj"/></l><r>Venetian<s n="adj"/></r></p></e>
     <e c="  0"><p><l>вербален<s n="adj"/></l><r>verbal<s n="adj"/></r></p></e>
-    <e c="  0"><p><l>веројатен<s n="adj"/></l><r>likely<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>веројатен<s n="adj"/></l><r>likely<s n="adj"/><s n="sint"/></r></p></e>
     <e slr="1"><p><l>веројатен<s n="adj"/></l><r>believable<s n="adj"/></r></p></e>
     <e slr="2"><p><l>веројатен<s n="adj"/></l><r>possible<s n="adj"/></r></p></e>
     <e c="  0"><p><l>верски<s n="adj"/></l><r>religious<s n="adj"/></r></p></e>
@@ -6285,7 +6315,7 @@
     <e c="  0"><p><l>илегален<s n="adj"/></l><r>illegal<s n="adj"/></r></p></e>
     <e c="  0"><p><l>имигрантски<s n="adj"/></l><r>immigrant<s n="adj"/></r></p></e>
     <e c="  0"><p><l>имиграциски<s n="adj"/></l><r>immigrant<s n="adj"/></r></p></e>
-    <e c="  0"><p><l>имотен<s n="adj"/></l><r>rich<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>имотен<s n="adj"/></l><r>rich<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>инаков<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
     <e c="  0"><p><l>инвестиционен<s n="adj"/></l><r>investing<s n="adj"/></r></p></e>
     <e c="  0"><p><l>инвестициски<s n="adj"/></l><r>investing<s n="adj"/></r></p></e>
@@ -6481,7 +6511,7 @@
     <e c="  0"><p><l>модерен<s n="adj"/></l><r>modern<s n="adj"/></r></p></e>
     <e c="  0"><p><l>можен<s n="adj"/></l><r>possible<s n="adj"/></r></p></e>
     <e slr="1"><p><l>можен<s n="adj"/></l><r>potential<s n="adj"/></r></p></e>
-    <e slr="2"><p><l>можен<s n="adj"/></l><r>likely<s n="adj"/></r></p></e>
+    <e slr="2"><p><l>можен<s n="adj"/></l><r>likely<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>молдавски<s n="adj"/></l><r>Moldovan<s n="adj"/></r></p></e>
     <e c="  0"><p><l>моментален<s n="adj"/></l><r>current<s n="adj"/></r></p></e>
     <e slr="1"><p><l>моментален<s n="adj"/></l><r>present<s n="adj"/></r></p></e>
@@ -6502,7 +6532,7 @@
     <e slr="1"><p><l>надлежен<s n="adj"/></l><r>competent<s n="adj"/></r></p></e>
     <e slr="2"><p><l>надлежен<s n="adj"/></l><r>authorised<s n="adj"/></r></p></e>
     <e c="  0"><p><l>назначен<s n="adj"/></l><r>supreme<s n="adj"/></r></p></e>
-    <e c="  0"><p><l>намален<s n="adj"/></l><r>cheap<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>намален<s n="adj"/></l><r>cheap<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>наменет<s n="adj"/></l><r>destined<s n="adj"/></r></p></e>
     <e c="  0"><p><l>намерен<s n="adj"/></l><r>deliberate<s n="adj"/></r></p></e>
     <e slr="1"><p><l>намерен<s n="adj"/></l><r>intended<s n="adj"/></r></p></e>
@@ -6681,7 +6711,7 @@
     <e c="  0"><p><l>поморски<s n="adj"/></l><r>maritime<s n="adj"/></r></p></e>
     <e slr="1"><p><l>поморски<s n="adj"/></l><r>naval<s n="adj"/></r></p></e>
     <e slr="2"><p><l>поморски<s n="adj"/></l><r>marine<s n="adj"/></r></p></e>
-    <e c="  0"><p><l>понатамошен<s n="adj"/></l><r>further<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>понатамошен<s n="adj"/></l><r>far<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
     <e slr="1"><p><l>понатамошен<s n="adj"/></l><r>subsequent<s n="adj"/></r></p></e>
     <e c="  0"><p><l>поранешен<s n="adj"/></l><r>former<s n="adj"/></r></p></e>
     <e c="  0"><p><l>португалски<s n="adj"/></l><r>Portuguese<s n="adj"/></r></p></e>
@@ -7339,7 +7369,7 @@
     <e c="  0"><p><l>истражувачки<s n="adj"/></l><r>research<s n="adj"/></r></p></e>
     <e c="  0"><p><l>искористен<s n="adj"/></l><r>tapped<s n="adj"/></r></p></e>
     <e c="  0"><p><l>откриен<s n="adj"/></l><r>discovered<s n="adj"/></r></p></e>
-    <e c="  0"><p><l>длабок<s n="adj"/></l><r>deep<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>длабок<s n="adj"/></l><r>deep<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>сомнителен<s n="adj"/></l><r>suspected<s n="adj"/></r></p></e>
     <e c="  0"><p><l>мнозински<s n="adj"/></l><r>majority<s n="adj"/></r></p></e>
     <e c="  0"><p><l>окружен<s n="adj"/></l><r>district<s n="adj"/></r></p></e>
@@ -9478,6 +9508,7 @@
     <e><p><l>ЕУ<s n="abbr"/></l><r>EU<s n="abbr"/></r></p></e>
     <e><p><l>НАТО<s n="abbr"/></l><r>NATO<s n="abbr"/></r></p></e>
     <e><p><l>АП<s n="abbr"/></l><r>AP<s n="abbr"/></r></p></e>
+    <e><p><l>БДП<s n="abbr"/></l><r>GDP<s n="abbr"/></r></p></e>
     <e><p><l>АФП<s n="abbr"/></l><r>AFP<s n="abbr"/></r></p></e>
     <e><p><l>ОБСЕ<s n="abbr"/></l><r>OSCE<s n="abbr"/></r></p></e>
     <e><p><l>УНМИК<s n="abbr"/></l><r>UNMIK<s n="abbr"/></r></p></e>
