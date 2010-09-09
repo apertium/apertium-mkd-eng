@@ -156,6 +156,7 @@
     <e slr="2"><p><l>од<s n="pr"/></l><r>off<s n="pr"/></r></p></e>
     <e slr="3"><p><l>од<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
     <e slr="4"><p><l>од<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
+    <e slr="5"><p><l>од<s n="pr"/></l><r>than<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>со<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
     <e slr="1"><p><l>со<s n="pr"/></l><r>by<b/>means<b/>of<s n="pr"/></r></p></e>
@@ -302,6 +303,8 @@
     <e><p><l>овој<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p></e>
     <e><p><l>оној<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/></r></p></e>
     <e><p><l>тој<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p></e>
+
+    <e><p><l>друг<s n="det"/><s n="ind"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
 
     <!-- Pronouns -->
 
@@ -1759,7 +1762,8 @@
     <e c="  0"><p><l>модификација<s n="n"/><s n="f"/></l><r>modification<s n="n"/></r></p></e>
     <e c="  0"><p><l>можност<s n="n"/><s n="f"/></l><r>opportunity<s n="n"/></r></p></e>
     <e c="  0"><p><l>мозаик<s n="n"/><s n="m"/></l><r>mosaic<s n="n"/></r></p></e>
-    <e c="  0"><p><l>момент<s n="n"/><s n="m"/></l><r>moment<s n="n"/></r></p></e>
+    <e c="  0"><p><l>момент<s n="n"/><s n="m"/></l><r>minute<s n="n"/></r></p></e>
+    <e slr="1"><p><l>момент<s n="n"/><s n="m"/></l><r>moment<s n="n"/></r></p></e>
     <e slr="1"><p><l>момент<s n="n"/><s n="m"/></l><r>point<s n="n"/></r></p></e>
     <e slr="2"><p><l>момент<s n="n"/><s n="m"/></l><r>minute<s n="n"/></r></p></e>
     <e c="  0"><p><l>момче<s n="n"/><s n="nt"/></l><r>boy<s n="n"/></r></p></e>
@@ -5938,10 +5942,9 @@
     <e slr="2"><p><l>зелен<s n="adj"/></l><r>inexperienced<s n="adj"/></r></p></e>
     <e slr="3"><p><l>зелен<s n="adj"/></l><r>unripe<s n="adj"/></r></p></e>
 
-    <e c="  0"><p><l>друг<s n="adj"/></l><r>other<s n="adj"/></r></p></e>
-    <e slr="1"><p><l>друг<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
-    <e slr="2"><p><l>друг<s n="adj"/></l><r>opposite<s n="adj"/></r></p></e>
-    <e slr="3"><p><l>друг<s n="adj"/></l><r>next<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>друг<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
+    <e slr="1"><p><l>друг<s n="adj"/></l><r>opposite<s n="adj"/></r></p></e>
+    <e slr="2"><p><l>друг<s n="adj"/></l><r>next<s n="adj"/></r></p></e>
 
     <e c="  0"><p><l>тежок<s n="adj"/></l><r>heavy<s n="adj"/><s n="sint"/></r></p></e>
     <e slr="1"><p><l>тежок<s n="adj"/></l><r>hard<s n="adj"/><s n="sint"/></r></p></e>
@@ -7772,7 +7775,7 @@
     <e slr="1"><p><l>за<b/>првпат<s n="adv"/></l><r>at<b/>first<s n="adv"/></r></p></e>
     <e c="  0"><p><l>претежно<s n="adv"/></l><r>mostly<s n="adv"/></r></p></e>
     <e c="  0"><p><l>напред<s n="adv"/></l><r>forward<s n="adv"/></r></p></e>
-    <e c="  0"><p><l>така<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>така<s n="adv"/></l><r>so<s n="cnjadv"/></r></p></e>
     <e c="  0"><p><l>најпрво<s n="adv"/></l><r>first<s n="adv"/></r></p></e>
     <e c="  0"><p><l>лајв<s n="adv"/></l><r>live<s n="adv"/></r></p></e>
     <e c="  0"><p><l>рано<s n="adv"/></l><r>early<s n="adv"/></r></p></e> <!-- 'Jedno jutro rano, čim zora zarudi...' -->
