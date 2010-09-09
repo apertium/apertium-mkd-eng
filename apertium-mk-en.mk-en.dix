@@ -368,6 +368,8 @@
     <e><p><l>наш<s n="prn"/><s n="pos"/></l><r>ours<s n="prn"/><s n="pos"/></r></p><par n="кој_that__prn"/></e>
     <e><p><l>ваш<s n="prn"/><s n="pos"/></l><r>yours<s n="prn"/><s n="pos"/></r></p><par n="кој_that__prn"/></e>
 
+    <e><p><l>како<s n="prn"/><s n="rel"/></l><r>how<s n="adv"/></r></p></e>
+    <e><p><l>што<s n="prn"/><s n="rel"/></l><r>what<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>кој<s n="prn"/><s n="rel"/></l><r>that<s n="rel"/><s n="an"/></r></p><par n="кој_that__prn"/></e>
     <e><p><l>како<b/>што<s n="prn"/><s n="rel"/></l><r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>којшто<s n="prn"/><s n="rel"/></l><r>who<s n="rel"/><s n="an"/></r></p><par n="кој_that__prn"/></e>
@@ -3707,6 +3709,66 @@
     <e c="  0"><p><l>дисидентство<s n="n"/><s n="nt"/></l><r>dissent<s n="n"/></r></p></e>
     <e slr="1"><p><l>дисидентство<s n="n"/><s n="nt"/></l><r>dissidence<s n="n"/></r></p></e>
     <e c="  0"><p><l>воинственост<s n="n"/><s n="f"/></l><r>militancy<s n="n"/></r></p></e>
+
+    <e><p><l>адреналин<s n="n"/><s n="m"/></l><r>adrenalin<s n="n"/></r></p></e>
+    <e><p><l>албумин<s n="n"/><s n="m"/></l><r>albumin<s n="n"/></r></p></e>
+    <e><p><l>босилек<s n="n"/><s n="m"/></l><r>basil<s n="n"/></r></p></e>
+    <e><p><l>желудник<s n="n"/><s n="m"/></l><r>stomach<s n="n"/></r></p></e>
+    <e><p><l>пречник<s n="n"/><s n="m"/></l><r>diameter<s n="n"/></r></p></e>
+    <e><p><l>башибозук<s n="n"/><s n="m"/></l><r>bashi-bazouk<s n="n"/></r></p></e>
+    <e><p><l>аболиционизам<s n="n"/><s n="m"/></l><r>abolitionism<s n="n"/></r></p></e>
+    <e><p><l>абонос<s n="n"/><s n="m"/></l><r>ebony<s n="n"/></r></p></e>
+    <e><p><l>алдехид<s n="n"/><s n="m"/></l><r>aldehyde<s n="n"/></r></p></e>
+    <e><p><l>алкохолизам<s n="n"/><s n="m"/></l><r>alcoholism<s n="n"/></r></p></e>
+    <e><p><l>анархизам<s n="n"/><s n="m"/></l><r>anarchism<s n="n"/></r></p></e>
+    <e><p><l>антагонист<s n="n"/><s n="m"/></l><r>antagonist<s n="n"/></r></p></e>
+    <e><p><l>апсолутизам<s n="n"/><s n="m"/></l><r>absolutism<s n="n"/></r></p></e>
+    <e><p><l>архаизам<s n="n"/><s n="m"/></l><r>archaism<s n="n"/></r></p></e>
+    <e><p><l>атол<s n="n"/><s n="m"/></l><r>atoll<s n="n"/></r></p></e>
+    <e><p><l>божиќ<s n="n"/><s n="m"/></l><r>Christmas<s n="n"/></r></p></e>
+    <e><p><l>амперметар<s n="n"/><s n="m"/></l><r>ammeter<s n="n"/></r></p></e>
+    <e><p><l>ботаничар<s n="n"/><s n="m"/></l><r>botanist<s n="n"/></r></p></e>
+    <e><p><l>вајар<s n="n"/><s n="m"/></l><r>sculpture<s n="n"/></r></p></e>
+    <e><p><l>бураг<s n="n"/><s n="m"/></l><r>rumen<s n="n"/></r></p></e>
+    <e><p><l>аксиома<s n="n"/><s n="f"/></l><r>axiom<s n="n"/></r></p></e>
+    <e><p><l>алвеола<s n="n"/><s n="f"/></l><r>alveolus<s n="n"/></r></p></e>
+    <e><p><l>анатема<s n="n"/><s n="f"/></l><r>anathema<s n="n"/></r></p></e>
+    <e><p><l>антитеза<s n="n"/><s n="f"/></l><r>antithesis<s n="n"/></r></p></e>
+    <e><p><l>аорта<s n="n"/><s n="f"/></l><r>aorta<s n="n"/></r></p></e>
+    <e><p><l>басна<s n="n"/><s n="f"/></l><r>fable<s n="n"/></r></p></e>
+    <e><p><l>амортизација<s n="n"/><s n="f"/></l><r>depreciation<s n="n"/></r></p></e>
+    <e><p><l>абдикација<s n="n"/><s n="f"/></l><r>abdication<s n="n"/></r></p></e>
+    <e><p><l>автократија<s n="n"/><s n="f"/></l><r>autocracy<s n="n"/></r></p></e>
+    <e><p><l>анатомија<s n="n"/><s n="f"/></l><r>anatomy<s n="n"/></r></p></e>
+    <e><p><l>анемија<s n="n"/><s n="f"/></l><r>anemia<s n="n"/></r></p></e>
+    <e><p><l>анестезија<s n="n"/><s n="f"/></l><r>anesthesia<s n="n"/></r></p></e>
+    <e><p><l>апстракција<s n="n"/><s n="f"/></l><r>abstraction<s n="n"/></r></p></e>
+    <e><p><l>аристократија<s n="n"/><s n="f"/></l><r>aristocracy<s n="n"/></r></p></e>
+    <e><p><l>бионика<s n="n"/><s n="f"/></l><r>bionics<s n="n"/></r></p></e>
+    <e><p><l>ботаника<s n="n"/><s n="f"/></l><r>botany<s n="n"/></r></p></e>
+    <e><p><l>булга<s n="n"/><s n="f"/></l><r>beech<b/>marten<s n="n"/></r></p></e>
+    <e><p><l>бесмртност<s n="n"/><s n="f"/></l><r>immortality<s n="n"/></r></p></e>
+    <e><p><l>вајарство<s n="n"/><s n="nt"/></l><r>sculpture<s n="n"/></r></p></e>
+    <e><p><l>животно<s n="n"/><s n="nt"/></l><r>animal<s n="n"/></r></p></e>
+    <e><p><l>ајдутство<s n="n"/><s n="nt"/></l><r>hajduk<s n="n"/></r></p></e>
+    <e><p><l>богомилство<s n="n"/><s n="nt"/></l><r>bogomilism<s n="n"/></r></p></e>
+    <e><p><l>вегетаријанство<s n="n"/><s n="nt"/></l><r>vegetarianism<s n="n"/></r></p></e>
+    <e><p><l>готварство<s n="n"/><s n="nt"/></l><r>cooking<s n="n"/></r></p></e>
+    <e><p><l>градинарство<s n="n"/><s n="nt"/></l><r>gardening<s n="n"/></r></p></e>
+    <e><p><l>идолопоклонство<s n="n"/><s n="nt"/></l><r>idolatry<s n="n"/></r></p></e>
+    <e><p><l>качество<s n="n"/><s n="nt"/></l><r>quality<s n="n"/></r></p></e>
+    <e><p><l>кулинарство<s n="n"/><s n="nt"/></l><r>cooking<s n="n"/></r></p></e>
+    <e><p><l>лозарство<s n="n"/><s n="nt"/></l><r>viticulture<s n="n"/></r></p></e>
+    <e><p><l>масонство<s n="n"/><s n="nt"/></l><r>freemasonry<s n="n"/></r></p></e>
+    <e><p><l>многуженство<s n="n"/><s n="nt"/></l><r>polygamy<s n="n"/></r></p></e>
+    <e><p><l>мухамеданство<s n="n"/><s n="nt"/></l><r>Islam<s n="n"/></r></p></e>
+    <e><p><l>овчарство<s n="n"/><s n="nt"/></l><r>sheep<b/>husbandry<s n="n"/></r></p></e>
+    <e><p><l>паганство<s n="n"/><s n="nt"/></l><r>paganism<s n="n"/></r></p></e>
+    <e><p><l>просветителство<s n="n"/><s n="nt"/></l><r>enlightenment<s n="n"/></r></p></e>
+    <e><p><l>протестантство<s n="n"/><s n="nt"/></l><r>protestantism<s n="n"/></r></p></e>
+    <e><p><l>цвеќарство<s n="n"/><s n="nt"/></l><r>floriculture<s n="n"/></r></p></e>
+    <e><p><l>абдицирање<s n="n"/><s n="nt"/></l><r>abdication<s n="n"/></r></p></e>
+    <e><p><l>сираче<s n="n"/><s n="nt"/></l><r>orphan<s n="n"/></r></p></e>
 
 
 
