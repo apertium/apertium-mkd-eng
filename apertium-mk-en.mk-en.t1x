@@ -125,6 +125,8 @@
       <cat-item lemma="clitic" tags="prn.pos.clt.*"/>
     </def-cat>
     <def-cat n="prn">
+      <cat-item tags="prn.itg.*"/>
+      <cat-item tags="prn.neg.*"/>
       <cat-item tags="prn.ind.*"/>
       <cat-item tags="prn.tot.*"/>
       <cat-item tags="prn.pos.*"/>
@@ -151,8 +153,9 @@
     <def-attr n="a_verb">
       <attr-item tags="vblex"/>
       <attr-item tags="vbser"/>
-      <attr-item tags="vbmod"/>
       <attr-item tags="vbhaver"/>
+      <attr-item tags="vbmod"/>
+      <attr-item tags="vaux"/>
     </def-attr>
     <def-attr n="a_adv">
       <attr-item tags="cnjadv"/>
@@ -168,6 +171,7 @@
       <attr-item tags="rel.an"/>
       <attr-item tags="prn.obj"/>
       <attr-item tags="prn.subj"/>
+      <attr-item tags="prn.itg"/>
       <attr-item tags="prn.ind"/>
       <attr-item tags="prn.pers"/>
       <attr-item tags="prn.dem"/>
@@ -223,13 +227,14 @@
     <def-attr n="nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
-      <attr-item tags="sp"/>
       <attr-item tags="ct"/>
+      <attr-item tags="sp"/>
       <attr-item tags="ND"/>
     </def-attr>
     <def-attr n="temps">
       <attr-item tags="lp.pii"/>
       <attr-item tags="lp.aor"/>
+      <attr-item tags="pprs.adv"/>
       <attr-item tags="pp"/>
       <attr-item tags="pres"/>
       <attr-item tags="past"/>
@@ -574,6 +579,28 @@
           </let>
         </when>
       </choose>
+      <choose>
+        <when>
+          <test>
+                <equal>
+                  <clip pos="1" side="sl" part="a_verb"/>
+                  <lit-tag v="vbmod"/>
+                </equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="temps"/>
+            <lit-tag v="inf"/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="nbr"/>
+            <lit v=""/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="pers"/>
+            <lit v=""/>
+          </let>
+        </when>
+      </choose>
     </def-macro>
 
     <def-macro n="adj_set_grau2" npar="2">
@@ -786,7 +813,7 @@
               <clip pos="1" side="tl" part="a_prn"/>
               <clip pos="1" side="tl" part="pers"/>
               <clip pos="1" side="tl" part="gen"/>
-              <clip pos="1" side="tl" part="nbr" link-to="5"/>
+              <clip pos="1" side="tl" part="nbr"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
@@ -861,7 +888,7 @@
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_prn"/>
               <clip pos="1" side="tl" part="gen"/>
-              <clip pos="1" side="tl" part="nbr" link-to="3"/>
+              <clip pos="1" side="tl" part="nbr"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
