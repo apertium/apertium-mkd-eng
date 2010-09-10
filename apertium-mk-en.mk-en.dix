@@ -122,6 +122,13 @@
       <e r="LR"><p><l><s n="mfn"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
       <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
+    <pardef n="каков_what__prn">
+      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="mfn"/><s n="pl"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <!-- Particles -->
@@ -349,8 +356,8 @@
     <e><p><l>оној<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
     <e><p><l>тој<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
 
-    <e><p><l>таков<s n="prn"/><s n="dem"/></l><r>such<b/>kind<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
-    <e><p><l>ваков<s n="prn"/><s n="dem"/></l><r>this<b/>kind<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
+    <e><p><l>таков<s n="prn"/><s n="dem"/></l><r>such<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
+    <e><p><l>ваков<s n="prn"/><s n="dem"/></l><r>such<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
     <e><p><l>онаков<s n="prn"/><s n="dem"/></l><r>that<b/>kind<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
 
     <e><p><l>сиот<s n="prn"/><s n="tot"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="кој_that__prn"/></e>
@@ -408,9 +415,14 @@
     <e><p><l>зашто<s n="prn"/><s n="rel"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e>
 
     <e><p><l>колкав<s n="prn"/><s n="itg"/></l><r>how<b/>big<s n="prn"/><s n="itg"/></r></p></e>
-    <e><p><l>каков<s n="prn"/><s n="itg"/></l><r>what<b/>kind<s n="prn"/><s n="itg"/></r></p></e>
+ 
+    <!-- "what kind of"
+         Запрашан за коментар во врска тоа каков би сакал да биде неговиот наследник
+         Asked to comment on what kind of successor he would favour
+    -->
 
-    <e><p><l>каков<s n="prn"/><s n="rel"/></l><r>what<b/>kind<s n="prn"/><s n="rel"/></r></p></e>
+    <e><p><l>каков<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/></r></p><par n="кој_that__prn"/></e>
+    <e><p><l>каков<s n="prn"/><s n="rel"/></l><r>what<s n="rel"/><s n="nn"/></r></p><par n="каков_what__prn"/></e>
 
     <!-- mk side should be tagged for number -->
     <e c="  0"><p><l>колку<s n="prn"/><s n="itg"/></l><r>how<b/>much<s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e> 
