@@ -72,6 +72,7 @@
     <sdef n="rpar"     c="Right parenthetical"/>
     <sdef n="cm"       c="Comma"/>
     <sdef n="sent"     c="End of sentence marker"/>
+    <sdef n="apos"     c="Apostrophe"/>
   </sdefs>
   <pardefs>
     <pardef n="четири_four__num">
@@ -9862,6 +9863,41 @@
     <e c="  0"><p><l>видоизмени<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>vary<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>бунтува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>rebel<s n="vblex"/></r></p></e>
 
+    <e c="  0"><p><l>чеша<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>scratch<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>стиска<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>grit<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>стиска<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>gnash<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>гребе<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>scratch<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>гребе<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>scrape<s n="vblex"/></r></p></e>
+    <e slr="2"><p><l>гребе<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>grind<s n="vblex"/></r></p></e>
+    <e slr="3"><p><l>гребе<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>sharpen<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>мириса<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>smell<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>мириса<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>smell<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>смрди<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>stink<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>смрди<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>reek<s n="vblex"/></r></p></e>
+    <e slr="2"><p><l>смрди<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>smell<g><b/>bad</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>маже<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>spread<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>маже<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>plaster<s n="vblex"/></r></p></e>
+    <e slr="2"><p><l>маже<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>paint<s n="vblex"/></r></p></e>
+    <e slr="3"><p><l>маже<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>smear<s n="vblex"/></r></p></e>
+    <e slr="4"><p><l>маже<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>grease<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>трие<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>rub<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>согласи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>reconcile<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>согласи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>harmonise<s n="vblex"/></r></p></e>
+    <e slr="2"><p><l>согласи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>coordinate<s n="vblex"/></r></p></e>
+    <e slr="3"><p><l>согласи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>agree<s n="vblex"/></r></p></e>
+    <e slr="4"><p><l>согласи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>consent<s n="vblex"/></r></p></e>
+    <e slr="5"><p><l>согласи<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>concur<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>затвара<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>close<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>затвара<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>imprison<s n="vblex"/></r></p></e>
+    <e slr="2"><p><l>затвара<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>lock<g><b/>up</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изменува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>change<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>понудува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>finish<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>одржи<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>keep<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>одржи<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>maintain<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>одржува<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>maintain<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изградува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>improve<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>изгубува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>scrape<g><b/>up</g><s n="vblex"/></r></p></e>
+
 
 
     <!-- Abbreviations -->
@@ -9981,6 +10017,7 @@
     <!-- Punctuation -->
 
     <e><re>[.\?;:!·]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><p><l>'<s n="apos"/></l><r>'<s n="apos"/></r></p></e>
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
     <e><p><l>[<s n="lpar"/></l><r>[<s n="lpar"/></r></p></e>
     <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>

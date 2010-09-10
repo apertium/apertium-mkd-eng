@@ -1,3 +1,2 @@
-    325 уследи<vblex><perf><tv>
-      8 заканува<vblex><imperf><tv>
+    120 заканува<vblex><imperf><tv>
       2 натпреварува<vblex><imperf><tv>
