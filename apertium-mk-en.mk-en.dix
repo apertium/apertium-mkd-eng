@@ -1797,8 +1797,8 @@
     <e c="  0"><p><l>ликвидација<s n="n"/><s n="f"/></l><r>liquidation<s n="n"/></r></p></e>
     <e c="  0"><p><l>ликвидност<s n="n"/><s n="f"/></l><r>liquidity<s n="n"/></r></p></e>
     <e slr="1"><p><l>ликвидност<s n="n"/><s n="f"/></l><r>stability<s n="n"/></r></p></e>
-    <e c="  0"><p><l>лице<s n="n"/><s n="nt"/></l><r>face<s n="n"/></r></p></e>
-    <e slr="1"><p><l>лице<s n="n"/><s n="nt"/></l><r>person<s n="n"/></r></p></e>
+    <e c="  0"><p><l>лице<s n="n"/><s n="nt"/></l><r>person<s n="n"/></r></p></e>
+    <e slr="1"><p><l>лице<s n="n"/><s n="nt"/></l><r>face<s n="n"/></r></p></e>
     <e c="  0"><p><l>личност<s n="n"/><s n="f"/></l><r>figure<s n="n"/></r></p></e>
     <e slr="1"><p><l>личност<s n="n"/><s n="f"/></l><r>person<s n="n"/></r></p></e>
     <e c="  0"><p><l>лобирање<s n="n"/><s n="nt"/></l><r>massacre<s n="n"/></r></p></e>
