@@ -174,6 +174,9 @@
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
       <attr-item tags="adj.sint"/>
+
+      <!-- Temporary -->
+      <attr-item tags="det.qnt"/>
     </def-attr>
     <def-attr n="a_prn">
       <attr-item tags="prn"/>
@@ -1508,21 +1511,44 @@
         <pattern-item n="adj"/>
       </pattern>
       <action>
+        <choose>
+          <when>
+            <test>
+              <or>
+                <equal>
+                  <clip pos="1" side="tl" part="a_prn"/>
+                  <lit-tag v="det.qnt"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="a_prn"/>
+                  <lit-tag v="det.ind"/>
+                </equal>
+              </or>
+            </test>
+            <let>
+              <var n="number"/>
+              <lit-tag v="sp"/>
+            </let>
+          </when>
+        </choose>
         <out>
           <chunk name="a" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SA"/></tag>
             </tags>
             <lu>
-              <var n="adj_chunk_h"/>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_adj"/>
               <clip pos="1" side="tl" part="grau"/>
+              <var n="number"/>
               <clip pos="1" side="tl" part="lemq"/>
-              <var n="adj_chunk_q"/>
             </lu>
           </chunk>
         </out>
+        <let>
+          <var n="number"/>
+          <lit v=""/>
+        </let>
       </action>
     </rule>
 

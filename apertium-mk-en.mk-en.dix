@@ -353,8 +353,7 @@
     <e><p><l>ништо<s n="prn"/><s n="neg"/></l><r>nothing<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
 
     <e><p><l>секаков<s n="prn"/><s n="tot"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="кој_that__prn"/></e>
-    <e><p><l>сите<s n="adj"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="кој_that__prn"/></e>
-    <e><p><l>сите<s n="adj"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="кој_that__prn"/></e>
+    <e><p><l>сите<s n="adj"/></l><r>all<s n="det"/><s n="qnt"/></r></p><par n="кој_that__prn"/></e>
     <e c="  0"><p><l>сешто<s n="prn"/><s n="tot"/></l><r>all<s n="prn"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
     <e slr="1"><p><l>сешто<s n="prn"/><s n="tot"/></l><r>everything<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>сѐ<s n="prn"/><s n="tot"/></l><r>all<s n="prn"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -7779,7 +7778,7 @@
     <e c="  0"><p><l>августовски<s n="adj"/></l><r>August<s n="adj"/></r></p></e>
     <e c="  0"><p><l>цветен<s n="adj"/></l><r>flowery<s n="adj"/></r></p></e>
     <e c="  0"><p><l>просветен<s n="adj"/></l><r>education<s n="adj"/></r></p></e> <!--   (not educational, AFAIK)-->
-    <e c="  0"><p><l>микенски<s n="adj"/></l><r>Mycenean<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>микенски<s n="adj"/></l><r>Mycenaean<s n="adj"/></r></p></e>
     <e c="  0"><p><l>крупен<s n="adj"/></l><r>large<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>конгоански<s n="adj"/></l><r>Congolese<s n="adj"/></r></p></e>
     <e c="  0"><p><l>чудесен<s n="adj"/></l><r>wondrous<s n="adj"/></r></p></e>
@@ -7794,7 +7793,7 @@
     <e c="  0"><p><l>подгорски<s n="adj"/></l><r>underhill<s n="adj"/></r></p></e>
     <e c="  0"><p><l>писателски<s n="adj"/></l><r>writer<s n="adj"/></r></p></e>
     <e c="  0"><p><l>мокар<s n="adj"/></l><r>wet<s n="adj"/><s n="sint"/></r></p></e>
-    <e c="  0"><p><l>миокенски<s n="adj"/></l><r>Miocenean<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>миокенски<s n="adj"/></l><r>Mycenaean<s n="adj"/></r></p></e>
     <e c="  0"><p><l>минејски<s n="adj"/></l><r>Minoan<s n="adj"/></r></p></e>
     <e c="  0"><p><l>меден<s n="adj"/></l><r>honey-like<s n="adj"/></r></p></e>
     <e c="  0"><p><l>кондиторски<s n="adj"/></l><r>confectionery<s n="adj"/></r></p></e>
@@ -7808,7 +7807,6 @@
     <e c="  0"><p><l>александровски<s n="adj"/></l><r>Alexander<s n="adj"/></r></p></e>
 
     <e c="  0"><p><l>постојн<s n="adj"/></l><r>existing<s n="adj"/></r></p></e>
-    <e c="  0"><p><l>еленовски<s n="adj"/></l><r>deer<s n="adj"/></r></p></e>
     <e c="  0"><p><l>самопрогласен<s n="adj"/></l><r>self-proclaimed<s n="adj"/></r></p></e>
     <e c="  0"><p><l>заобиколен<s n="adj"/></l><r>roundabout<s n="adj"/></r></p></e>
     <e c="  0"><p><l>претприемнички<s n="adj"/></l><r>enterprising<s n="adj"/></r></p></e>
