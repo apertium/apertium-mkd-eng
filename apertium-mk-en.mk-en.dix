@@ -7864,6 +7864,7 @@
     <e c="  0"><p><l>бегло<s n="adv"/></l><r>hastily<s n="adv"/></r></p></e>
     <e c="  0"><p><l>дваж<s n="adv"/></l><r>twice<s n="adv"/></r></p></e>
     <e c="  0"><p><l>зле<s n="adv"/></l><r>badly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>немај-каде<s n="adv"/></l><r>wherever<s n="adv"/></r></p></e>
     <e c="  0"><p><l>кога-годе<s n="adv"/></l><r>whenever<s n="adv"/></r></p></e>
     <e c="  0"><p><l>колку-годе<s n="adv"/></l><r>a<b/>bit<s n="adv"/></r></p></e>
     <e slr="1"><p><l>колку-годе<s n="adv"/></l><r>just<b/>a<b/>little<s n="adv"/></r></p></e>
@@ -7880,6 +7881,8 @@
     <e c="  0"><p><l>чат-пат<s n="adv"/></l><r>now<b/>and<b/>then<s n="adv"/></r></p></e>
     <e slr="1"><p><l>чат-пат<s n="adv"/></l><r>occasionally<s n="adv"/></r></p></e>
 
+    <e c="  0"><p><l>триж<s n="adv"/></l><r>thrice<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>денем<s n="adv"/></l><r>by<b/>day<s n="adv"/></r></p></e>
 
     <e c="  0"><p><l>отколку<s n="adv"/></l><r>than<s n="adv"/></r></p></e>
     <e c="  0"><p><l>изгледа<s n="adv"/></l><r>seemingly<s n="adv"/></r></p></e>
