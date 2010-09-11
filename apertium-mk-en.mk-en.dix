@@ -278,6 +278,11 @@
     <e c="  0"><p><l>кон<s n="pr"/></l><r>towards<s n="pr"/></r></p></e>
     <e slr="1"><p><l>кон<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
 
+    <e c="  0"><p><l>спрема<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>спрема<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+
+    <e c="  0"><p><l>после<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
+
     <e c="  0"><p><l>ипокрај<s n="pr"/></l><r>despite<s n="pr"/></r></p></e>
     <e slr="1"><p><l>ипокрај<s n="pr"/></l><r>even<b/>with<s n="pr"/></r></p></e>
     <e c="  0"><p><l>во<b/>висина<b/>од<s n="pr"/></l><r>in<b/>the<b/>amount<b/>of<s n="pr"/></r></p></e>
@@ -6034,6 +6039,13 @@
     <e><p><l>Монитор<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Monitor<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Макфакс<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Makfax<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Мајкрософт<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Microsoft<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Сега<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Sega<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Шкип<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Shqip<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Кохајоне<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Kohajone<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>газете<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Gazette<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>ченал<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Channel<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>јавности<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Javnosti<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>аваз<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Avaz<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     
     <e><p><l>Бета<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Beta<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Блиц<s n="np"/><s n="al"/><s n="mfn"/><s n="sg"/></l><r>Blitz<s n="np"/><s n="al"/><s n="sg"/></r></p></e>

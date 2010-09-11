@@ -1511,6 +1511,9 @@
         <pattern-item n="adj"/>
       </pattern>
       <action>
+        <call-macro n="np_set_defnes1">
+          <with-param pos="1"/>
+        </call-macro>
         <choose>
           <when>
             <test>
@@ -1534,9 +1537,12 @@
         <out>
           <chunk name="a" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SA"/></tag>
+              <tag><lit-tag v="SA.@X"/></tag>
+              <tag><clip pos="1" side="sl" part="gen"/></tag>
+              <tag><clip pos="1" side="sl" part="nbr"/></tag>
             </tags>
             <lu>
+              <var n="np_chunk_h"/>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_adj"/>
               <clip pos="1" side="tl" part="grau"/>
@@ -1549,6 +1555,9 @@
           <var n="number"/>
           <lit v=""/>
         </let>
+        <call-macro n="np_cleanup1">
+          <with-param pos="1"/>
+        </call-macro>
       </action>
     </rule>
 
