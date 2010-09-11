@@ -3860,6 +3860,17 @@
     <e><p><l>студентство<s n="n"/><s n="nt"/></l><r>studentship<s n="n"/></r></p></e>
     <e><p><l>гувернор<s n="n"/><s n="m"/></l><r>governor<s n="n"/></r></p></e>
 
+    <e><p><l>автор<s n="n"/><s n="m"/></l><r>author<s n="n"/></r></p></e>
+    <e><p><l>род<s n="n"/><s n="m"/></l><r>gender<s n="n"/></r></p></e>
+    <e><p><l>храм<s n="n"/><s n="m"/></l><r>temple<s n="n"/></r></p></e>
+    <e><p><l>цар<s n="n"/><s n="m"/></l><r>tsar<s n="n"/></r></p></e>
+    <e><p><l>запад<s n="n"/><s n="m"/></l><r>west<s n="n"/></r></p></e>
+    <e><p><l>југ<s n="n"/><s n="m"/></l><r>south<s n="n"/></r></p></e>
+    <e><p><l>крепост<s n="n"/><s n="f"/></l><r>stronghold<s n="n"/></r></p></e>
+    <e><p><l>природа<s n="n"/><s n="f"/></l><r>nature<s n="n"/></r></p></e>
+    <e><p><l>теорија<s n="n"/><s n="f"/></l><r>theory<s n="n"/></r></p></e>
+    <e><p><l>епоха<s n="n"/><s n="f"/></l><r>epoch<s n="n"/></r></p></e>
+
 
 
     <!-- Proper nouns -->
@@ -4207,8 +4218,12 @@
     <e><p><l>Хоп<s n="np"/><s n="ant"/><s n="m"/></l><r>Hop<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Христо<s n="np"/><s n="ant"/><s n="m"/></l><r>Hristo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Чемил<s n="np"/><s n="ant"/><s n="m"/></l><r>Chemil<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-    <e><p><l>Рен<s n="np"/><s n="ant"/><s n="m"/></l><r>Rehn<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
+    <e><p><l>Милутиновиќ<s n="np"/><s n="cog"/><s n="m"/></l><r>Milutinović<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+    <e><p><l>Стамболиќ<s n="np"/><s n="cog"/><s n="m"/></l><r>Stambolić<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+    <e><p><l>Павковиќ<s n="np"/><s n="cog"/><s n="m"/></l><r>Pavković<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+    <e><p><l>Еленовски<s n="np"/><s n="cog"/><s n="m"/></l><r>Elenovski<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+    <e><p><l>Рен<s n="np"/><s n="cog"/><s n="m"/></l><r>Rehn<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
     <e><p><l>Бах<s n="np"/><s n="cog"/><s n="m"/></l><r>Bah<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
     <e><p><l>Попов<s n="np"/><s n="cog"/><s n="m"/></l><r>Popov<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
     <e><p><l>Борисов<s n="np"/><s n="cog"/><s n="m"/></l><r>Borisov<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
@@ -4509,6 +4524,7 @@
     <e><p><l>Кунева<s n="np"/><s n="cog"/><s n="f"/></l><r>Kuneva<s n="np"/><s n="cog"/><s n="f"/></r></p></e>
     <e><p><l>Митрева<s n="np"/><s n="cog"/><s n="f"/></l><r>Mitreva<s n="np"/><s n="cog"/><s n="f"/></r></p></e>
 
+    <e><p><l>дел<b/>Понте<s n="np"/><s n="cog"/><s n="mfn"/></l><r>del<b/>Ponte<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
     <e><p><l>Бусек<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Busek<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Давиниќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Davinić<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Дал<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Dal<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -7884,10 +7900,20 @@
     <e c="  0"><p><l>триж<s n="adv"/></l><r>thrice<s n="adv"/></r></p></e>
     <e c="  0"><p><l>денем<s n="adv"/></l><r>by<b/>day<s n="adv"/></r></p></e>
 
+    <e c="  0"><p><l>меѓутоа<s n="adv"/></l><r>again<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>меѓутоа<s n="adv"/></l><r>after<b/>all<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>меѓутоа<s n="adv"/></l><r>all<b/>the<b/>same<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>меѓутоа<s n="adv"/></l><r>however<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>меѓутоа<s n="adv"/></l><r>meanwhile<s n="adv"/></r></p></e>
+
     <e c="  0"><p><l>отколку<s n="adv"/></l><r>than<s n="adv"/></r></p></e>
     <e c="  0"><p><l>изгледа<s n="adv"/></l><r>seemingly<s n="adv"/></r></p></e>
-    <e c="  0"><p><l>сеуште<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
-    <e slr="1"><p><l>сеуште<s n="adv"/></l><r>yet<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>сѐ<b/>уште<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>сѐ<b/>уште<s n="adv"/></l><r>yet<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>се<b/>уште<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>се<b/>уште<s n="adv"/></l><r>yet<s n="adv"/></r></p></e>
+
     <e c="  0"><p><l>дотогаш<s n="adv"/></l><r>by<b/>then<s n="adv"/></r></p></e>
     <e c="  0"><p><l>настрана<s n="adv"/></l><r>outside<s n="adv"/></r></p></e>
     <e slr="1"><p><l>настрана<s n="adv"/></l><r>apart<b/>from<s n="adv"/></r></p></e>
@@ -8078,7 +8104,6 @@
     <e c="  0"><p><l>поред<s n="adv"/></l><r>in<b/>turn<s n="adv"/></r></p></e>
     <e slr="1"><p><l>поред<s n="adv"/></l><r>one<b/>after<b/>the<b/>other<s n="adv"/></r></p></e>
 
-    <e c="  0"><p><l>се<b/>уште<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
     <!--<e c="  0"><p><l>изгледа<s n="adv"/></l><r>@<s n="adv"/></r></p></e>-->
 
 
