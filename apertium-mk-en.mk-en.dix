@@ -263,6 +263,7 @@
 
     <e c="  0"><p><l>според<s n="pr"/></l><r>according<b/>to<s n="pr"/></r></p></e>
     <e c="  0"><p><l>спроти<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
+
     <e c="  0"><p><l>сред<s n="pr"/></l><r>among<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>у<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
@@ -351,15 +352,26 @@
 
     <e><p><l>ништо<s n="prn"/><s n="neg"/></l><r>nothing<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
 
+    <e><p><l>секаков<s n="prn"/><s n="tot"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="кој_that__prn"/></e>
     <e><p><l>сите<s n="adj"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="кој_that__prn"/></e>
+    <e><p><l>сите<s n="adj"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="кој_that__prn"/></e>
+    <e c="  0"><p><l>сешто<s n="prn"/><s n="tot"/></l><r>all<s n="prn"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e slr="1"><p><l>сешто<s n="prn"/><s n="tot"/></l><r>everything<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>сѐ<s n="prn"/><s n="tot"/></l><r>all<s n="prn"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
 
     <e c="  0"><p><l>никаков<s n="prn"/><s n="neg"/></l><r>any<s n="prn"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
     <e slr="1"><p><l>никаков<s n="prn"/><s n="neg"/></l><r>no<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
+
+    <e c="  0"><p><l>николку<s n="prn"/><s n="neg"/></l><r>no<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
+
+    <e><p><l>онолкав<s n="prn"/><s n="dem"/></l><r>that<b/>sized<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
+    <e><p><l>олкав<s n="prn"/><s n="dem"/></l><r>such<b/>sized<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
 
     <e><p><l>овој<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
     <e><p><l>оној<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
     <e><p><l>тој<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
 
+    <e><p><l>толкав<s n="prn"/><s n="dem"/></l><r>same<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
     <e><p><l>таков<s n="prn"/><s n="dem"/></l><r>such<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
     <e><p><l>ваков<s n="prn"/><s n="dem"/></l><r>such<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
     <e><p><l>онаков<s n="prn"/><s n="dem"/></l><r>that<b/>kind<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
@@ -389,6 +401,11 @@
 
     <e><p><l>неколку<s n="prn"/><s n="ind"/><s n="ind"/></l><r>several<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>неколку<s n="prn"/><s n="ind"/></l><r>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
+
+    <e r="LR"><p><l>неколцина<s n="prn"/><s n="ind"/><s n="ind"/></l><r>several<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>неколцина<s n="prn"/><s n="ind"/></l><r>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
+
+    <e><p><l>некаков<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
 
     <e><p><l>што<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>поради<b/>што<s n="prn"/><s n="itg"/></l><r>which<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -8005,7 +8022,7 @@
     <e slr="2"><p><l>всушност<s n="adv"/></l><r>as<b/>a<b/>matter<b/>of<b/>fact<s n="adv"/></r></p></e>
     <e c="  0"><p><l>оттогаш<s n="adv"/></l><r>since<b/>then<s n="adv"/></r></p></e>
     <e slr="1"><p><l>оттогаш<s n="adv"/></l><r>from<b/>that<b/>time<s n="adv"/></r></p></e>
-    <e c="  0"><p><l>спротивно<s n="adv"/></l><r>unlike<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>спротивно<s n="adv"/></l><r>contrary<s n="adv"/></r></p></e>
     <e c="  0"><p><l>порано<s n="adv"/></l><r>beforehand<s n="adv"/></r></p></e>
     <e slr="0"><p><l>порано<s n="adv"/></l><r>in<b/>advance<s n="adv"/></r></p></e>
     <e c="  0"><p><l>засега<s n="adv"/></l><r>then<s n="adv"/></r></p></e> <!-- MWE: сега засега, 'for the time being' -->
@@ -8043,7 +8060,8 @@
     <e slr="1"><p><l>првенствено<s n="adv"/></l><r>above<b/>all<s n="adv"/></r></p></e>
     <e c="  0"><p><l>воопшто<s n="adv"/></l><r>generally<s n="adv"/></r></p></e>
     <e slr="1"><p><l>воопшто<s n="adv"/></l><r>in<b/>general<s n="adv"/></r></p></e>
-    <e c="  0"><p><l>лошо<s n="adv"/></l><r>ill<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>лошо<s n="adv"/></l><r>badly<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>лошо<s n="adv"/></l><r>poorly<s n="adv"/></r></p></e>
     <e c="  0"><p><l>некаде<s n="adv"/></l><r>somewhere<s n="adv"/></r></p></e>
     <e c="  0"><p><l>бргу<s n="adv"/></l><r>quickly<s n="adv"/></r></p></e>
     <e slr="1"><p><l>бргу<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
@@ -8056,7 +8074,8 @@
     <e slr="1"><p><l>горе<s n="adv"/></l><r>upstairs<s n="adv"/></r></p></e>
     <e c="  0"><p><l>вчера<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
     <e c="  0"><p><l>насила<s n="adv"/></l><r>by<b/>force<s n="adv"/></r></p></e>
-    <e c="  0"><p><l>поред<s n="adv"/></l><r>next<b/>to<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>поред<s n="adv"/></l><r>in<b/>turn<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>поред<s n="adv"/></l><r>one<b/>after<b/>the<b/>other<s n="adv"/></r></p></e>
 
     <e c="  0"><p><l>се<b/>уште<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
     <!--<e c="  0"><p><l>изгледа<s n="adv"/></l><r>@<s n="adv"/></r></p></e>-->
