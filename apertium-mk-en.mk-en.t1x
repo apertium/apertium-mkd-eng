@@ -44,6 +44,9 @@
     <def-cat n="trebe">
       <cat-item lemma="требе" tags="vbmod.*"/>
     </def-cat>
+    <def-cat n="poradi_što">
+      <cat-item lemma="поради што" tags="*"/>
+    </def-cat>
     <def-cat n="ne">
       <cat-item lemma="не" tags="adv"/>
     </def-cat>
@@ -75,6 +78,12 @@
       <cat-item tags="vbhaver.pres.*"/>
       <cat-item tags="vbhaver.pii.*"/>
       <cat-item tags="vbhaver.aor.*"/>
+    </def-cat>
+    <def-cat n="v_pres_p3_sg">
+      <cat-item tags="vblex.*.*.pres.p3.sg"/>
+      <cat-item tags="vbhaver.pres.p3.sg"/>
+      <cat-item tags="vblex.*.*.pres.p3.sg.*"/>
+      <cat-item tags="vbhaver.pres.p3.sg.*"/>
     </def-cat>
     <def-cat n="v_pres">
       <cat-item tags="vblex.*.*.pres.*"/>
@@ -169,6 +178,7 @@
     <def-attr n="a_prn">
       <attr-item tags="prn"/>
       <attr-item tags="rel.an"/>
+      <attr-item tags="rel.nn"/>
       <attr-item tags="prn.obj"/>
       <attr-item tags="prn.subj"/>
       <attr-item tags="prn.itg"/>
@@ -999,6 +1009,13 @@
             <let>
               <clip pos="1" side="tl" part="nbr"/>
               <lit v=""/>
+            </let>
+            <let>
+              <var n="defin"/>
+              <concat>
+                <var n="defin"/>
+                <lit-tag v="sg"/>
+              </concat>
             </let>
           </when>
         </choose>
@@ -2246,6 +2263,44 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: v_cop_fin_pres v_lp_aor">
+      <pattern>
+        <pattern-item n="v_cop_fin_pres"/>
+        <pattern-item n="v_lp_aor"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" side="sl" part="a_verb"/>
+          <lit-tag v="vbhaver"/>
+        </let>
+        <call-macro n="conv_verb_tense1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <lit v="have"/>
+              <lit-tag v="vbhaver"/>
+              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="1" side="tl" part="pers"/>
+              <clip pos="1" side="tl" part="nbr"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="pp"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
     <rule comment="REGLA: требе да v_cop_fin_pres">
       <pattern>
@@ -2306,6 +2361,28 @@
               <clip pos="3" side="tl" part="a_verb"/>
               <lit-tag v="inf"/>
               <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: poradi_što v_pres_p3_sg">
+      <pattern>
+        <pattern-item n="poradi_što"/>
+        <pattern-item n="v_pres_p3_sg"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="ger"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>

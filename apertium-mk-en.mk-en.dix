@@ -330,6 +330,7 @@
 
     <e><p><l>друг<s n="det"/><s n="ind"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
 
+
     <!-- Pronouns -->
 
     <e><p><l>clitic<s n="prn"/><s n="ref"/><s n="pers"/></l><r/></p></e> <!-- traducció buida per ara -->
@@ -349,6 +350,9 @@
 
 
     <e><p><l>ништо<s n="prn"/><s n="neg"/></l><r>nothing<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+
+    <e><p><l>сите<s n="adj"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="кој_that__prn"/></e>
+
     <e c="  0"><p><l>никаков<s n="prn"/><s n="neg"/></l><r>any<s n="prn"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
     <e slr="1"><p><l>никаков<s n="prn"/><s n="neg"/></l><r>no<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
 
@@ -384,8 +388,10 @@
     <e slr="1"><p><l>секој<s n="prn"/><s n="tot"/></l><r>anything<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
 
     <e><p><l>неколку<s n="prn"/><s n="ind"/><s n="ind"/></l><r>several<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>неколку<s n="prn"/><s n="ind"/></l><r>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
 
     <e><p><l>што<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>поради<b/>што<s n="prn"/><s n="itg"/></l><r>which<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
     <e><p><l>free<s n="prn"/><s n="ref"/><s n="pos"/></l><r>own<s n="adj"/></r></p></e>
 
@@ -407,12 +413,19 @@
     <e><p><l>кој<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/></r></p><par n="кој_that__prn"/></e>
 
     <e><p><l>кога<s n="prn"/><s n="rel"/></l><r>when<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>кога<b/>што<s n="prn"/><s n="rel"/></l><r>when<s n="cnjsub"/></r></p></e>
     <e><p><l>бидејќи<s n="prn"/><s n="rel"/></l><r>since<s n="cnjsub"/></r></p></e>
     <e><p><l>каде<b/>што<s n="prn"/><s n="rel"/></l><r>where<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>кога<s n="prn"/><s n="itg"/></l><r>when<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>каде<s n="prn"/><s n="itg"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e>
-    <e><p><l>зошто<s n="prn"/><s n="itg"/></l><r>what<b/>for<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>како<s n="prn"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>зошто<s n="prn"/><s n="itg"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>зашто<s n="prn"/><s n="rel"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>колку<s n="prn"/><s n="rel"/></l><r>as<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>колку<b/>што<s n="prn"/><s n="rel"/></l><r>as<s n="cnjsub"/></r></p></e>
+    <e><p><l>затоа<b/>што<s n="prn"/><s n="rel"/></l><r>because<s n="cnjsub"/></r></p></e>
+
+    <e><p><l>кога<g><b/>што</g><s n="prn"/><s n="rel"/></l><r>when<s n="cnjsub"/></r></p></e>
 
     <e><p><l>колкав<s n="prn"/><s n="itg"/></l><r>how<b/>big<s n="prn"/><s n="itg"/></r></p></e>
  
@@ -422,7 +435,8 @@
     -->
 
     <e><p><l>каков<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/></r></p><par n="кој_that__prn"/></e>
-    <e><p><l>каков<s n="prn"/><s n="rel"/></l><r>what<s n="rel"/><s n="nn"/></r></p><par n="каков_what__prn"/></e>
+    <e r="LR"><p><l>каков<s n="prn"/><s n="rel"/></l><r>what<s n="rel"/><s n="nn"/></r></p><par n="каков_what__prn"/></e>
+    <e><p><l>каков<g><b/>што</g><s n="prn"/><s n="rel"/></l><r>what<s n="rel"/><s n="nn"/></r></p><par n="каков_what__prn"/></e>
 
     <!-- mk side should be tagged for number -->
     <e c="  0"><p><l>колку<s n="prn"/><s n="itg"/></l><r>how<b/>much<s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e> 
@@ -3806,6 +3820,30 @@
     <e><p><l>абдицирање<s n="n"/><s n="nt"/></l><r>abdication<s n="n"/></r></p></e>
     <e><p><l>сираче<s n="n"/><s n="nt"/></l><r>orphan<s n="n"/></r></p></e>
 
+    <e><p><l>бизнесмен<s n="n"/><s n="m"/></l><r>businessman<s n="n"/></r></p></e>
+    <e><p><l>градус<s n="n"/><s n="m"/></l><r>grade<s n="n"/></r></p></e>
+    <e><p><l>журналист<s n="n"/><s n="m"/></l><r>journalist<s n="n"/></r></p></e>
+    <e><p><l>алкохоличар<s n="n"/><s n="m"/></l><r>alcoholic<s n="n"/></r></p></e>
+    <e><p><l>аклиматизација<s n="n"/><s n="f"/></l><r>acclimatisation<s n="n"/></r></p></e>
+    <e><p><l>кондиција<s n="n"/><s n="f"/></l><r>condition<s n="n"/></r></p></e>
+    <e><p><l>самоидентификација<s n="n"/><s n="f"/></l><r>self-identification<s n="n"/></r></p></e>
+    <e><p><l>специјализација<s n="n"/><s n="f"/></l><r>specialisation<s n="n"/></r></p></e>
+    <e><p><l>стигматизација<s n="n"/><s n="f"/></l><r>stigmatisation<s n="n"/></r></p></e>
+    <e><p><l>доминантност<s n="n"/><s n="f"/></l><r>dominance<s n="n"/></r></p></e>
+    <e><p><l>авторство<s n="n"/><s n="nt"/></l><r>authorship<s n="n"/></r></p></e>
+    <e><p><l>алкохоличарство<s n="n"/><s n="nt"/></l><r>alcoholism<s n="n"/></r></p></e>
+    <e><p><l>аматерство<s n="n"/><s n="nt"/></l><r>amateurism<s n="n"/></r></p></e>
+    <e><p><l>господарство<s n="n"/><s n="nt"/></l><r>hospitality<s n="n"/></r></p></e>
+    <e><p><l>директорство<s n="n"/><s n="nt"/></l><r>directorship<s n="n"/></r></p></e>
+    <e><p><l>идиотство<s n="n"/><s n="nt"/></l><r>idiocy<s n="n"/></r></p></e>
+    <e><p><l>илегалство<s n="n"/><s n="nt"/></l><r>illegality<s n="n"/></r></p></e>
+    <e><p><l>инспекторство<s n="n"/><s n="nt"/></l><r>inspectorship<s n="n"/></r></p></e>
+    <e><p><l>менаџерство<s n="n"/><s n="nt"/></l><r>managership<s n="n"/></r></p></e>
+    <e><p><l>професорство<s n="n"/><s n="nt"/></l><r>professorship<s n="n"/></r></p></e>
+    <e><p><l>реакционерство<s n="n"/><s n="nt"/></l><r>reaction<s n="n"/></r></p></e>
+    <e><p><l>студентство<s n="n"/><s n="nt"/></l><r>studentship<s n="n"/></r></p></e>
+    <e><p><l>гувернор<s n="n"/><s n="m"/></l><r>governor<s n="n"/></r></p></e>
+
 
 
     <!-- Proper nouns -->
@@ -6946,7 +6984,7 @@
     <e c="  0"><p><l>премиерски<s n="adj"/></l><r>premier<s n="adj"/></r></p></e>
     <e slr="1"><p><l>премиерски<s n="adj"/></l><r>prime<s n="adj"/></r></p></e>
     <e c="  0"><p><l>пренесен<s n="adj"/></l><r>carried<s n="adj"/></r></p></e>
-    <e c="  0"><p><l>преносен<s n="adj"/></l><r>transfer<s n="adj"/><s n="sint"/></r></p></e>
+    <e c="  0"><p><l>преносен<s n="adj"/></l><r>transfer<s n="adj"/></r></p></e>
     <e c="  0"><p><l>преостанат<s n="adj"/></l><r>remaining<s n="adj"/></r></p></e>
     <e slr="1"><p><l>преостанат<s n="adj"/></l><r>left<s n="adj"/></r></p></e>
     <e c="  0"><p><l>прес<s n="adj"/></l><r>press<s n="adj"/></r></p></e>
@@ -7442,8 +7480,8 @@
     <e><p><l>вандалски<s n="adj"/></l><r>vandal<s n="adj"/></r></p></e>
     <e><p><l>белоруски<s n="adj"/></l><r>Belorusian<s n="adj"/></r></p></e>
     <e><p><l>барселонски<s n="adj"/></l><r>Barcelona<s n="adj"/></r></p></e>
-    <e><p><l>антисемитски<s n="adj"/></l><r>anti-semitic<s n="adj"/></r></p></e>
-    <e><p><l>антиромски<s n="adj"/></l><r>anti-roma<s n="adj"/></r></p></e>
+    <e><p><l>антисемитски<s n="adj"/></l><r>anti-Semitic<s n="adj"/></r></p></e>
+    <e><p><l>антиромски<s n="adj"/></l><r>anti-Roma<s n="adj"/></r></p></e>
     <e><p><l>антиимигрантски<s n="adj"/></l><r>anti-immigrant<s n="adj"/></r></p></e>
     <e><p><l>антиамерикански<s n="adj"/></l><r>anti-American<s n="adj"/></r></p></e>
     <e><p><l>алуминиумски<s n="adj"/></l><r>aluminium<s n="adj"/></r></p></e>
@@ -7764,6 +7802,26 @@
     <e c="  0"><p><l>козарски<s n="adj"/></l><r>Kozara<s n="adj"/></r></p></e>
     <e c="  0"><p><l>аландски<s n="adj"/></l><r>Åland<s n="adj"/></r></p></e>
 
+
+    <e><p><l>папски<s n="adj"/></l><r>papal<s n="adj"/></r></p></e>
+    <e><p><l>антиалбански<s n="adj"/></l><r>anti-Albanian<s n="adj"/></r></p></e>
+    <e><p><l>антиестонски<s n="adj"/></l><r>anti-Estonian<s n="adj"/></r></p></e>
+    <e><p><l>неафрикански<s n="adj"/></l><r>non-African<s n="adj"/></r></p></e>
+    <e><p><l>спонзорски<s n="adj"/></l><r>sponsor<s n="adj"/></r></p></e>
+    <e><p><l>старословенски<s n="adj"/></l><r>old-Slavic<s n="adj"/></r></p></e>
+    <e><p><l>ветерански<s n="adj"/></l><r>veteran<s n="adj"/></r></p></e>
+    <e><p><l>ветеринарски<s n="adj"/></l><r>veterinary<s n="adj"/></r></p></e>
+    <e><p><l>геометриски<s n="adj"/></l><r>geometric<s n="adj"/></r></p></e>
+    <e><p><l>емиграциски<s n="adj"/></l><r>emigrant<s n="adj"/></r></p></e>
+    <e><p><l>инсулински<s n="adj"/></l><r>insulin<s n="adj"/></r></p></e>
+    <e><p><l>неинфлаторски<s n="adj"/></l><r>uninflationary<s n="adj"/></r></p></e>
+    <e><p><l>олигархиски<s n="adj"/></l><r>oligarchic<s n="adj"/></r></p></e>
+    <e><p><l>симулациски<s n="adj"/></l><r>simulated<s n="adj"/></r></p></e>
+    <e><p><l>корпулентен<s n="adj"/></l><r>corpulent<s n="adj"/></r></p></e>
+    <e><p><l>монументален<s n="adj"/></l><r>monumental<s n="adj"/></r></p></e>
+    <e><p><l>симпатичен<s n="adj"/></l><r>nice<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>солидарен<s n="adj"/></l><r>solidarity<s n="adj"/></r></p></e>
+    <e><p><l>фамозен<s n="adj"/></l><r>famous<s n="adj"/></r></p></e>
 
 
     <!-- Adverbs -->
