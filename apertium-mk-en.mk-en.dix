@@ -9707,7 +9707,7 @@
     <e c="  0"><p><l>дочека<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>welcome<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>дочека<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>welcome<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>казнува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>fine<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>задоволува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>fulful<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>задоволува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>fulfil<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>сослушува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>question<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>сослушува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>interrogate<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>откажува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>quit<s n="vblex"/></r></p></e>
@@ -9937,7 +9937,7 @@
     <e c="  0"><p><l>разместува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>deploy<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>раздаде<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>distribute<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>раздава<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>distribute<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>прооди<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>start<g><b/>walk</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>прооди<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>start<g><b/>walking</g><s n="vblex"/></r></p></e>
     <e slr="1"><p><l>прооди<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>learn<g><b/>to<b/>walk</g><s n="vblex"/></r></p></e>
     <e c="  0"><p><l>приспособува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>adapt<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>претстатвува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>adjust<s n="vblex"/></r></p></e>
