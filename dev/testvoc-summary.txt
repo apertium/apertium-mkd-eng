@@ -1,5 +1,5 @@
 
-ds set 11 17:05:55 GMT 2010
+dg set 12 12:22:30 GMT 2010
 ===============================================
 POS	Total	Clean	With @	With #	Clean %
 vblex	67474	 53440	14028	6	79.21
@@ -19,6 +19,7 @@ vbser	41	 41	0	0	100
 rel	39	 39	0	0	100
 cnjsub	18	 16	1	1	88.89
 cnjcoo	8	 7	0	1	87.5
+part	4	 3	1	0	75
 ij	4	 2	2	0	50
 cnjadv	4	 4	0	0	100
 preadv	0	 0	0	0	100

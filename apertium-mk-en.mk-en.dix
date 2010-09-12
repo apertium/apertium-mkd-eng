@@ -146,6 +146,7 @@
     <e c="  0"><p><l>на<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
     <e slr="1"><p><l>на<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
     <e slr="2"><p><l>на<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
+    <e slr="3"><p><l>на<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>во<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
     <e slr="1"><p><l>во<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
