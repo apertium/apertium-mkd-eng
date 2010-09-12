@@ -10164,6 +10164,9 @@
 
     <e><p><l>да<s n="ij"/></l><r>yes<s n="ij"/></r></p></e>
     <e><p><l>ете<s n="ij"/></l><r>just<s n="ij"/></r></p></e>
+    <e><p><l>стига<s n="ij"/></l><r>enough<s n="ij"/></r></p></e> 
+    <e><p><l>бива<s n="ij"/></l><r>ok<s n="ij"/></r></p></e>  <!-- Стига не бива, вече се спри. -->
+    
 
     <!-- Punctuation -->
 
