@@ -20,9 +20,6 @@ Multiple surface forms for a single lexical form
 ===============================================================================
 Multiple bidix entries for a single source language lexical form
 ===============================================================================
-     90 #Sv\<abbr\>\/St\<abbr\>	^Sv<abbr>/St<abbr>$
-      3 #Dr\<abbr\>\/Dr\<abbr\>	^Dr<abbr>/Dr<abbr>$
-      1 #DR\<abbr\>\/DR\<abbr\>	^DR<abbr>/DR<abbr>$
 
 ===============================================================================
 Tag mismatch between transfer and generation
@@ -32,18 +29,23 @@ Tag mismatch between transfer and generation
     584 #not even\<cnjcoo\>	^not even<cnjcoo>$
     438 #The\<det\>\<def\>\<sp\>	^The<det><def><sp>$
     312 #natural environment\<n\>\<sg\>	^natural environment<n><sg>$
+    142 #feasibility study\<n\>\<sg\>	^feasibility study<n><sg>$
+    118 #designate\<n\>\<sg\>	^designate<n><sg>$
     108 #All\<det\>\<qnt\>	^All<det><qnt>$
      99 #action plan\<n\>\<sg\>	^action plan<n><sg>$
      82 #Not even\<cnjcoo\>	^Not even<cnjcoo>$
      81 #authorisation\<n\>\<pl\>	^authorisation<n><pl>$
+     80 #uncooperative\<n\>\<sg\>	^uncooperative<n><sg>$
      75 #richter scale\<n\>\<sg\>	^richter scale<n><sg>$
      73 #procurement\<n\>\<pl\>	^procurement<n><pl>$
      71 #resignation\<n\>\<pl\>	^resignation<n><pl>$
      59 #estimation\<n\>\<pl\>	^estimation<n><pl>$
+     47 #acquis\<n\>\<sg\>	^acquis<n><sg>$
      41 #chief executive officer\<n\>\<sg\>	^chief executive officer<n><sg>$
      28 #testing\<n\>\<pl\>	^testing<n><pl>$
      27 #figure skating\<n\>\<sg\>	^figure skating<n><sg>$
      21 #genevan\<adj\>	^genevan<adj>$
+     16 #something\<n\>\<pl\>	^something<n><pl>$
      14 #Action plan\<n\>\<sg\>	^Action plan<n><sg>$
      12 #violation\<n\>\<pl\>	^violation<n><pl>$
      11 #questioning\<n\>\<pl\>	^questioning<n><pl>$
@@ -55,9 +57,12 @@ Tag mismatch between transfer and generation
       5 #august\<adj\>	^august<adj>$
       4 #naming\<n\>\<pl\>	^naming<n><pl>$
       4 #insurance\<n\>\<pl\>	^insurance<n><pl>$
+      4 #greenhouse gas effect\<n\>\<pl\>	^greenhouse gas effect<n><pl>$
       3 #reparation\<n\>\<pl\>	^reparation<n><pl>$
       3 #north American\<adj\>	^north American<adj>$
       3 #how big\<prn\>\<itg\>\<nt\>\<sg\>	^how big<prn><itg><nt><sg>$
+      3 #Feasibility study\<n\>\<sg\>	^Feasibility study<n><sg>$
+      3 #feasibility study\<n\>\<pl\>	^feasibility study<n><pl>$
       2 #spending\<n\>\<pl\>	^spending<n><pl>$
       2 #preoccupation\<n\>\<pl\>	^preoccupation<n><pl>$
       2 #korean\<adj\>	^korean<adj>$
@@ -65,6 +70,7 @@ Tag mismatch between transfer and generation
       2 #first\<adj\>\<ord\>\<sg\>	^first<adj><ord><sg>$
       2 #clarification\<n\>\<pl\>	^clarification<n><pl>$
       1 #train\<vblex\>\<past\>\<p3\>\<sg\>	^train<vblex><past><p3><sg>$
+      1 #threat\<vblex\>\<pres\>\<p3\>\<sg\>	^threat<vblex><pres><p3><sg>$
       1 #tampering\<n\>\<pl\>	^tampering<n><pl>$
       1 #skiing\<n\>\<pl\>	^skiing<n><pl>$
       1 #ratification\<n\>\<pl\>	^ratification<n><pl>$
@@ -74,6 +80,7 @@ Tag mismatch between transfer and generation
       1 #Natural environment\<n\>\<sg\>	^Natural environment<n><sg>$
       1 #inefficiency\<n\>\<pl\>	^inefficiency<n><pl>$
       1 #haskovo\<adj\>	^haskovo<adj>$
+      1 #greenhouse gas effect\<n\>\<sg\>	^greenhouse gas effect<n><sg>$
       1 #bullying\<n\>\<pl\>	^bullying<n><pl>$
       1 #broadway\<adj\>	^broadway<adj>$
       1 #babylonian\<adj\>	^babylonian<adj>$
@@ -83,6 +90,6 @@ Tag mismatch between transfer and generation
 Summary
 ===============================================================================
   11 /tmp/mk-en.multiform
-   3 /tmp/mk-en.multibidix
-  51 /tmp/mk-en.tagmismatch
-  65 total
+   0 /tmp/mk-en.multibidix
+  61 /tmp/mk-en.tagmismatch
+  72 total
