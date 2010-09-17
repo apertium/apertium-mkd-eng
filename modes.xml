@@ -163,9 +163,11 @@
       <program name="lt-proc $1">
         <file name="mk-en.autogen.bin"/>
       </program>
+<!--
       <program name="lt-proc -t">
         <file name="mk-en.alpha.bin"/>
       </program>
+-->
     </pipeline>
   </mode>
 

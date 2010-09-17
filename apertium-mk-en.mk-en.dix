@@ -3881,6 +3881,197 @@
     <e><p><l>епоха<s n="n"/><s n="f"/></l><r>epoch<s n="n"/></r></p></e>
 
 
+    <e><p><l>акушерство<s n="n"/><s n="nt"/></l><r>obstetrics<s n="n"/></r></p></e>
+    <e><p><l>апостолство<s n="n"/><s n="nt"/></l><r>apostlehood<s n="n"/></r></p></e>
+    <e c="  0"><p><l>блаженство<s n="n"/><s n="nt"/></l><r>happiness<s n="n"/></r></p></e>
+    <e slr="1"><p><l>блаженство<s n="n"/><s n="nt"/></l><r>eudaimonia<s n="n"/></r></p></e>
+    <e><p><l>богомолство<s n="n"/><s n="nt"/></l><r>pilgrimage<s n="n"/></r></p></e>
+    <e><p><l>богохулство<s n="n"/><s n="nt"/></l><r>blasphemy<s n="n"/></r></p></e>
+    <e><p><l>бубарство<s n="n"/><s n="nt"/></l><r>sericulture<s n="n"/></r></p></e>
+    <e><p><l>винарство<s n="n"/><s n="nt"/></l><r>winemaking<s n="n"/></r></p></e>
+    <e><p><l>војводство<s n="n"/><s n="nt"/></l><r>Voivode<s n="n"/></r></p></e>
+    <e><p><l>грнчарство<s n="n"/><s n="nt"/></l><r>pottery<s n="n"/></r></p></e>
+    <e><p><l>дворјанство<s n="n"/><s n="nt"/></l><r>nobility<s n="n"/></r></p></e>
+    <e><p><l>деспотство<s n="n"/><s n="nt"/></l><r>despotism<s n="n"/></r></p></e>
+    <e><p><l>духовенство<s n="n"/><s n="nt"/></l><r>clergy<s n="n"/></r></p></e>
+    <e><p><l>епикурејство<s n="n"/><s n="nt"/></l><r>Epicureanism<s n="n"/></r></p></e>
+    <e><p><l>живина<s n="n"/><s n="f"/></l><r>poultry<s n="n"/></r></p></e>
+    <e><p><l>животна<g><b/>средина</g><s n="n"/><s n="f"/></l><r>natural<b/>environment<s n="n"/></r></p></e>
+    <e><p><l>златарство<s n="n"/><s n="nt"/></l><r>goldsmith<s n="n"/></r></p></e>
+    <e><p><l>извршен<g><b/>директор</g><s n="n"/><s n="m"/></l><r>chief<b/>executive<b/>officer<s n="n"/></r></p></e>
+    <e><p><l>иконоборство<s n="n"/><s n="nt"/></l><r>iconoclasm<s n="n"/></r></p></e>
+    <e c="  0"><p><l>император<s n="n"/><s n="m"/></l><r>emperor<s n="n"/></r></p></e>
+    <e slr="1"><p><l>император<s n="n"/><s n="m"/></l><r>tsar<s n="n"/></r></p></e>
+    <e><p><l>јединство<s n="n"/><s n="nt"/></l><r>unity<s n="n"/></r></p></e>
+    <e><p><l>кавалерство<s n="n"/><s n="nt"/></l><r>chivalry<s n="n"/></r></p></e>
+    <e><p><l>каменоделство<s n="n"/><s n="nt"/></l><r>stonemasonry<s n="n"/></r></p></e>
+    <e><p><l>кметство<s n="n"/><s n="nt"/></l><r>serfdom<s n="n"/></r></p></e>
+    <e><p><l>книгоиздателство<s n="n"/><s n="nt"/></l><r>publisher<s n="n"/></r></p></e>
+    <e><p><l>коњарство<s n="n"/><s n="nt"/></l><r>horse<b/>breeding<s n="n"/></r></p></e>
+    <e><p><l>лезбејство<s n="n"/><s n="nt"/></l><r>lesbian<s n="n"/></r></p></e>
+    <e><p><l>лутеранство<s n="n"/><s n="nt"/></l><r>Lutheranism<s n="n"/></r></p></e>
+    <e><p><l>мисионерство<s n="n"/><s n="nt"/></l><r>missionary<s n="n"/></r></p></e>
+    <e><p><l>печатарство<s n="n"/><s n="nt"/></l><r>printing<s n="n"/></r></p></e>
+    <e><p><l>пијанство<s n="n"/><s n="nt"/></l><r>drunkenness<s n="n"/></r></p></e>
+    <e><p><l>пуританство<s n="n"/><s n="nt"/></l><r>puritan<s n="n"/></r></p></e>
+    <e><p><l>пчеларство<s n="n"/><s n="nt"/></l><r>beekeeping<s n="n"/></r></p></e>
+    <e><p><l>регентство<s n="n"/><s n="nt"/></l><r>regent<s n="n"/></r></p></e>
+    <e><p><l>редица<s n="n"/><s n="f"/></l><r>sequence<s n="n"/></r></p></e>
+    <e><p><l>рихтерова<g><b/>скала</g><s n="n"/><s n="f"/></l><r>richter<b/>scale<s n="n"/></r></p></e>
+    <e><p><l>рождество<s n="n"/><s n="nt"/></l><r>Christmas<s n="n"/></r></p></e>
+    <e><p><l>сродство<s n="n"/><s n="nt"/></l><r>kinship<s n="n"/></r></p></e>
+    <e><p><l>уметничко<g><b/>лизгање</g><s n="n"/><s n="nt"/></l><r>figure<b/>skating<s n="n"/></r></p></e>
+    <e><p><l>шал<s n="n"/><s n="m"/></l><r>shawl<s n="n"/></r></p></e>
+    <e><p><l>акционен<g><b/>план</g><s n="n"/><s n="m"/></l><r>action<b/>plan<s n="n"/></r></p></e>
+    <e><p><l>аквис<s n="n"/><s n="m"/></l><r>acquis<s n="n"/></r></p></e>
+    <e><p><l>физибилити<b/>студија<s n="n"/><s n="f"/></l><r>feasibility<b/>study<s n="n"/></r></p></e>
+    <e><p><l>зелено<b/>светло<s n="n"/><s n="nt"/></l><r>green<b/>light<s n="n"/></r></p></e>
+
+
+    <e><p><l>желудец<s n="n"/><s n="m"/></l><r>stomach<s n="n"/></r></p></e>
+    <e><p><l>чичо<s n="n"/><s n="m"/></l><r>uncle<s n="n"/></r></p></e>
+    <e><p><l>собор<s n="n"/><s n="m"/></l><r>council<s n="n"/></r></p></e>
+    <e><p><l>срок<s n="n"/><s n="m"/></l><r>period<s n="n"/></r></p></e>
+    <e><p><l>сокак<s n="n"/><s n="m"/></l><r>alley<s n="n"/></r></p></e>
+    <e><p><l>тип<s n="n"/><s n="m"/></l><r>type<s n="n"/></r></p></e>
+    <e><p><l>примена<s n="n"/><s n="f"/></l><r>application<s n="n"/></r></p></e>
+    <e><p><l>четворица<s n="n"/><s n="f"/></l><r>fourfold<s n="n"/></r></p></e>
+    <e><p><l>потврда<s n="n"/><s n="f"/></l><r>confirmation<s n="n"/></r></p></e>
+    <e><p><l>безнадежност<s n="n"/><s n="f"/></l><r>hopelessness<s n="n"/></r></p></e>
+    <e><p><l>економичност<s n="n"/><s n="f"/></l><r>economy<s n="n"/></r></p></e>
+    <e><p><l>незадолженост<s n="n"/><s n="f"/></l><r>indebtedness<s n="n"/></r></p></e>
+    <e><p><l>софистицираност<s n="n"/><s n="f"/></l><r>sophistication<s n="n"/></r></p></e>
+    <e><p><l>трезвеност<s n="n"/><s n="f"/></l><r>sobriety<s n="n"/></r></p></e>
+    <e><p><l>аграрство<s n="n"/><s n="nt"/></l><r>agrarianism<s n="n"/></r></p></e>
+    <e><p><l>актерство<s n="n"/><s n="nt"/></l><r>acting<s n="n"/></r></p></e>
+    <e><p><l>акционерство<s n="n"/><s n="nt"/></l><r>shareholding<s n="n"/></r></p></e>
+    <e><p><l>аптекарство<s n="n"/><s n="nt"/></l><r>pharmacy<s n="n"/></r></p></e>
+    <e><p><l>архиварство<s n="n"/><s n="nt"/></l><r>archive<s n="n"/></r></p></e>
+    <e><p><l>архиепископство<s n="n"/><s n="nt"/></l><r>archbishopship<s n="n"/></r></p></e>
+    <e><p><l>безумство<s n="n"/><s n="nt"/></l><r>foolishness<s n="n"/></r></p></e>
+    <e><p><l>благородство<s n="n"/><s n="nt"/></l><r>nobility<s n="n"/></r></p></e>
+    <e><p><l>блудство<s n="n"/><s n="nt"/></l><r>fornication<s n="n"/></r></p></e>
+    <e><p><l>везирство<s n="n"/><s n="nt"/></l><r>vezirship<s n="n"/></r></p></e>
+    <e><p><l>величество<s n="n"/><s n="nt"/></l><r>majesty<s n="n"/></r></p></e>
+    <e><p><l>вероломство<s n="n"/><s n="nt"/></l><r>perjury<s n="n"/></r></p></e>
+    <e><p><l>ветеринарство<s n="n"/><s n="nt"/></l><r>veterinary<s n="n"/></r></p></e>
+    <e><p><l>визионерство<s n="n"/><s n="nt"/></l><r>vision<s n="n"/></r></p></e>
+    <e><p><l>високопреосвештенство<s n="n"/><s n="nt"/></l><r>eminence<s n="n"/></r></p></e>
+    <e><p><l>владичество<s n="n"/><s n="nt"/></l><r>dominion<s n="n"/></r></p></e>
+    <e><p><l>воинство<s n="n"/><s n="nt"/></l><r>host<s n="n"/></r></p></e>
+    <e><p><l>волшепство<s n="n"/><s n="nt"/></l><r>magic<s n="n"/></r></p></e>
+    <e><p><l>говедарство<s n="n"/><s n="nt"/></l><r>pasturage<s n="n"/></r></p></e>
+    <e><p><l>големство<s n="n"/><s n="nt"/></l><r>bigness<s n="n"/></r></p></e>
+    <e><p><l>господство<s n="n"/><s n="nt"/></l><r>rule<s n="n"/></r></p></e>
+    <e><p><l>гркоманство<s n="n"/><s n="nt"/></l><r>greekness<s n="n"/></r></p></e>
+    <e><p><l>дежурство<s n="n"/><s n="nt"/></l><r>duty<s n="n"/></r></p></e>
+    <e><p><l>деловодство<s n="n"/><s n="nt"/></l><r>postage<s n="n"/></r></p></e>
+    <e><p><l>детинство<s n="n"/><s n="nt"/></l><r>childhood<s n="n"/></r></p></e>
+    <e><p><l>диригентство<s n="n"/><s n="nt"/></l><r>baton<s n="n"/></r></p></e>
+    <e><p><l>другарство<s n="n"/><s n="nt"/></l><r>camaraderie<s n="n"/></r></p></e>
+    <e><p><l>епископство<s n="n"/><s n="nt"/></l><r>episcopacy<s n="n"/></r></p></e>
+    <e><p><l>ергенство<s n="n"/><s n="nt"/></l><r>celibacy<s n="n"/></r></p></e>
+    <e><p><l>жителство<s n="n"/><s n="nt"/></l><r>residence<s n="n"/></r></p></e>
+    <e><p><l>килимарство<s n="n"/><s n="nt"/></l><r>copper<s n="n"/></r></p></e>
+    <e><p><l>книговодство<s n="n"/><s n="nt"/></l><r>bookkeeping<s n="n"/></r></p></e>
+    <e><p><l>коварство<s n="n"/><s n="nt"/></l><r>deceit<s n="n"/></r></p></e>
+    <e><p><l>кожарство<s n="n"/><s n="nt"/></l><r>bells<s n="n"/></r></p></e>
+    <e><p><l>кокетство<s n="n"/><s n="nt"/></l><r>coquetry<s n="n"/></r></p></e>
+    <e><p><l>колекционерство<s n="n"/><s n="nt"/></l><r>collectables<s n="n"/></r></p></e>
+    <e><p><l>командантство<s n="n"/><s n="nt"/></l><r>commandantship<s n="n"/></r></p></e>
+    <e><p><l>комесарство<s n="n"/><s n="nt"/></l><r>commissarship<s n="n"/></r></p></e>
+    <e><p><l>консулство<s n="n"/><s n="nt"/></l><r>consulate<s n="n"/></r></p></e>
+    <e><p><l>концесионерство<s n="n"/><s n="nt"/></l><r>concessionary<s n="n"/></r></p></e>
+    <e><p><l>крводарителство<s n="n"/><s n="nt"/></l><r>blood<b/>donation<s n="n"/></r></p></e>
+    <e><p><l>кривоверство<s n="n"/><s n="nt"/></l><r>heresy<s n="n"/></r></p></e>
+    <e><p><l>лакомство<s n="n"/><s n="nt"/></l><r>covetousness<s n="n"/></r></p></e>
+    <e><p><l>левичарство<s n="n"/><s n="nt"/></l><r>leftism<s n="n"/></r></p></e>
+    <e><p><l>лицемерство<s n="n"/><s n="nt"/></l><r>hypocrisy<s n="n"/></r></p></e>
+    <e><p><l>лукавство<s n="n"/><s n="nt"/></l><r>craftiness<s n="n"/></r></p></e>
+    <e><p><l>манекенство<s n="n"/><s n="nt"/></l><r>modelling<s n="n"/></r></p></e>
+    <e><p><l>мародерство<s n="n"/><s n="nt"/></l><r>marauding<s n="n"/></r></p></e>
+    <e><p><l>медијаторство<s n="n"/><s n="nt"/></l><r>mediation<s n="n"/></r></p></e>
+    <e><p><l>млекарство<s n="n"/><s n="nt"/></l><r>dairy<s n="n"/></r></p></e>
+    <e><p><l>мормонство<s n="n"/><s n="nt"/></l><r>mormonism<s n="n"/></r></p></e>
+    <e><p><l>муслиманство<s n="n"/><s n="nt"/></l><r>Islam<s n="n"/></r></p></e>
+    <e><p><l>муфтиство<s n="n"/><s n="nt"/></l><r>muftiship<s n="n"/></r></p></e>
+    <e><p><l>началство<s n="n"/><s n="nt"/></l><r>principality<s n="n"/></r></p></e>
+    <e><p><l>неверство<s n="n"/><s n="nt"/></l><r>infidelity<s n="n"/></r></p></e>
+    <e><p><l>неединство<s n="n"/><s n="nt"/></l><r>disunity<s n="n"/></r></p></e>
+    <e><p><l>новаторство<s n="n"/><s n="nt"/></l><r>innovation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>ножарство<s n="n"/><s n="nt"/></l><r>cutlery<s n="n"/></r></p></e>
+    <e slr="1"><p><l>ножарство<s n="n"/><s n="nt"/></l><r>jewelery<s n="n"/></r></p></e>
+    <e><p><l>офицерство<s n="n"/><s n="nt"/></l><r>officership<s n="n"/></r></p></e>
+    <e><p><l>паразитство<s n="n"/><s n="nt"/></l><r>parasitism<s n="n"/></r></p></e>
+    <e><p><l>пасторство<s n="n"/><s n="nt"/></l><r>pastorship<s n="n"/></r></p></e>
+    <e><p><l>пионерство<s n="n"/><s n="nt"/></l><r>pioneering<s n="n"/></r></p></e>
+    <e><p><l>полнолетство<s n="n"/><s n="nt"/></l><r>adulthood<s n="n"/></r></p></e>
+    <e><p><l>потомство<s n="n"/><s n="nt"/></l><r>offspring<s n="n"/></r></p></e>
+    <e><p><l>предимство<s n="n"/><s n="nt"/></l><r>advantage<s n="n"/></r></p></e>
+    <e><p><l>премиерство<s n="n"/><s n="nt"/></l><r>premiership<s n="n"/></r></p></e>
+    <e><p><l>преосвештенство<s n="n"/><s n="nt"/></l><r>grace<s n="n"/></r></p></e>
+    <e><p><l>претчувство<s n="n"/><s n="nt"/></l><r>premonition<s n="n"/></r></p></e>
+    <e><p><l>преустројство<s n="n"/><s n="nt"/></l><r>reorganisation<s n="n"/></r></p></e>
+    <e><p><l>произвотство<s n="n"/><s n="nt"/></l><r>manufacturing<s n="n"/></r></p></e>
+    <e><p><l>проклетство<s n="n"/><s n="nt"/></l><r>curse<s n="n"/></r></p></e>
+    <e><p><l>противдејство<s n="n"/><s n="nt"/></l><r>counteraction<s n="n"/></r></p></e>
+    <e><p><l>равенство<s n="n"/><s n="nt"/></l><r>equation<s n="n"/></r></p></e>
+    <e><p><l>растројство<s n="n"/><s n="nt"/></l><r>disorder<s n="n"/></r></p></e>
+    <e><p><l>рационализаторство<s n="n"/><s n="nt"/></l><r>racionalisation<s n="n"/></r></p></e>
+    <e><p><l>револуционерство<s n="n"/><s n="nt"/></l><r>revolutionaryship<s n="n"/></r></p></e>
+    <e><p><l>резбарство<s n="n"/><s n="nt"/></l><r>woodcarving<s n="n"/></r></p></e>
+    <e><p><l>репортерство<s n="n"/><s n="nt"/></l><r>reportership<s n="n"/></r></p></e>
+    <e><p><l>рицарство<s n="n"/><s n="nt"/></l><r>chivalry<s n="n"/></r></p></e>
+    <e><p><l>родителство<s n="n"/><s n="nt"/></l><r>parenthood<s n="n"/></r></p></e>
+    <e><p><l>самочувство<s n="n"/><s n="nt"/></l><r>self<b/>awareness<s n="n"/></r></p></e>
+    <e><p><l>сватовство<s n="n"/><s n="nt"/></l><r>affinity<s n="n"/></r></p></e>
+    <e><p><l>свидетелство<s n="n"/><s n="nt"/></l><r>certificate<s n="n"/></r></p></e>
+    <e><p><l>свињарство<s n="n"/><s n="nt"/></l><r>pig<s n="n"/></r></p></e>
+    <e><p><l>сестринство<s n="n"/><s n="nt"/></l><r>sisterhood<s n="n"/></r></p></e>
+    <e><p><l>содејство<s n="n"/><s n="nt"/></l><r>synergy<s n="n"/></r></p></e>
+    <e><p><l>сожителство<s n="n"/><s n="nt"/></l><r>coexistence<s n="n"/></r></p></e>
+    <e><p><l>соодветство<s n="n"/><s n="nt"/></l><r>accordance<s n="n"/></r></p></e>
+    <e><p><l>спокојство<s n="n"/><s n="nt"/></l><r>quiet<s n="n"/></r></p></e>
+    <e><p><l>столарство<s n="n"/><s n="nt"/></l><r>carpentry<s n="n"/></r></p></e>
+    <e><p><l>тиранство<s n="n"/><s n="nt"/></l><r>tyranny<s n="n"/></r></p></e>
+    <e><p><l>тржество<s n="n"/><s n="nt"/></l><r>ceremony<s n="n"/></r></p></e>
+    <e><p><l>упорство<s n="n"/><s n="nt"/></l><r>persistence<s n="n"/></r></p></e>
+    <e><p><l>устројство<s n="n"/><s n="nt"/></l><r>constitution<s n="n"/></r></p></e>
+    <e><p><l>учебникарство<s n="n"/><s n="nt"/></l><r>textbook<s n="n"/></r></p></e>
+    <e><p><l>херојство<s n="n"/><s n="nt"/></l><r>heroism<s n="n"/></r></p></e>
+    <e><p><l>хотелиерство<s n="n"/><s n="nt"/></l><r>hospitality<s n="n"/></r></p></e>
+    <e><p><l>чудотворство<s n="n"/><s n="nt"/></l><r>miracle<s n="n"/></r></p></e>
+    <e><p><l>чуство<s n="n"/><s n="nt"/></l><r>feeling<s n="n"/></r></p></e>
+    <e><p><l>шарлатанство<s n="n"/><s n="nt"/></l><r>quackery<s n="n"/></r></p></e>
+    <e><p><l>ѕидарство<s n="n"/><s n="nt"/></l><r>masonry<s n="n"/></r></p></e>
+    <e><p><l>љубопитство<s n="n"/><s n="nt"/></l><r>curiosity<s n="n"/></r></p></e>
+    <e><p><l>нешто<s n="n"/><s n="nt"/></l><r>something<s n="n"/></r></p></e>
+    <e><p><l>соблазнување<s n="n"/><s n="nt"/></l><r>offense<s n="n"/></r></p></e>
+    <e><p><l>дистанцирање<s n="n"/><s n="nt"/></l><r>distancing<s n="n"/></r></p></e>
+    <e><p><l>категоризирање<s n="n"/><s n="nt"/></l><r>categorisation<s n="n"/></r></p></e>
+    <e><p><l>кремирање<s n="n"/><s n="nt"/></l><r>cremation<s n="n"/></r></p></e>
+    <e><p><l>микрокредитирање<s n="n"/><s n="nt"/></l><r>micro-credit<s n="n"/></r></p></e>
+    <e><p><l>обесхрабрување<s n="n"/><s n="nt"/></l><r>discouragement<s n="n"/></r></p></e>
+    <e><p><l>преселување<s n="n"/><s n="nt"/></l><r>resettlement<s n="n"/></r></p></e>
+    <e><p><l>самораспуштање<s n="n"/><s n="nt"/></l><r>dissolution<s n="n"/></r></p></e>
+    <e><p><l>формулирање<s n="n"/><s n="nt"/></l><r>formulation<s n="n"/></r></p></e>
+    <e><p><l>востание<s n="n"/><s n="nt"/></l><r>uprising<s n="n"/></r></p></e>
+    <e><p><l>положба<s n="n"/><s n="f"/></l><r>position<s n="n"/></r></p></e>
+    <e><p><l>деноноќие<s n="n"/><s n="nt"/></l><r>day<b/>and<b/>night<s n="n"/></r></p></e>
+    <e><p><l>безбедносна<g><b/>сила</g><s n="n"/><s n="f"/></l><r>security<b/>force<s n="n"/></r></p></e>
+    <e><p><l>затворска<g><b/>казна</g><s n="n"/><s n="f"/></l><r>sentence<s n="n"/></r></p></e>
+    <e><p><l>пресвртница<s n="n"/><s n="f"/></l><r>milestone<s n="n"/></r></p></e>
+    <e><p><l>мандатор<s n="n"/><s n="m"/></l><r>designate<s n="n"/></r></p></e>
+    <e><p><l>недвижност<s n="n"/><s n="f"/></l><r>real<b/>estate<s n="n"/></r></p></e>
+    <e><p><l>несоработка<s n="n"/><s n="f"/></l><r>uncooperative<s n="n"/></r></p></e>
+    <e><p><l>гас<g><b/>со<b/>ефект<b/>на<b/>стаклена<b/>бавча</g><s n="n"/><s n="m"/></l><r>greenhouse<b/>gas<b/>effect<s n="n"/></r></p></e>
+    <e><p><l>ќерка<s n="n"/><s n="f"/></l><r>daughter<s n="n"/></r></p></e>
+    <e><p><l>смисла<s n="n"/><s n="f"/></l><r>sense<s n="n"/></r></p></e>
+    <e><p><l>статија<s n="n"/><s n="f"/></l><r>article<s n="n"/></r></p></e>
+
+    <e><p><l>родство<s n="n"/><s n="nt"/></l><r>kinship<s n="n"/></r></p></e>
+    <e><p><l>таинство<s n="n"/><s n="nt"/></l><r>sacrament<s n="n"/></r></p></e>
+
 
     <!-- Proper nouns -->
 
@@ -7870,6 +8061,36 @@
     <e><p><l>солидарен<s n="adj"/></l><r>solidarity<s n="adj"/></r></p></e>
     <e><p><l>фамозен<s n="adj"/></l><r>famous<s n="adj"/></r></p></e>
 
+    <e><p><l>расположен<s n="adj"/></l><r>mood<s n="adj"/></r></p></e>
+    <e><p><l>благословен<s n="adj"/></l><r>blessed<s n="adj"/></r></p></e>
+    <e><p><l>завршен<s n="adj"/></l><r>completed<s n="adj"/></r></p></e>
+    <e><p><l>наведен<s n="adj"/></l><r>specified<s n="adj"/></r></p></e>
+    <e><p><l>останат<s n="adj"/></l><r>remaining<s n="adj"/></r></p></e>
+    <e><p><l>победен<s n="adj"/></l><r>defeated<s n="adj"/></r></p></e>
+    <e><p><l>потпишан<s n="adj"/></l><r>signed<s n="adj"/></r></p></e>
+    <e><p><l>починат<s n="adj"/></l><r>deceased<s n="adj"/></r></p></e>
+    <e><p><l>усвоен<s n="adj"/></l><r>adopted<s n="adj"/></r></p></e>
+    <e><p><l>аврамски<s n="adj"/></l><r>Abrahamic<s n="adj"/></r></p></e>
+    <e><p><l>бабунски<s n="adj"/></l><r>Babunski<s n="adj"/></r></p></e>
+    <e><p><l>коринтски<s n="adj"/></l><r>Corinthian<s n="adj"/></r></p></e>
+    <e><p><l>критски<s n="adj"/></l><r>Cretan<s n="adj"/></r></p></e>
+    <e><p><l>неарапски<s n="adj"/></l><r>non-Arab<s n="adj"/></r></p></e>
+    <e><p><l>нетурски<s n="adj"/></l><r>non-Turkish<s n="adj"/></r></p></e>
+    <e><p><l>рилски<s n="adj"/></l><r>Rilski<s n="adj"/></r></p></e>
+    <e><p><l>дебитантски<s n="adj"/></l><r>debut<s n="adj"/></r></p></e>
+    <e><p><l>фондациски<s n="adj"/></l><r>foundation<s n="adj"/></r></p></e>
+    <e><p><l>ближен<s n="adj"/></l><r>neighbour<s n="adj"/></r></p></e>
+    <e><p><l>импозантен<s n="adj"/></l><r>impressive<s n="adj"/></r></p></e>
+    <e><p><l>небесен<s n="adj"/></l><r>heavenly<s n="adj"/></r></p></e>
+    <e><p><l>неуморен<s n="adj"/></l><r>relentless<s n="adj"/></r></p></e>
+    <e><p><l>обвинителен<s n="adj"/></l><r>indictment<s n="adj"/></r></p></e>
+    <e><p><l>победоносен<s n="adj"/></l><r>victorious<s n="adj"/></r></p></e>
+    <e><p><l>утрешен<s n="adj"/></l><r>tomorrow's<s n="adj"/></r></p></e>
+    <e><p><l>ниж<s n="adj"/></l><r>inferior<s n="adj"/></r></p></e>
+    <e><p><l>закажен<s n="adj"/></l><r>announced<s n="adj"/></r></p></e>
+    <e><p><l>комитски<s n="adj"/></l><r>revolutionary<s n="adj"/></r></p></e>
+    <e><p><l>имотски<s n="adj"/></l><r>possessed<s n="adj"/></r></p></e>
+    <e><p><l>довчерашен<s n="adj"/></l><r>yesterday's<s n="adj"/></r></p></e>
 
     <!-- Adverbs -->
 

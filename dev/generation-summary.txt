@@ -12,6 +12,7 @@ Multiple surface forms for a single lexical form
       3 VAN/VAN	^VAN<np><cog><sg>$
       2 NIKŠIĆ/NIKŠIĆ	^NIKŠIĆ<np><cog><sg>$
       2 Lied/Lay	^Lie<vblex><past>$
+      2 Insite/Insite	^Insite<np><al><sg>$
       1 TESLIĆ/TESLIĆ	^TESLIĆ<np><cog><sg>$
       1 SANDANSKI/SANDANSKI	^SANDANSKI<np><cog><sg>$
       1 PALIĆ/PALIĆ	^PALIĆ<np><cog><sg>$
@@ -26,439 +27,62 @@ Multiple bidix entries for a single source language lexical form
 ===============================================================================
 Tag mismatch between transfer and generation
 ===============================================================================
-   2473 #should\<past\>	^should<past>$
-   1710 #must\<pres\>	^must<pres>$
-   1564 #all\<adj\>	^all<adj>$
-   1366 #the\<det\>\<def\>\<sp\>	^the<det><def><sp>$
-   1168 #can\<pres\>	^can<pres>$
-   1138 #balkan\<n\>\<sg\>	^balkan<n><sg>$
-    935 #the\<det\>\<def\>	^the<det><def>$
-    833 #with\<cnjsub\>	^with<cnjsub>$
-    683 #Balkan\<n\>\<sg\>	^Balkan<n><sg>$
-    665 #can\<past\>	^can<past>$
+   1559 #all\<det\>\<qnt\>	^all<det><qnt>$
+   1365 #the\<det\>\<def\>\<sp\>	^the<det><def><sp>$
     584 #not even\<cnjcoo\>	^not even<cnjcoo>$
     438 #The\<det\>\<def\>\<sp\>	^The<det><def><sp>$
-    399 #this kind\<prn\>\<dem\>\<mf\>\<sg\>	^this kind<prn><dem><mf><sg>$
-    360 #The\<det\>\<def\>	^The<det><def>$
-    305 #such kind\<prn\>\<dem\>\<mf\>\<sg\>	^such kind<prn><dem><mf><sg>$
-    292 #turnout\<n\>\<sg\>	^turnout<n><sg>$
-    258 #this kind\<prn\>\<dem\>\<mf\>\<pl\>	^this kind<prn><dem><mf><pl>$
-    230 #containment\<n\>\<sg\>	^containment<n><sg>$
-    208 #abolition\<n\>\<sg\>	^abolition<n><sg>$
-    203 #what kind\<prn\>\<f\>\<sg\>	^what kind<prn><f><sg>$
-    190 #what kind\<prn\>\<pl\>	^what kind<prn><mfn><pl>$
-    181 #Beta\<np\>\<al\>\<sg\>	^Beta<np><al><sg>$
-    178 #such kind\<prn\>\<dem\>\<mf\>\<pl\>	^such kind<prn><dem><mf><pl>$
-    177 #existing\<adj\>	^existing<adj>$
-    165 #Štajner\<np\>\<cog\>\<sg\>	^Štajner<np><cog><sg>$
-    165 #Dnevnik\<np\>\<al\>\<sg\>	^Dnevnik<np><al><sg>$
-    163 #Blitz\<np\>\<al\>\<sg\>	^Blitz<np><al><sg>$
-    161 #interrogee\<n\>\<pl\>	^interrogee<n><pl>$
-    160 #media\<adj\>	^media<adj>$
-    155 #telecom\<n\>\<sg\>	^telecom<n><sg>$
-    154 #no one\<prn\>\<ind\>\<mf\>\<sg\>	^no one<prn><ind><mf><sg><nom>$
-    153 #no kind\<prn\>\<ind\>\<nt\>\<sg\>\<pl\>	^no kind<prn><ind><nt><sg><mfn><pl>$
-    142 #Telecom\<n\>\<sg\>	^Telecom<n><sg>$
-    141 #what kind\<prn\>\<m\>\<sg\>	^what kind<prn><m><sg>$
-    129 #must\<past\>	^must<past>$
-    129 #Ergenekon\<np\>\<al\>\<sg\>	^Ergenekon<np><al><sg>$
-    125 #unlike\<adv\>	^unlike<adv>$
-    122 #under secretary\<n\>\<sg\>	^under secretary<n><sg>$
-    120 #self-government\<n\>\<sg\>	^self-government<n><sg>$
-    119 #Guardian\<np\>\<al\>\<sg\>	^Guardian<np><al><sg>$
-    118 #Makfax\<np\>\<al\>\<sg\>	^Makfax<np><al><sg>$
-    117 #Mediapool\<np\>\<al\>\<sg\>	^Mediapool<np><al><sg>$
-    117 #All\<adj\>	^All<adj>$
-    114 #morning\<adv\>	^morning<adv>$
-    112 #depot\<n\>\<sg\>	^depot<n><sg>$
-    103 #headquarters\<n\>\<sg\>	^headquarters<n><sg>$
-    102 #Interpol\<np\>\<al\>\<sg\>	^Interpol<np><al><sg>$
-     99 #monastry\<n\>\<sg\>	^monastry<n><sg>$
-     97 #corridor\<n\>\<sg\>	^corridor<n><sg>$
-     94 #Nezavisne\<np\>\<al\>\<sg\>	^Nezavisne<np><al><sg>$
-     94 #beneficiary\<n\>\<pl\>	^beneficiary<n><pl>$
-     89 #Rompres\<np\>\<al\>\<sg\>	^Rompres<np><al><sg>$
-     87 #Zaman\<np\>\<al\>\<sg\>	^Zaman<np><al><sg>$
-     87 #Kitarović\<np\>\<cog\>\<sg\>	^Kitarović<np><cog><sg>$
-     86 #Turk\<np\>\<al\>\<sg\>	^Turk<np><al><sg>$
-     86 #Tanjug\<np\>\<al\>\<sg\>	^Tanjug<np><al><sg>$
-     85 #what kind\<prn\>\<nt\>\<sg\>	^what kind<prn><nt><sg>$
+    312 #natural environment\<n\>\<sg\>	^natural environment<n><sg>$
+    108 #All\<det\>\<qnt\>	^All<det><qnt>$
+     99 #action plan\<n\>\<sg\>	^action plan<n><sg>$
      82 #Not even\<cnjcoo\>	^Not even<cnjcoo>$
-     81 #No one\<prn\>\<ind\>\<mf\>\<sg\>	^No one<prn><ind><mf><sg><nom>$
      81 #authorisation\<n\>\<pl\>	^authorisation<n><pl>$
-     79 #Dojče\<np\>\<al\>\<sg\>	^Dojče<np><al><sg>$
-     77 #oversight\<n\>\<sg\>	^oversight<n><sg>$
+     75 #richter scale\<n\>\<sg\>	^richter scale<n><sg>$
      73 #procurement\<n\>\<pl\>	^procurement<n><pl>$
-     73 #Olypmics\<np\>\<al\>\<sg\>	^Olypmics<np><al><sg>$
-     73 #Independent\<np\>\<al\>\<sg\>	^Independent<np><al><sg>$
-     73 #available\<n\>\<sg\>	^available<n><sg>$
-     72 #Turkish\<np\>\<al\>\<sg\>	^Turkish<np><al><sg>$
-     72 #Anadolu\<np\>\<al\>\<sg\>	^Anadolu<np><al><sg>$
      71 #resignation\<n\>\<pl\>	^resignation<n><pl>$
-     69 #Fena\<np\>\<al\>\<sg\>	^Fena<np><al><sg>$
-     68 #what for\<prn\>\<itg\>	^what for<prn><itg>$
-     67 #megawatt\<n\>\<pl\>	^megawatt<n><pl>$
-     67 #lime\<n\>\<sg\>	^lime<n><sg>$
-     66 #rumour\<n\>\<pl\>	^rumour<n><pl>$
-     66 #no kind\<prn\>\<ind\>\<nt\>\<sg\>\<f\>\<sg\>	^no kind<prn><ind><nt><sg><f><sg>$
-     65 #Katimerini\<np\>\<al\>\<sg\>	^Katimerini<np><al><sg>$
-     65 #cutter\<n\>\<sg\>	^cutter<n><sg>$
-     64 #archive\<n\>\<pl\>	^archive<n><pl>$
-     63 #Deer\<adj\>	^Deer<adj>$
-     59 #self-proclaimed\<adj\>	^self-proclaimed<adj>$
-     59 #outskirts\<n\>\<sg\>	^outskirts<n><sg>$
-     59 #FENA\<np\>\<al\>\<sg\>	^FENA<np><al><sg>$
      59 #estimation\<n\>\<pl\>	^estimation<n><pl>$
-     55 #tenth anniversary\<n\>\<sg\>	^tenth anniversary<n><sg>$
-     55 #Focus\<np\>\<al\>\<sg\>	^Focus<np><al><sg>$
-     54 #retaliation\<n\>\<sg\>	^retaliation<n><sg>$
-     53 #readmission\<n\>\<sg\>	^readmission<n><sg>$
-     53 #Mediafax\<np\>\<al\>\<sg\>	^Mediafax<np><al><sg>$
-     50 #shock\<vblex\>\<ger\>	^shock<vblex><ger>$
-     48 #weight \<n\>\<pl\>	^weight <n><pl>$
-     48 #Euronews\<np\>\<al\>\<sg\>	^Euronews<np><al><sg>$
-     48 #arbitrage\<n\>\<sg\>	^arbitrage<n><sg>$
-     46 #insite\<np\>\<al\>\<sg\>	^insite<np><al><sg>$
-     45 #opposition candidate\<n\>\<sg\>	^opposition candidate<n><sg>$
-     45 #no kind\<prn\>\<ind\>\<nt\>\<sg\>\<m\>\<sg\>	^no kind<prn><ind><nt><sg><m><sg>$
-     45 #condolences\<n\>\<sg\>	^condolences<n><sg>$
-     44 #retrieval\<n\>\<sg\>	^retrieval<n><sg>$
-     44 #Hurriet\<np\>\<al\>\<sg\>	^Hurriet<np><al><sg>$
-     43 #Večernji\<np\>\<al\>\<sg\>	^Večernji<np><al><sg>$
-     43 #ill\<adv\>	^ill<adv>$
-     39 #Lynx\<n\>\<sg\>	^Lynx<n><sg>$
-     35 #Such kind\<prn\>\<dem\>\<mf\>\<pl\>	^Such kind<prn><dem><mf><pl>$
-     33 #Such kind\<prn\>\<dem\>\<mf\>\<sg\>	^Such kind<prn><dem><mf><sg>$
-     33 #no kind\<prn\>\<ind\>\<nt\>\<sg\>\<nt\>\<sg\>	^no kind<prn><ind><nt><sg><nt><sg>$
-     29 #monastry\<n\>\<pl\>	^monastry<n><pl>$
-     29 #Corridor\<n\>\<sg\>	^Corridor<n><sg>$
+     41 #chief executive officer\<n\>\<sg\>	^chief executive officer<n><sg>$
      28 #testing\<n\>\<pl\>	^testing<n><pl>$
-     28 #Kosova\<np\>\<al\>\<sg\>	^Kosova<np><al><sg>$
-     28 #depot\<n\>\<pl\>	^depot<n><pl>$
-     25 #Vijesti\<np\>\<al\>\<sg\>	^Vijesti<np><al><sg>$
-     23 #Must\<pres\>	^Must<pres>$
-     23 #Miliyet\<np\>\<al\>\<sg\>	^Miliyet<np><al><sg>$
-     22 #activation\<n\>\<sg\>	^activation<n><sg>$
-     21 #This kind\<prn\>\<dem\>\<mf\>\<pl\>	^This kind<prn><dem><mf><pl>$
-     21 #Moose\<n\>\<sg\>	^Moose<n><sg>$
-     19 #Vjesnik\<np\>\<al\>\<sg\>	^Vjesnik<np><al><sg>$
-     19 #no one\<prn\>\<ind\>\<mf\>\<sg\>	^no one<prn><ind><mf><sg><acc>$
-     19 #genevan\<adj\>	^genevan<adj>$
-     18 #pretense\<n\>\<sg\>	^pretense<n><sg>$
-     17 #Should\<past\>	^Should<past>$
-     17 #reunification\<n\>\<sg\>	^reunification<n><sg>$
-     17 #European integration\<n\>\<pl\>	^European integration<n><pl>$
-     16 #stagnate\<vblex\>\<inf\>	^stagnate<vblex><inf>$
-     15 #Evenimentul\<np\>\<al\>\<sg\>	^Evenimentul<np><al><sg>$
-     15 #corridor\<n\>\<pl\>	^corridor<n><pl>$
-     15 #Can\<pres\>	^Can<pres>$
-     14 #This kind\<prn\>\<dem\>\<mf\>\<sg\>	^This kind<prn><dem><mf><sg>$
-     14 #fulful\<vblex\>\<pres\>\<p3\>\<sg\>	^fulful<vblex><pres><p3><sg>$
-     13 #What for\<prn\>\<itg\>	^What for<prn><itg>$
-     13 #lynx\<n\>\<sg\>	^lynx<n><sg>$
-     13 #Ivić\<np\>\<cog\>\<sg\>	^Ivić<np><cog><sg>$
-     13 #headquarters\<n\>\<pl\>	^headquarters<n><pl>$
-     13 #Fonet\<np\>\<al\>\<sg\>	^Fonet<np><al><sg>$
-     13 #Express\<np\>\<al\>\<sg\>	^Express<np><al><sg>$
+     27 #figure skating\<n\>\<sg\>	^figure skating<n><sg>$
+     21 #genevan\<adj\>	^genevan<adj>$
+     14 #Action plan\<n\>\<sg\>	^Action plan<n><sg>$
      12 #violation\<n\>\<pl\>	^violation<n><pl>$
-     12 #Radical\<np\>\<al\>\<sg\>	^Radical<np><al><sg>$
-     12 #ignoral\<n\>\<sg\>	^ignoral<n><sg>$
-     12 #embezzlement\<n\>\<pl\>	^embezzlement<n><pl>$
-     12 #Danas\<np\>\<al\>\<sg\>	^Danas<np><al><sg>$
-     12 #BETA\<np\>\<al\>\<sg\>	^BETA<np><al><sg>$
-     11 #Zeri\<np\>\<al\>\<sg\>	^Zeri<np><al><sg>$
-     11 #radicalisation\<n\>\<sg\>	^radicalisation<n><sg>$
      11 #questioning\<n\>\<pl\>	^questioning<n><pl>$
-     11 #persecute\<vblex\>\<pp\>	^persecute<vblex><pp>$
-     11 #opposition candidate\<n\>\<pl\>	^opposition candidate<n><pl>$
-     11 #FIR TREE\<n\>\<sg\>	^FIR TREE<n><sg>$
-     10 #rape\<vblex\>\<past\>	^rape<vblex><past>$
-     10 #no one\<prn\>\<ind\>\<mf\>\<sg\>	^no one<prn><ind><mf><sg><dat>$
-     10 #Darik\<np\>\<al\>\<sg\>	^Darik<np><al><sg>$
-     10 #convocation\<n\>\<sg\>	^convocation<n><sg>$
-     10 #belong\<vblex\>\<past\># to	^belong<vblex><past># to$
      10 #algae\<n\>\<pl\>	^algae<n><pl>$
-      9 #What kind\<prn\>\<f\>\<sg\>	^What kind<prn><f><sg>$
-      9 #Monitor\<np\>\<al\>\<sg\>	^Monitor<np><al><sg>$
       9 #medical equipment\<n\>\<pl\>	^medical equipment<n><pl>$
-      9 #lIME\<n\>\<sg\>	^lIME<n><sg>$
-      9 #Avaz\<np\>\<al\>\<sg\>	^Avaz<np><al><sg>$
-      9 #archive\<n\>\<sg\>	^archive<n><sg>$
-      8 #Unlike\<adv\>	^Unlike<adv>$
-      8 #telecom\<n\>\<pl\>	^telecom<n><pl>$
-      8 #roundabout\<adj\>	^roundabout<adj>$
-      8 #navigational\<adj\>	^navigational<adj>$
-      8 #european integration\<n\>\<pl\>	^european integration<n><pl>$
-      8 #Dejanović\<np\>\<cog\>\<sg\>	^Dejanović<np><cog><sg>$
-      8 #Corn-cob\<n\>\<pl\>	^Corn-cob<n><pl>$
-      7 #What kind\<prn\>\<nt\>\<sg\>	^What kind<prn><nt><sg>$
-      7 #sound\<adj\>	^sound<adj>$
-      7 #professionalisation\<n\>\<sg\>	^professionalisation<n><sg>$
-      7 #production\<adj\>	^production<adj>$
-      7 #popularisation\<n\>\<sg\>	^popularisation<n><sg>$
-      7 #no one\<prn\>\<ind\>\<mf\>\<sg\>\<gen\>	^no one<prn><ind><mf><sg><gen>$
-      7 #formality\<n\>\<sg\>	^formality<n><sg>$
-      7 #federalisation\<n\>\<sg\>	^federalisation<n><sg>$
-      7 #disguise\<vblex\>\<pp\>	^disguise<vblex><pp>$
-      6 #What kind\<prn\>\<pl\>	^What kind<prn><mfn><pl>$
+      6 #višegrad\<adj\>	^višegrad<adj>$
       6 #that kind\<prn\>\<dem\>\<mf\>\<sg\>	^that kind<prn><dem><mf><sg>$
-      6 #Shekulli\<np\>\<al\>\<sg\>	^Shekulli<np><al><sg>$
-      6 #rape\<vblex\>\<pp\>	^rape<vblex><pp>$
-      6 #No one\<prn\>\<ind\>\<mf\>\<sg\>\<gen\>	^No one<prn><ind><mf><sg><gen>$
-      6 #lie\<vblex\>\<pres\>\<p3\>\<sg\># ahead	^lie<vblex><pres><p3><sg># ahead$
-      6 #Fir tree\<n\>\<pl\>	^Fir tree<n><pl>$
-      6 #depoliticisation\<n\>\<sg\>	^depoliticisation<n><sg>$
-      5 #What kind\<prn\>\<m\>\<sg\>	^What kind<prn><m><sg>$
-      5 #višegrad\<adj\>	^višegrad<adj>$
-      5 #Vatan\<np\>\<al\>\<sg\>	^Vatan<np><al><sg>$
-      5 #transfer\<adj\>\<sint\>	^transfer<adj><sint>$
-      5 #Realitatea\<np\>\<al\>\<sg\>	^Realitatea<np><al><sg>$
-      5 #Media\<adj\>	^Media<adj>$
-      5 #legality\<n\>\<sg\>	^legality<n><sg>$
-      5 #deceived\<adj\>	^deceived<adj>$
-      4 #snow melt\<n\>\<sg\>	^snow melt<n><sg>$
-      4 #slander\<n\>\<pl\>	^slander<n><pl>$
-      4 #self-isolation\<n\>\<sg\>	^self-isolation<n><sg>$
-      4 #neutralisation\<n\>\<sg\>	^neutralisation<n><sg>$
+      6 #chief executive officer\<n\>\<pl\>	^chief executive officer<n><pl>$
+      5 #august\<adj\>	^august<adj>$
       4 #naming\<n\>\<pl\>	^naming<n><pl>$
-      4 #Lime\<n\>\<pl\>	^Lime<n><pl>$
       4 #insurance\<n\>\<pl\>	^insurance<n><pl>$
-      4 #Existing\<adj\>	^Existing<adj>$
-      4 #enterprising\<adj\>	^enterprising<adj>$
-      4 #competence\<n\>\<sg\>	^competence<n><sg>$
-      4 #BLUNT\<adj\>\<sint\>	^BLUNT<adj><sint>$
-      4 #belong\<vblex\>\<inf\># to	^belong<vblex><inf># to$
-      4 #august\<adj\>	^august<adj>$
-      3 #resell\<vblex\>\<past\>	^resell<vblex><past>$
       3 #reparation\<n\>\<pl\>	^reparation<n><pl>$
-      3 #rape\<vblex\>\<inf\>	^rape<vblex><inf>$
-      3 #proclamation\<n\>\<sg\>	^proclamation<n><sg>$
-      3 #North American\<adj\>	^North American<adj>$
-      3 #neighbourly relations\<n\>\<sg\>	^neighbourly relations<n><sg>$
-      3 #mycenean\<adj\>	^mycenean<adj>$
-      3 #Monastry\<n\>\<sg\>	^Monastry<n><sg>$
-      3 #lime\<n\>\<pl\>	^lime<n><pl>$
-      3 #Jeknić\<np\>\<cog\>\<sg\>	^Jeknić<np><cog><sg>$
-      3 #islamisation\<n\>\<sg\>	^islamisation<n><sg>$
+      3 #north American\<adj\>	^north American<adj>$
       3 #how big\<prn\>\<itg\>\<nt\>\<sg\>	^how big<prn><itg><nt><sg>$
-      3 #fulful\<vblex\>\<pres\>	^fulful<vblex><pres>$
-      3 #education\<adj\>	^education<adj>$
-      3 #dilapidate\<vblex\>\<pp\>	^dilapidate<vblex><pp>$
-      3 #criminalisation\<n\>\<sg\>	^criminalisation<n><sg>$
-      3 #codification\<n\>\<sg\>	^codification<n><sg>$
-      3 #brag\<vblex\>\<ger\>	^brag<vblex><ger>$
-      3 #Attach\<vblex\>\<past\># to	^Attach<vblex><past># to$
-      2 #wondrous\<adj\>	^wondrous<adj>$
-      2 #under secretary\<n\>\<pl\>	^under secretary<n><pl>$
-      2 #Turnout\<n\>\<sg\>	^Turnout<n><sg>$
-      2 #topple\<vblex\>\<ger\>	^topple<vblex><ger>$
-      2 #tiredness\<n\>\<sg\>	^tiredness<n><sg>$
-      2 #stagnate\<vblex\>\<pres\>\<p3\>\<sg\>	^stagnate<vblex><pres><p3><sg>$
       2 #spending\<n\>\<pl\>	^spending<n><pl>$
-      2 #Self-proclaimed\<adj\>	^Self-proclaimed<adj>$
-      2 #self-dissolve\<n\>\<sg\>	^self-dissolve<n><sg>$
-      2 #Rumour\<n\>\<pl\>	^Rumour<n><pl>$
-      2 #retaliation\<n\>\<pl\>	^retaliation<n><pl>$
-      2 #relocate\<vblex\>\<inf\>	^relocate<vblex><inf>$
-      2 #reconsecration\<n\>\<sg\>	^reconsecration<n><sg>$
-      2 #producer\<adj\>	^producer<adj>$
       2 #preoccupation\<n\>\<pl\>	^preoccupation<n><pl>$
-      2 #Polić\<np\>\<cog\>\<sg\>	^Polić<np><cog><sg>$
-      2 #Pobjeda\<np\>\<al\>\<sg\>	^Pobjeda<np><al><sg>$
-      2 #persecute\<vblex\>\<past\>	^persecute<vblex><past>$
-      2 #pastor\<n\>\<sg\>	^pastor<n><sg>$
-      2 #papacy\<n\>\<sg\>	^papacy<n><sg>$
-      2 #overturn\<n\>\<sg\>	^overturn<n><sg>$
-      2 #overcharging\<n\>\<pl\>	^overcharging<n><pl>$
-      2 #Naftemporiki\<np\>\<al\>\<sg\>	^Naftemporiki<np><al><sg>$
-      2 #megawatt\<n\>\<sg\>	^megawatt<n><sg>$
-      2 #Market-town\<adj\>	^Market-town<adj>$
-      2 #lynx\<n\>\<pl\>	^lynx<n><pl>$
-      2 #limelight\<n\>\<sg\>	^limelight<n><sg>$
-      2 #lie\<vblex\>\<pres\># ahead	^lie<vblex><pres># ahead$
+      2 #korean\<adj\>	^korean<adj>$
       2 #how big\<prn\>\<itg\>\<m\>\<sg\>	^how big<prn><itg><m><sg>$
-      2 #Genevan\<adj\>	^Genevan<adj>$
-      2 #gaffe\<n\>\<sg\>	^gaffe<n><sg>$
-      2 #fulful\<vblex\>\<inf\>	^fulful<vblex><inf>$
-      2 #formality\<n\>\<pl\>	^formality<n><pl>$
-      2 #flowery\<adj\>	^flowery<adj>$
       2 #first\<adj\>\<ord\>\<sg\>	^first<adj><ord><sg>$
-      2 #fill\<vblex\>\<pres\># in	^fill<vblex><pres># in$
-      2 #fill\<vblex\>\<ger\># in	^fill<vblex><ger># in$
-      2 #envision\<vblex\>\<pres\>	^envision<vblex><pres>$
-      2 #encore\<n\>\<sg\>	^encore<n><sg>$
-      2 #electrical engineering\<n\>\<sg\>	^electrical engineering<n><sg>$
-      2 #disguise\<vblex\>\<past\>	^disguise<vblex><past>$
-      2 #cutter\<n\>\<pl\>	^cutter<n><pl>$
-      2 #cordiality\<n\>\<sg\>	^cordiality<n><sg>$
-      2 #confectionery\<adj\>	^confectionery<adj>$
-      2 #competency\<n\>\<pl\>	^competency<n><pl>$
-      2 #co-existence\<n\>\<sg\>	^co-existence<n><sg>$
       2 #clarification\<n\>\<pl\>	^clarification<n><pl>$
-      2 #cantonisation\<n\>\<sg\>	^cantonisation<n><sg>$
-      2 #blunt\<adj\>\<sint\>	^blunt<adj><sint>$
-      2 #be\<vblex\>\<past\># at war	^be<vblex><past># at war$
-      2 #belong\<vblex\>\<pres\># to	^belong<vblex><pres># to$
-      2 #ascend\<vblex\>\<pres\>\<p3\>\<sg\>	^ascend<vblex><pres><p3><sg>$
-      2 #anti-semitic\<adj\>	^anti-semitic<adj>$
-      2 #anti-roma\<adj\>	^anti-roma<adj>$
-      2 #annexation\<n\>\<sg\>	^annexation<n><sg>$
-      2 #allegiance\<n\>\<sg\>	^allegiance<n><sg>$
-      2 #Agora\<n\>\<sg\>	^Agora<n><sg>$
-      1 #writer\<adj\>	^writer<adj>$
-      1 #Wet\<adj\>\<sint\>	^Wet<adj><sint>$
-      1 #Vodinelić\<np\>\<cog\>\<sg\>	^Vodinelić<np><cog><sg>$
-      1 #Višegrad\<adj\>	^Višegrad<adj>$
-      1 #videoconferencing\<adj\>	^videoconferencing<adj>$
-      1 #unprofessionalism\<n\>\<sg\>	^unprofessionalism<n><sg>$
-      1 #unethicality\<n\>\<sg\>	^unethicality<n><sg>$
-      1 #underhill\<adj\>	^underhill<adj>$
-      1 #unconventionalism\<n\>\<sg\>	^unconventionalism<n><sg>$
-      1 #turnout\<n\>\<pl\>	^turnout<n><pl>$
       1 #train\<vblex\>\<past\>\<p3\>\<sg\>	^train<vblex><past><p3><sg>$
-      1 #topple\<vblex\>\<pres\>	^topple<vblex><pres>$
-      1 #Thigh\<n\>\<sg\>	^Thigh<n><sg>$
-      1 #thigh\<n\>\<sg\>	^thigh<n><sg>$
       1 #tampering\<n\>\<pl\>	^tampering<n><pl>$
-      1 #stray\<vblex\>\<inf\>	^stray<vblex><inf>$
-      1 #start\<vblex\>\<inf\># walk	^start<vblex><inf># walk$
-      1 #Stagnate\<vblex\>\<inf\>	^Stagnate<vblex><inf>$
-      1 #Son-in-law\<adj\>	^Son-in-law<adj>$
       1 #skiing\<n\>\<pl\>	^skiing<n><pl>$
-      1 #Simončić\<np\>\<cog\>\<sg\>	^Simončić<np><cog><sg>$
-      1 #sever\<vblex\>\<ger\>	^sever<vblex><ger>$
-      1 #sell\<vblex\>\<pp\># out	^sell<vblex><pp># out$
-      1 #self-preservation\<n\>\<sg\>	^self-preservation<n><sg>$
-      1 #self-motivation\<n\>\<sg\>	^self-motivation<n><sg>$
-      1 #self-government\<n\>\<pl\>	^self-government<n><pl>$
-      1 #run\<vblex\>\<pres\>\<p3\>\<sg\># out	^run<vblex><pres><p3><sg># out$
-      1 #run\<vblex\>\<pres\># out	^run<vblex><pres># out$
-      1 #Rotten\<adj\>	^Rotten<adj>$
-      1 #rotten\<adj\>	^rotten<adj>$
-      1 #Rezov\<adj\>	^Rezov<adj>$
-      1 #Retrieval\<n\>\<sg\>	^Retrieval<n><sg>$
-      1 #repay\<vblex\>\<inf\>	^repay<vblex><inf>$
-      1 #reorientation\<n\>\<sg\>	^reorientation<n><sg>$
-      1 #relocate\<vblex\>\<pp\>	^relocate<vblex><pp>$
-      1 #reintergration\<n\>\<sg\>	^reintergration<n><sg>$
-      1 #rectification\<n\>\<sg\>	^rectification<n><sg>$
-      1 #rebel\<vblex\>\<past\>	^rebel<vblex><past>$
       1 #ratification\<n\>\<pl\>	^ratification<n><pl>$
-      1 #rape\<vblex\>\<pres\>	^rape<vblex><pres>$
-      1 #rape\<vblex\>\<ger\>	^rape<vblex><ger>$
-      1 #Ramadan\<adj\>	^Ramadan<adj>$
-      1 #predictibility\<n\>\<sg\>	^predictibility<n><sg>$
-      1 #practicality\<n\>\<sg\>	^practicality<n><sg>$
-      1 #petulance\<n\>\<sg\>	^petulance<n><sg>$
-      1 #persecute\<vblex\>\<pres\>	^persecute<vblex><pres>$
-      1 #Pastor\<n\>\<sg\>	^Pastor<n><sg>$
-      1 #Pastor\<n\>\<pl\>	^Pastor<n><pl>$
-      1 #paralysation\<n\>\<sg\>	^paralysation<n><sg>$
-      1 #Osogov\<adj\>	^Osogov<adj>$
+      1 #ramadan\<adj\>	^ramadan<adj>$
       1 #osogov\<adj\>	^osogov<adj>$
-      1 #oratory\<n\>\<sg\>	^oratory<n><sg>$
-      1 #optimisation\<n\>\<sg\>	^optimisation<n><sg>$
       1 #nullification\<n\>\<pl\>	^nullification<n><pl>$
-      1 #north American\<adj\>	^north American<adj>$
-      1 #none\<prn\>\<ind\>\<nt\>\<sg\>	^none<prn><ind><nt><sg><nom>$
-      1 #None\<prn\>\<ind\>\<nt\>\<sg\>\<gen\>	^None<prn><ind><nt><sg><gen>$
-      1 #none\<prn\>\<ind\>\<nt\>\<sg\>\<gen\>	^none<prn><ind><nt><sg><gen>$
-      1 #No kind\<prn\>\<ind\>\<nt\>\<sg\>\<m\>\<sg\>	^No kind<prn><ind><nt><sg><m><sg>$
-      1 #Next to\<adv\>	^Next to<adv>$
-      1 #naturalisation\<n\>\<sg\>	^naturalisation<n><sg>$
-      1 #mountainous\<n\>\<sg\>	^mountainous<n><sg>$
-      1 #moose\<n\>\<sg\>	^moose<n><sg>$
-      1 #Miocenean\<adj\>	^Miocenean<adj>$
-      1 #Minoan\<adj\>	^Minoan<adj>$
-      1 #mini-democracy\<n\>\<sg\>	^mini-democracy<n><sg>$
-      1 #militancy\<n\>\<sg\>	^militancy<n><sg>$
-      1 #mentorship\<n\>\<sg\>	^mentorship<n><sg>$
-      1 #majesty\<n\>\<sg\>	^majesty<n><sg>$
-      1 #Lisčević\<np\>\<cog\>\<sg\>	^Lisčević<np><cog><sg>$
-      1 #liposuction\<n\>\<sg\>	^liposuction<n><sg>$
-      1 #Limelight\<n\>\<sg\>	^Limelight<n><sg>$
-      1 #lift\<vblex\>\<inf\># the spirits	^lift<vblex><inf># the spirits$
-      1 #Lie\<vblex\>\<pres\># ahead	^Lie<vblex><pres># ahead$
-      1 #librarianship\<n\>\<sg\>	^librarianship<n><sg>$
-      1 #laziness\<n\>\<sg\>	^laziness<n><sg>$
-      1 #Lazić\<np\>\<cog\>\<sg\>	^Lazić<np><cog><sg>$
-      1 #Krivdić\<np\>\<cog\>\<sg\>	^Krivdić<np><cog><sg>$
-      1 #Kozara\<adj\>	^Kozara<adj>$
-      1 #Kapaković\<np\>\<cog\>\<sg\>	^Kapaković<np><cog><sg>$
-      1 #invalidity\<n\>\<sg\>	^invalidity<n><sg>$
-      1 #INTERPOL\<np\>\<al\>\<sg\>	^INTERPOL<np><al><sg>$
+      1 #Natural environment\<n\>\<sg\>	^Natural environment<n><sg>$
       1 #inefficiency\<n\>\<pl\>	^inefficiency<n><pl>$
-      1 #industriousness\<n\>\<sg\>	^industriousness<n><sg>$
-      1 #immunisation\<n\>\<sg\>	^immunisation<n><sg>$
-      1 #Honey-like\<adj\>	^Honey-like<adj>$
-      1 #Heat installation\<n\>\<sg\>	^Heat installation<n><sg>$
       1 #haskovo\<adj\>	^haskovo<adj>$
-      1 #Hajj\<adj\>	^Hajj<adj>$
-      1 #guardianship\<n\>\<sg\>	^guardianship<n><sg>$
-      1 #FOCUS\<np\>\<al\>\<sg\>	^FOCUS<np><al><sg>$
-      1 #Flowery\<adj\>	^Flowery<adj>$
-      1 #Fir tree\<n\>\<sg\>	^Fir tree<n><sg>$
-      1 #Fill\<vblex\>\<pres\># in	^Fill<vblex><pres># in$
-      1 #extravaganza\<n\>\<sg\>	^extravaganza<n><sg>$
-      1 #extravagance\<n\>\<sg\>	^extravagance<n><sg>$
-      1 #envision\<vblex\>\<pres\>\<p3\>\<sg\>	^envision<vblex><pres><p3><sg>$
-      1 #envision\<vblex\>\<past\>	^envision<vblex><past>$
-      1 #entrench\<vblex\>\<pres\>\<p3\>\<sg\>	^entrench<vblex><pres><p3><sg>$
-      1 #elicit\<vblex\>\<pres\>	^elicit<vblex><pres>$
-      1 #electrification\<n\>\<sg\>	^electrification<n><sg>$
-      1 #dry\<vblex\>\<pres\>\<p3\>\<sg\># up	^dry<vblex><pres><p3><sg># up$
-      1 #Dropulić\<np\>\<cog\>\<sg\>	^Dropulić<np><cog><sg>$
-      1 #dramatisation\<n\>\<sg\>	^dramatisation<n><sg>$
-      1 #distributional\<adj\>	^distributional<adj>$
-      1 #distant\<n\>\<sg\>	^distant<n><sg>$
-      1 #dissertion\<n\>\<sg\>	^dissertion<n><sg>$
-      1 #dissertion\<n\>\<pl\>	^dissertion<n><pl>$
-      1 #dissent\<n\>\<sg\>	^dissent<n><sg>$
-      1 #disobey\<vblex\>\<pres\>	^disobey<vblex><pres>$
-      1 #dishonesty\<n\>\<sg\>	^dishonesty<n><sg>$
-      1 #disfavour\<n\>\<sg\>	^disfavour<n><sg>$
-      1 #directness\<n\>\<sg\>	^directness<n><sg>$
-      1 #diligence\<n\>\<sg\>	^diligence<n><sg>$
-      1 #dig\<vblex\>\<pres\>\<p3\>\<sg\># in	^dig<vblex><pres><p3><sg># in$
-      1 #Dičić\<np\>\<cog\>\<sg\>	^Dičić<np><cog><sg>$
-      1 #deregistration\<n\>\<sg\>	^deregistration<n><sg>$
-      1 #deflation\<n\>\<sg\>	^deflation<n><sg>$
-      1 #deadlock\<n\>\<sg\>	^deadlock<n><sg>$
-      1 #craftsmanship\<n\>\<sg\>	^craftsmanship<n><sg>$
-      1 #counter-reaction\<n\>\<sg\>	^counter-reaction<n><sg>$
-      1 #conditionality\<n\>\<sg\>	^conditionality<n><sg>$
-      1 #Cauldron\<n\>\<pl\>	^Cauldron<n><pl>$
-      1 #buy\<vblex\>\<ger\># out	^buy<vblex><ger># out$
       1 #bullying\<n\>\<pl\>	^bullying<n><pl>$
-      1 #Broadway\<adj\>	^Broadway<adj>$
-      1 #bravery\<n\>\<sg\>	^bravery<n><sg>$
-      1 #be\<vblex\>\<pres\>\<p3\>\<sg\># at war	^be<vblex><pres><p3><sg># at war$
-      1 #be\<vblex\>\<pp\># reborn	^be<vblex><pp># reborn$
-      1 #belong\<vblex\>\<pres\>\<p3\>\<sg\># to	^belong<vblex><pres><p3><sg># to$
-      1 #Babylonian\<adj\>	^Babylonian<adj>$
-      1 #autocrat\<n\>\<sg\>	^autocrat<n><sg>$
-      1 #autocrat\<n\>\<pl\>	^autocrat<n><pl>$
-      1 #August\<adj\>	^August<adj>$
-      1 #ascend\<vblex\>\<pres\>	^ascend<vblex><pres>$
-      1 #ascend\<vblex\>\<past\>	^ascend<vblex><past>$
-      1 #ARO\<np\>\<al\>\<sg\>	^ARO<np><al><sg>$
-      1 #Aro\<np\>\<al\>\<sg\>	^Aro<np><al><sg>$
-      1 #arbitrage\<n\>\<pl\>	^arbitrage<n><pl>$
-      1 #anti-corruption\<n\>\<sg\>	^anti-corruption<n><sg>$
-      1 #ambrosia\<n\>\<sg\>	^ambrosia<n><sg>$
-      1 #allegory\<n\>\<sg\>	^allegory<n><sg>$
-      1 #Alexander\<adj\>	^Alexander<adj>$
+      1 #broadway\<adj\>	^broadway<adj>$
+      1 #babylonian\<adj\>	^babylonian<adj>$
       1 #åland\<adj\>	^åland<adj>$
-      1 #aggrievedness\<n\>\<sg\>	^aggrievedness<n><sg>$
-      1 #aerobics\<n\>\<sg\>	^aerobics<n><sg>$
-      1 #acquaintance\<n\>\<sg\>	^acquaintance<n><sg>$
-      1 #abound\<vblex\>\<pres\>\<p3\>\<sg\>	^abound<vblex><pres><p3><sg>$
-      1 #Abolition\<n\>\<sg\>	^Abolition<n><sg>$
 
 ===============================================================================
 Summary
 ===============================================================================
-   10 /tmp/mk-en.multiform
-    3 /tmp/mk-en.multibidix
-  428 /tmp/mk-en.tagmismatch
-  441 total
+  11 /tmp/mk-en.multiform
+   3 /tmp/mk-en.multibidix
+  51 /tmp/mk-en.tagmismatch
+  65 total
