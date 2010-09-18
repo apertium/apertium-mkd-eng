@@ -737,7 +737,7 @@
     <e c="  0"><p><l>способност<s n="n"/><s n="f"/></l><r>ability<s n="n"/></r></p></e> 
     <e slr="1"><p><l>способност<s n="n"/><s n="f"/></l><r>capability<s n="n"/></r></p></e> 
     <e slr="2"><p><l>способност<s n="n"/><s n="f"/></l><r>capacity<s n="n"/></r></p></e>
-    <e slr="3"><p><l>способност<s n="n"/><s n="f"/></l><r>competence<s n="n"/></r></p></e>
+    <e slr="3"><p><l>способност<s n="n"/><s n="f"/></l><r>competence<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e slr="4"><p><l>способност<s n="n"/><s n="f"/></l><r>fitness<s n="n"/></r></p></e>
     <e slr="5"><p><l>способност<s n="n"/><s n="f"/></l><r>ability<s n="n"/></r></p></e>
 
@@ -796,7 +796,7 @@
     <e c="  0"><p><l>вредност<s n="n"/><s n="f"/></l><r>value<s n="n"/></r></p></e> 
     <e slr="1"><p><l>вредност<s n="n"/><s n="f"/></l><r>worth<s n="n"/></r></p></e> 
     <e slr="2"><p><l>вредност<s n="n"/><s n="f"/></l><r>price<s n="n"/></r></p></e> 
-    <e slr="3"><p><l>вредност<s n="n"/><s n="f"/></l><r>validity<s n="n"/></r></p></e> 
+    <e slr="3"><p><l>вредност<s n="n"/><s n="f"/></l><r>validity<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e> 
 
     <e c="  0"><p><l>шамија<s n="n"/><s n="f"/></l><r>scarf<s n="n"/></r></p></e> 
     <e slr="1"><p><l>шамија<s n="n"/><s n="f"/></l><r>headscarf<s n="n"/></r></p></e> 
@@ -946,7 +946,7 @@
 
     <e c="  0"><p><l>абортус<s n="n"/><s n="m"/></l><r>abortion<s n="n"/></r></p></e>
     <e c="  0"><p><l>авијација<s n="n"/><s n="f"/></l><r>warning<s n="n"/></r></p></e>
-    <e c="  0"><p><l>автентичност<s n="n"/><s n="f"/></l><r>authenticity<s n="n"/></r></p></e>
+    <e c="  0"><p><l>автентичност<s n="n"/><s n="f"/></l><r>authenticity<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>автобус<s n="n"/><s n="m"/></l><r>bus<s n="n"/></r></p></e>
     <e c="  0"><p><l>автокефалност<s n="n"/><s n="f"/></l><r>independence<s n="n"/></r></p></e>
     <e c="  0"><p><l>автономија<s n="n"/><s n="f"/></l><r>autonomy<s n="n"/></r></p></e>
@@ -997,8 +997,7 @@
     <e c="  0"><p><l>анкета<s n="n"/><s n="f"/></l><r>poll<s n="n"/></r></p></e>
     <e c="  0"><p><l>анонимност<s n="n"/><s n="f"/></l><r>anonymity<s n="n"/></r></p></e>
     <e c="  0"><p><l>антибиотик<s n="n"/><s n="m"/></l><r>antibiotic<s n="n"/></r></p></e>
-    <e c="  0"><p><l>антикорупција<s n="n"/><s n="f"/></l><r>anti-corruption<s n="n"/></r></p></e>
-    <e slr="1"><p><l>антикорупција<s n="n"/><s n="f"/></l><r>anti-corruption<s n="n"/></r></p></e>
+    <e c="  0"><p><l>антикорупција<s n="n"/><s n="f"/></l><r>anti-corruption<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>апликација<s n="n"/><s n="f"/></l><r>application<s n="n"/></r></p></e>
     <e c="  0"><p><l>апсење<s n="n"/><s n="nt"/></l><r>arrest<s n="n"/></r></p></e>
     <e slr="1"><p><l>апсење<s n="n"/><s n="nt"/></l><r>capture<s n="n"/></r></p></e>
@@ -1033,7 +1032,7 @@
     <e c="  0"><p><l>банкарство<s n="n"/><s n="nt"/></l><r>insurance<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>барање<s n="n"/><s n="nt"/></l><r>request<s n="n"/></r></p></e>
     <e slr="1"><p><l>барање<s n="n"/><s n="nt"/></l><r>demand<s n="n"/></r></p></e>
-    <e c="  0"><p><l>беатификација<s n="n"/><s n="f"/></l><r>beatification<s n="n"/></r></p></e>
+    <e c="  0"><p><l>беатификација<s n="n"/><s n="f"/></l><r>beatification<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>бегалец<s n="n"/><s n="m"/></l><r>refugee<s n="n"/></r></p></e>
     <e slr="1"><p><l>бегалец<s n="n"/><s n="m"/></l><r>fugitive<s n="n"/></r></p></e>
     <e c="  0"><p><l>безбедност<s n="n"/><s n="f"/></l><r>security<s n="n"/></r></p></e>
@@ -1098,7 +1097,7 @@
     <e slr="1"><p><l>важност<s n="n"/><s n="f"/></l><r>significance<s n="n"/></r></p></e>
     <e c="  0"><p><l>вакцинација<s n="n"/><s n="f"/></l><r>inoculation<s n="n"/></r></p></e>
     <e slr="1"><p><l>вакцинација<s n="n"/><s n="f"/></l><r>vaccination<s n="n"/></r></p></e>
-    <e c="  0"><p><l>валидност<s n="n"/><s n="f"/></l><r>validity<s n="n"/></r></p></e>
+    <e c="  0"><p><l>валидност<s n="n"/><s n="f"/></l><r>validity<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>валута<s n="n"/><s n="f"/></l><r>currency<s n="n"/></r></p></e>
     <e c="  0"><p><l>вандал<s n="n"/><s n="m"/></l><r>vandal<s n="n"/></r></p></e>
     <e c="  0"><p><l>веб<s n="n"/><s n="m"/></l><r>web<s n="n"/></r></p></e>
@@ -1106,7 +1105,7 @@
     <e slr="1"><p><l>вежба<s n="n"/><s n="f"/></l><r>exercise<s n="n"/></r></p></e>
     <e c="  0"><p><l>век<s n="n"/><s n="m"/></l><r>century<s n="n"/></r></p></e>
     <e c="  0"><p><l>верзија<s n="n"/><s n="f"/></l><r>version<s n="n"/></r></p></e>
-    <e c="  0"><p><l>верификација<s n="n"/><s n="f"/></l><r>verification<s n="n"/></r></p></e>
+    <e c="  0"><p><l>верификација<s n="n"/><s n="f"/></l><r>verification<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e slr="1"><p><l>верификација<s n="n"/><s n="f"/></l><r>conformity<s n="n"/></r></p></e>
     <e c="  0"><p><l>вест<s n="n"/><s n="f"/></l><r>news<s n="n"/></r></p></e>
     <e slr="1"><p><l>вест<s n="n"/><s n="f"/></l><r>vest<s n="n"/></r></p></e>
@@ -1153,7 +1152,7 @@
     <e slr="3"><p><l>водач<s n="n"/><s n="m"/></l><r>guidebook<s n="n"/></r></p></e>
     <e c="  0"><p><l>водостопанство<s n="n"/><s n="nt"/></l><r>agriculture<s n="n"/></r></p></e>
     <e c="  0"><p><l>воз<s n="n"/><s n="m"/></l><r>train<s n="n"/></r></p></e>
-    <e c="  0"><p><l>воздухопловство<s n="n"/><s n="nt"/></l><r>aeronautics<s n="n"/></r></p></e>
+    <e c="  0"><p><l>воздухопловство<s n="n"/><s n="nt"/></l><r>aeronautics<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>возило<s n="n"/><s n="nt"/></l><r>vehicle<s n="n"/></r></p></e>
     <e c="  0"><p><l>возраст<s n="n"/><s n="f"/></l><r>age<s n="n"/></r></p></e>
     <e c="  0"><p><l>војна<s n="n"/><s n="f"/></l><r>war<s n="n"/></r></p></e>
@@ -1181,7 +1180,7 @@
     <e slr="1"><p><l>гаранција<s n="n"/><s n="f"/></l><r>bail<s n="n"/></r></p></e>
     <e c="  0"><p><l>гас<s n="n"/><s n="m"/></l><r>gas<s n="n"/></r></p></e>
     <e slr="1"><p><l>гас<s n="n"/><s n="m"/></l><r>gas<s n="n"/></r></p></e>
-    <e c="  0"><p><l>гасификација<s n="n"/><s n="f"/></l><r>gasification<s n="n"/></r></p></e>
+    <e c="  0"><p><l>гасификација<s n="n"/><s n="f"/></l><r>gasification<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>гасовод<s n="n"/><s n="m"/></l><r>gas<b/>pipeline<s n="n"/></r></p></e>
     <e c="  0"><p><l>генерал<s n="n"/><s n="m"/></l><r>general<s n="n"/></r></p></e>
     <e c="  0"><p><l>генералштаб<s n="n"/><s n="m"/></l><r>general<b/>staff<s n="n"/></r></p></e>
@@ -1213,7 +1212,7 @@
     <e c="  0"><p><l>господ<s n="n"/><s n="m"/></l><r>lord<s n="n"/></r></p></e>
     <e slr="1"><p><l>господ<s n="n"/><s n="m"/></l><r>god<s n="n"/></r></p></e>
     <e slr="2"><p><l>господ<s n="n"/><s n="m"/></l><r>head<s n="n"/></r></p></e>
-    <e c="  0"><p><l>готовност<s n="n"/><s n="f"/></l><r>readiness<s n="n"/></r></p></e>
+    <e c="  0"><p><l>готовност<s n="n"/><s n="f"/></l><r>readiness<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e slr="1"><p><l>готовност<s n="n"/><s n="f"/></l><r>willingness<s n="n"/></r></p></e>
     <e c="  0"><p><l>градење<s n="n"/><s n="nt"/></l><r>building<s n="n"/></r></p></e>
     <e slr="1"><p><l>градење<s n="n"/><s n="nt"/></l><r>construction<s n="n"/></r></p></e>
@@ -1273,9 +1272,8 @@
     <e slr="1"><p><l>делење<s n="n"/><s n="nt"/></l><r>division<s n="n"/></r></p></e>
     <e c="  0"><p><l>дело<s n="n"/><s n="nt"/></l><r>work<s n="n"/></r></p></e>
     <e c="  0"><p><l>демаркација<s n="n"/><s n="f"/></l><r>demarcation<s n="n"/></r></p></e>
-    <e c="  0"><p><l>демилитаризација<s n="n"/><s n="f"/></l><r>demilitarisation<s n="n"/></r></p></e>
-    <e c="  0"><p><l>демобилизација<s n="n"/><s n="f"/></l><r>demobilisation<s n="n"/></r></p></e>
-    <e slr="1"><p><l>демобилизација<s n="n"/><s n="f"/></l><r>demobilisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>демилитаризација<s n="n"/><s n="f"/></l><r>demilitarisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e c="  0"><p><l>демобилизација<s n="n"/><s n="f"/></l><r>demobilisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>демократизација<s n="n"/><s n="f"/></l><r>democratisation<s n="n"/></r></p></e>
     <e c="  0"><p><l>демократија<s n="n"/><s n="f"/></l><r>democracy<s n="n"/></r></p></e>
     <e c="  0"><p><l>демонстрант<s n="n"/><s n="m"/></l><r>demonstrator<s n="n"/></r></p></e>
@@ -1286,7 +1284,7 @@
     <e c="  0"><p><l>департмент<s n="n"/><s n="m"/></l><r>department<s n="n"/></r></p></e>
     <e c="  0"><p><l>депортација<s n="n"/><s n="f"/></l><r>deportation<s n="n"/></r></p></e>
     <e c="  0"><p><l>десетица<s n="n"/><s n="f"/></l><r>dozen<s n="n"/></r></p></e>
-    <e c="  0"><p><l>дестабилизација<s n="n"/><s n="f"/></l><r>destabilisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>дестабилизација<s n="n"/><s n="f"/></l><r>destabilisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>дестинација<s n="n"/><s n="f"/></l><r>destination<s n="n"/></r></p></e>
     <e slr="1"><p><l>дестинација<s n="n"/><s n="f"/></l><r>destination<s n="n"/></r></p></e>
     <e c="  0"><p><l>детал<s n="n"/><s n="m"/></l><r>detail<s n="n"/></r></p></e>
@@ -1346,7 +1344,7 @@
     <e slr="2"><p><l>држава<s n="n"/><s n="f"/></l><r>nation<s n="n"/></r></p></e>
     <e c="  0"><p><l>државјанин<s n="n"/><s n="m"/></l><r>citizen<s n="n"/></r></p></e>
     <e c="  0"><p><l>државјанство<s n="n"/><s n="nt"/></l><r>citizenship<s n="n"/></r></p></e>
-    <e c="  0"><p><l>државност<s n="n"/><s n="f"/></l><r>statehood<s n="n"/></r></p></e>
+    <e c="  0"><p><l>државност<s n="n"/><s n="f"/></l><r>statehood<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>дроб<s n="n"/><s n="m"/></l><r>lung<s n="n"/></r></p></e>
     <e c="  0"><p><l>дух<s n="n"/><s n="m"/></l><r>spirit<s n="n"/></r></p></e>
     <e slr="1"><p><l>дух<s n="n"/><s n="m"/></l><r>ghost<s n="n"/></r></p></e>
@@ -1427,7 +1425,7 @@
     <e slr="2"><p><l>задача<s n="n"/><s n="f"/></l><r>job<s n="n"/></r></p></e>
     <e c="  0"><p><l>задоволност<s n="n"/><s n="f"/></l><r>satisfaction<s n="n"/></r></p></e>
     <e c="  0"><p><l>задоволство<s n="n"/><s n="nt"/></l><r>satisfaction<s n="n"/></r></p></e>
-    <e c="  0"><p><l>задолженост<s n="n"/><s n="f"/></l><r>indebtedness<s n="n"/></r></p></e>
+    <e c="  0"><p><l>задолженост<s n="n"/><s n="f"/></l><r>indebtedness<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>заедница<s n="n"/><s n="f"/></l><r>community<s n="n"/></r></p></e>
     <e slr="1"><p><l>заедница<s n="n"/><s n="f"/></l><r>commonwealth<s n="n"/></r></p></e>
     <e c="  0"><p><l>заем<s n="n"/><s n="m"/></l><r>loan<s n="n"/></r></p></e>
@@ -1524,7 +1522,7 @@
     <e c="  0"><p><l>изобилство<s n="n"/><s n="nt"/></l><r>wealth<s n="n"/></r></p></e>
     <e slr="1"><p><l>изобилство<s n="n"/><s n="nt"/></l><r>plenty<s n="n"/></r></p></e>
     <e c="  0"><p><l>изолација<s n="n"/><s n="f"/></l><r>isolation<s n="n"/></r></p></e>
-    <e c="  0"><p><l>изолирање<s n="n"/><s n="nt"/></l><r>insulation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>изолирање<s n="n"/><s n="nt"/></l><r>insulation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>изучување<s n="n"/><s n="nt"/></l><r>instruction<s n="n"/></r></p></e>
     <e c="  0"><p><l>илустрација<s n="n"/><s n="f"/></l><r>illustration<s n="n"/></r></p></e>
     <e slr="1"><p><l>илустрација<s n="n"/><s n="f"/></l><r>illustration<s n="n"/></r></p></e>
@@ -1543,7 +1541,7 @@
     <e slr="1"><p><l>ингеренција<s n="n"/><s n="f"/></l><r>authority<s n="n"/></r></p></e>
     <e slr="2"><p><l>ингеренција<s n="n"/><s n="f"/></l><r>responsibility<s n="n"/></r></p></e>
     <e c="  0"><p><l>индикација<s n="n"/><s n="f"/></l><r>indication<s n="n"/></r></p></e>
-    <e c="  0"><p><l>индиферентност<s n="n"/><s n="f"/></l><r>indifference<s n="n"/></r></p></e>
+    <e c="  0"><p><l>индиферентност<s n="n"/><s n="f"/></l><r>indifference<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>индустрија<s n="n"/><s n="f"/></l><r>industry<s n="n"/></r></p></e>
     <e c="  0"><p><l>индустријализација<s n="n"/><s n="f"/></l><r>industrialisation<s n="n"/></r></p></e>
     <e c="  0"><p><l>инертност<s n="n"/><s n="f"/></l><r>inertia<s n="n"/></r></p></e>
@@ -1552,7 +1550,7 @@
     <e c="  0"><p><l>инженерство<s n="n"/><s n="nt"/></l><r>engineering<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>иницијатива<s n="n"/><s n="f"/></l><r>initiative<s n="n"/></r></p></e>
     <e c="  0"><p><l>инјекција<s n="n"/><s n="f"/></l><r>injection<s n="n"/></r></p></e>
-    <e c="  0"><p><l>инкомпетентност<s n="n"/><s n="f"/></l><r>incompetence<s n="n"/></r></p></e>
+    <e c="  0"><p><l>инкомпетентност<s n="n"/><s n="f"/></l><r>incompetence<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>иновација<s n="n"/><s n="f"/></l><r>innovation<s n="n"/></r></p></e>
     <e c="  0"><p><l>инспектор<s n="n"/><s n="m"/></l><r>inspector<s n="n"/></r></p></e>
     <e slr="1"><p><l>инспектор<s n="n"/><s n="m"/></l><r>investigator<s n="n"/></r></p></e>
@@ -1563,7 +1561,7 @@
     <e c="  0"><p><l>институт<s n="n"/><s n="m"/></l><r>institute<s n="n"/></r></p></e>
     <e slr="1"><p><l>институт<s n="n"/><s n="m"/></l><r>institution<s n="n"/></r></p></e>
     <e c="  0"><p><l>институција<s n="n"/><s n="f"/></l><r>institution<s n="n"/></r></p></e>
-    <e c="  0"><p><l>институционализација<s n="n"/><s n="f"/></l><r>institutionalisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>институционализација<s n="n"/><s n="f"/></l><r>institutionalisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>инструкција<s n="n"/><s n="f"/></l><r>instruction<s n="n"/></r></p></e>
     <e c="  0"><p><l>инстутиција<s n="n"/><s n="f"/></l><r>institution<s n="n"/></r></p></e>
     <e c="  0"><p><l>интеграција<s n="n"/><s n="f"/></l><r>integration<s n="n"/></r></p></e>
@@ -1639,7 +1637,7 @@
     <e c="  0"><p><l>капацитет<s n="n"/><s n="m"/></l><r>capacity<s n="n"/></r></p></e>
     <e c="  0"><p><l>капитал<s n="n"/><s n="m"/></l><r>capital<s n="n"/></r></p></e>
     <e c="  0"><p><l>капитализација<s n="n"/><s n="f"/></l><r>capitalisation<s n="n"/></r></p></e>
-    <e c="  0"><p><l>капитулација<s n="n"/><s n="f"/></l><r>capitulation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>капитулација<s n="n"/><s n="f"/></l><r>capitulation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>карактеризација<s n="n"/><s n="f"/></l><r>characterisation<s n="n"/></r></p></e>
     <e c="  0"><p><l>кариера<s n="n"/><s n="f"/></l><r>career<s n="n"/></r></p></e>
     <e c="  0"><p><l>категорија<s n="n"/><s n="f"/></l><r>category<s n="n"/></r></p></e>
@@ -1710,13 +1708,13 @@
     <e c="  0"><p><l>консолидација<s n="n"/><s n="f"/></l><r>consolidation<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>консолидирање<s n="n"/><s n="nt"/></l><r>integration<s n="n"/></r></p></e>
     <e c="  0"><p><l>конспирација<s n="n"/><s n="f"/></l><r>conspiracy<s n="n"/></r></p></e>
-    <e c="  0"><p><l>конструктивност<s n="n"/><s n="f"/></l><r>constructiveness<s n="n"/></r></p></e>
+    <e c="  0"><p><l>конструктивност<s n="n"/><s n="f"/></l><r>constructiveness<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>конструкција<s n="n"/><s n="f"/></l><r>construction<s n="n"/></r></p></e>
     <e c="  0"><p><l>консултација<s n="n"/><s n="f"/></l><r>consultation<s n="n"/></r></p></e>
     <e c="  0"><p><l>консумација<s n="n"/><s n="f"/></l><r>consumption<s n="n"/></r></p></e>
     <e c="  0"><p><l>контакт<s n="n"/><s n="m"/></l><r>contact<s n="n"/></r></p></e>
     <e slr="1"><p><l>контакт<s n="n"/><s n="m"/></l><r>touch<s n="n"/></r></p></e>
-    <e c="  0"><p><l>контаминација<s n="n"/><s n="f"/></l><r>contamination<s n="n"/></r></p></e>
+    <e c="  0"><p><l>контаминација<s n="n"/><s n="f"/></l><r>contamination<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e slr="1"><p><l>контаминација<s n="n"/><s n="f"/></l><r>pollution<s n="n"/></r></p></e>
     <e c="  0"><p><l>контингент<s n="n"/><s n="m"/></l><r>contingent<s n="n"/></r></p></e>
     <e c="  0"><p><l>контрадикција<s n="n"/><s n="f"/></l><r>contradiction<s n="n"/></r></p></e>
@@ -1809,7 +1807,7 @@
     <e c="  0"><p><l>личност<s n="n"/><s n="f"/></l><r>figure<s n="n"/></r></p></e>
     <e slr="1"><p><l>личност<s n="n"/><s n="f"/></l><r>person<s n="n"/></r></p></e>
     <e c="  0"><p><l>лобирање<s n="n"/><s n="nt"/></l><r>massacre<s n="n"/></r></p></e>
-    <e c="  0"><p><l>лојалност<s n="n"/><s n="f"/></l><r>loyalty<s n="n"/></r></p></e>
+    <e c="  0"><p><l>лојалност<s n="n"/><s n="f"/></l><r>loyalty<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>локација<s n="n"/><s n="f"/></l><r>location<s n="n"/></r></p></e>
     <e c="  0"><p><l>лук<s n="n"/><s n="m"/></l><r>garlic<s n="n"/></r></p></e>
     <e c="  0"><p><l>љубопитност<s n="n"/><s n="f"/></l><r>curiosity<s n="n"/></r></p></e>
@@ -1887,7 +1885,7 @@
     <e c="  0"><p><l>мудрост<s n="n"/><s n="f"/></l><r>prudence<s n="n"/></r></p></e>
     <e slr="1"><p><l>мудрост<s n="n"/><s n="f"/></l><r>wisdom<s n="n"/></r></p></e>
     <e c="  0"><p><l>музеј<s n="n"/><s n="m"/></l><r>museum<s n="n"/></r></p></e>
-    <e c="  0"><p><l>мултиетничност<s n="n"/><s n="f"/></l><r>multi-ethnicity<s n="n"/></r></p></e>
+    <e c="  0"><p><l>мултиетничност<s n="n"/><s n="f"/></l><r>multi-ethnicity<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>муниција<s n="n"/><s n="f"/></l><r>munition<s n="n"/></r></p></e>
     <e c="  0"><p><l>муслиман<s n="n"/><s n="m"/></l><r>Muslim<s n="n"/></r></p></e>
     <e c="  0"><p><l>набавка<s n="n"/><s n="f"/></l><r>procurement<s n="n"/></r></p></e>
@@ -1903,7 +1901,7 @@
     <e slr="1"><p><l>награда<s n="n"/><s n="f"/></l><r>prize<s n="n"/></r></p></e>
     <e c="  0"><p><l>надеж<s n="n"/><s n="m"/></l><r>hope<s n="n"/></r></p></e>
     <e c="  0"><p><l>надлежност<s n="n"/><s n="f"/></l><r>jurisdiction<s n="n"/></r></p></e>
-    <e slr="1"><p><l>надлежност<s n="n"/><s n="f"/></l><r>competence<s n="n"/></r></p></e>
+    <e slr="1"><p><l>надлежност<s n="n"/><s n="f"/></l><r>competence<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e slr="2"><p><l>надлежност<s n="n"/><s n="f"/></l><r>responsibility<s n="n"/></r></p></e>
     <e c="  0"><p><l>надоместок<s n="n"/><s n="m"/></l><r>compensation<s n="n"/></r></p></e>
     <e c="  0"><p><l>намера<s n="n"/><s n="f"/></l><r>intention<s n="n"/></r></p></e>
@@ -2001,7 +1999,7 @@
     <e c="  0"><p><l>неусогласеност<s n="n"/><s n="f"/></l><r>conformity<s n="n"/></r></p></e>
     <e c="  0"><p><l>неуспех<s n="n"/><s n="m"/></l><r>failure<s n="n"/></r></p></e>
     <e c="  0"><p><l>неутралност<s n="n"/><s n="f"/></l><r>neutrality<s n="n"/></r></p></e>
-    <e c="  0"><p><l>нефункционалност<s n="n"/><s n="f"/></l><r>unfunctionality<s n="n"/></r></p></e>
+    <e c="  0"><p><l>нефункционалност<s n="n"/><s n="f"/></l><r>unfunctionality<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>ниво<s n="n"/><s n="nt"/></l><r>level<s n="n"/></r></p></e>
     <e c="  0"><p><l>новина<s n="n"/><s n="f"/></l><r>novelty<s n="n"/></r></p></e>
     <e slr="1"><p><l>новина<s n="n"/><s n="f"/></l><r>innovation<s n="n"/></r></p></e>
@@ -2157,9 +2155,9 @@
     <e c="  0"><p><l>реинтеграција<s n="n"/><s n="f"/></l><r>reintegration<s n="n"/></r></p></e>
     <e c="  0"><p><l>реконструкција<s n="n"/><s n="f"/></l><r>reconstruction<s n="n"/></r></p></e>
     <e c="  0"><p><l>реконфигурација<s n="n"/><s n="f"/></l><r>reconfiguration<s n="n"/></r></p></e>
-    <e c="  0"><p><l>релокација<s n="n"/><s n="f"/></l><r>relocation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>релокација<s n="n"/><s n="f"/></l><r>relocation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>реорганизација<s n="n"/><s n="f"/></l><r>reorganisation<s n="n"/></r></p></e>
-    <e c="  0"><p><l>самозадоволство<s n="n"/><s n="nt"/></l><r>self-satisfaction<s n="n"/></r></p></e>
+    <e c="  0"><p><l>самозадоволство<s n="n"/><s n="nt"/></l><r>self-satisfaction<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>сезона<s n="n"/><s n="f"/></l><r>season<s n="n"/></r></p></e>
     <e c="  0"><p><l>селекција<s n="n"/><s n="f"/></l><r>selection<s n="n"/></r></p></e>
     <e c="  0"><p><l>сметководство<s n="n"/><s n="nt"/></l><r>accounting<s n="n"/></r></p></e>
@@ -2186,7 +2184,7 @@
     <e slr="1"><p><l>разлика<s n="n"/><s n="f"/></l><r>contrast<s n="n"/></r></p></e>
     <e slr="2"><p><l>разлика<s n="n"/><s n="f"/></l><r>margin<s n="n"/></r></p></e>
     <e c="  0"><p><l>состојба<s n="n"/><s n="f"/></l><r>emergency<s n="n"/></r></p></e>
-    <e c="  0"><p><l>странство<s n="n"/><s n="nt"/></l><r>abroad<s n="n"/></r></p></e>
+    <e c="  0"><p><l>странство<s n="n"/><s n="nt"/></l><r>abroad<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>третина<s n="n"/><s n="f"/></l><r>third<s n="n"/></r></p></e>
     <e c="  0"><p><l>учество<s n="n"/><s n="nt"/></l><r>participation<s n="n"/></r></p></e>
     <e slr="1"><p><l>учество<s n="n"/><s n="nt"/></l><r>involvement<s n="n"/></r></p></e>
@@ -2862,10 +2860,10 @@
     <e slr="1"><p><l>воздржаност<s n="n"/><s n="f"/></l><r>stability<s n="n"/></r></p></e>
     <e c="  0"><p><l>воодушевеност<s n="n"/><s n="f"/></l><r>delight<s n="n"/></r></p></e>
     <e c="  0"><p><l>гордост<s n="n"/><s n="f"/></l><r>pride<s n="n"/></r></p></e>
-    <e c="  0"><p><l>демистификација<s n="n"/><s n="f"/></l><r>demystification<s n="n"/></r></p></e>
-    <e c="  0"><p><l>деморализација<s n="n"/><s n="f"/></l><r>demoralisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>демистификација<s n="n"/><s n="f"/></l><r>demystification<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e c="  0"><p><l>деморализација<s n="n"/><s n="f"/></l><r>demoralisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>добрососедство<s n="n"/><s n="nt"/></l><r>neighbourly<b/>relations<s n="n"/></r></p></e>
-    <e c="  0"><p><l>европеизација<s n="n"/><s n="f"/></l><r>European<b/>integration<s n="n"/></r></p></e>
+    <e c="  0"><p><l>европеизација<s n="n"/><s n="f"/></l><r>European<b/>integration<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>еднаквност<s n="n"/><s n="f"/></l><r>equality<s n="n"/></r></p></e>
     <e c="  0"><p><l>екстрадирање<s n="n"/><s n="nt"/></l><r>extradition<s n="n"/></r></p></e>
     <e slr="1"><p><l>екстрадирање<s n="n"/><s n="nt"/></l><r>arrest<s n="n"/></r></p></e>
@@ -2880,7 +2878,7 @@
     <e c="  0"><p><l>инфлитрација<s n="n"/><s n="f"/></l><r>infiltration<s n="n"/></r></p></e>
     <e c="  0"><p><l>конкурентост<s n="n"/><s n="f"/></l><r>competition<s n="n"/></r></p></e>
     <e c="  0"><p><l>конкуретност<s n="n"/><s n="f"/></l><r>competition<s n="n"/></r></p></e>
-    <e c="  0"><p><l>лустрација<s n="n"/><s n="f"/></l><r>lustration<s n="n"/></r></p></e>
+    <e c="  0"><p><l>лустрација<s n="n"/><s n="f"/></l><r>lustration<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>мисла<s n="n"/><s n="f"/></l><r>thought<s n="n"/></r></p></e>
     <e c="  0"><p><l>неисполнување<s n="n"/><s n="nt"/></l><r>failure<s n="n"/></r></p></e>
     <e c="  0"><p><l>неплаќање<s n="n"/><s n="nt"/></l><r>failure<s n="n"/></r></p></e>
@@ -2892,14 +2890,14 @@
     <e c="  0"><p><l>непријатност<s n="n"/><s n="f"/></l><r>inconvenience<s n="n"/></r></p></e>
     <e slr="1"><p><l>непријатност<s n="n"/><s n="f"/></l><r>nuisance<s n="n"/></r></p></e>
     <e c="  0"><p><l>обединетост<s n="n"/><s n="f"/></l><r>unity<s n="n"/></r></p></e>
-    <e c="  0"><p><l>отвореност<s n="n"/><s n="f"/></l><r>openness<s n="n"/></r></p></e>
-    <e c="  0"><p><l>отповикување<s n="n"/><s n="nt"/></l><r>impeachment<s n="n"/></r></p></e>
+    <e c="  0"><p><l>отвореност<s n="n"/><s n="f"/></l><r>openness<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e c="  0"><p><l>отповикување<s n="n"/><s n="nt"/></l><r>impeachment<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>пакт<s n="n"/><s n="m"/></l><r>pact<s n="n"/></r></p></e>
     <e c="  0"><p><l>панорама<s n="n"/><s n="f"/></l><r>panorama<s n="n"/></r></p></e>
     <e c="  0"><p><l>патлиџан<s n="n"/><s n="m"/></l><r>aubergine<s n="n"/></r></p></e>
     <e c="  0"><p><l>пеење<s n="n"/><s n="nt"/></l><r>singing<s n="n"/></r></p></e>
     <e c="  0"><p><l>пепел<s n="n"/><s n="f"/></l><r>ash<s n="n"/></r></p></e>
-    <e c="  0"><p><l>персонализација<s n="n"/><s n="f"/></l><r>personalisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>персонализација<s n="n"/><s n="f"/></l><r>personalisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>перцепција<s n="n"/><s n="f"/></l><r>perception<s n="n"/></r></p></e>
     <e c="  0"><p><l>песок<s n="n"/><s n="m"/></l><r>sand<s n="n"/></r></p></e>
     <e c="  0"><p><l>петиција<s n="n"/><s n="f"/></l><r>petition<s n="n"/></r></p></e>
@@ -2915,14 +2913,14 @@
     <e c="  0"><p><l>позиционираност<s n="n"/><s n="f"/></l><r>location<s n="n"/></r></p></e>
     <e c="  0"><p><l>појадок<s n="n"/><s n="m"/></l><r>breakfast<s n="n"/></r></p></e>
     <e c="  0"><p><l>поларизација<s n="n"/><s n="f"/></l><r>polarisation<s n="n"/></r></p></e>
-    <e c="  0"><p><l>политизација<s n="n"/><s n="f"/></l><r>politicisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>политизација<s n="n"/><s n="f"/></l><r>politicisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>поплава<s n="n"/><s n="f"/></l><r>flooding<s n="n"/></r></p></e>
     <e slr="1"><p><l>поплава<s n="n"/><s n="f"/></l><r>flood<s n="n"/></r></p></e>
     <e c="  0"><p><l>популарност<s n="n"/><s n="f"/></l><r>popularity<s n="n"/></r></p></e>
     <e c="  0"><p><l>популација<s n="n"/><s n="f"/></l><r>population<s n="n"/></r></p></e>
     <e c="  0"><p><l>поставеност<s n="n"/><s n="f"/></l><r>deployment<s n="n"/></r></p></e>
     <e c="  0"><p><l>постојаност<s n="n"/><s n="f"/></l><r>consistency<s n="n"/></r></p></e>
-    <e c="  0"><p><l>потврдување<s n="n"/><s n="nt"/></l><r>upholding<s n="n"/></r></p></e>
+    <e c="  0"><p><l>потврдување<s n="n"/><s n="nt"/></l><r>upholding<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>правење<s n="n"/><s n="nt"/></l><r>construction<s n="n"/></r></p></e>
     <e c="  0"><p><l>правосудство<s n="n"/><s n="nt"/></l><r>justice<s n="n"/></r></p></e>
     <e c="  0"><p><l>прашина<s n="n"/><s n="f"/></l><r>dust<s n="n"/></r></p></e>
@@ -2930,7 +2928,7 @@
     <e c="  0"><p><l>преданост<s n="n"/><s n="f"/></l><r>commitment<s n="n"/></r></p></e>
     <e c="  0"><p><l>презумпција<s n="n"/><s n="f"/></l><r>presumption<s n="n"/></r></p></e>
     <e c="  0"><p><l>преименување<s n="n"/><s n="nt"/></l><r>renaming<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e c="  0"><p><l>преквалификација<s n="n"/><s n="f"/></l><r>prequalification<s n="n"/></r></p></e>
+    <e c="  0"><p><l>преквалификација<s n="n"/><s n="f"/></l><r>prequalification<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>прекинување<s n="n"/><s n="nt"/></l><r>suspension<s n="n"/></r></p></e>
     <e c="  0"><p><l>преминување<s n="n"/><s n="nt"/></l><r>defection<s n="n"/></r></p></e>
     <e c="  0"><p><l>престој<s n="n"/><s n="m"/></l><r>residence<s n="n"/></r></p></e>
@@ -2972,8 +2970,8 @@
     <e c="  0"><p><l>разочараност<s n="n"/><s n="f"/></l><r>disappointment<s n="n"/></r></p></e>
     <e c="  0"><p><l>разочарување<s n="n"/><s n="nt"/></l><r>disappointment<s n="n"/></r></p></e>
     <e c="  0"><p><l>разубавување<s n="n"/><s n="nt"/></l><r>notoriety<s n="n"/></r></p></e>
-    <e c="  0"><p><l>рамнодушност<s n="n"/><s n="f"/></l><r>indifference<s n="n"/></r></p></e>
-    <e c="  0"><p><l>распространетост<s n="n"/><s n="f"/></l><r>prevalence<s n="n"/></r></p></e>
+    <e c="  0"><p><l>рамнодушност<s n="n"/><s n="f"/></l><r>indifference<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e c="  0"><p><l>распространетост<s n="n"/><s n="f"/></l><r>prevalence<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>рационализација<s n="n"/><s n="f"/></l><r>streamlining<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e slr="1"><p><l>рационализација<s n="n"/><s n="f"/></l><r>rationalisation<s n="n"/></r></p></e>
     <e c="  0"><p><l>рационализирање<s n="n"/><s n="nt"/></l><r>rationalisation<s n="n"/></r></p></e>
@@ -3010,7 +3008,7 @@
     <e c="  0"><p><l>ропство<s n="n"/><s n="nt"/></l><r>slavery<s n="n"/></r></p></e>
     <e c="  0"><p><l>ротација<s n="n"/><s n="f"/></l><r>rotation<s n="n"/></r></p></e>
     <e c="  0"><p><l>рударство<s n="n"/><s n="nt"/></l><r>mining<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e c="  0"><p><l>самостојност<s n="n"/><s n="f"/></l><r>self-rule<s n="n"/></r></p></e>
+    <e c="  0"><p><l>самостојност<s n="n"/><s n="f"/></l><r>self-rule<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>самоубиство<s n="n"/><s n="nt"/></l><r>suicide<s n="n"/></r></p></e>
     <e c="  0"><p><l>самоувереност<s n="n"/><s n="f"/></l><r>confidence<s n="n"/></r></p></e>
     <e c="  0"><p><l>свештенство<s n="n"/><s n="nt"/></l><r>clergyman<s n="n"/></r></p></e>
@@ -3039,7 +3037,7 @@
     <e c="  0"><p><l>соседство<s n="n"/><s n="nt"/></l><r>neighbourhood<s n="n"/></r></p></e>
     <e c="  0"><p><l>спасување<s n="n"/><s n="nt"/></l><r>rescue<s n="n"/></r></p></e>
     <e c="  0"><p><l>спонзорство<s n="n"/><s n="nt"/></l><r>sponsorship<s n="n"/></r></p></e>
-    <e c="  0"><p><l>спонтаност<s n="n"/><s n="f"/></l><r>spontaneity<s n="n"/></r></p></e>
+    <e c="  0"><p><l>спонтаност<s n="n"/><s n="f"/></l><r>spontaneity<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>србин<s n="n"/><s n="m"/></l><r>Serb<s n="n"/></r></p></e>
     <e c="  0"><p><l>стандардизација<s n="n"/><s n="f"/></l><r>standardisation<s n="n"/></r></p></e>
     <e c="  0"><p><l>стареење<s n="n"/><s n="nt"/></l><r>treatment<s n="n"/></r></p></e>
@@ -3086,7 +3084,7 @@
     <e c="  0"><p><l>утро<s n="n"/><s n="nt"/></l><r>morning<s n="n"/></r></p></e>
     <e c="  0"><p><l>учење<s n="n"/><s n="nt"/></l><r>learning<s n="n"/></r></p></e>
     <e c="  0"><p><l>фармација<s n="n"/><s n="f"/></l><r>pharmacy<s n="n"/></r></p></e>
-    <e c="  0"><p><l>финализација<s n="n"/><s n="f"/></l><r>finalisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>финализација<s n="n"/><s n="f"/></l><r>finalisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>флексибилност<s n="n"/><s n="f"/></l><r>flexibility<s n="n"/></r></p></e>
     <e c="  0"><p><l>фокусираност<s n="n"/><s n="f"/></l><r>focus<s n="n"/></r></p></e>
     <e c="  0"><p><l>формалност<s n="n"/><s n="f"/></l><r>formality<s n="n"/></r></p></e>
@@ -3099,7 +3097,7 @@
     <e c="  0"><p><l>храброст<s n="n"/><s n="f"/></l><r>courage<s n="n"/></r></p></e>
     <e c="  0"><p><l>хрват<s n="n"/><s n="m"/></l><r>Croat<s n="n"/></r></p></e>
     <e c="  0"><p><l>христијанство<s n="n"/><s n="nt"/></l><r>Christianity<s n="n"/></r></p></e>
-    <e c="  0"><p><l>хулиганство<s n="n"/><s n="nt"/></l><r>hooliganism<s n="n"/></r></p></e>
+    <e c="  0"><p><l>хулиганство<s n="n"/><s n="nt"/></l><r>hooliganism<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>целост<s n="n"/><s n="f"/></l><r>number<s n="n"/></r></p></e>
     <e c="  0"><p><l>цензура<s n="n"/><s n="f"/></l><r>censorship<s n="n"/></r></p></e>
     <e c="  0"><p><l>централизација<s n="n"/><s n="f"/></l><r>centralisation<s n="n"/></r></p></e>
@@ -3281,7 +3279,7 @@
     <e c="  0"><p><l>помагање<s n="n"/><s n="nt"/></l><r>planning<s n="n"/></r></p></e>
     <e slr="1"><p><l>помагање<s n="n"/><s n="nt"/></l><r>plan<s n="n"/></r></p></e>
     <e c="  0"><p><l>помилување<s n="n"/><s n="nt"/></l><r>pardon<s n="n"/></r></p></e>
-    <e c="  0"><p><l>поништување<s n="n"/><s n="nt"/></l><r>nullification<s n="n"/></r></p></e>
+    <e c="  0"><p><l>поништување<s n="n"/><s n="nt"/></l><r>nullification<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e slr="1"><p><l>поништување<s n="n"/><s n="nt"/></l><r>cancellation<s n="n"/></r></p></e>
     <e c="  0"><p><l>попречување<s n="n"/><s n="nt"/></l><r>obstruction<s n="n"/></r></p></e>
     <e slr="1"><p><l>попречување<s n="n"/><s n="nt"/></l><r>interruption<s n="n"/></r></p></e>
@@ -3343,7 +3341,7 @@
     <e c="  0"><p><l>реновирање<s n="n"/><s n="nt"/></l><r>renovation<s n="n"/></r></p></e>
     <e c="  0"><p><l>роднина<s n="n"/><s n="f"/></l><r>cousin<s n="n"/></r></p></e>
     <e slr="1"><p><l>роднина<s n="n"/><s n="f"/></l><r>relative<s n="n"/></r></p></e>
-    <e c="  0"><p><l>самоопределување<s n="n"/><s n="nt"/></l><r>self-determination<s n="n"/></r></p></e>
+    <e c="  0"><p><l>самоопределување<s n="n"/><s n="nt"/></l><r>self-determination<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>сведочење<s n="n"/><s n="nt"/></l><r>witness<s n="n"/></r></p></e>
     <e slr="1"><p><l>сведочење<s n="n"/><s n="nt"/></l><r>testimonial<s n="n"/></r></p></e>
     <e c="  0"><p><l>семинар<s n="n"/><s n="m"/></l><r>seminar<s n="n"/></r></p></e>
@@ -3378,7 +3376,7 @@
     <e c="  0"><p><l>фалсификување<s n="n"/><s n="nt"/></l><r>falsification<s n="n"/></r></p></e>
     <e slr="1"><p><l>фалсификување<s n="n"/><s n="nt"/></l><r>fraud<s n="n"/></r></p></e>
     <e c="  0"><p><l>фаќање<s n="n"/><s n="nt"/></l><r>capture<s n="n"/></r></p></e>
-    <e c="  0"><p><l>финализирање<s n="n"/><s n="nt"/></l><r>finalisation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>финализирање<s n="n"/><s n="nt"/></l><r>finalisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>фрлање<s n="n"/><s n="nt"/></l><r>throw<s n="n"/></r></p></e>
     <e c="  0"><p><l>функционирање<s n="n"/><s n="nt"/></l><r>functioning<s n="n"/></r></p></e>
     <e slr="1"><p><l>функционирање<s n="n"/><s n="nt"/></l><r>function<s n="n"/></r></p></e>
@@ -3498,14 +3496,14 @@
     <e><p><l>радикализација<s n="n"/><s n="f"/></l><r>radicalisation<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>профил<s n="n"/><s n="m"/></l><r>profile<s n="n"/></r></p></e>
     <e><p><l>федерализација<s n="n"/><s n="f"/></l><r>federalisation<s n="n"/></r></p><par n="исток_east__n"/></e>
-    <e><p><l>популаризација<s n="n"/><s n="f"/></l><r>popularisation<s n="n"/></r></p></e>
+    <e><p><l>популаризација<s n="n"/><s n="f"/></l><r>popularisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>рестартирање<s n="n"/><s n="nt"/></l><r>resumption<s n="n"/></r></p></e>
     <e><p><l>професионализација<s n="n"/><s n="f"/></l><r>professionalisation<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>легалност<s n="n"/><s n="f"/></l><r>legality<s n="n"/></r></p></e>
     <e><p><l>дискредитација<s n="n"/><s n="f"/></l><r>discrediting<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>деполитизација<s n="n"/><s n="f"/></l><r>depoliticisation<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>фикција<s n="n"/><s n="f"/></l><r>fiction<s n="n"/></r></p></e>
-    <e><p><l>неутрализирање<s n="n"/><s n="nt"/></l><r>neutralisation<s n="n"/></r></p></e>
+    <e><p><l>неутрализирање<s n="n"/><s n="nt"/></l><r>neutralisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>лиценцирање<s n="n"/><s n="nt"/></l><r>licensing<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>детонирање<s n="n"/><s n="nt"/></l><r>detonation<s n="n"/></r></p></e>
     <e><p><l>фаворизирање<s n="n"/><s n="nt"/></l><r>favouring<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
@@ -3513,13 +3511,13 @@
     <e><p><l>политизирање<s n="n"/><s n="nt"/></l><r>politicisation<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>пастор<s n="n"/><s n="m"/></l><r>pastor<s n="n"/></r></p></e>
     <e><p><l>окупирање<s n="n"/><s n="nt"/></l><r>occupation<s n="n"/></r></p></e>
-    <e><p><l>криминализирање<s n="n"/><s n="nt"/></l><r>criminalisation<s n="n"/></r></p></e>
+    <e><p><l>криминализирање<s n="n"/><s n="nt"/></l><r>criminalisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>конзистентност<s n="n"/><s n="f"/></l><r>consistency<s n="n"/></r></p></e>
-    <e><p><l>компетентност<s n="n"/><s n="f"/></l><r>competence<s n="n"/></r></p></e>
-    <e><p><l>исламизација<s n="n"/><s n="f"/></l><r>islamisation<s n="n"/></r></p></e>
+    <e><p><l>компетентност<s n="n"/><s n="f"/></l><r>competence<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e><p><l>исламизација<s n="n"/><s n="f"/></l><r>Islamisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>диверзификација<s n="n"/><s n="f"/></l><r>diversification<s n="n"/></r></p></e>
     <e><p><l>узурпација<s n="n"/><s n="f"/></l><r>usurping<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e><p><l>тврдоглавост<s n="n"/><s n="f"/></l><r>stubbornness<s n="n"/></r></p></e>
+    <e><p><l>тврдоглавост<s n="n"/><s n="f"/></l><r>stubbornness<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>стандардизирање<s n="n"/><s n="nt"/></l><r>standardisation<s n="n"/></r></p></e>
     <e><p><l>реставрирање<s n="n"/><s n="nt"/></l><r>restoration<s n="n"/></r></p></e>
     <e><p><l>пролонгирање<s n="n"/><s n="nt"/></l><r>prolonging<s n="n"/></r></p><par n="исток_east__n"/></e>
@@ -3529,7 +3527,7 @@
     <e><p><l>манифестација<s n="n"/><s n="f"/></l><r>demonstration<s n="n"/></r></p></e>
     <e><p><l>контрадикторност<s n="n"/><s n="f"/></l><r>contradiction<s n="n"/></r></p></e>
     <e><p><l>компетенција<s n="n"/><s n="f"/></l><r>competency<s n="n"/></r></p></e>
-    <e><p><l>кантонизација<s n="n"/><s n="f"/></l><r>cantonisation<s n="n"/></r></p></e>
+    <e><p><l>кантонизација<s n="n"/><s n="f"/></l><r>cantonisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>електроинженерство<s n="n"/><s n="nt"/></l><r>electrical<b/>engineering<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>дисертација<s n="n"/><s n="f"/></l><r>dissertion<s n="n"/></r></p></e>
     <e><p><l>видеоконференција<s n="n"/><s n="f"/></l><r>videoconference<s n="n"/></r></p></e>
@@ -3547,22 +3545,22 @@
     <e><p><l>оптимизација<s n="n"/><s n="f"/></l><r>optimisation<s n="n"/></r></p></e>
     <e><p><l>непрофесионалност<s n="n"/><s n="f"/></l><r>unprofessionalism<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>неконвенционалност<s n="n"/><s n="f"/></l><r>unconventionalism<s n="n"/></r></p><par n="исток_east__n"/></e>
-    <e><p><l>натурализација<s n="n"/><s n="f"/></l><r>naturalisation<s n="n"/></r></p></e>
+    <e><p><l>натурализација<s n="n"/><s n="f"/></l><r>naturalisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>мутација<s n="n"/><s n="f"/></l><r>mutation<s n="n"/></r></p></e>
     <e><p><l>минидемократизација<s n="n"/><s n="f"/></l><r>mini-democracy<s n="n"/></r></p></e>
     <e><p><l>менторство<s n="n"/><s n="nt"/></l><r>mentorship<s n="n"/></r></p></e>
-    <e><p><l>липосукција<s n="n"/><s n="f"/></l><r>liposuction<s n="n"/></r></p></e>
+    <e><p><l>липосукција<s n="n"/><s n="f"/></l><r>liposuction<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>либерализирање<s n="n"/><s n="nt"/></l><r>liberalisation<s n="n"/></r></p></e>
     <e><p><l>конотација<s n="n"/><s n="f"/></l><r>connotation<s n="n"/></r></p></e>
     <e><p><l>конверзација<s n="n"/><s n="f"/></l><r>conversation<s n="n"/></r></p></e>
-    <e><p><l>инвалидност<s n="n"/><s n="f"/></l><r>invalidity<s n="n"/></r></p></e>
+    <e><p><l>инвалидност<s n="n"/><s n="f"/></l><r>invalidity<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>имунизација<s n="n"/><s n="f"/></l><r>immunisation<s n="n"/></r></p></e>
     <e><p><l>имплантација<s n="n"/><s n="f"/></l><r>implantation<s n="n"/></r></p></e>
     <e><p><l>електрификација<s n="n"/><s n="f"/></l><r>electrification<s n="n"/></r></p></e>
     <e><p><l>екстраваганција<s n="n"/><s n="f"/></l><r>extravagance<s n="n"/></r></p></e>
     <e><p><l>драматизација<s n="n"/><s n="f"/></l><r>dramatisation<s n="n"/></r></p></e>
     <e><p><l>дискредитирање<s n="n"/><s n="nt"/></l><r>discrediting<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e><p><l>директност<s n="n"/><s n="f"/></l><r>directness<s n="n"/></r></p></e>
+    <e><p><l>директност<s n="n"/><s n="f"/></l><r>directness<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>дерегистрација<s n="n"/><s n="f"/></l><r>deregistration<s n="n"/></r></p></e>
     <e><p><l>декларирање<s n="n"/><s n="nt"/></l><r>declaration<s n="n"/></r></p></e>
     <e><p><l>дезертирање<s n="n"/><s n="nt"/></l><r>desertion<s n="n"/></r></p></e>
@@ -3587,12 +3585,12 @@
     <e c="  0"><p><l>вршител<s n="n"/><s n="m"/></l><r>person<s n="n"/></r></p></e>
     <e c="  0"><p><l>гаф<s n="n"/><s n="m"/></l><r>gaffe<s n="n"/></r></p></e>
     <e c="  0"><p><l>гонење<s n="n"/><s n="nt"/></l><r>prosecution<s n="n"/></r></p></e>
-    <e c="  0"><p><l>гостопримливост<s n="n"/><s n="f"/></l><r>hospitality<s n="n"/></r></p></e>
+    <e c="  0"><p><l>гостопримливост<s n="n"/><s n="f"/></l><r>hospitality<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>давање<s n="n"/><s n="nt"/></l><r>resistance<s n="n"/></r></p></e>
     <e c="  0"><p><l>двојазничност<s n="n"/><s n="f"/></l><r>bilingualism<s n="n"/></r></p></e>
     <e c="  0"><p><l>досие<s n="n"/><s n="nt"/></l><r>file<s n="n"/></r></p></e>
     <e c="  0"><p><l>древност<s n="n"/><s n="f"/></l><r>antiquity<s n="n"/></r></p></e>
-    <e c="  0"><p><l>државотворност<s n="n"/><s n="f"/></l><r>statehood<s n="n"/></r></p></e>
+    <e c="  0"><p><l>државотворност<s n="n"/><s n="f"/></l><r>statehood<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>екстравагантност<s n="n"/><s n="f"/></l><r>extravaganza<s n="n"/></r></p></e>
     <e c="  0"><p><l>ефективност<s n="n"/><s n="f"/></l><r>effectiveness<s n="n"/></r></p></e>
     <e c="  0"><p><l>заложба<s n="n"/><s n="f"/></l><r>commitment<s n="n"/></r></p></e>
@@ -3633,7 +3631,7 @@
     <e c="  0"><p><l>осветување<s n="n"/><s n="nt"/></l><r>reconsecration<s n="n"/></r></p></e>
     <e c="  0"><p><l>основач<s n="n"/><s n="m"/></l><r>founder<s n="n"/></r></p></e>
     <e c="  0"><p><l>папство<s n="n"/><s n="nt"/></l><r>papacy<s n="n"/></r></p></e>
-    <e c="  0"><p><l>парализирање<s n="n"/><s n="nt"/></l><r>paralysation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>парализирање<s n="n"/><s n="nt"/></l><r>paralysation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>парафирање<s n="n"/><s n="nt"/></l><r>initialling<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>патријарх<s n="n"/><s n="m"/></l><r>patriarch<s n="n"/></r></p></e>
     <e c="  0"><p><l>победник<s n="n"/><s n="m"/></l><r>winner<s n="n"/></r></p></e>
@@ -3647,7 +3645,7 @@
     <e c="  0"><p><l>превртување<s n="n"/><s n="nt"/></l><r>overturn<s n="n"/></r></p></e>
     <e c="  0"><p><l>прегревање<s n="n"/><s n="nt"/></l><r>overheating<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>прегрупирање<s n="n"/><s n="nt"/></l><r>regrouping<s n="n"/></r></p></e>
-    <e c="  0"><p><l>предвидливост<s n="n"/><s n="f"/></l><r>predictibility<s n="n"/></r></p></e>
+    <e c="  0"><p><l>предвидливост<s n="n"/><s n="f"/></l><r>predictability<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>предградие<s n="n"/><s n="nt"/></l><r>outskirts<s n="n"/></r></p><par n="полиција_police__n"/></e>
     <e c="  0"><p><l>прекршок<s n="n"/><s n="m"/></l><r>offence<s n="n"/></r></p></e>
     <e c="  0"><p><l>прелокација<s n="n"/><s n="f"/></l><r>reallocation<s n="n"/></r></p></e>
@@ -3663,7 +3661,7 @@
     <e c="  0"><p><l>продавање<s n="n"/><s n="nt"/></l><r>sale<s n="n"/></r></p></e>
     <e c="  0"><p><l>пронаоѓање<s n="n"/><s n="nt"/></l><r>location<s n="n"/></r></p></e>
     <e c="  0"><p><l>противник<s n="n"/><s n="m"/></l><r>rival<s n="n"/></r></p></e>
-    <e c="  0"><p><l>раздразливост<s n="n"/><s n="f"/></l><r>petulance<s n="n"/></r></p></e>
+    <e c="  0"><p><l>раздразливост<s n="n"/><s n="f"/></l><r>petulance<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>рамноправност<s n="n"/><s n="f"/></l><r>equality<s n="n"/></r></p></e>
     <e c="  0"><p><l>распишување<s n="n"/><s n="nt"/></l><r>demand<s n="n"/></r></p></e>
     <e c="  0"><p><l>рафинирање<s n="n"/><s n="nt"/></l><r>refining<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
@@ -3673,11 +3671,11 @@
     <e c="  0"><p><l>самоизолација<s n="n"/><s n="f"/></l><r>self-isolation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>самомотивација<s n="n"/><s n="f"/></l><r>self-motivation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>самоуправа<s n="n"/><s n="f"/></l><r>self-government<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e c="  0"><p><l>светлост<s n="n"/><s n="f"/></l><r>limelight<s n="n"/></r></p></e>
+    <e c="  0"><p><l>светлост<s n="n"/><s n="f"/></l><r>limelight<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>свикување<s n="n"/><s n="nt"/></l><r>convocation<s n="n"/></r></p></e>
     <e c="  0"><p><l>складиште<s n="n"/><s n="nt"/></l><r>depot<s n="n"/></r></p></e>
     <e c="  0"><p><l>слика<s n="n"/><s n="f"/></l><r>picture<s n="n"/></r></p></e>
-    <e c="  0"><p><l>смелост<s n="n"/><s n="f"/></l><r>bravery<s n="n"/></r></p></e>
+    <e c="  0"><p><l>смелост<s n="n"/><s n="f"/></l><r>bravery<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>снимка<s n="n"/><s n="f"/></l><r>tape<s n="n"/></r></p></e>
     <e c="  0"><p><l>соодветност<s n="n"/><s n="f"/></l><r>suitability<s n="n"/></r></p></e>
     <e c="  0"><p><l>сопнување<s n="n"/><s n="nt"/></l><r>contention<s n="n"/></r></p></e>
@@ -3685,7 +3683,7 @@
     <e c="  0"><p><l>сортирање<s n="n"/><s n="nt"/></l><r>sorting<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>сочувство<s n="n"/><s n="nt"/></l><r>condolences<s n="n"/></r></p><par n="полиција_police__n"/></e>
     <e c="  0"><p><l>спречување<s n="n"/><s n="nt"/></l><r>containment<s n="n"/></r></p><par n="исток_east__n"/></e>
-    <e c="  0"><p><l>срдечност<s n="n"/><s n="f"/></l><r>cordiality<s n="n"/></r></p></e>
+    <e c="  0"><p><l>срдечност<s n="n"/><s n="f"/></l><r>cordiality<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>стан<s n="n"/><s n="m"/></l><r>residence<s n="n"/></r></p></e>
     <e c="  0"><p><l>стража<s n="n"/><s n="f"/></l><r>cutter<s n="n"/></r></p></e>
     <e c="  0"><p><l>судбина<s n="n"/><s n="f"/></l><r>fate<s n="n"/></r></p></e>
@@ -3693,7 +3691,7 @@
     <e c="  0"><p><l>топење<s n="n"/><s n="nt"/></l><r>snow<b/>melt<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>топ<s n="n"/><s n="m"/></l><r>canon<s n="n"/></r></p></e>
     <e c="  0"><p><l>трага<s n="n"/><s n="f"/></l><r>search<s n="n"/></r></p></e>
-    <e c="  0"><p><l>трудољубивост<s n="n"/><s n="f"/></l><r>diligence<s n="n"/></r></p></e>
+    <e c="  0"><p><l>трудољубивост<s n="n"/><s n="f"/></l><r>diligence<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>турнир<s n="n"/><s n="m"/></l><r>tournament<s n="n"/></r></p></e>
     <e c="  0"><p><l>ќор<b/>сокак<s n="n"/><s n="m"/></l><r>deadlock<s n="n"/></r></p></e>
     <e c="  0"><p><l>удел<s n="n"/><s n="m"/></l><r>share<s n="n"/></r></p></e>
@@ -3703,7 +3701,7 @@
     <e c="  0"><p><l>ученик<s n="n"/><s n="m"/></l><r>student<s n="n"/></r></p></e>
     <e c="  0"><p><l>царство<s n="n"/><s n="nt"/></l><r>empire<s n="n"/></r></p></e>
     <e c="  0"><p><l>челик<s n="n"/><s n="m"/></l><r>balance<s n="n"/></r></p></e>
-    <e c="  0"><p><l>човештво<s n="n"/><s n="nt"/></l><r>humanity<s n="n"/></r></p></e>
+    <e c="  0"><p><l>човештво<s n="n"/><s n="nt"/></l><r>humanity<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>шпионирање<s n="n"/><s n="nt"/></l><r>spying<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>штаб<s n="n"/><s n="m"/></l><r>headquarters<s n="n"/></r></p></e>
 
@@ -3729,23 +3727,23 @@
     <e c="  0"><p><l>споменување<s n="n"/><s n="nt"/></l><r>mention<s n="n"/></r></p></e>
     <e c="  0"><p><l>провоцирање<s n="n"/><s n="nt"/></l><r>provocation<s n="n"/></r></p></e>
     <e c="  0"><p><l>конституирање<s n="n"/><s n="nt"/></l><r>constituting<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e c="  0"><p><l>замореност<s n="n"/><s n="f"/></l><r>tiredness<s n="n"/></r></p></e>
+    <e c="  0"><p><l>замореност<s n="n"/><s n="f"/></l><r>tiredness<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>вик<s n="n"/><s n="m"/></l><r>shouting<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>бис<s n="n"/><s n="m"/></l><r>encore<s n="n"/></r></p></e>
-    <e c="  0"><p><l>човечност<s n="n"/><s n="f"/></l><r>humanity<s n="n"/></r></p></e>
-    <e c="  0"><p><l>условност<s n="n"/><s n="f"/></l><r>conditionality<s n="n"/></r></p></e>
+    <e c="  0"><p><l>човечност<s n="n"/><s n="f"/></l><r>humanity<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e c="  0"><p><l>условност<s n="n"/><s n="f"/></l><r>conditionality<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>трајност<s n="n"/><s n="f"/></l><r>permanence<s n="n"/></r></p></e>
-    <e c="  0"><p><l>топлофикација<s n="n"/><s n="f"/></l><r>heat<b/>installation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>топлофикација<s n="n"/><s n="f"/></l><r>heat<b/>installation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>старателство<s n="n"/><s n="nt"/></l><r>guardianship<s n="n"/></r></p></e>
     <e c="  0"><p><l>стап<s n="n"/><s n="m"/></l><r>column<s n="n"/></r></p></e>
     <e c="  0"><p><l>совршенство<s n="n"/><s n="nt"/></l><r>perfection<s n="n"/></r></p></e>
-    <e c="  0"><p><l>самоодржливост<s n="n"/><s n="f"/></l><r>self-preservation<s n="n"/></r></p></e>
-    <e c="  0"><p><l>работливост<s n="n"/><s n="f"/></l><r>industriousness<s n="n"/></r></p></e>
-    <e c="  0"><p><l>преориентација<s n="n"/><s n="f"/></l><r>reorientation<s n="n"/></r></p></e>
+    <e c="  0"><p><l>самоодржливост<s n="n"/><s n="f"/></l><r>self-preservation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e c="  0"><p><l>работливост<s n="n"/><s n="f"/></l><r>industriousness<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e c="  0"><p><l>преориентација<s n="n"/><s n="f"/></l><r>reorientation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>познанство<s n="n"/><s n="nt"/></l><r>acquaintance<s n="n"/></r></p></e>
-    <e c="  0"><p><l>немилост<s n="n"/><s n="f"/></l><r>disfavour<s n="n"/></r></p></e>
-    <e c="  0"><p><l>неискреност<s n="n"/><s n="f"/></l><r>dishonesty<s n="n"/></r></p></e>
-    <e c="  0"><p><l>неетичност<s n="n"/><s n="f"/></l><r>unethicality<s n="n"/></r></p></e>
+    <e c="  0"><p><l>немилост<s n="n"/><s n="f"/></l><r>disfavour<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e c="  0"><p><l>неискреност<s n="n"/><s n="f"/></l><r>dishonesty<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e c="  0"><p><l>неетичност<s n="n"/><s n="f"/></l><r>unethicality<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>мутирање<s n="n"/><s n="nt"/></l><r>mutation<s n="n"/></r></p></e>
     <e c="  0"><p><l>мајчинство<s n="n"/><s n="nt"/></l><r>motherhood<s n="n"/></r></p></e>
     <e c="  0"><p><l>лихварство<s n="n"/><s n="nt"/></l><r>loansharking<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
@@ -3761,7 +3759,7 @@
     <e c="  0"><p><l>полагање<s n="n"/><s n="nt"/></l><r>exam<s n="n"/></r></p></e>
     <e slr="1"><p><l>полагање<s n="n"/><s n="nt"/></l><r>examination<s n="n"/></r></p></e>
     <e c="  0"><p><l>префрлување<s n="n"/><s n="nt"/></l><r>move<s n="n"/></r></p></e>
-    <e c="  0"><p><l>истоштеност<s n="n"/><s n="f"/></l><r>fatigue<s n="n"/></r></p></e>
+    <e c="  0"><p><l>истоштеност<s n="n"/><s n="f"/></l><r>fatigue<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e slr="1"><p><l>истоштеност<s n="n"/><s n="f"/></l><r>exhaustion<s n="n"/></r></p></e>
     <e c="  0"><p><l>знаменитост<s n="n"/><s n="f"/></l><r>fame<s n="n"/></r></p></e>
     <e slr="1"><p><l>знаменитост<s n="n"/><s n="f"/></l><r>importance<s n="n"/></r></p></e>
@@ -3769,9 +3767,9 @@
     <e c="  0"><p><l>спротивставеност<s n="n"/><s n="f"/></l><r>opposition<s n="n"/></r></p></e>
     <e c="  0"><p><l>потење<s n="n"/><s n="nt"/></l><r>sweat<s n="n"/></r></p></e>
     <e slr="1"><p><l>потење<s n="n"/><s n="nt"/></l><r>perspiration<s n="n"/></r></p></e>
-    <e c="  0"><p><l>оштетеност<s n="n"/><s n="f"/></l><r>aggrievedness<s n="n"/></r></p></e>
+    <e c="  0"><p><l>оштетеност<s n="n"/><s n="f"/></l><r>aggrievedness<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>одалеченост<s n="n"/><s n="f"/></l><r>distant<s n="n"/></r></p></e>
-    <e c="  0"><p><l>мрзеливост<s n="n"/><s n="f"/></l><r>laziness<s n="n"/></r></p></e>
+    <e c="  0"><p><l>мрзеливост<s n="n"/><s n="f"/></l><r>laziness<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e slr="1"><p><l>мрзеливост<s n="n"/><s n="f"/></l><r>indolence<s n="n"/></r></p></e>
     <e c="  0"><p><l>мајсторство<s n="n"/><s n="nt"/></l><r>craftsmanship<s n="n"/></r></p></e>
     <e slr="1"><p><l>мајсторство<s n="n"/><s n="nt"/></l><r>workmanship<s n="n"/></r></p></e>
@@ -3783,7 +3781,7 @@
     <e c="  0"><p><l>зазорување<s n="n"/><s n="nt"/></l><r>dawn<s n="n"/></r></p></e>
     <e c="  0"><p><l>дисидентство<s n="n"/><s n="nt"/></l><r>dissent<s n="n"/></r></p></e>
     <e slr="1"><p><l>дисидентство<s n="n"/><s n="nt"/></l><r>dissidence<s n="n"/></r></p></e>
-    <e c="  0"><p><l>воинственост<s n="n"/><s n="f"/></l><r>militancy<s n="n"/></r></p></e>
+    <e c="  0"><p><l>воинственост<s n="n"/><s n="f"/></l><r>militancy<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
 
     <e><p><l>адреналин<s n="n"/><s n="m"/></l><r>adrenalin<s n="n"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>албумин<s n="n"/><s n="m"/></l><r>albumin<s n="n"/></r></p><par n="исток_east__n"/></e>
@@ -3819,27 +3817,27 @@
     <e><p><l>анестезија<s n="n"/><s n="f"/></l><r>anesthesia<s n="n"/></r></p></e>
     <e><p><l>апстракција<s n="n"/><s n="f"/></l><r>abstraction<s n="n"/></r></p></e>
     <e><p><l>аристократија<s n="n"/><s n="f"/></l><r>aristocracy<s n="n"/></r></p></e>
-    <e><p><l>бионика<s n="n"/><s n="f"/></l><r>bionics<s n="n"/></r></p></e>
+    <e><p><l>бионика<s n="n"/><s n="f"/></l><r>bionics<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>ботаника<s n="n"/><s n="f"/></l><r>botany<s n="n"/></r></p></e>
     <e><p><l>булга<s n="n"/><s n="f"/></l><r>beech<b/>marten<s n="n"/></r></p></e>
-    <e><p><l>бесмртност<s n="n"/><s n="f"/></l><r>immortality<s n="n"/></r></p></e>
+    <e><p><l>бесмртност<s n="n"/><s n="f"/></l><r>immortality<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>вајарство<s n="n"/><s n="nt"/></l><r>sculpture<s n="n"/></r></p></e>
     <e><p><l>животно<s n="n"/><s n="nt"/></l><r>animal<s n="n"/></r></p></e>
     <e><p><l>ајдутство<s n="n"/><s n="nt"/></l><r>hajduk<s n="n"/></r></p></e>
-    <e><p><l>богомилство<s n="n"/><s n="nt"/></l><r>bogomilism<s n="n"/></r></p></e>
-    <e><p><l>вегетаријанство<s n="n"/><s n="nt"/></l><r>vegetarianism<s n="n"/></r></p></e>
+    <e><p><l>богомилство<s n="n"/><s n="nt"/></l><r>bogomilism<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e><p><l>вегетаријанство<s n="n"/><s n="nt"/></l><r>vegetarianism<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>готварство<s n="n"/><s n="nt"/></l><r>cooking<s n="n"/></r></p></e>
     <e><p><l>градинарство<s n="n"/><s n="nt"/></l><r>gardening<s n="n"/></r></p></e>
-    <e><p><l>идолопоклонство<s n="n"/><s n="nt"/></l><r>idolatry<s n="n"/></r></p></e>
+    <e><p><l>идолопоклонство<s n="n"/><s n="nt"/></l><r>idolatry<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>качество<s n="n"/><s n="nt"/></l><r>quality<s n="n"/></r></p></e>
     <e><p><l>кулинарство<s n="n"/><s n="nt"/></l><r>cooking<s n="n"/></r></p></e>
     <e><p><l>лозарство<s n="n"/><s n="nt"/></l><r>viticulture<s n="n"/></r></p></e>
     <e><p><l>масонство<s n="n"/><s n="nt"/></l><r>freemasonry<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>многуженство<s n="n"/><s n="nt"/></l><r>polygamy<s n="n"/></r></p></e>
     <e><p><l>мухамеданство<s n="n"/><s n="nt"/></l><r>Islam<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e><p><l>овчарство<s n="n"/><s n="nt"/></l><r>sheep<b/>husbandry<s n="n"/></r></p></e>
-    <e><p><l>паганство<s n="n"/><s n="nt"/></l><r>paganism<s n="n"/></r></p></e>
-    <e><p><l>просветителство<s n="n"/><s n="nt"/></l><r>enlightenment<s n="n"/></r></p></e>
+    <e><p><l>овчарство<s n="n"/><s n="nt"/></l><r>sheep<b/>husbandry<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e><p><l>паганство<s n="n"/><s n="nt"/></l><r>paganism<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e><p><l>просветителство<s n="n"/><s n="nt"/></l><r>enlightenment<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>протестантство<s n="n"/><s n="nt"/></l><r>protestantism<s n="n"/></r></p></e>
     <e><p><l>цвеќарство<s n="n"/><s n="nt"/></l><r>floriculture<s n="n"/></r></p></e>
     <e><p><l>абдицирање<s n="n"/><s n="nt"/></l><r>abdication<s n="n"/></r></p></e>
@@ -3851,14 +3849,14 @@
     <e><p><l>алкохоличар<s n="n"/><s n="m"/></l><r>alcoholic<s n="n"/></r></p></e>
     <e><p><l>аклиматизација<s n="n"/><s n="f"/></l><r>acclimatisation<s n="n"/></r></p></e>
     <e><p><l>кондиција<s n="n"/><s n="f"/></l><r>condition<s n="n"/></r></p></e>
-    <e><p><l>самоидентификација<s n="n"/><s n="f"/></l><r>self-identification<s n="n"/></r></p></e>
+    <e><p><l>самоидентификација<s n="n"/><s n="f"/></l><r>self-identification<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>специјализација<s n="n"/><s n="f"/></l><r>specialisation<s n="n"/></r></p></e>
-    <e><p><l>стигматизација<s n="n"/><s n="f"/></l><r>stigmatisation<s n="n"/></r></p></e>
-    <e><p><l>доминантност<s n="n"/><s n="f"/></l><r>dominance<s n="n"/></r></p></e>
+    <e><p><l>стигматизација<s n="n"/><s n="f"/></l><r>stigmatisation<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e><p><l>доминантност<s n="n"/><s n="f"/></l><r>dominance<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>авторство<s n="n"/><s n="nt"/></l><r>authorship<s n="n"/></r></p></e>
     <e><p><l>алкохоличарство<s n="n"/><s n="nt"/></l><r>alcoholism<s n="n"/></r></p></e>
     <e><p><l>аматерство<s n="n"/><s n="nt"/></l><r>amateurism<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e><p><l>господарство<s n="n"/><s n="nt"/></l><r>hospitality<s n="n"/></r></p></e>
+    <e><p><l>господарство<s n="n"/><s n="nt"/></l><r>hospitality<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>директорство<s n="n"/><s n="nt"/></l><r>directorship<s n="n"/></r></p></e>
     <e><p><l>идиотство<s n="n"/><s n="nt"/></l><r>idiocy<s n="n"/></r></p></e>
     <e><p><l>илегалство<s n="n"/><s n="nt"/></l><r>illegality<s n="n"/></r></p></e>
@@ -3955,7 +3953,7 @@
     <e><p><l>везирство<s n="n"/><s n="nt"/></l><r>vezirship<s n="n"/></r></p></e>
     <e><p><l>величество<s n="n"/><s n="nt"/></l><r>majesty<s n="n"/></r></p></e>
     <e><p><l>вероломство<s n="n"/><s n="nt"/></l><r>perjury<s n="n"/></r></p></e>
-    <e><p><l>ветеринарство<s n="n"/><s n="nt"/></l><r>vetship<s n="n"/></r></p></e>
+    <e><p><l>ветеринарство<s n="n"/><s n="nt"/></l><r>vetship<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>визионерство<s n="n"/><s n="nt"/></l><r>vision<s n="n"/></r></p></e>
     <e><p><l>високопреосвештенство<s n="n"/><s n="nt"/></l><r>eminence<s n="n"/></r></p></e>
     <e><p><l>владичество<s n="n"/><s n="nt"/></l><r>dominion<s n="n"/></r></p></e>
@@ -3977,7 +3975,7 @@
     <e><p><l>книговодство<s n="n"/><s n="nt"/></l><r>bookkeeping<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>коварство<s n="n"/><s n="nt"/></l><r>deceit<s n="n"/></r></p></e>
     <e><p><l>кожарство<s n="n"/><s n="nt"/></l><r>leather-working<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e><p><l>кокетство<s n="n"/><s n="nt"/></l><r>coquetry<s n="n"/></r></p></e>
+    <e><p><l>кокетство<s n="n"/><s n="nt"/></l><r>coquetry<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>колекционерство<s n="n"/><s n="nt"/></l><r>collecting<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>командантство<s n="n"/><s n="nt"/></l><r>commandantship<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>комесарство<s n="n"/><s n="nt"/></l><r>commissarship<s n="n"/></r></p></e>
@@ -3986,7 +3984,7 @@
     <e><p><l>крводарителство<s n="n"/><s n="nt"/></l><r>blood<b/>donation<s n="n"/></r></p></e>
     <e><p><l>кривоверство<s n="n"/><s n="nt"/></l><r>heresy<s n="n"/></r></p></e>
     <e><p><l>лакомство<s n="n"/><s n="nt"/></l><r>covetousness<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e><p><l>левичарство<s n="n"/><s n="nt"/></l><r>leftism<s n="n"/></r></p></e>
+    <e><p><l>левичарство<s n="n"/><s n="nt"/></l><r>leftism<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>лицемерство<s n="n"/><s n="nt"/></l><r>hypocrisy<s n="n"/></r></p></e>
     <e><p><l>лукавство<s n="n"/><s n="nt"/></l><r>craftiness<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>манекенство<s n="n"/><s n="nt"/></l><r>modelling<s n="n"/></r></p></e>
@@ -3994,7 +3992,7 @@
     <e><p><l>медијаторство<s n="n"/><s n="nt"/></l><r>mediation<s n="n"/></r></p></e>
     <e><p><l>млекарство<s n="n"/><s n="nt"/></l><r>dairy<s n="n"/></r></p></e>
     <e><p><l>мормонство<s n="n"/><s n="nt"/></l><r>Mormonism<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e><p><l>муслиманство<s n="n"/><s n="nt"/></l><r>Islam<s n="n"/></r></p></e>
+    <e><p><l>муслиманство<s n="n"/><s n="nt"/></l><r>Islam<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>муфтиство<s n="n"/><s n="nt"/></l><r>muftiship<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>началство<s n="n"/><s n="nt"/></l><r>principality<s n="n"/></r></p></e>
     <e><p><l>неверство<s n="n"/><s n="nt"/></l><r>infidelity<s n="n"/></r></p></e>
@@ -4006,7 +4004,7 @@
     <e><p><l>паразитство<s n="n"/><s n="nt"/></l><r>parasitism<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>пасторство<s n="n"/><s n="nt"/></l><r>pastorship<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>пионерство<s n="n"/><s n="nt"/></l><r>pioneering<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e><p><l>полнолетство<s n="n"/><s n="nt"/></l><r>adulthood<s n="n"/></r></p></e>
+    <e><p><l>полнолетство<s n="n"/><s n="nt"/></l><r>adulthood<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>потомство<s n="n"/><s n="nt"/></l><r>offspring<s n="n"/></r></p></e>
     <e><p><l>предимство<s n="n"/><s n="nt"/></l><r>advantage<s n="n"/></r></p></e>
     <e><p><l>премиерство<s n="n"/><s n="nt"/></l><r>premiership<s n="n"/></r></p></e>
@@ -4022,9 +4020,9 @@
     <e><p><l>револуционерство<s n="n"/><s n="nt"/></l><r>revolutionaryship<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>резбарство<s n="n"/><s n="nt"/></l><r>wood<b/>carving<s n="n"/></r></p></e>
     <e><p><l>репортерство<s n="n"/><s n="nt"/></l><r>reportership<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e><p><l>рицарство<s n="n"/><s n="nt"/></l><r>chivalry<s n="n"/></r></p></e>
+    <e><p><l>рицарство<s n="n"/><s n="nt"/></l><r>chivalry<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>родителство<s n="n"/><s n="nt"/></l><r>parenthood<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
-    <e><p><l>самочувство<s n="n"/><s n="nt"/></l><r>self<b/>awareness<s n="n"/></r></p></e>
+    <e><p><l>самочувство<s n="n"/><s n="nt"/></l><r>self<b/>awareness<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>сватовство<s n="n"/><s n="nt"/></l><r>affinity<s n="n"/></r></p></e>
     <e><p><l>свидетелство<s n="n"/><s n="nt"/></l><r>certificate<s n="n"/></r></p></e>
     <e><p><l>свињарство<s n="n"/><s n="nt"/></l><r>pig<s n="n"/></r></p></e>
@@ -4041,7 +4039,7 @@
     <e><p><l>устројство<s n="n"/><s n="nt"/></l><r>constitution<s n="n"/></r></p></e>
     <e><p><l>учебникарство<s n="n"/><s n="nt"/></l><r>textbook<s n="n"/></r></p></e>
     <e><p><l>херојство<s n="n"/><s n="nt"/></l><r>heroism<s n="n"/></r></p></e>
-    <e><p><l>хотелиерство<s n="n"/><s n="nt"/></l><r>hospitality<s n="n"/></r></p></e>
+    <e><p><l>хотелиерство<s n="n"/><s n="nt"/></l><r>hospitality<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>чудотворство<s n="n"/><s n="nt"/></l><r>miracle<s n="n"/></r></p></e>
     <e><p><l>чуство<s n="n"/><s n="nt"/></l><r>feeling<s n="n"/></r></p></e>
     <e><p><l>шарлатанство<s n="n"/><s n="nt"/></l><r>quackery<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
@@ -4053,7 +4051,7 @@
     <e><p><l>категоризирање<s n="n"/><s n="nt"/></l><r>categorisation<s n="n"/></r></p></e>
     <e><p><l>кремирање<s n="n"/><s n="nt"/></l><r>cremation<s n="n"/></r></p></e>
     <e><p><l>микрокредитирање<s n="n"/><s n="nt"/></l><r>micro-credit<s n="n"/></r></p></e>
-    <e><p><l>обесхрабрување<s n="n"/><s n="nt"/></l><r>discouragement<s n="n"/></r></p></e>
+    <e><p><l>обесхрабрување<s n="n"/><s n="nt"/></l><r>discouragement<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e><p><l>преселување<s n="n"/><s n="nt"/></l><r>resettlement<s n="n"/></r></p></e>
     <e><p><l>самораспуштање<s n="n"/><s n="nt"/></l><r>dissolution<s n="n"/></r></p></e>
     <e><p><l>формулирање<s n="n"/><s n="nt"/></l><r>formulation<s n="n"/></r></p></e>
@@ -4119,8 +4117,8 @@
     <e slr="2"><p><l>влагалиште<s n="n"/><s n="nt"/></l><r>cover<s n="n"/></r></p></e>
     <e c="  0"><p><l>воздејство<s n="n"/><s n="nt"/></l><r>influence<s n="n"/></r></p></e>
     <e c="  0"><p><l>волнарство<s n="n"/><s n="nt"/></l><r>wool<b/>industry<s n="n"/></r></p></e>
-    <e c="  0"><p><l>гостоприемство<s n="n"/><s n="nt"/></l><r>hospitality<s n="n"/></r></p></e>
-    <e c="  0"><p><l>готованство<s n="n"/><s n="nt"/></l><r>parasitism<s n="n"/></r></p></e>
+    <e c="  0"><p><l>гостоприемство<s n="n"/><s n="nt"/></l><r>hospitality<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e c="  0"><p><l>готованство<s n="n"/><s n="nt"/></l><r>parasitism<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>гурбетчиство<s n="n"/><s n="nt"/></l><r>vagrancy<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>донкихотство<s n="n"/><s n="nt"/></l><r>quixotism<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e slr="1"><p><l>донкихотство<s n="n"/><s n="nt"/></l><r>quixotry<s n="n"/></r></p></e>
@@ -10754,6 +10752,18 @@
     <e slr="1"><p><l>самозаштити<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>protect<g><b/>oneself</g><s n="vblex"/></r></p></e>
     <e c="  0"><p><l>самообвини<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>accuse<g><b/>oneself</g><s n="vblex"/></r></p></e>
     <e c="  0"><p><l>спомогне<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>make<g><b/>do</g><s n="vblex"/></r></p></e>
+
+    <e c="  0"><p><l>исплнува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>state<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>исплнува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>utter<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>истебува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>expire<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>напушува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>violate<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>обајвува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>publish<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>здава<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>pass<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>надава<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>broadcast<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>вгледа<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>appear<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>надзема<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>take<g><b/>more<b/>than<b/>necessary</g><s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>обгледа<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>see<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>попрошири<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>request<s n="vblex"/></r></p></e>
 
     
     <!-- Abbreviations -->
