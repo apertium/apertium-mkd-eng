@@ -1582,8 +1582,8 @@
     <e c="  0"><p><l>инфилтрација<s n="n"/><s n="f"/></l><r>infiltration<s n="n"/></r></p></e>
     <e c="  0"><p><l>инфицирање<s n="n"/><s n="nt"/></l><r>infection<s n="n"/></r></p></e>
     <e c="  0"><p><l>инфлација<s n="n"/><s n="f"/></l><r>inflation<s n="n"/></r></p></e>
-    <e c="  0"><p><l>информација<s n="n"/><s n="f"/></l><r>information<s n="n"/></r></p></e>
-    <e c="  0"><p><l>информираност<s n="n"/><s n="f"/></l><r>information<s n="n"/></r></p></e>
+    <e c="  0"><p><l>информација<s n="n"/><s n="f"/></l><r>information<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
+    <e c="  0"><p><l>информираност<s n="n"/><s n="f"/></l><r>information<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>инфраструктура<s n="n"/><s n="f"/></l><r>infrastructure<s n="n"/></r></p></e>
     <e c="  0"><p><l>инцидент<s n="n"/><s n="m"/></l><r>incident<s n="n"/></r></p></e>
     <e c="  0"><p><l>искреност<s n="n"/><s n="f"/></l><r>sincerity<s n="n"/></r></p></e>
@@ -3190,7 +3190,7 @@
     <e c="  0"><p><l>именување<s n="n"/><s n="nt"/></l><r>naming<s n="n"/></r></p></e>
     <e c="  0"><p><l>инвестирање<s n="n"/><s n="nt"/></l><r>investment<s n="n"/></r></p></e>
     <e c="  0"><p><l>интензивирање<s n="n"/><s n="nt"/></l><r>intensification<s n="n"/></r></p></e>
-    <e c="  0"><p><l>информирање<s n="n"/><s n="nt"/></l><r>information<s n="n"/></r></p></e>
+    <e c="  0"><p><l>информирање<s n="n"/><s n="nt"/></l><r>information<s n="n"/><s n="unc"/></r></p><par n="исток_east__n"/></e>
     <e c="  0"><p><l>исклучување<s n="n"/><s n="nt"/></l><r>exclusion<s n="n"/></r></p></e>
     <e c="  0"><p><l>ископување<s n="n"/><s n="nt"/></l><r>excavation<s n="n"/></r></p></e>
     <e c="  0"><p><l>искоренување<s n="n"/><s n="nt"/></l><r>eradication<s n="n"/></r></p></e>
@@ -8543,7 +8543,6 @@
     <e c="  0"><p><l>брои<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>count<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>брои<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>number<s n="vblex"/></r></p></e>
     <e slr="2"><p><l>брои<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>include<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>вежба<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>practise<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>вели<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>say<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>вели<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>go<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>верификува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>verify<s n="vblex"/></r></p></e>
@@ -10033,8 +10032,11 @@
     <e c="  0"><p><l>наметнува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>impose<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>изгледа<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>appear<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>изгледа<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>appear<s n="vblex"/></r></p></e>
+
     <e c="  0"><p><l>вежба<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>train<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>вежба<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>drill<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>вежба<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>practise<s n="vblex"/></r></p></e>
+    <e slr="2"><p><l>вежба<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>drill<s n="vblex"/></r></p></e>
+
     <e c="  0"><p><l>вежба<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>train<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>вежба<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>drill<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>собори<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>depose<s n="vblex"/></r></p></e>
@@ -10277,7 +10279,7 @@
     <e c="  0"><p><l>поткрепува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>recover<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>поткрепува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>grow<g><b/>stronger</g><s n="vblex"/></r></p></e>
     <e c="  0"><p><l>нададе<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>attach<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>нададе<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>add<g><b/>to</g><s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>нададе<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>add<g><b/>to</g><s n="vblex"/></r></p></e>
     <e c="  0"><p><l>изучува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>study<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>изучува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>research<s n="vblex"/></r></p></e>
     <e slr="2"><p><l>изучува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>do<g><b/>research</g><s n="vblex"/></r></p></e>
@@ -10609,7 +10611,7 @@
     <e c="  0"><p><l>поддаде<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>hint<g><b/>at</g><s n="vblex"/></r></p></e>
     <e c="  0"><p><l>завраќа<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>roll<g><b/>up</g><s n="vblex"/></r></p></e>
     <e c="  0"><p><l>искоренува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>eradicate<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>искоренува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>exterminate<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>искоренува<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>exterminate<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>зачека<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>retain<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>спомага<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>help<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>присака<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>wish<s n="vblex"/></r></p></e>
@@ -10764,6 +10766,9 @@
     <e c="  0"><p><l>надзема<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>take<g><b/>more<b/>than<b/>necessary</g><s n="vblex"/></r></p></e>
     <e c="  0"><p><l>обгледа<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>see<s n="vblex"/></r></p></e>
     <e c="  0"><p><l>попрошири<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>request<s n="vblex"/></r></p></e>
+
+    <e c="  0"><p><l>привиди<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>imagine<s n="vblex"/></r></p></e>
+
 
     
     <!-- Abbreviations -->
