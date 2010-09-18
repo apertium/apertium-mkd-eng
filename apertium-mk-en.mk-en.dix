@@ -376,8 +376,9 @@
 
     <e c="  0"><p><l>николку<s n="prn"/><s n="neg"/></l><r>no<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
 
-    <e><p><l>онолкав<s n="prn"/><s n="dem"/></l><r>that<b/>sized<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
-    <e><p><l>олкав<s n="prn"/><s n="dem"/></l><r>such<b/>sized<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
+    <e><p><l>онолкав<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e> <!-- sized -->
+    <e><p><l>олкав<s n="prn"/><s n="dem"/></l><r>such<s n="det"/><s n="ind"/><s n="sp"/></r></p></e> <!-- sized -->
+    <e><p><l>онаков<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e> <!-- kind -->
 
     <e><p><l>овој<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
     <e><p><l>оној<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
@@ -386,7 +387,6 @@
     <e><p><l>толкав<s n="prn"/><s n="dem"/></l><r>same<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
     <e><p><l>таков<s n="prn"/><s n="dem"/></l><r>such<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
     <e><p><l>ваков<s n="prn"/><s n="dem"/></l><r>such<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
-    <e><p><l>онаков<s n="prn"/><s n="dem"/></l><r>that<b/>kind<s n="prn"/><s n="dem"/></r></p><par n="овој_this__prn"/></e>
 
     <e><p><l>сиот<s n="prn"/><s n="tot"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="кој_that__prn"/></e>
 
@@ -456,7 +456,7 @@
 
     <e><p><l>кога<g><b/>што</g><s n="prn"/><s n="rel"/></l><r>when<s n="cnjsub"/></r></p></e>
 
-    <e><p><l>колкав<s n="prn"/><s n="itg"/></l><r>how<b/>big<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>колкав<s n="prn"/><s n="itg"/></l><r>how<b/>big<s n="prn"/><s n="itg"/></r></p><par n="кој_that__prn"/></e>
  
     <!-- "what kind of"
          Запрашан за коментар во врска тоа каков би сакал да биде неговиот наследник
