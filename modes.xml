@@ -24,8 +24,11 @@
       <program name="lt-proc -w">
         <file name="mk-en.automorf.bin"/>
       </program>
-      <program name="cg-proc -w">
+      <program name="cg-proc">
         <file name="mk-en.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="mk-en.lex.bin"/>
       </program>
       <program name="apertium-tagger -p -g">
         <file name="mk-en.prob"/>
@@ -38,16 +41,12 @@
       <program name="lt-proc -w">
         <file name="mk-en.automorf.bin"/>
       </program>
-      <program name="cg-proc -w">
+      <program name="cg-proc">
         <file name="mk-en.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -p -g">
-        <file name="mk-en.prob"/>
-      </program>
-      <program name="cg-proc -w -n">
+      <program name="cg-proc -w">
         <file name="mk-en.lex.bin"/>
       </program>
-      <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
 
@@ -56,14 +55,14 @@
       <program name="lt-proc -w">
         <file name="mk-en.automorf.bin"/>
       </program>
-      <program name="cg-proc -w">
+      <program name="cg-proc">
         <file name="mk-en.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -p -g">
-        <file name="mk-en.prob"/>
-      </program>
-      <program name="cg-proc -w -n">
+      <program name="cg-proc -w">
         <file name="mk-en.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="mk-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
@@ -79,14 +78,14 @@
       <program name="lt-proc -w">
         <file name="mk-en.automorf.bin"/>
       </program>
-      <program name="cg-proc -w">
+      <program name="cg-proc">
         <file name="mk-en.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -p -g">
-        <file name="mk-en.prob"/>
-      </program>
-      <program name="cg-proc -w -n">
+      <program name="cg-proc -w">
         <file name="mk-en.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="mk-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
@@ -106,14 +105,14 @@
       <program name="lt-proc -w">
         <file name="mk-en.automorf.bin"/>
       </program>
-      <program name="cg-proc -w">
+      <program name="cg-proc">
         <file name="mk-en.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -p -g">
-        <file name="mk-en.prob"/>
-      </program>
-      <program name="cg-proc -w -n">
+      <program name="cg-proc -w">
         <file name="mk-en.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="mk-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
@@ -137,14 +136,14 @@
       <program name="lt-proc -w">
         <file name="mk-en.automorf.bin"/>
       </program>
-      <program name="cg-proc -w">
+      <program name="cg-proc">
         <file name="mk-en.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -p -g">
-        <file name="mk-en.prob"/>
-      </program>
-      <program name="cg-proc -w -n">
+      <program name="cg-proc -w">
         <file name="mk-en.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="mk-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
