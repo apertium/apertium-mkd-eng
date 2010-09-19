@@ -1,0 +1,116 @@
+mk 1998.	Француските бизнисмени имаат големи планови за Србија.
+t1 1998.	The French businessmen have big plans by Serbia.
+r1 1998.	French businessmen have big plans for Serbia.
+r2 1998.	French Businessmen Have Big Plans for Serbia. 
+
+mk 1999.	Франција сака да направи повеќе отколку едноставно да тргува со Југославија.
+t1 1999.	France seeks to do more than simple to trade with Yugoslavia.
+r1 1999.	France seeks to do more than simply trade with Yugoslavia.
+r2 1999.	France wants to do more than simply trade with Yugoslavia.
+
+
+mk 19993.	AII е формално основана на конференцијата за развој и безбедност на јадранско-јонскиот регион, што се одржа во Анкона, Италија, во мај 2000 година.
+t1 19993.	*AII is formal basis on the conference by development and security on Adriatic-the Ionian region, what held in *Анкона, Italy, in May 2000 year.
+r1 19993.	The AII was formally established at the conference on development and security of the Adriatic-Ionian region, held in Ancona, Italy, in May 2000.
+r2 19993.	The AII was formally established at the conference on Development and Security of the Adriatic-Ionian Region held in Ancona, Italy, in May 2000.
+
+mk 99993.	Делегациите разменија ставови во врска со начините за размена на искуства и законска практика.	
+t1 99993.	The delegations *разменија opinions in tie with the ways by exchange on experiences and legal practice.
+r1 99993.	The delegations shared opinions on ways to exchange experiences and legal practices.
+r2 99993.	The delegations exchanged views on ways to share experiences and legislative practices.
+
+mk 97790.	Роднините поднесоа петиција за преместуваoе на единицата.	
+t1 97790.	The cousins filed petition by *преместуваoе on the unit.
+r1 97790.	The relatives filed a petition in support of moving the unit.
+r2 97790.	The relatives submitted a petition in support of relocating the unit.
+
+mk 28072.	Таквите активности директно им служат на интересите на луѓето од евро-медитеранскиот регион и дејствуваат против интересите на терористите и нивните мрежи.
+t1 28072.	Such activities direct serve on the interests on the people from euro-the Mediterranean region and act against the interests on the terrorists and theirs nets."
+r1 28072.	Such activities directly serve the interests of the people from the Euro-Mediterranean region and act against the interests of the terrorists and their networks.
+r2 28072.	Such actions serve directly the interests of the people of the EuroMed region and work against the interests of the terrorists and their networks."
+
+mk 85799.	Иако се согласија со тоа дека Хрватска има суверено право да прогласи ваква зона, советот протестираше поради начинот на кој е донесена оваа одлука.
+t1 85799.	Even though are *согласија with it that Croatia has *суверено in to declare such zone, the council protested because of the way on that is fetched this decision.
+r1 85799.	Even though it agrees that Croatia has sovereign right to declare such a zone, the council protested because of the way that the decision was made.
+r2 85799.	While agreeing that it was Croatia's sovereign right to proclaim the zone, the council protested the manner in which the decision was made.
+
+mk 31227.	Турците дебатираат околу предностите и негативностите од изградбата на нуклеарна централа скоро 30 години.	
+t1 31227.	The Turks *дебатираат around the advantages and *негативностите from the construction on nuclear station recently 30 years.
+r1 31227.	Turks have been debating about the advantages and disadvantages of the construction of a nuclear power station for nearly 30 years.
+r2 31227.	Turks have been debating the pros and cons of building a nuclear power plant for almost 30 years.
+
+mk 220322.	Припадникот на обезбедувањето е во болница во сериозна состојба со повреда на вратот.
+t1 220322.	The member on the security is in hospital in serious emergency with injury on the neck.
+r1 220322.	The member of security is in hospital in a serious condition with a neck injury.
+r2 220322.	The guard is in hospital in serious condition with a neck wound.
+
+mk 31861.	Од тие причини, итно потребен систем за следење и проценка на стратегијата.
+t1 31861.	From these reasons, urgent necessary system by monitoring and assessment on the strategy.
+r1 31861.	For these reasons, an urgent necessity is a system for monitoring and assessment of the strategy.
+r2 31861.	For this reason, a system for monitoring and evaluating the strategy is urgently needed.
+
+mk 156484.	Разговорите, исто така, ќе се фокусираат на придонесот на Романија во мисиите на НАТО .
+t1 156484.	The talks, also, will focus on the contribution on Romania in the missions on NATO .
+r1 156484.	The talks, also, will focus on the contribution of Romania to NATO missions .
+r2 156484.	The talks also will focus on Romania's contribution to NATO missions.
+
+mk 211715.	Во саботата Груевски се состана со својот италијански колега, Силвио Берлускони, со кого разговараше за билатералната економска соработка, шансите на Македонија за членство во ЕУ и спорот околу името со Грција.
+t1 211715.	In the Saturday Gruevski met with its Italian colleague, *Силвио *Берлускони, with that discussed by bilateral economic cooperation, the chances on Macedonia by membership in EU and the dispute around the name with Greece.
+r1 211715.	On Saturday Gruevski met with his Italian colleague, Silvio Berlusconi, and discussed bilateral economic cooperation, the chances of Macedonia for membership in the EU and the name dispute with Greece.
+r2 211715.	On Saturday, Gruevski met with Italian counterpart Silvio Berlusconi and discussed bilateral economic co-operation, Macedonia's EU prospects and the name dispute with Greece.
+
+mk 92909.	Оваа зграда е изградена пред пет години.
+t1 92909.	This building is built before five years.
+r1 92909.	This building was built five years ago.
+r2 92909.	The structure was built just five years ago.
+
+mk 172974.	Во другите вести од вторникот, турските власти објавија дека се откриени нови случаи на птичји грип во југоисточниот дел од земјата.
+t1 172974.	In the different news from the Tuesday, the Turkish authorities reported that are found new cases on avian flu in the south-eastern part of the country.
+r1 172974.	In other news on Tuesday, Turkish authorities reported that new cases of avian flu have been found in the south-eastern part of the country.
+r2 172974.	In other news Tuesday, Turkish authorities announced that new bird flu outbreaks had been detected in the country's southeast.
+
+mk 114054.	Во него се наведени неколку проекти поврзани со зајакнувањето на демократијата, образованието, јавната администрација, безбедноста и човековите права, како и законодавните и воените реформи.
+t1 114054.	In him are cited several projects associated with the operation on the democracy, the education, the public administration, the security and the human authentic, as and the legislative and the war reforms.
+r1 114054.	In it are cited several projects associated with the operation of the democracy, education, public administration, security and human rights, as well as legislative and military reforms.
+r2 114054.	It cited several projects related to strengthening democracy, education, public administration, security and human rights, as well as legislative and military reforms.
+
+mk 47489.	Во моментов, мајките во Хрватска добиваат најниска сума финансиска помош од сите земји во регионот.
+t1 47489.	In the minute, the mothers in Croatia receive lowest amount financial assistance from all countries in the region.
+r1 47489.	Currently, mothers in Croatia receive the lowest amount of financial assistance of all the countries in the region.
+r2 47489.	Currently, mothers in Croatia receive the lowest amount of financial aid of all of the countries in the region.
+
+mk 170534.	Сепак, Дол истакна дека нема ништо против тековните преговори помеѓу Брисел и Анкара.
+t1 170534.	However, *Дол emphasised that does not have nothing against the ongoing negotiations between Brussels and Ankara.
+r1 170534.	However, Daul emphasised that he does not have anything against the ongoing negotiations between Brussels and Ankara.
+r2 170534.	Daul stressed, however, that he does not oppose the ongoing negotiations between Brussels and Ankara.
+
+mk 210880.	Неговиот коментар беше одговор на извештаите на медиумите дека две бошњачки организации -- Конгресот на северноамериканските Бошњаци и Бошњачкиот совет -- започнале кампања за донесување амандмани на Дејтонскиот договор со цел поголема централизација.
+t1 210880.	His comment were response on the reports on the mediums that two Bosnian organisations -- The congress on the North American *Бошњаци and The Bosnian council -- began campaign by decision-making amendments on The Dayton agreement with target bigger centralisation.
+r1 210880.	His comment were in response to the media reports that two Bosnian organisations -- The congress of North American Bosnians and the Bosnian council -- began a campaign to make amendments to the Dayton agreement with the target of greater centralisation.
+r2 210880.	His comments were in response to media reports that two Bosniak organisations -- the Congress of North American Bosniaks and the Bosnian Advisory Council -- have launched a campaign to bring about amendments to the Dayton Accords aimed at greater centralisation.
+
+mk 226339.	Јоциќ, исто така, е можно да е поврзан и со бугарската политика.
+t1 226339.	Jocić, also, is possible yes is related and with the Bulgarian politics.
+r1 226339.	Jocić, also, has possible recent links with Bulgarian politics.
+r2 226339.	Jocic may also have recent links to Bulgarian politics.
+
+mk 142823.	Српските власти, додаде таа, не прават ништо за да ги изведат пред лицето на правдата петте бегалци, меѓу кои и поранешниот политички водач на босанските Срби, Радован Караџиќ.
+t1 142823.	The Serbian authorities, adds she, not do nothing by to perform before the person on the justice the five refugees, among that and former political leader on the Bosnian Serbs, Radovan Karadžić.
+r1 142823.	The Serbian authorities, she added, are not doing anything to bring to justice the five fugitives, including former political leader of the Bosnian Serbs, Radovan Karadžić.
+r2 142823.	The Serbian authorities, she added, were doing nothing to bring to justice five fugitives, including former Bosnian Serb political leader Radovan Karadzic.
+
+mk 24156.	Во меѓувреме, бугарскиот министер за европски прашања, Меглена Кунева, во понеделникот предупреди дека ако влезот на земјата во ЕУ биде одложен за една година, тоа би можело да ја чини земјата и до 800 милиони евра.
+t1 24156.	Meanwhile, the Bulgarian minister by European issues, *Меглена Kuneva, in the Monday warns that if the entry on the country in EU is delayed by one year, it could cost the country and for 800 million euros.
+r1 24156.	Meanwhile, the Bulgarian minister of European affairs, Meglena Kuneva, on Monday warned that if the entry of the country to the EU is delayed by one year, it could cost the country up to 800 million euros.
+r2 24156.	Meanwhile, Bulgaria's European Affairs Minister Meglena Kuneva warned on Monday that if the country's EU entry is delayed by a year, it could cost the country up to 800m euros.
+
+mk 117960.	Тие го посетија кампот Диванија, каде што е базата на бугарските војници.
+t1 117960.	They visited the camp *Диванија, where is the base on the Bulgarian soldiers.
+r1 117960.	They visited the camp in Divanija, where the base of the Bulgarian soldiers is.
+r2 117960.	They visited the camp in Diwaniya where the Bulgarian troops are based.
+
+mk 205811.	Помеѓу нив се вицепремиери, членови на парламентот, амбасадори, обвинители и судии.
+t1 205811.	Between them are deputy prime ministers, members on the parliament, ambassadors, prosecutors and judges.
+r1 205811.	Among them are deputy prime ministers, members of parliament, ambassadors, prosecutors and judges.
+r2 205811.	Among them are deputy prime ministers, members of parliament, ambassadors, prosecutors and judges.
+
