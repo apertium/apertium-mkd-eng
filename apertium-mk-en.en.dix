@@ -6903,7 +6903,7 @@
     <e lm="Ljajić"><i>Ljajić</i><par n="Smith__np"/></e>
     <e lm="Jesen"><i>Jesen</i><par n="Smith__np"/></e>
     <e lm="Sezer"><i>Sezer</i><par n="Smith__np"/></e>
-    <e lm="Papandreu"><i>Papandreu</i><par n="Smith__np"/></e>
+    <e lm="Papandreou"><i>Papandreou</i><par n="Smith__np"/></e>
     <e lm="Švarc"><i>Švarc</i><par n="Smith__np"/></e>
     <e lm="Čeku"><i>Čeku</i><par n="Smith__np"/></e>
     <e lm="Živković"><i>Živković</i><par n="Smith__np"/></e>
@@ -8571,6 +8571,7 @@
     <e lm="Branko"><i>Branko</i><par n="Mark__np"/></e>
     <e lm="Ali"><i>Ali</i><par n="Mark__np"/></e>
     <e lm="Kostas"><i>Kostas</i><par n="Mark__np"/></e>
+    <e lm="Costas"><i>Costas</i><par n="Mark__np"/></e>
     <e lm="Oli"><i>Oli</i><par n="Mark__np"/></e>
     <e lm="Trajan"><i>Trajan</i><par n="Mark__np"/></e>
     <e lm="Stipe"><i>Stipe</i><par n="Mark__np"/></e>
