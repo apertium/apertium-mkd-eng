@@ -152,6 +152,7 @@
     <e slr="1"><p><l>на<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
     <e slr="2"><p><l>на<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
     <e slr="3"><p><l>на<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e slr="4"><p><l>на<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>во<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
     <e slr="1"><p><l>во<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
@@ -4404,7 +4405,7 @@
     <e><p><l>Абдула<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdula<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Агим<s n="np"/><s n="ant"/><s n="m"/></l><r>Agim<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Аднан<s n="np"/><s n="ant"/><s n="m"/></l><r>Adnan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-    <e><p><l>Адријан<s n="np"/><s n="ant"/><s n="m"/></l><r>Adrijan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Адријан<s n="np"/><s n="ant"/><s n="m"/></l><r>Adrian<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Александар<s n="np"/><s n="ant"/><s n="m"/></l><r>Aleksandar<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Али<s n="np"/><s n="ant"/><s n="m"/></l><r>Ali<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Алфред<s n="np"/><s n="ant"/><s n="m"/></l><r>Alfred<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -4459,7 +4460,7 @@
     <e><p><l>Климент<s n="np"/><s n="ant"/><s n="m"/></l><r>Kliment<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Колин<s n="np"/><s n="ant"/><s n="m"/></l><r>Kolin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Константин<s n="np"/><s n="ant"/><s n="m"/></l><r>Konstantin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-    <e><p><l>Костас<s n="np"/><s n="ant"/><s n="m"/></l><r>Kostas<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Костас<s n="np"/><s n="ant"/><s n="m"/></l><r>Costas<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Кофи<s n="np"/><s n="ant"/><s n="m"/></l><r>Kofi<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Кристијан<s n="np"/><s n="ant"/><s n="m"/></l><r>Kristijan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Мануел<s n="np"/><s n="ant"/><s n="m"/></l><r>Manuel<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -4919,7 +4920,7 @@
     <e><p><l>Николиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Nikolić<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Нимиц<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Nimic<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Пападопулос<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Papadopoulos<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-    <e><p><l>Папандреу<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Papandreu<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+    <e><p><l>Папандреу<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Papandreou<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Папуљас<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Papuljas<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Паси<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Pasi<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Патен<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Paten<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -8118,7 +8119,8 @@
     <e c="  0"><p><l>крупен<s n="adj"/></l><r>large<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>конгоански<s n="adj"/></l><r>Congolese<s n="adj"/></r></p></e>
     <e c="  0"><p><l>чудесен<s n="adj"/></l><r>wondrous<s n="adj"/></r></p></e>
-    <e c="  0"><p><l>продуцентски<s n="adj"/></l><r>producer<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>продуцентски<s n="adj"/></l><r>production<s n="adj"/></r></p></e>
+    <e slr="1"><p><l>продуцентски<s n="adj"/></l><r>producer<s n="adj"/></r></p></e>
     <e c="  0"><p><l>гнил<s n="adj"/></l><r>rotten<s n="adj"/></r></p></e>
     <e c="  0"><p><l>вакуфски<s n="adj"/></l><r>market-town<s n="adj"/></r></p></e> <!--   vakuf = market town-->
     <e c="  0"><p><l>хаџиски<s n="adj"/></l><r>Hajj<s n="adj"/></r></p></e> <!--   of a Haji, maybe meaning "cool"-->

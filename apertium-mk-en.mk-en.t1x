@@ -2199,7 +2199,7 @@
       <action>
         <call-macro n="np_set_defnes2">
           <with-param pos="3"/>
-          <with-param pos="2"/>
+          <with-param pos="1"/>
         </call-macro>
         <choose>
           <when>
