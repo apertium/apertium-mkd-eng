@@ -39,7 +39,6 @@ dev/generation-test.sh -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/missing-bidix-freq.sh -text
-dev/test_phrases.mk.txt -text
 dev/testvoc-summary.txt -text
 dev/testvoc.sh -text
 /lexchoicebil.xsl -text
