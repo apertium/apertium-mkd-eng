@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dictionary>
   <alphabet>АБВГДЃЕЖЗЅИЈКЛЉМНЊОПРСТЌУФХЦЧЏШабвгдѓежзѕијклљмнњопрстќуфхцчџшABCČĆDDžĐEFGHIJKLLjMNNjOPRSŠTUVZŽabcčćddžđefghijklljmnnjoprsštuvzžwWxXyY</alphabet>
-  <sdefs/>
+  <sdefs>
+    <sdef n="n"/>
+  </sdefs>
 
   <section id="main" type="inconditional">
     <e><p><l>nj</l><r>њ</r></p></e>
