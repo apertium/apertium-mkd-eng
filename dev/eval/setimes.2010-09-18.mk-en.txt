@@ -121,153 +121,180 @@ r2 9506.	Analysts believe both Turkey and Greece are waiting for the results of 
 
 mk 129460.	За време на посетата на Брисел в понеделник Таричеану се очекува да ги увери претставниците на ЕУ дека Романија ќе ги почитува своите обврски од процесот за пристап, без оглед на домашната политика.
 t1 129460.	By time on the visit on Brussels in Monday Taričeanu expects to assure the representatives on EU that Romania will respect its obligations from the process by accession, without attention on the domestic politics.
-t1 129460.	During a visit to Brussels on Monday Taričeanu expects to assure the representatives of the EU that Romania will respect its obligations in the accession process, regardless of domestic politics.
+r1 129460.	During a visit to Brussels on Monday Taričeanu expects to assure the representatives of the EU that Romania will respect its obligations in the accession process, regardless of domestic politics.
 r2 129460.	During a trip to Brussels Monday, Tariceanu is expected to reassure EU representatives that Romania will honour its commitments in the accession process, regardless of domestic politics.
 
 mk 108355.	На состанокот во понеделникот со својот колега Адријан Настасе, Бондевик ја истакна поддршката на својата земја за кандидатурата на Романија за членство во ЕУ и вети дека ќе ги охрабри норвешките инвестиции во Романија.
 t1 108355.	On the meeting in the Monday with its colleague Adrijan Nastase/Nastase, *Бондевик emphasised the support on its country by the candidacy on Romania by membership in EU and promises that will encourage the Norwegian investments in Romania.
+r1 108355.	In the meeting on Monday with his colleague Adrian Nastase, Bondevik emphasised his country's support for the candidacy on Romania to membership of the EU and promises that he will encourage Norwegian investments in Romania.
 r2 108355.	Meeting on Monday with counterpart Adrian Nastase, Bondevik stressed his country's support for Romania's EU accession bid and pledged to encourage Norwegian investment in Romania.
 
 mk 77318.	Двајцата разговараа за интеграцијата во НАТО и ЕУ , како и за соработката помеѓу двете земји.
 t1 77318.	The two discussed by the integration in NATO and EU , as and by the cooperation between the two countries.
+r1 77318.	The two discussed NATO and EU integration , and the cooperation between the two countries.
 r2 77318.	The two discussed NATO and EU integration and the co-operation between the two countries.
 
 mk 159899.	Планот за реструктуирање предвидува намалување на бројот на државните секретари од 82 на 52, за да се зголеми ефикасноста.
 t1 159899.	The plan by restructuring predicts reduction on the number on the state secretaries from 82 on 52, by to increase the effectiveness.
+r1 159899.	The restructuring plan predicts reduction of the number of tstate secretaries from 82 to 52, to increase efficiency.
 r2 159899.	The restructuring plan envisions cutting the number of state secretaries from 82 to 52, to boost efficiency.
 
 mk 197235.	Демонстрантите ветија дека ќе излегуваат на улица секој ден додека не биде решено ова прашање.
 t1 197235.	The demonstrators promised that will emerge on street everyone day as not is resolved this issue.
+r1 197235.	The demonstrators promised that they will be in the streets every day while the issue is not resolved.
 r2 197235.	The protesters promised to hit the streets every day until the matter is resolved.
 
 mk 223449.	На бродот има вкупно 24 членови на екипажот, вклучително и тројца Грци и еден Романец.
 t1 223449.	On the ship has in total 24 members on the baggage, including and three Greeks and one Roma.
+r1 223449.	The ship has a total of 24 crewmembers, including three Greeks and one Romanian.
 r2 223449.	There are 24 crewmen aboard, including three Greeks and one Romanian.
 
 mk 229262.	Ќе бидат претставени околу 20 независни филмови.
 t1 229262.	Will be presented around 20 independent films.
+r1 229262.	Around 20 independent films will be presented.
 r2 229262.	Some 20 independent movies will be presented.
 
 mk 39466.	Алијансата, која моментно има 16.000 војници распоредени во Косово, ќе продолжи да игра "многу важна улога" во иднината на покраината, додаде шефот на НАТО .
 t1 39466.	The alliance, that currently has 16.000 soldiers serving in Kosovo, will resume to play "much important role" in the future on the province, adds the chief on NATO .
+r1 39466.	The alliance, that currently has 16.000 soldiers serving in Kosovo, will continue to play a "very important role" in the future of the province, adds the chief of NATO .
 r2 39466.	The Alliance, which currently has a 16,000-strong force deployed in Kosovo, will continue to play a "very important role" in the future of the province, the NATO chief added.
 
 mk 64977.	Папандреу ќе ја посети Македонија, Хрватска и Југославија.
-t1 64977.	Papandreu will visit Macedonia, Croatia and Yugoslavia.
+t1 64977.	Papandreou will visit Macedonia, Croatia and Yugoslavia.
+r1 64977.	Papandreou will visit Macedonia, Croatia and Yugoslavia.
 r2 64977.	Papandreou will visit Macedonia, Croatia and Yugoslavia.
 
 mk 93414.	Програмата беше подготвена во соработка со Француската национална полиција и Шпанската цивилна гарда.
 t1 93414.	The programme were prepared in cooperation with French national police and Spanish civil guard.
+r1 93414.	The programme was prepared in cooperation with French national police and the Spanish civil guard.
 r2 93414.	The programme was drafted in co-operation with the French National Gendarmerie and the Spanish Civil Guard.
 
 mk 244082.	Договорот беше потпишан за време на посетата на грчкиот премиер Костас Караманлис на Австралија.
-t1 244082.	The agreement were signed by time on the visit on the Greek prime minister Kostas Karamanlis on Australia.
+t1 244082.	The agreement were signed by time on the visit on the Greek prime minister Costas Karamanlis on Australia.
+r1 244082.	The agreement was signed during the visit of the Greek prime minister Costas Karamanlis to Australia.
 r2 244082.	The accord was signed during Greek Prime Minister Costas Karamanlis' visit to Australia.
 
 mk 134523.	Ова прашање е од суштинска важност за започнување на разговорите околу Договорот за стабилизација и асоцијација со ЕУ .
 t1 134523.	This issue is from crucial importance by launch on the talks around The agreement by stabilisation and association with EU .
+r1 134523.	This issue is of crucial importance to the launch of the talks about the stabilisation and association agreement with EU .
 r2 134523.	The matter is crucial to the launch of Stabilisation and Association talks with the EU.
 
 mk 140911.	Писателите Хозе Сарамаго, Гарбиел Гарсија Маркез и Гинтер Грас ја потпишаа изјавата.
 t1 140911.	The writers *Хозе *Сарамаго, *Гарбиел *Гарсија *Маркез and *Гинтер *Грас signed the statement.
+r1 140911.	The writers Jose Saramago, Gabriel Garcia Marquez and Günter Grass signed the statement.
 r2 140911.	Authors Jose Saramago, Gabriel Garcia Marquez and Guenter Grass signed the statement.
 
 mk 107540.	Салзман рече дека проектите ќе бидат финансирани со програмата КАРДС , а средствата ќе бидат доделени почнувајќи од следната година.
 t1 107540.	*Салзман says that the projects will be financed with the programme *КАРДС , and the means will be granted starting from the following year.
+r1 107540.	Saltzman says that the projects will be financed with the CARDS programme , and the financing will be granted starting from the following year.
 r2 107540.	Saltzman said the projects would be funded under the CARDS programme, with financing provided as of next year.
 
 mk 155767.	Всреда Тадиќ ќе го посети Скопје, во рамките на својата регионална турнеја.
 t1 155767.	*Всреда Tadić will visit Skopje, in the frameworks on its regional tour.
+r1 155767.	On Wednesday Tadić will visit Skopje, in the next step of his regional tour.
 r2 155767.	On Wednesday, Tadic was due in Skopje, the next stop on his regional tour.
 
 mk 95833.	Во двата случаи хероинот бил, наводно, шверцуван од Авганистан и бил наменет за Европа.
 t1 95833.	In the two cases the heroin beat, alleged, smuggled from Afghanistan and were destined by Europe.
+r1 95833.	In both cases the heroin was, alleged, smuggled from Afghanistan and was destined by Europe.
 r2 95833.	In both cases, the heroin was allegedly smuggled from Afghanistan and Iran and destined for Europe.
 
 mk 120760.	Сите тројца пратеници рекоа дека ќе се приклучат на парламентарната група на централнодесничарската Татковинска партија.
 t1 120760.	All three lawmakers said that will join on the parliamentary group on the centre-right *Татковинска party.
+r1 120760.	All three lawmakers said that will join the parliamentary group of the centre-right Motherland party.
 r2 120760.	All three deputies said they would join the parliamentary caucus of the centre-right Motherland Party.
 
 mk 116905.	Претходно овој месец, Поповиќ рече дека војската била вмешана во убиството на Ѓинѓиќ во март 2003 година.
 t1 116905.	Previously this month, Popović says that the army were involved in the murder on Đinđić in March 2003 year.
+r1 116905.	Earlier this month, Popović said that the army were involved in the murder of Đinđić in March 2003.
 r2 116905.	Earlier this month, Popovic said the military had been involved in Djindjic's March 2003 murder.
 
 mk 125577.	Мохамед ветил дека ќе лобира кај членовите на малезиската бизнис заедница да ги зголемат инвестициите во БиХ и да ги зголемат и другите видови економска соработка.
 t1 125577.	*Мохамед promised that will lobby at the members on the Malaysian business community to increase the investments in BiH and to increase and the different kinds economic cooperation.
+r1 125577.	Mohammed promised that he will lobby members of the Malaysian business community to increase investments in BiH and to increase different kinds economic cooperation.
 r2 125577.	Mohammed vowed to lobby members of the Malaysian business community to boost investments in BiH and to increase other kinds of economic co-operation.
 
 mk 162971.	Во другите вести од четвртокот на оваа тема, парламентот започна дебата во врска со нацрт-амандманите за законот за кривична постапка, кои ќе бидат воведени следната година.
 t1 162971.	In the different news from the Thursday on this topic, the parliament began debate in tie with the draft amendments by the law by criminal procedure, that will be introduced the following year.
+r1 162971.	In other news, on Thursday, on this topic, the parliament began debate the draft amendments to the law on criminal proceedings, that will be introduced next year.
 r2 162971.	In related news Thursday, parliament began debating draft amendments to the law on criminal proceedings, to be introduced next year.
 
 mk 205234.	Во другите вести, владата на Косово усвои закон за државните празници, означувајќи го Денот на независноста --17-ти февруари -- за најзначаен.
 t1 205234.	In the different news, the government in Kosovo adopts law by the state holidays, marking  The day on the independence --17-you February -- by most significant.
+r1 205234.	In other news, the government in Kosovo adopted law on state holidays, marking Independence Day -- 17th February -- as most significant.
 r2 205234.	In other news Monday, the Kosovo government adopted a law on public holidays, marking Independence Day -- February 17th -- as most important.
-
-mk 221767.	Владините министри говореа колку што е можно подолго, бидејќи немаше временски ограничувања.
-t1 221767.	The governmental ministers spoke as is possible longer, since did not have time restrictions.
-r2 221767.	In other news, the leaders of the Democratic Liberal Party, the Social Democratic Party and the Democratic Union of Hungarians in Romania decided on Wednesday to include the corruption case against former Prime Minister Adrian Nastase on the agenda of the Chamber of Deputies next week.
 
 mk 33827.	Маневрирањето со зголемувањето на акционерскиот капитал наместо директното купување на акциите или преземање е на границата на легалноста.
 t1 33827.	*Маневрирањето with the increase on the shareholder's capital instead the direct purchase on the actions or download is on the border on the legality.
+r1 33827.	The manoeuvre with an increase of shareholder's capital instead of direct purchase of shares or a takeover is on the border of legality.
 r2 33827.	The manoeuvre with a share capital increase instead of a direct purchase of shares or a takeover is borderline legal.
 
 mk 110756.	Во 1991 година Зана стана првата курдска жена избрана во турскиот парламент.
 t1 110756.	In 1991 year *Зана became the first Kurdish woman elected in the Turkish parliament.
+r1 110756.	In 1991 Zana became the first Kurdish woman elected to the Turkish parliament.
 r2 110756.	In 1991, Zana became the first Kurdish woman to be elected to the Turkish Parliament.
 
 mk 52247.	Од 75 милиони туристи кои влегле во Хрватска минатата година, 95 отсто дошле со автомобил.
 t1 52247.	From 75 million tourists that entered in Croatia the past year, 95 percent came with car.
+r1 52247.	Out of 75 million tourists that entered in Croatia in the past year, 95 percent came by car.
 r2 52247.	Out of 75 million tourists who entered Croatia last year, 95% came by car.
 
 mk 2075.	Ердоган, во меѓувреме, планира да ја посети Данска на 9 декември и да направи притисок да се одреди датум.
 t1 2075.	Erdogan, meanwhile, plans to visit Denmark on 9 December and to do pressure to set date.
+r1 2075.	Erdogan, meanwhile, plans to visit Denmark on 9 December and pressure to set a date.
 r2 2075.	Erdogan, meanwhile, is to visit Denmark on 9 December to push for setting a date.
 
 mk 51361.	Тие, исто така, го обвинуваат Цветковиќ дека е "слаба" фигура која ќе ја крие концентрацијата на власта во рацете на Тадиќ.
 t1 51361.	They, also, accuse Cvetković that is "weak" figure that will hide the concentration on the authority in the hands on Tadić.
+r1 51361.	They, also, accuse Cvetković of being a "weak" figure that will hide the concentration of authority in the hands of Tadić.
 r2 51361.	They also accuse Cvetkovic of being a "weak" figure who will conceal a concentration of power in Tadic's hands.
-
-mk 57386.	Од 1990 до 1992 година музиката на Регина уживаше значителна популарност низ цела Југославија.
-t1 57386.	From 1990 to 1992 year the music on *Регина enjoyed significant popularity through entire Yugoslavia.
-r2 57386.	The band split up in 1992, but new members kept its music alive and released four albums.
 
 mk 237978.	ЕУ ја одобри програмата на Грција за стабилност и раст за периодот 2005-2008 година, за време на состанокот на Советот на министрите за финансии на ЕУ што се одржа во Брисел на 14-ти март.
 t1 237978.	EU approves the programme on Greece by stability and growth by the period 2005-2008 year, by time on the meeting on The council on the ministers by finances on EU what held in Brussels on 14-you March.
+r1 237978.	The EU approves the Greece's programme for stability and growth in the period 2005-2008, during a meeting of The council of finance ministers of the EU that was held in Brussels on 14 March.
 r2 237978.	The EU approved Greece's stability and growth programme for 2005-2008, during a meeting of the EU Council of Finance Ministers held in Brussels on 14 March.
 
 mk 120025.	СИПА ќе започне со обука на повеќе од 140 дополнителни полициски сили за обезбедување.
 t1 120025.	*СИПА will begin with training on more from 140 additional police forces by security.
+r1 120025.	SIPA will begin with training more than 140 additional police as guards.
 r2 120025.	SIPA will begin training more than 140 additional police troops as guards.
 
 mk 201215.	Резултатите покажуваат дека Вујановиќ, од владејачката Демократска партија на социјалистите (ДПС) би освоил 52,8 отсто од гласовите.
 t1 201215.	The results show that Vujanović, from ruling Democratic party on the socialists (*ДПС) would win 52,8 percent of the voices.
+r1 201215.	The results show that Vujanović, from the ruling Democratic party of socialists (DPS) would win 52,8 percent of the vote.
 r2 201215.	The results suggest that Vujanovic, of the ruling Democratic Party of Socialists (DPS), would win 52.8% of the vote.
 
 mk 29578.	Сепак, властите во Белград се обидуваат да ја убедат меѓународната заедница во својата решеност за справување со проблемот.
 t1 29578.	However, the authorities in Belgrade try to convince the international community in their commitment by management with the problem.
+r1 29578.	However, the authorities in Belgrade are trying to convince the international community of their commitment to deal with the problem.
 r2 29578.	Yet authorities in Belgrade have been trying to convince the international community of their determination to tackle the problem.
 
 mk 26167.	Владејачката Партија на правдата и развојот (АКП) и Републиканската народна партија треба допрва да постигнат договор околу ова прашање.
 t1 26167.	The ruling Party on the justice and the development (AKP) and Republican national party should still to achieve agreement around this issue.
+r1 26167.	The ruling Justice and Development Party (AKP) and the Republican People's Party have yet to achieve agreement on this issue.
 r2 26167.	The ruling Justice and Development Party (AKP) and the Republican People's Party have yet to reach agreement on the issue.
 
 mk 47217.	Повеќе од 60 гости -- меѓу кои и претставникот за јавни прашања, Рајан Роланд, и градоначалникот на Битола, Владимир Талевски -- присуствуваа на настанот.
 t1 47217.	More from 60 guests -- among that and the representative by public issues, *Рајан *Роланд, and the mayor on *Битола, Vladimir Talevski -- attended on the event.
+r1 47217.	More from 60 guests -- among which the representative of public affairs, Ryan Rowlands, and the mayor of Bitola, Vladimir Talevski -- attended the event.
 r2 47217.	More than 60 guests -- including Public Affairs Officer Ryan Rowlands and Bitola Mayor Vladimir Talevski -- attended the event.
 
 mk 31973.	Сите осомничени се беа префрлени во МКТЈ во 2002 и 2003 година.
 t1 31973.	All suspect  were transferred in *МКТЈ in 2002 and 2003 year.
+r1 31973.	All suspects  were transferred to the ICTY in 2002 and 2003.
 r2 31973.	All suspects were transferred to the ICTY in 2002 and 2003.
 
 mk 216719.	Скопје го покрена случајот минатиот месец.
 t1 216719.	Skopje filed the case the past month.
+r1 216719.	Skopje filed the case last month.
 r2 216719.	Skopje initiated the case last month.
 
 mk 129426.	Разговорите со Путин продолжија и во понеделникот, фокусирајќи се на политичката и економската соработка во регионот на Црното Море, активностите на поморската група БЛЕКСИФОР и заедничките напори за регионална стабилност и безбедност.
 t1 129426.	The talks with Putin resumed and in the Monday, focusing  on the political and the economic cooperation in the region on The black Sea, the activities on the maritime group *БЛЕКСИФОР and the common efforts by regional stability and security.
+r1 129426.	The talks with Putin resumed on Monday, focusing on the political and economic cooperation in the Black Sea region, the activities on the maritime group BLACKSEAFOR and the common efforts for regional stability and security.
 r2 129426.	Talks with Putin continued Monday, focusing on political and economic co-operation in the Black Sea region, the activities of the BLACKSEAFOR naval group and common efforts for regional stability and security.
 
 mk 132835.	Водачите се состанаа во Гдањск, каде што присуствуваа на одбележувањето на 25-годишнината од основањето на синдикатот Солидарност.
 t1 132835.	The leaders met in *Гдањск, where attended on the demarcation on 25-the anniversary from the establishment on the union Solidarity.
+r1 132835.	The leaders met in Gdańsk, where they attended the 25th anniversary of the establishment of the trade union Solidarity.
 r2 132835.	The leaders met in Gdansk, where they helped mark the 25th anniversary of the Solidarity trade union.
