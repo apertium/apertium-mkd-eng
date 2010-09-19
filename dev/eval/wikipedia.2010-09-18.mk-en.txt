@@ -12,7 +12,7 @@ r1 5635.	Romania has 20 ethnic minorities, which are guaranteeed all rights acco
 
 mk 6159.	Набрзо потоа, Полска престанува да постои 123 години, заради тоа што е разделена меѓу нејзините соседи Русија, Австрија и Прусија.
 t1 6159.	*Набрзо afterwards, Poland results to exist 123 years, for it what is divorced among hers neighbours Russia, Austria and *Прусија.
-r1 6159.	Shortly afterwards, Poland ceases to exist 123 years, because it is divided among its neighbours Russia, Austria and Prussia.
+r1 6159.	Shortly afterwards, Poland ceases to exist for 123 years, because it is divided among its neighbours Russia, Austria and Prussia.
 
 mk 5657.	По падот на комунизмот во Романија, економијата на државата била во големи кризи и падови.
 t1 5657.	In the fall on the communism in Romania, the economy on the state were in big crises and falls.
@@ -32,7 +32,7 @@ r1 31169.	In different times and in different parts of the world different newsp
 
 mk 31569.	Линијата во следните години била продолжена, а на 20 декември 2002 година бил приклучена до аеродромот Ататурк.
 t1 31569.	The line in the following years were resumed, and on 20 December 2002 year were joined for the airport *Ататурк.
-r1 31569.	The line was resumed in the following years, and on the 20 December 2002 was joined with the Ataturk airport.
+r1 31569.	The line was resumed in the following years, and on 20 December 2002 was joined with Ataturk airport.
 
 mk 26218.	Еквадор е член на ООН и член на повеќе регионални групи, како на пример Рио Групата, Латиноамериканскиот Економски Систем, Латиноамериканската Организација за Енергија, Латиноамериканската Асоцијација за Интеграција и Комитетот на Нации на Андите.
 t1 26218.	*Еквадор is member on UN and member on more regional groups, as on example *Рио The group, Latin American Economic System, The Latin American Organisation by Energy, The Latin American Association by Integration and The committee on Nations on *Андите.
@@ -116,7 +116,7 @@ r1 4711.	On 24 July 1923, the Lozana agreement from was signed.
 
 mk 10672.	По овој состанок, Сталин се вратил во Санкт Петербург каде што станал уредник на весникот “ Правда ”.
 t1 10672.	In this meeting, *Сталин returned in *Санкт *Петербург where became editor on the newspaper “ Justice ”.
-r1 10672.	After this meeting, Stalin returned in Saint Petersburg where he became editor of the newspaper “ Justice ”.
+r1 10672.	After this meeting, Stalin returned in Saint Petersburg where he became editor of the newspaper “ Pravda ”.
 
 mk 13754.	Затоа Велика Британија настојувала да не дојде до формирање на оваа меѓународна организација.
 t1 13754.	Therefore United Kingdom sought to not comes for formation on this international organisation.
@@ -149,7 +149,7 @@ r1 24063.	The Somali shore is 2700 km long.
 
 mk 8897.	Уделот на сопственици на куќите изнесува 87 % од населението.
 t1 8897.	The share on owners on the houses estimates 87 % of the population.
-r1 8897.	The proportion of homeowners is estimated at 87% of the population.
+r1 8897.	The proportion of homeowners is estimated at 87 % of the population.
 
 mk 5652.	Во Романија не е дозволено формирање на политички организации на етничка основа, но затоа Македонците имаат свој претставник во парламентот.
 t1 5652.	In Romania not is allowed formation on political organisations on ethnic basis, but therefore The Macedonians have their representative in the parliament.
