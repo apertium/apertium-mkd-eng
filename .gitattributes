@@ -5,6 +5,7 @@
 /ChangeLog -text
 /HOURS -text
 /Makefile.am -text
+/NEWS -text
 /README -text
 /apertium-mk-en.en.dix -text
 /apertium-mk-en.mk-en.alpha.dix -text
