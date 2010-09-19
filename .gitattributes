@@ -1,7 +1,6 @@
 * text=auto !eol
 /ACKNOWLEDGEMENTS -text
 /HOURS -text
-/Makefile -text
 /apertium-mk-en.mk-en.alpha.dix -text
 /apertium-mk-en.mk-en.dix -text
 /apertium-mk-en.mk-en.lex -text
