@@ -46,7 +46,6 @@ dev/testvoc-summary.txt -text
 dev/testvoc.sh -text
 /en-mk.prob -text svneol=unset#unset
 /lexchoicebil.xsl -text
-/mk-en-pretransfer.mode -text
 /mk-en.prob -text
 /modes.xml -text
 /pending-tests.sh -text
