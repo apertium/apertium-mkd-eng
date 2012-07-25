@@ -32,6 +32,7 @@ dev/bidix/pending_verbs.txt -text
 dev/bilingual-summary.txt -text
 dev/categories -text
 dev/classified-personal-nouns -text
+dev/diff -text
 dev/eval/process-tests.sh -text
 dev/eval/setimes.2010-09-18.mk-en.txt -text
 dev/eval/wikipedia.2010-09-18.mk-en.txt -text
@@ -42,6 +43,7 @@ dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/missing-bidix-freq.sh -text
 dev/pers-nouns-mk-en -text
+dev/stats -text
 dev/testvoc-summary.txt -text
 dev/testvoc.sh -text
 /en-mk.prob -text svneol=unset#unset
