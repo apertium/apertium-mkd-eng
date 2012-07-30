@@ -22,6 +22,7 @@
 /configure.ac -text
 dev/HOURS -text
 dev/RULES-AND-MULTIWORDS -text
+dev/allstats -text
 dev/bidix/pending_adjectives.txt -text
 dev/bidix/pending_adverbs.txt -text
 dev/bidix/pending_nouns.txt -text
