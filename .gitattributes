@@ -42,6 +42,7 @@ dev/eval/wikipedia.2010-09-18.mk-en.txt -text
 dev/find-translation.sh -text
 dev/generation-summary.txt -text
 dev/generation-test.sh -text
+dev/ghetto-corpus-smoothing-diff -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/missing-bidix-freq.sh -text
