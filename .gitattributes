@@ -50,6 +50,7 @@ dev/pers-nouns-mk-en -text
 dev/stats -text
 dev/testvoc-summary.txt -text
 dev/testvoc.sh -text
+dev/wikistats -text
 /en-mk.prob -text svneol=unset#unset
 /lexchoicebil.xsl -text
 /mk-en.prob -text
