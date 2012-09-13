@@ -23,6 +23,7 @@
 dev/HOURS -text
 dev/RULES-AND-MULTIWORDS -text
 dev/allstats -text
+dev/apertium-mk-en-hand-written.lrx -text
 dev/apertium-mk-en.mk-en.ldx -text
 dev/apertium-mk-en.mk-en.lrx -text
 dev/bidix/pending_adjectives.txt -text
