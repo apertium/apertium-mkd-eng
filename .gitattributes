@@ -47,6 +47,7 @@ dev/ghetto-corpus-smoothing-diff -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/missing-bidix-freq.sh -text
+dev/nouns -text
 dev/pers-nouns-mk-en -text
 dev/stats -text
 dev/testvoc-summary.txt -text
