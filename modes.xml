@@ -1,259 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
-  <mode name="mk-en-morph">
+  <mode name="mkd-eng-morph">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="mk-en.automorf.bin"/>
+        <file name="mkd-eng.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="mk-en-constraint">
+  <mode name="mkd-eng-constraint">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="mk-en.automorf.bin"/>
+        <file name="mkd-eng.automorf.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="mk-en.rlx.bin"/>
+        <file name="mkd-eng.rlx.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="mk-en-tagger">
+  <mode name="mkd-eng-tagger">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="mk-en.automorf.bin"/>
+        <file name="mkd-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="mk-en.rlx.bin"/>
+        <file name="mkd-eng.rlx.bin"/>
       </program>
 <!--
       <program name="cg-proc -w">
-        <file name="mk-en.lex.bin"/>
+        <file name="mkd-eng.lex.bin"/>
       </program>
 -->
       <program name="apertium-tagger -g">
-        <file name="mk-en.prob"/>
+        <file name="mkd-eng.prob"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="mk-en-pretransfer" install="no">
+  <mode name="mkd-eng-pretransfer" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="mk-en.automorf.bin"/>
+        <file name="mkd-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="mk-en.rlx.bin"/>
+        <file name="mkd-eng.rlx.bin"/>
       </program>
 <!--
       <program name="cg-proc -w">
-        <file name="mk-en.lex.bin"/>
+        <file name="mkd-eng.lex.bin"/>
       </program>
 -->
       <program name="apertium-tagger -g">
-        <file name="mk-en.prob"/>
+        <file name="mkd-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
 
-  <mode name="mk-en-biltrans" install="no">
+  <mode name="mkd-eng-biltrans" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="mk-en.automorf.bin"/>
+        <file name="mkd-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="mk-en.rlx.bin"/>
+        <file name="mkd-eng.rlx.bin"/>
       </program>
 <!--
       <program name="cg-proc -w">
-        <file name="mk-en.lex.bin"/>
+        <file name="mkd-eng.lex.bin"/>
       </program>
 -->
       <program name="apertium-tagger -g">
-        <file name="mk-en.prob"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="mk-en.autobil.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="mk-en-chunker">
-    <pipeline>
-      <program name="lt-proc -w">
-        <file name="mk-en.automorf.bin"/>
-      </program>
-      <program name="cg-proc -w">
-        <file name="mk-en.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -g">
-        <file name="mk-en.prob"/>
+        <file name="mkd-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="mk-en.autobil.bin"/>
+        <file name="mkd-eng.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="mkd-eng-chunker">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="mkd-eng.automorf.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="mkd-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="mkd-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="mkd-eng.autobil.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-mk-en.mk-en.t1x"/>
-        <file name="mk-en.t1x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t1x"/>
+        <file name="mkd-eng.t1x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="mk-en-interchunk">
+  <mode name="mkd-eng-interchunk">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="mk-en.automorf.bin"/>
+        <file name="mkd-eng.automorf.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="mk-en.rlx.bin"/>
+        <file name="mkd-eng.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="mk-en.prob"/>
+        <file name="mkd-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="mk-en.autobil.bin"/>
+        <file name="mkd-eng.autobil.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-mk-en.mk-en.t1x"/>
-        <file name="mk-en.t1x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t1x"/>
+        <file name="mkd-eng.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-mk-en.mk-en.t2x"/>
-        <file name="mk-en.t2x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t2x"/>
+        <file name="mkd-eng.t2x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="mk-en-postchunk">
+  <mode name="mkd-eng-postchunk">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="mk-en.automorf.bin"/>
+        <file name="mkd-eng.automorf.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="mk-en.rlx.bin"/>
+        <file name="mkd-eng.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="mk-en.prob"/>
+        <file name="mkd-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="mk-en.autobil.bin"/>
+        <file name="mkd-eng.autobil.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-mk-en.mk-en.t1x"/>
-        <file name="mk-en.t1x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t1x"/>
+        <file name="mkd-eng.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-mk-en.mk-en.t2x"/>
-        <file name="mk-en.t2x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t2x"/>
+        <file name="mkd-eng.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-mk-en.mk-en.t3x"/>
-        <file name="mk-en.t3x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t3x"/>
+        <file name="mkd-eng.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="mk-en" install="yes">
+  <mode name="mkd-eng" install="yes">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="mk-en.automorf.bin"/>
+        <file name="mkd-eng.automorf.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="mk-en.rlx.bin"/>
+        <file name="mkd-eng.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="mk-en.prob"/>
+        <file name="mkd-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="mk-en.autobil.bin"/>
+        <file name="mkd-eng.autobil.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-mk-en.mk-en.t1x"/>
-        <file name="mk-en.t1x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t1x"/>
+        <file name="mkd-eng.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-mk-en.mk-en.t2x"/>
-        <file name="mk-en.t2x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t2x"/>
+        <file name="mkd-eng.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-mk-en.mk-en.t3x"/>
-        <file name="mk-en.t3x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t3x"/>
+        <file name="mkd-eng.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="mk-en.autogen.bin"/>
+        <file name="mkd-eng.autogen.bin"/>
       </program>
 <!--
       <program name="lt-proc -t">
-        <file name="mk-en.alpha.bin"/>
+        <file name="mkd-eng.alpha.bin"/>
       </program>
 -->
       <program name="lt-proc -p">
-        <file name="mk-en.autopgen.bin"/>
+        <file name="mkd-eng.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="mk-en-multi" install="no">
+  <mode name="mkd-eng-multi" install="no">
     <pipeline>
       <program name="apertium-transfer -b">
-        <file name="apertium-mk-en.mk-en.t1x"/>
-        <file name="mk-en.t1x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t1x"/>
+        <file name="mkd-eng.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-mk-en.mk-en.t2x"/>
-        <file name="mk-en.t2x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t2x"/>
+        <file name="mkd-eng.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-mk-en.mk-en.t3x"/>
-        <file name="mk-en.t3x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t3x"/>
+        <file name="mkd-eng.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="mk-en.autogen.bin"/>
+        <file name="mkd-eng.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="mk-en.autopgen.bin"/>
+        <file name="mkd-eng.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
-<mode name="mk-en-biltrans-to-end">
+<mode name="mkd-eng-biltrans-to-end">
     <pipeline>
       <program name="apertium-transfer -b">
-        <file name="apertium-mk-en.mk-en.t1x"/>
-        <file name="mk-en.t1x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t1x"/>
+        <file name="mkd-eng.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-mk-en.mk-en.t2x"/>
-        <file name="mk-en.t2x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t2x"/>
+        <file name="mkd-eng.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-mk-en.mk-en.t3x"/>
-        <file name="mk-en.t3x.bin"/>
+        <file name="apertium-mkd-eng.mkd-eng.t3x"/>
+        <file name="mkd-eng.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="mk-en.autogen.bin"/>
+        <file name="mkd-eng.autogen.bin"/>
       </program>
 
       <program name="lt-proc -p">
-        <file name="mk-en.autopgen.bin"/>
+        <file name="mkd-eng.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="en-mk-pretransfer">
+  <mode name="eng-mkd-pretransfer">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="en-mk.automorf.bin"/>
+        <file name="eng-mkd.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-mk.prob"/>
+        <file name="eng-mkd.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
     </pipeline>
