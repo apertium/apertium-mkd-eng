@@ -1,6 +1,4 @@
-Macedonian and English
-
-                            apertium-mk-en
+Macedonian and English (`apertium-mk-en`)
 ===============================================================================
 
 This is an Apertium language pair for translating from Macedonian to
@@ -28,13 +26,12 @@ Compiling
 ===============================================================================
 
 Given the requirements being installed, you should be able to just run:
-
+```
 $ ./configure 
 $ make
-# make install
-
-You can use ./autogen.sh instead of ./configure you're compiling from
-SVN. If you're using a --prefix to ./configure, make sure it's the
+```
+You can use `./autogen.sh` instead of `./configure` you're compiling from
+SVN. If you're using a `--prefix` to `./configure`, make sure it's the
 same one you used to install apertium itself.
 
 Testing
@@ -42,32 +39,33 @@ Testing
 
 If you are in the source directory after running make, the following
 commands should work:
-
+```
 $  echo "Јас сум тука." | apertium -d . mk-en
 I am here.
-
+```
 After installing somewhere in $PATH, you should be able to do eg.
-
+```
 $  echo "Јас сум тука." | apertium mk-en
 I am here.
-
+```
 The following command runs tests which are on the Apertium wiki page:
-
+```
 $ ./regression-tests.sh 
+```
 
 Files and data
 ===============================================================================
 
-* apertium-mk-en.mk.dix            - Monolingual dictionary for Macedonian
-* apertium-mk-en.mk-en.dix         - Bilingual dictionary 
-* apertium-mk-en.en.dix            - Monolingual dictionary for English
-* apertium-mk-en.post-en.dix       - Postgeneration dictionary for English
-* apertium-mk-en.mk-en.rlx         - Constraint Grammar for Macedonian
-* apertium-mk-en.mk-en.t1x         - Chunker rules for translating into English
-* apertium-mk-en.mk-en.t2x         - Interchunk rules for translating into English
-* apertium-mk-en.mk-en.t3x         - Postchunk rules for translating into English
-* mk-en.prob                       - Tagger model for Macedonian
-* modes.xml                        - Translation modes
+* `apertium-mk-en.mk.dix`            - Monolingual dictionary for Macedonian
+* `apertium-mk-en.mk-en.dix`         - Bilingual dictionary 
+* `apertium-mk-en.en.dix`            - Monolingual dictionary for English
+* `apertium-mk-en.post-en.dix`       - Postgeneration dictionary for English
+* `apertium-mk-en.mk-en.rlx`         - Constraint Grammar for Macedonian
+* `apertium-mk-en.mk-en.t1x`         - Chunker rules for translating into English
+* `apertium-mk-en.mk-en.t2x`         - Interchunk rules for translating into English
+* `apertium-mk-en.mk-en.t3x`         - Postchunk rules for translating into English
+* `mk-en.prob`                       - Tagger model for Macedonian
+* `modes.xml`                        - Translation modes
 
 For more information
 ===============================================================================
@@ -83,6 +81,6 @@ Help and support
 If you need help using this language pair or data, you can contact:
 
 * Mailing list: apertium-stuff@lists.sourceforge.net
-* IRC: #apertium on irc.freenode.net
+* IRC: `#apertium` on `irc.freenode.net`
 
 See also the file AUTHORS included in this distribution.
