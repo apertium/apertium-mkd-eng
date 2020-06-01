@@ -1,4 +1,3 @@
-VERSION=0.1.1
 LANG1=mkd
 LANG2=eng
 PREFIX1=$(LANG1)-$(LANG2)
@@ -10,6 +9,8 @@ TARGETS_COMMON = $(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
 	$(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin $(PREFIX1).alpha.bin \
 	$(PREFIX2).automorf.bin \
 	$(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).rlx.bin $(PREFIX1).lex.bin
+
+@ap_include@
 
 $(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
@@ -71,11 +72,6 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
            $(BASENAME).$(PREFIX1).lex \
            modes.xml
 
-modes/$(PREFIX1).mode: modes.xml
-	apertium-validate-modes modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
-
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
 
@@ -83,7 +79,6 @@ clean-dicts:
 	touch $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG2).dix $(BASENAME).$(PREFIX1).dix
 	rm $(BASENAME).$(LANG1).dix
 
-apertium_mkd_enmodesdir=$(prefix)/share/apertium/modes/
 apertium_mkd_endir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_mkd_en_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
                     $(PREFIX1).autobil.bin \
@@ -99,16 +94,9 @@ apertium_mkd_en_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
 		    $(BASENAME).$(PREFIX1).t1x \
 		    $(BASENAME).$(PREFIX1).t2x \
 		    $(BASENAME).$(PREFIX1).t3x \
-		    $(PREFIX1).autopgen.bin \
-		    modes.xml
+		    $(PREFIX1).autopgen.bin
 
-install-data-local:
-	mv modes modes.bak
-	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	rm -rf modes
-	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_mkd_enmodesdir) || mkdir $(DESTDIR)$(apertium_mkd_enmodesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_mkd_enmodesdir)
+install-data-local: install-modes
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_mkd_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_mkd_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_mkd_endir)

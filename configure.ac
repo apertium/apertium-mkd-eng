@@ -1,7 +1,3 @@
-#                                               -*- Autoconf -*-
-# Process this file with autoconf to produce a configure script.
-
-
 AC_PREREQ(2.52)
 
 AC_INIT([apertium-mkd-eng], [0.1.1], [ftyers@prompsit.com])
@@ -11,7 +7,6 @@ AC_PROG_AWK
 
 m4_define([required_apertium_version], [3.5.0])
 PKG_CHECK_MODULES(APERTIUM,   apertium >= required_apertium_version, [], [PKG_CHECK_MODULES(APERTIUM,   apertium-3.5 >= required_apertium_version)])
-                          
 
 AC_PATH_PROG(CGCOMP, cg-comp, no)
 if test x$ac_cv_path_CGCOMP = x
@@ -32,5 +27,7 @@ if test x$ac_cv_path_CGPROC = xno
 then
   AC_MSG_ERROR([You don't have cg-proc installed.])
 fi
-  
+
+AP_MKINCLUDE
+
 AC_OUTPUT([Makefile])
