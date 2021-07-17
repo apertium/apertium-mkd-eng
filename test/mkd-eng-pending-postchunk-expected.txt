@@ -1,0 +1,72 @@
+[14atCysGw1YW#0] ^the<det><def><sg>$ ^20<num><ord><sg>$ ^age<n><sg>$^.<sent>$
+[/14atCysGw1YW]
+[2UyCrKhlbGQK#0] ^Smoking<n><sg>$ ^in<pr>$ ^public<n><sg>$^?<sent>$
+[/2UyCrKhlbGQK]
+[5Ep64Va3McmP#0] ^Binger<np><cog><sg>$ ^tell<vblex><pres>$ ^that<cnjsub>$ ^The<det><def><sg>$ ^cabinet<n><sg>$ ^should<vaux><inf>$ ^not<adv>$ ^only<adv>$ ^hope<vblex><inf>$ ^that<cnjsub>$ ^the<det><def><sg>$ ^issue<n><sg>$ ^will<vaux><inf>$ ^disappear<vblex><inf>$ ^by<pr>$ ^himself<prn><ref><p3><m><sg>$^.<sent>$
+[/5Ep64Va3McmP]
+[7ZD3cXp62qUl#0] ^All<prn><qnt><mf><sp>$ ^24<num>$ ^Albanian<adj>$ ^*кратометражни$ ^film<n><pl>$ ^be<vbser><pres>$ ^long<adj><sint>$ ^one<num><sg>$ ^time<n><sg>$^.<sent>$
+[/7ZD3cXp62qUl]
+[99AMHmlV9T3E#0] ^One<num><sg>$ ^of<pr>$ ^the<det><def><pl>$ ^good<adj><sint><sup>$ ^investment<n><pl>$^.<sent>$
+[/99AMHmlV9T3E]
+[9AJxaSLepjSL#0] ^The<det><def><sg>$ ^extradition<n><sg>$ ^in<pr>$ ^Croatia<np><top><sg>$ ^can<vaux><past>$ ^take<vblex><inf>$ ^several<prn><ind><mf><pl>$ ^week<n><pl>$^.<sent>$
+[/9AJxaSLepjSL]
+[CFtpTRhP5OxZ#0] ^The<det><def><sg>$ ^size<n><sg>$ ^of<pr>$ ^the<det><def><pl>$ ^immigrant<n><pl>$ ^will<vaux><inf>$ ^not<adv>$ ^exceed<vblex><pres>$ ^15<num>$ ^only<adv>$ ^of<pr>$ ^the<det><def><sg>$ ^total<adj>$ ^population<n><sg>$ ^of<pr>$ ^the<det><def><sg>$ ^other<adj>$ ^page<n><sg>$^.<sent>$
+[/CFtpTRhP5OxZ]
+[EXiPSGMBZ5ih#0] ^its<det><pos><sp>$ ^10<num><ord><sg>$ ^year<n><sg>$^.<sent>$
+[/EXiPSGMBZ5ih]
+[GrjoG1eHuAS3#0] ^come<vblex><pres>$ ^with<pr>$ ^prpers<prn><obj><p1><mf><sg>$^?<sent>$
+[/GrjoG1eHuAS3]
+[IbYSbHgDaEwO#0] ^Prpers<prn><obj><p1><mf><pl>$ ^have<vbhaver><pres>$ ^be<vblex><pp>$ ^know<vblex><ger>$^.<sent>$
+[/IbYSbHgDaEwO]
+[IcEZuIfBPAZr#0] ^Have<vbhaver><pres>$ ^*мечки$ ^in<pr>$ ^the<det><def><pl>$ ^mountain<n><pl>$^.<sent>$
+[/IcEZuIfBPAZr]
+[KUPoiVbLhpxJ#0] ^the<det><def><sg>$ ^54<num><ord><sg>$ ^area<n><sg>$^.<sent>$
+[/KUPoiVbLhpxJ]
+[M_WFOyKj05jy#0] ^the<det><def><sg>$ ^97<num><ord><sg>$ ^area<n><sg>$^.<sent>$
+[/M_WFOyKj05jy]
+[Om08MRDNt7NI#0] ^Bush<np><cog><sg>$ ^in<pr>$ ^Washington<np><top><sg>$^.<sent>$
+[/Om08MRDNt7NI]
+[Qjo882qPwi_d#0] ^Of<pr>$ ^the<det><def><pl>$ ^11<num><ord><pl>$ ^candidate<n><pl>$^,<cm>$ ^Filip<np><ant><m><sg>$ ^Vujanović<np><cog><sg>$ ^be<vbser><past>$ ^*очигледниот$ ^*фаворит$^.<sent>$
+[/Qjo882qPwi_d]
+[RBur3vkNDVKh#0] ^That<prn><dem><mf><sg>$ ^which<rel><nn><mf><sp>$  ^be<vbser><pres><p3><sg>$ ^worsen<vblex><ger>$ ^the<det><def><pl>$ ^economic<adj>$ ^issue<n><pl>$ ^of<pr>$ ^the<det><def><pl>$ ^young<adj><sint>$ ^person<n><pl>$ ^be<vbser><pres><p3><sg>$ ^their<det><pos><sp>$ ^non<adv>$^-<guio>$^involvement<n><sg>$ ^in<pr>$ ^the<det><def><sg>$ ^politics<n><sg>$^.<sent>$
+[/RBur3vkNDVKh]
+[ReSVmZKPXe27#0] ^Prpers<prn><subj><p3><m><sg>$ ^be<vbser><past>$ ^wash<vblex><ger>$  ^indicate<vblex><past>$ ^but<cnjcoo>$ ^prpers<prn><subj><p1><mf><sg>$ ^already<adv>$ ^have<vbhaver><past>$ ^see<vblex><pp>$ ^prpers<prn><obj><p3><f><sg>$
+[/ReSVmZKPXe27]
+[TPr4ablCsvc4#0] ^Macedonia<np><top><sg>$ ^be<vbser><pres><p3><sg>$ ^of<pr>$ ^the<det><def><sg>$ ^100<num><ord><sg>$ ^area<n><sg>$ ^with<pr>$ ^Argentina<np><top><sg>$^.<sent>$
+[/TPr4ablCsvc4]
+[W9w_G4eSVL3X#0] ^The<det><def><pl>$ ^serbian<adj>$ ^police<n><pl>$ ^should<vaux><past>$ ^not<adv>$ ^be<vbser><inf>$ ^below<adv>$ ^control<n><sg>$ ^of<pr>$ ^KPS<abbr>$^.<sent>$
+[/W9w_G4eSVL3X]
+[aTGaPjVmr3xf#0] ^Prpers<prn><subj><p3><f><sg>$ ^be<vbser><past>$ ^sleep<vblex><ger>$ ^one<num><sg>$ ^hour<n><sg>$ ^and<cnjcoo>$ ^begin<vblex><past>$ ^to<pr>$ ^work<vblex><inf>$^.<sent>$
+[/aTGaPjVmr3xf]
+[cfcbFkacrTUV#0] ^One<num><sg>$ ^third<n><sg>$ ^of<pr>$ ^the<det><def><sg>$ ^population<n><sg>$ ^be<vbser><pres><p3><sg>$ ^young<adj><sint><comp>$ ^of<pr>$ ^30<num>$ ^year<n><pl>$^.<sent>$
+[/cfcbFkacrTUV]
+[gCyrsK3iVz5d#0] ^Prpers<prn><obj><p1><mf><pl>$  ^come<vblex><pres>$ ^with<pr>$ ^prpers<prn><obj><p1><mf><sg>$^.<sent>$
+[/gCyrsK3iVz5d]
+[hGXhfNj8phCU#0] ^The<det><def><pl>$ ^two<num><sp>$ ^state<n><pl>$^.<sent>$
+[/hGXhfNj8phCU]
+[hj2tevuIzxvZ#0] ^Prpers<prn><subj><p3><m><sg>$ ^ask<vblex><pres><p3><sg>$ ^prpers<prn><obj><p1><mf><sg>$ ^whether<adv>$ ^will<vaux><inf>$ ^come<vblex><inf>$^.<sent>$
+[/hj2tevuIzxvZ]
+[kAi6Qls9Y9Qo#0] ^Prpers<prn><subj><p2><mf><sg>$ ^ones<prn><pos><mf><sp>$ ^be<vbser><past><p3><sg>$ ^Roma<n><sg>$^.<sent>$
+[/kAi6Qls9Y9Qo]
+[lFlqOfHIIaL5#0] ^*Експресниот$ ^train<n><sg>$  ^*скрати$ ^the<det><def><sg>$ ^180<num>$^-<guio>$^minute<adj>$ ^trip<n><sg>$ ^between<pr>$ ^Ankara<np><top><sg>$ ^and<cnjcoo>$ ^Eskisehir<np><ant><m><sg>$ ^of<pr>$ ^70<num>$ ^time<n><pl>$^.<sent>$
+[/lFlqOfHIIaL5]
+[oADQ6o8xTMRU#0] ^be<vbser><pres>$ ^want<vblex><ger>$ ^prpers<prn><obj><p1><mf><pl>$ ^to<pr>$ ^come<vblex><inf>$^?<sent>$
+[/oADQ6o8xTMRU]
+[qFWi4B3rO6mk#0] ^The<det><def><sg>$ ^position<n><sg>$ ^in<pr>$ ^Macedonia<np><top><sg>$ ^in<pr>$ ^and<cnjcoo>$ ^*непросредно$ ^in<pr>$ ^the<det><def><sg>$ ^first<adj><ord>$ ^world<adj>$ ^war<n><sg>$^.<sent>$
+[/qFWi4B3rO6mk]
+[qeMyCuh7sxNL#0] ^Prpers<prn><subj><p3><m><sg>$  ^ask<vblex><pres>$ ^as<cnjsub>$ ^*догини$ ^have<vbhaver><pres>$^.<sent>$
+[/qeMyCuh7sxNL]
+[rVpJ1E1iiDsr#0] ^The<det><def><sg>$ ^show<n><sg>$ ^be<vbser><pres><p3><sg>$ ^include<vblex><ger>$ ^60<num>$ ^area<n><pl>$ ^of<pr>$ ^11<num>$ ^country<n><pl>$^.<sent>$
+[/rVpJ1E1iiDsr]
+[vWWq-qLLUhE2#0] ^The<det><def><sg>$ ^show<n><sg>$ ^be<vbser><pres><p3><sg>$ ^area<n><sg>$ ^of<pr>$ ^The<det><def><sg>$ ^year<n><sg>$ ^of<pr>$ ^Turkey<np><top><sg>$ ^in<pr>$ ^Japan<np><top><sg>$^.<sent>$
+[/vWWq-qLLUhE2]
+[wDlvzCLE7giE#0] ^*Крајбрежната$ ^cutter<n><sg>$ ^can<vaux><past>$ ^not<adv>$ ^find<vblex><inf>$ ^prpers<prn><obj><p3><f><sg>$^.<sent>$
+[/wDlvzCLE7giE]
+[xaFw2mXqZ1LA#0] ^have<vbhaver><pres><p3><sg>$ ^prpers<prn><obj><p3><mf><pl>$ ^a lot<adv>$^.<sent>$
+[/xaFw2mXqZ1LA]
+[xwDV4Pf-1WF3#0] ^Russia<np><top><sg>$ ^have<vbhaver><pres>$ ^650<num>$ ^peacekeeper<n><pl>$ ^of<pr>$ ^Kosovo<np><top><sg>$ ^and<cnjcoo>$ ^320<num>$ ^in<pr>$ ^Bosnia<np><top><sg>$ ^and<cnjcoo>$ ^Herzegovina<np><top><sg>$^.<sent>$
+[/xwDV4Pf-1WF3]
+[ybg6jhBSKJ8X#0] ^Prpers<prn><subj><p1><mf><pl>$ ^have<vbhaver><past>$ ^restaurant<n><sg>$ ^there<adv>$^.<sent>$
+[/ybg6jhBSKJ8X]
+[zcm6arL4IXz6#0] ^Prpers<prn><subj><p3><m><sg>$ ^be<vbser><past>$ ^wash<vblex><ger>$  ^indicate<vblex><past>$ ^but<cnjcoo>$ ^prpers<prn><subj><p1><mf><sg>$ ^already<adv>$ ^have<vbhaver><past>$ ^see<vblex><pp>$ ^prpers<prn><obj><p3><f><sg>$
+[/zcm6arL4IXz6]

@@ -1,0 +1,72 @@
+[14atCysGw1YW#0] ^20-тиот/20<num><ord><m><sg><nom><def>$ ^век/век<n><m><sg><nom><ind>$^./.<sent>$
+[/14atCysGw1YW]
+[2UyCrKhlbGQK#0] ^Пушење/пушење<n><nt><sg><nom><ind>$ ^во/во<pr>$ ^јавност/јавност<n><f><sg><nom><ind>$^?/?<sent>$
+[/2UyCrKhlbGQK]
+[5Ep64Va3McmP#0] ^Бингер/Бингер<np><cog><mfn><sg><nom>$ ^рече/рече<vblex><perf><tv><pres><p3><sg>/рече<vblex><perf><tv><pii><p2><sg>/рече<vblex><perf><tv><pii><p3><sg>/рече<vblex><perf><tv><aor><p2><sg>/рече<vblex><perf><tv><aor><p3><sg>$ ^дека/дека<cnjsub>$ ^Владата/влада<n><f><sg><nom><def>$ ^не/не<adv>/clitic<prn><pers><clt><p1><mfn><pl><acc>$ ^треба/треба<vbmod><pres><p3><sg>$ ^само/само<adv>/сам<adj><nt><sg><nom><ind>$ ^да/да<ij>/да<part>$ ^се/е<vbser><pres><p3><mf><pl>/clitic<prn><ref><pers><mfn><sp><acc>$ ^надева/надева<vblex><imperf><iv><pres><p3><sg>$ ^дека/дека<cnjsub>$ ^проблемот/проблем<n><m><sg><nom><def>$ ^ќе/ќе<part><exp>$ ^исчезне/исчезне<vblex><perf><iv><pres><p3><sg>$ ^сам од себе/сам<adj><m><sg><nom><ind># од себе$^./.<sent>$
+[/5Ep64Va3McmP]
+[7ZD3cXp62qUl#0] ^Сите/сите<adj><nt><sg><nom><ind>/сиот<prn><tot><mfn><pl><def>/сите<adj><mfn><pl><nom><dst>/сите<adj><mfn><pl><nom><prx>/сите<adj><mfn><pl><nom><def>/сите<adj><mfn><pl><nom><ind>/сите<adj><nt><sg><nom><dst>/сите<adj><nt><sg><nom><prx>/сите<adj><nt><sg><nom><def>/сите<adj><m><sg><nom><ind>/сите<adj><f><sg><nom><dst>/сите<adj><f><sg><nom><prx>/сите<adj><f><sg><nom><def>/сите<adj><f><sg><nom><ind>/сите<adj><m><sg><nom><dst>/сите<adj><m><sg><nom><prx>/сите<adj><m><sg><nom><def>$ ^24/24<num>$ ^албански/албански<adj><m><sg><nom><ind>/албански<adj><mfn><pl><nom><ind>$ ^кратометражни/*кратометражни$ ^филмови/филм<n><m><pl><nom><ind>$ ^се/е<vbser><pres><p3><mf><pl>/clitic<prn><ref><pers><mfn><sp><acc>$ ^долги/долг<adj><mfn><pl><nom><ind>$ ^една/еден<num><f><sg><nom><ind>$ ^минута/минута<n><f><sg><nom><ind>$^./.<sent>$
+[/7ZD3cXp62qUl]
+[99AMHmlV9T3E#0] ^Една/еден<num><f><sg><nom><ind>$ ^од/од<pr>$ ^најдобрите/adj<pref><sup>+добар<adj><mfn><pl><nom><def>$ ^инвестиции/инвестиција<n><f><pl><nom><ind>$^./.<sent>$
+[/99AMHmlV9T3E]
+[9AJxaSLepjSL#0] ^Екстрадицијата/екстрадиција<n><f><sg><nom><def>$ ^во/во<pr>$ ^Хрватска/Хрватска<np><top><f><sg><nom>/хрватски<adj><f><sg><nom><ind>$ ^би/би<vbser><pres><p2><sg>/би<vbser><pres><p3><sg>$ ^можела/може<vbmod><lp><pii><f><sg>$ ^да/да<ij>/да<part>$ ^потрае/потрае<vblex><perf><iv><pres><p3><sg>$ ^неколку/неколку<prn><ind><ind>$ ^недели/недела<n><f><pl><nom><ind>$^./.<sent>$
+[/9AJxaSLepjSL]
+[CFtpTRhP5OxZ#0] ^Бројот/број<n><m><sg><nom><def>$ ^на/на<pr>$ ^имигрантите/имигрант<n><m><pl><nom><def>$ ^нема/нема<vbhaver><pres><p3><sg>$ ^да/да<ij>/да<part>$ ^надмине/надмине<vblex><perf><tv><pres><p3><sg>$ ^15/15<num>$ ^отсто/отсто<adv>$ ^од/од<pr>$ ^вкупното/вкупен<adj><nt><sg><nom><def>$ ^население/население<n><nt><sg><nom><ind>$ ^на/на<pr>$ ^другата/друг<adj><f><sg><nom><def>$ ^страна/страна<n><f><sg><nom><ind>$^./.<sent>$
+[/CFtpTRhP5OxZ]
+[EXiPSGMBZ5ih#0] ^својата/free<prn><ref><pos><f><sg><def>$ ^10-та/10<num><ord><f><sg><nom><ind>/10<num><ord><f><sg><nom><def>$ ^година/година<n><f><sg><nom><ind>$^./.<sent>$
+[/EXiPSGMBZ5ih]
+[GrjoG1eHuAS3#0] ^Нели/нели<part>$ ^дојдеш/дојде<vblex><perf><iv><pres><p2><sg>$ ^со/со<pr>$ ^мене/free<prn><pers><p1><mfn><sg><acc>/free<prn><pers><p1><mfn><sg><dat>$^?/?<sent>$
+[/GrjoG1eHuAS3]
+[IbYSbHgDaEwO#0] ^Не/не<adv>/clitic<prn><pers><clt><p1><mfn><pl><acc>$ ^сум/е<vbser><pres><p1><mf><sg>$ ^знаел/знае<vblex><imperf><tv><lp><pii><m><sg>$^./.<sent>$
+[/IbYSbHgDaEwO]
+[IcEZuIfBPAZr#0] ^Има/има<vbhaver><pres><p3><sg>$ ^мечки/*мечки$ ^во/во<pr>$ ^планините/планина<n><f><pl><nom><def>$^./.<sent>$
+[/IcEZuIfBPAZr]
+[KUPoiVbLhpxJ#0] ^54-тото/54<num><ord><nt><sg><nom><def>$ ^место/место<n><nt><sg><nom><ind>$^./.<sent>$
+[/KUPoiVbLhpxJ]
+[M_WFOyKj05jy#0] ^97-мото/97<num><ord><nt><sg><nom><def>$ ^место/место<n><nt><sg><nom><ind>$^./.<sent>$
+[/M_WFOyKj05jy]
+[Om08MRDNt7NI#0] ^Буш/Буш<np><cog><mfn><sg><nom>$ ^во/во<pr>$ ^Вашингтон/Вашингтон<np><top><m><sg><nom>$^./.<sent>$
+[/Om08MRDNt7NI]
+[Qjo882qPwi_d#0] ^Од/од<pr>$ ^11-те/11<num><ord><mfn><pl><nom><def>$ ^кандидати/кандидат<n><m><pl><nom><ind>$^,/,<cm>$ ^Филип/Филип<np><ant><m><sg><nom>/Филип<np><ant><m><sg><voc>$ ^Вујановиќ/Вујановиќ<np><cog><mfn><sg><nom>$ ^беше/е<vbser><pii><p2><mf><sg>/е<vbser><pii><p3><mf><sg>$ ^очигледниот/*очигледниот$ ^фаворит/*фаворит$^./.<sent>$
+[/Qjo882qPwi_d]
+[RBur3vkNDVKh#0] ^Она/оној<prn><dem><nt><sg>/free<prn><pers><p3><f><sg><nom>$ ^што/што<cnjsub>/што<prn><itg>/што<prn><rel>$ ^ги/clitic<prn><pers><clt><p3><mfn><pl><acc>$ ^влошува/влошува<vblex><imperf><tv><pres><p3><sg>$ ^економските/економски<adj><mfn><pl><nom><def>$ ^проблеми/проблем<n><m><pl><nom><ind>$ ^на/на<pr>$ ^младите/млад<adj><mfn><pl><nom><def>$ ^луѓе/луѓе<n><mfn><pl><nom><ind>$ ^е/е<vbser><pres><p3><mf><sg>$ ^нивното/нивен<det><pos><def><nt><sg>/нивен<prn><pos><nt><sg><def>$ ^не/не<adv>/clitic<prn><pers><clt><p1><mfn><pl><acc>$^-/-<guio>$^учество/учество<n><nt><sg><nom><ind>$ ^во/во<pr>$ ^политиката/политика<n><f><sg><nom><def>$^./.<sent>$
+[/RBur3vkNDVKh]
+[ReSVmZKPXe27#0] ^Тој/тој<prn><dem><m><sg>/free<prn><pers><p3><m><sg><nom>$ ^ми/мие<vblex><imperf><iv><aor><p2><sg>/мие<vblex><imperf><iv><aor><p3><sg>/clitic<prn><pos><clt><p1><mfn><sg>/clitic<prn><pers><clt><p1><mfn><sg><dat>$ ^ја/clitic<prn><pers><clt><p3><f><sg><acc>$ ^покажа/покаже<vblex><perf><tv><aor><p2><sg>/покаже<vblex><perf><tv><aor><p3><sg>$ ^но/но<cnjcoo>$ ^јас/free<prn><pers><p1><mfn><sg><nom>$ ^веќе/веќе<adv>$ ^ја/clitic<prn><pers><clt><p3><f><sg><acc>$ ^бев/е<vbser><pii><p1><mf><sg>$ ^видел/види<vblex><perf><tv><lp><pii><m><sg>/види<vblex><perf><tv><lp><aor><m><sg>$
+[/ReSVmZKPXe27]
+[TPr4ablCsvc4#0] ^Maкедонија/Македонија<np><top><f><sg><nom>$ ^е/е<vbser><pres><p3><mf><sg>$ ^на/на<pr>$ ^100-тото/100<num><ord><nt><sg><nom><def>$ ^место/место<n><nt><sg><nom><ind>$ ^со/со<pr>$ ^Аргентина/Аргентина<np><top><f><sg><nom>$^./.<sent>$
+[/TPr4ablCsvc4]
+[W9w_G4eSVL3X#0] ^Српската/српски<adj><f><sg><nom><def>$ ^полиција/полиција<n><f><sg><nom><ind>$ ^не/не<adv>/clitic<prn><pers><clt><p1><mfn><pl><acc>$ ^треба/треба<vbmod><pres><p3><sg>$ ^да/да<ij>/да<part>$ ^биде/биде<vbser><inf>/биде<vbser><pres><p3><sg>$ ^под/под<pr>$ ^контрола/контрола<n><f><sg><nom><ind>$ ^на/на<pr>$ ^КПС/КПС<abbr>$^./.<sent>$
+[/W9w_G4eSVL3X]
+[aTGaPjVmr3xf#0] ^Таа/тој<prn><dem><f><sg>/free<prn><pers><p3><f><sg><nom>$ ^спиеше/спие<vblex><imperf><iv><pii><p2><sg>/спие<vblex><imperf><iv><pii><p3><sg>$ ^еден/еден<num><m><sg><nom><ind>$ ^час/час<n><m><sg><nom><ind>$ ^и/и<cnjcoo>/clitic<prn><pos><clt><p3><f><sg>/clitic<prn><pers><clt><p3><f><sg><dat>$ ^почна/почне<vblex><perf><iv><aor><p2><sg>/почне<vblex><perf><iv><aor><p3><sg>$ ^да/да<ij>/да<part>$ ^работи/работи<vblex><imperf><tv><imp><sg>/работи<vblex><imperf><iv><imp><sg>/работа<n><f><pl><nom><ind>/работи<vblex><imperf><tv><pres><p3><sg>/работи<vblex><imperf><iv><pres><p3><sg>$^./.<sent>$
+[/aTGaPjVmr3xf]
+[cfcbFkacrTUV#0] ^Една/еден<num><f><sg><nom><ind>$ ^третина/третина<n><f><sg><nom><ind>$ ^од/од<pr>$ ^населението/население<n><nt><sg><nom><def>$ ^е/е<vbser><pres><p3><mf><sg>$ ^помладо/adj<pref><comp>+млад<adj><nt><sg><nom><ind>$ ^од/од<pr>$ ^30/30<num>$ ^години/година<n><f><pl><nom><ind>$^./.<sent>$
+[/cfcbFkacrTUV]
+[gCyrsK3iVz5d#0] ^Не/не<adv>/clitic<prn><pers><clt><p1><mfn><pl><acc>$ ^ли/ли<part>$ ^дојдеш/дојде<vblex><perf><iv><pres><p2><sg>$ ^со/со<pr>$ ^мене/free<prn><pers><p1><mfn><sg><acc>/free<prn><pers><p1><mfn><sg><dat>$^./.<sent>$
+[/gCyrsK3iVz5d]
+[hGXhfNj8phCU#0] ^Двете/два<num><f><nom><def>$ ^држави/држава<n><f><pl><nom><ind>$^./.<sent>$
+[/hGXhfNj8phCU]
+[hj2tevuIzxvZ#0] ^Тој/тој<prn><dem><m><sg>/free<prn><pers><p3><m><sg><nom>$ ^ме/clitic<prn><pers><clt><p1><mfn><sg><acc>$ ^праша/праша<vblex><perf><tv><pres><p3><sg>/праша<vblex><perf><tv><aor><p2><sg>/праша<vblex><perf><tv><aor><p3><sg>$ ^дали/дали<part>$ ^ќе/ќе<part><exp>$ ^дојдам/дојде<vblex><perf><iv><pres><p1><sg>$^./.<sent>$
+[/hj2tevuIzxvZ]
+[kAi6Qls9Y9Qo#0] ^Ти/free<prn><pers><p2><mfn><sg><nom>/clitic<prn><pos><clt><p2><mfn><sg>/clitic<prn><pers><clt><p2><mfn><sg><dat>$ ^си/е<vbser><pres><p2><mf><sg>/clitic<prn><ref><pos>/clitic<prn><ref><pers><mfn><sp><dat>$ ^бил/е<vbser><lp><pii><p3><m><sg>/бие<vblex><imperf><tv><lp><aor><m><sg>$ ^Ром/ром<n><m><sg><nom><ind>$^./.<sent>$
+[/kAi6Qls9Y9Qo]
+[lFlqOfHIIaL5#0] ^Експресниот/*Експресниот$ ^воз/воз<n><m><sg><nom><ind>$ ^го/clitic<prn><pers><clt><p3><m><sg><acc>/clitic<prn><pers><clt><p3><nt><sg><acc>$ ^скрати/*скрати$ ^180/180<num>$^-/-<guio>$^минутното/минутен<adj><nt><sg><nom><def>$ ^патување/патување<n><nt><sg><nom><ind>$ ^помеѓу/помеѓу<pr>$ ^Анкара/Анкара<np><top><f><sg><nom>$ ^и/и<cnjcoo>/clitic<prn><pos><clt><p3><f><sg>/clitic<prn><pers><clt><p3><f><sg><dat>$ ^Ескишехир/Ескишехир<np><ant><m><sg><nom>/Ескишехир<np><ant><m><sg><voc>$ ^за/за<pr>$ ^70/70<num>$ ^минути/минута<n><f><pl><nom><ind>$^./.<sent>$
+[/lFlqOfHIIaL5]
+[oADQ6o8xTMRU#0] ^Зар/зар<part>$ ^не/не<adv>/clitic<prn><pers><clt><p1><mfn><pl><acc>$ ^сакаш/сака<vblex><imperf><tv><pres><p2><sg>$ ^да/да<ij>/да<part>$ ^дојдеш/дојде<vblex><perf><iv><pres><p2><sg>$^?/?<sent>$
+[/oADQ6o8xTMRU]
+[qFWi4B3rO6mk#0] ^Состојбата/состојба<n><f><sg><nom><def>$ ^во/во<pr>$ ^Македонија/Македонија<np><top><f><sg><nom>$ ^во/во<pr>$ ^и/и<cnjcoo>/clitic<prn><pos><clt><p3><f><sg>/clitic<prn><pers><clt><p3><f><sg><dat>$ ^непросредно/*непросредно$ ^по/по<pr>$ ^првата/прв<num><f><sg><nom><def>$ ^светска/светски<adj><f><sg><nom><ind>$ ^војна/војна<n><f><sg><nom><ind>$^./.<sent>$
+[/qFWi4B3rO6mk]
+[qeMyCuh7sxNL#0] ^Тој/тој<prn><dem><m><sg>/free<prn><pers><p3><m><sg><nom>$ ^ме/clitic<prn><pers><clt><p1><mfn><sg><acc>$ ^праша/праша<vblex><perf><tv><pres><p3><sg>/праша<vblex><perf><tv><aor><p2><sg>/праша<vblex><perf><tv><aor><p3><sg>$ ^колку/колку<prn><itg>/колку<prn><rel>$ ^догини/*догини$ ^имам/има<vbhaver><pres><p1><sg>$^./.<sent>$
+[/qeMyCuh7sxNL]
+[rVpJ1E1iiDsr#0] ^Изложбата/изложба<n><f><sg><nom><def>$ ^вклучува/вклучува<vblex><imperf><tv><pres><p3><sg>$ ^60/60<num>$ ^дела/дел<n><m><pl><nom><ind>/дело<n><nt><pl><nom><ind>$ ^од/од<pr>$ ^11/11<num>$ ^земји/земја<n><f><pl><nom><ind>$^./.<sent>$
+[/rVpJ1E1iiDsr]
+[vWWq-qLLUhE2#0] ^Изложбата/изложба<n><f><sg><nom><def>$ ^е/е<vbser><pres><p3><mf><sg>$ ^дел/дел<n><m><sg><nom><ind>$ ^од/од<pr>$ ^Годината/година<n><f><sg><nom><def>$ ^на/на<pr>$ ^Турција/Турција<np><top><f><sg><nom>$ ^во/во<pr>$ ^Јапонија/Јапонија<np><top><f><sg><nom>$^./.<sent>$
+[/vWWq-qLLUhE2]
+[wDlvzCLE7giE#0] ^Крајбрежната/*Крајбрежната$ ^стража/стража<n><f><sg><nom><ind>$ ^не/не<adv>/clitic<prn><pers><clt><p1><mfn><pl><acc>$ ^може/може<vbmod><pres><p3><sg>$ ^да/да<ij>/да<part>$ ^ја/clitic<prn><pers><clt><p3><f><sg><acc>$ ^пронајде/пронајде<vblex><perf><tv><pres><p3><sg>/пронајде<vblex><perf><tv><aor><p2><sg>/пронајде<vblex><perf><tv><aor><p3><sg>$^./.<sent>$
+[/wDlvzCLE7giE]
+[xaFw2mXqZ1LA#0] ^Ги/clitic<prn><pers><clt><p3><mfn><pl><acc>$ ^има/има<vbhaver><pres><p3><sg>$ ^многу/многу<adv>$^./.<sent>$
+[/xaFw2mXqZ1LA]
+[xwDV4Pf-1WF3#0] ^Русија/Русија<np><top><f><sg><nom>$ ^има/има<vbhaver><pres><p3><sg>$ ^650/650<num>$ ^мировници/мировник<n><m><pl><nom><ind>$ ^на/на<pr>$ ^Косово/Косово<np><top><nt><sg><nom>$ ^и/и<cnjcoo>/clitic<prn><pos><clt><p3><f><sg>/clitic<prn><pers><clt><p3><f><sg><dat>$ ^320/320<num>$ ^во/во<pr>$ ^Босна/Босна<np><top><f><sg><nom>$ ^и/и<cnjcoo>/clitic<prn><pos><clt><p3><f><sg>/clitic<prn><pers><clt><p3><f><sg><dat>$ ^Херцеговина/Херцеговина<np><top><f><sg><nom>$^./.<sent>$
+[/xwDV4Pf-1WF3]
+[ybg6jhBSKJ8X#0] ^Ние/free<prn><pers><p1><mfn><pl><nom>$ ^имавме/има<vbhaver><pii><p1><pl>/има<vbhaver><aor><p1><pl>$ ^ресторан/ресторан<n><m><sg><nom><ind>$ ^таму/таму<adv>$^./.<sent>$
+[/ybg6jhBSKJ8X]
+[zcm6arL4IXz6#0] ^Тој/тој<prn><dem><m><sg>/free<prn><pers><p3><m><sg><nom>$ ^ми/мие<vblex><imperf><iv><aor><p2><sg>/мие<vblex><imperf><iv><aor><p3><sg>/clitic<prn><pos><clt><p1><mfn><sg>/clitic<prn><pers><clt><p1><mfn><sg><dat>$ ^ја/clitic<prn><pers><clt><p3><f><sg><acc>$ ^покажа/покаже<vblex><perf><tv><aor><p2><sg>/покаже<vblex><perf><tv><aor><p3><sg>$ ^но/но<cnjcoo>$ ^јас/free<prn><pers><p1><mfn><sg><nom>$ ^веќе/веќе<adv>$ ^ја/clitic<prn><pers><clt><p3><f><sg><acc>$ ^имав/има<vbhaver><pii><p1><sg>/има<vbhaver><aor><p1><sg>$ ^видено/види<vblex><perf><tv><pp><nt><sg><ind>$
+[/zcm6arL4IXz6]

@@ -1,0 +1,72 @@
+[14atCysGw1YW#0] ^20<num><ord><m><sg><nom><def><@→N>$ ^век<n><m><sg><nom><ind>$^.<sent>$
+[/14atCysGw1YW]
+[2UyCrKhlbGQK#0] ^Пушење<n><nt><sg><nom><ind>$ ^во<pr>$ ^јавност<n><f><sg><nom><ind><@P←>$^?<sent>$
+[/2UyCrKhlbGQK]
+[5Ep64Va3McmP#0] ^Бингер<np><cog><mfn><sg><nom>$ ^рече<vblex><perf><tv><pres><p3><sg>$ ^дека<cnjsub>$ ^Влада<n><f><sg><nom><def>$ ^не<adv>$ ^треба<vbmod><pres><p3><sg>$ ^само<adv>$ ^да<part>$ ^clitic<prn><ref><pers><mfn><sp><acc><@X>$ ^надева<vblex><imperf><iv><pres><p3><sg>$ ^дека<cnjsub>$ ^проблем<n><m><sg><nom><def>$ ^ќе<part><exp>$ ^исчезне<vblex><perf><iv><pres><p3><sg>$ ^сам# од себе<adj><m><sg><nom><ind>$^.<sent>$
+[/5Ep64Va3McmP]
+[7ZD3cXp62qUl#0] ^Сиот<prn><tot><mfn><pl><def>$ ^24<num>$ ^албански<adj><m><sg><nom><ind>$ ^*кратометражни$ ^филм<n><m><pl><nom><ind><@SUBJ→>$ ^е<vbser><pres><p3><mf><pl>$ ^долг<adj><mfn><pl><nom><ind><@←SPRED>$ ^еден<num><f><sg><nom><ind><@→N>$ ^минута<n><f><sg><nom><ind>$^.<sent>$
+[/7ZD3cXp62qUl]
+[99AMHmlV9T3E#0] ^Еден<num><f><sg><nom><ind>$ ^од<pr>$ ^adj<pref><sup>$ ^добар<adj><mfn><pl><nom><def>$ ^инвестиција<n><f><pl><nom><ind>$^.<sent>$
+[/99AMHmlV9T3E]
+[9AJxaSLepjSL#0] ^Екстрадиција<n><f><sg><nom><def>$ ^во<pr>$ ^Хрватска<np><top><f><sg><nom>$ ^би<vbser><pres><p2><sg>$ ^може<vbmod><lp><pii><f><sg>$ ^да<part>$ ^потрае<vblex><perf><iv><pres><p3><sg>$ ^неколку<prn><ind><ind>$ ^недела<n><f><pl><nom><ind>$^.<sent>$
+[/9AJxaSLepjSL]
+[CFtpTRhP5OxZ#0] ^Број<n><m><sg><nom><def>$ ^на<pr>$ ^имигрант<n><m><pl><nom><def><@P←>$ ^нема<vbhaver><pres><p3><sg>$ ^да<part>$ ^надмине<vblex><perf><tv><pres><p3><sg>$ ^15<num>$ ^отсто<adv>$ ^од<pr>$ ^вкупен<adj><nt><sg><nom><def>$ ^население<n><nt><sg><nom><ind>$ ^на<pr>$ ^друг<adj><f><sg><nom><def>$ ^страна<n><f><sg><nom><ind>$^.<sent>$
+[/CFtpTRhP5OxZ]
+[EXiPSGMBZ5ih#0] ^free<prn><ref><pos><f><sg><def>$ ^10<num><ord><f><sg><nom><ind><@→N>$ ^година<n><f><sg><nom><ind>$^.<sent>$
+[/EXiPSGMBZ5ih]
+[GrjoG1eHuAS3#0] ^Нели<part>$ ^дојде<vblex><perf><iv><pres><p2><sg>$ ^со<pr>$ ^free<prn><pers><p1><mfn><sg><acc><@X>$^?<sent>$
+[/GrjoG1eHuAS3]
+[IbYSbHgDaEwO#0] ^Clitic<prn><pers><clt><p1><mfn><pl><acc><@X>$ ^е<vbser><pres><p1><mf><sg>$ ^знае<vblex><imperf><tv><lp><pii><m><sg>$^.<sent>$
+[/IbYSbHgDaEwO]
+[IcEZuIfBPAZr#0] ^Има<vbhaver><pres><p3><sg>$ ^*мечки$ ^во<pr>$ ^планина<n><f><pl><nom><def><@P←>$^.<sent>$
+[/IcEZuIfBPAZr]
+[KUPoiVbLhpxJ#0] ^54<num><ord><nt><sg><nom><def><@→N>$ ^место<n><nt><sg><nom><ind>$^.<sent>$
+[/KUPoiVbLhpxJ]
+[M_WFOyKj05jy#0] ^97<num><ord><nt><sg><nom><def><@→N>$ ^место<n><nt><sg><nom><ind>$^.<sent>$
+[/M_WFOyKj05jy]
+[Om08MRDNt7NI#0] ^Буш<np><cog><mfn><sg><nom>$ ^во<pr>$ ^Вашингтон<np><top><m><sg><nom>$^.<sent>$
+[/Om08MRDNt7NI]
+[Qjo882qPwi_d#0] ^Од<pr>$ ^11<num><ord><mfn><pl><nom><def><@→N>$ ^кандидат<n><m><pl><nom><ind>$^,<cm>$ ^Филип<np><ant><m><sg><nom>$ ^Вујановиќ<np><cog><mfn><sg><nom>$ ^е<vbser><pii><p2><mf><sg>$ ^*очигледниот$ ^*фаворит$^.<sent>$
+[/Qjo882qPwi_d]
+[RBur3vkNDVKh#0] ^Оној<prn><dem><nt><sg><@X>$ ^што<prn><rel>$  ^влошува<vblex><imperf><tv><pres><p3><sg>$ ^економски<adj><mfn><pl><nom><def>$ ^проблем<n><m><pl><nom><ind>$ ^на<pr>$ ^млад<adj><mfn><pl><nom><def>$ ^луѓе<n><mfn><pl><nom><ind>$ ^е<vbser><pres><p3><mf><sg>$ ^нивен<det><pos><def><nt><sg>$ ^не<adv>$^-<guio>$^учество<n><nt><sg><nom><ind>$ ^во<pr>$ ^политика<n><f><sg><nom><def><@P←>$^.<sent>$
+[/RBur3vkNDVKh]
+[ReSVmZKPXe27#0] ^Free<prn><pers><p3><m><sg><nom><@SUBJ→>$ ^мие<vblex><imperf><iv><aor><p2><sg>$  ^покаже<vblex><perf><tv><aor><p2><sg>$ ^но<cnjcoo>$ ^free<prn><pers><p1><mfn><sg><nom><@SUBJ→>$ ^веќе<adv>$ ^clitic<prn><pers><clt><p3><f><sg><acc><@X>$ ^е<vbser><pii><p1><mf><sg>$ ^види<vblex><perf><tv><lp><pii><m><sg>$
+[/ReSVmZKPXe27]
+[TPr4ablCsvc4#0] ^Македонија<np><top><f><sg><nom>$ ^е<vbser><pres><p3><mf><sg>$ ^на<pr>$ ^100<num><ord><nt><sg><nom><def><@→N>$ ^место<n><nt><sg><nom><ind>$ ^со<pr>$ ^Аргентина<np><top><f><sg><nom>$^.<sent>$
+[/TPr4ablCsvc4]
+[W9w_G4eSVL3X#0] ^Српски<adj><f><sg><nom><def>$ ^полиција<n><f><sg><nom><ind>$ ^не<adv>$ ^треба<vbmod><pres><p3><sg>$ ^да<part>$ ^биде<vbser><inf>$ ^под<pr>$ ^контрола<n><f><sg><nom><ind><@P←>$ ^на<pr>$ ^КПС<abbr>$^.<sent>$
+[/W9w_G4eSVL3X]
+[aTGaPjVmr3xf#0] ^Free<prn><pers><p3><f><sg><nom><@SUBJ→>$ ^спие<vblex><imperf><iv><pii><p2><sg>$ ^еден<num><m><sg><nom><ind><@→N>$ ^час<n><m><sg><nom><ind>$ ^и<cnjcoo>$ ^почне<vblex><perf><iv><aor><p2><sg>$ ^да<part>$ ^работи<vblex><imperf><iv><pres><p3><sg>$^.<sent>$
+[/aTGaPjVmr3xf]
+[cfcbFkacrTUV#0] ^Еден<num><f><sg><nom><ind><@→N>$ ^третина<n><f><sg><nom><ind>$ ^од<pr>$ ^население<n><nt><sg><nom><def><@SUBJ→>$ ^е<vbser><pres><p3><mf><sg>$ ^adj<pref><comp>$ ^млад<adj><nt><sg><nom><ind><@←SPRED>$ ^од<pr>$ ^30<num><@→N>$ ^година<n><f><pl><nom><ind>$^.<sent>$
+[/cfcbFkacrTUV]
+[gCyrsK3iVz5d#0] ^Clitic<prn><pers><clt><p1><mfn><pl><acc><@X>$ ^ли<part>$ ^дојде<vblex><perf><iv><pres><p2><sg>$ ^со<pr>$ ^free<prn><pers><p1><mfn><sg><acc><@X>$^.<sent>$
+[/gCyrsK3iVz5d]
+[hGXhfNj8phCU#0] ^Два<num><f><nom><def><@→N>$ ^држава<n><f><pl><nom><ind>$^.<sent>$
+[/hGXhfNj8phCU]
+[hj2tevuIzxvZ#0] ^Free<prn><pers><p3><m><sg><nom><@SUBJ→>$ ^clitic<prn><pers><clt><p1><mfn><sg><acc><@X>$ ^праша<vblex><perf><tv><pres><p3><sg>$ ^дали<part>$ ^ќе<part><exp>$ ^дојде<vblex><perf><iv><pres><p1><sg>$^.<sent>$
+[/hj2tevuIzxvZ]
+[kAi6Qls9Y9Qo#0] ^Free<prn><pers><p2><mfn><sg><nom><@SUBJ→>$ ^clitic<prn><ref><pos>$ ^е<vbser><lp><pii><p3><m><sg>$ ^Ром<n><m><sg><nom><ind><@←SPRED>$^.<sent>$
+[/kAi6Qls9Y9Qo]
+[lFlqOfHIIaL5#0] ^*Експресниот$ ^воз<n><m><sg><nom><ind>$  ^*скрати$ ^180<num>$^-<guio>$^минутен<adj><nt><sg><nom><def>$ ^патување<n><nt><sg><nom><ind>$ ^помеѓу<pr>$ ^Анкара<np><top><f><sg><nom>$ ^и<cnjcoo>$ ^Ескишехир<np><ant><m><sg><nom>$ ^за<pr>$ ^70<num><@→N>$ ^минута<n><f><pl><nom><ind>$^.<sent>$
+[/lFlqOfHIIaL5]
+[oADQ6o8xTMRU#0] ^Зар<part>$ ^clitic<prn><pers><clt><p1><mfn><pl><acc><@X>$ ^сака<vblex><imperf><tv><pres><p2><sg>$ ^да<part>$ ^дојде<vblex><perf><iv><pres><p2><sg>$^?<sent>$
+[/oADQ6o8xTMRU]
+[qFWi4B3rO6mk#0] ^Состојба<n><f><sg><nom><def>$ ^во<pr>$ ^Македонија<np><top><f><sg><nom>$ ^во<pr>$ ^и<cnjcoo>$ ^*непросредно$ ^по<pr>$ ^прв<num><f><sg><nom><def><@→N>$ ^светски<adj><f><sg><nom><ind>$ ^војна<n><f><sg><nom><ind>$^.<sent>$
+[/qFWi4B3rO6mk]
+[qeMyCuh7sxNL#0] ^Free<prn><pers><p3><m><sg><nom><@SUBJ→>$  ^праша<vblex><perf><tv><pres><p3><sg>$ ^колку<prn><rel>$ ^*догини$ ^има<vbhaver><pres><p1><sg>$^.<sent>$
+[/qeMyCuh7sxNL]
+[rVpJ1E1iiDsr#0] ^Изложба<n><f><sg><nom><def>$ ^вклучува<vblex><imperf><tv><pres><p3><sg>$ ^60<num><@→N>$ ^дел<n><m><pl><nom><ind>$ ^од<pr>$ ^11<num><@→N>$ ^земја<n><f><pl><nom><ind>$^.<sent>$
+[/rVpJ1E1iiDsr]
+[vWWq-qLLUhE2#0] ^Изложба<n><f><sg><nom><def><@SUBJ→>$ ^е<vbser><pres><p3><mf><sg>$ ^дел<n><m><sg><nom><ind><@←SPRED>$ ^од<pr>$ ^Година<n><f><sg><nom><def><@P←>$ ^на<pr>$ ^Турција<np><top><f><sg><nom>$ ^во<pr>$ ^Јапонија<np><top><f><sg><nom>$^.<sent>$
+[/vWWq-qLLUhE2]
+[wDlvzCLE7giE#0] ^*Крајбрежната$ ^стража<n><f><sg><nom><ind>$ ^не<adv>$ ^може<vbmod><pres><p3><sg>$ ^да<part>$ ^clitic<prn><pers><clt><p3><f><sg><acc><@X>$ ^пронајде<vblex><perf><tv><pres><p3><sg>$^.<sent>$
+[/wDlvzCLE7giE]
+[xaFw2mXqZ1LA#0] ^Clitic<prn><pers><clt><p3><mfn><pl><acc><@X>$ ^има<vbhaver><pres><p3><sg>$ ^многу<adv>$^.<sent>$
+[/xaFw2mXqZ1LA]
+[xwDV4Pf-1WF3#0] ^Русија<np><top><f><sg><nom>$ ^има<vbhaver><pres><p3><sg>$ ^650<num><@→N>$ ^мировник<n><m><pl><nom><ind>$ ^на<pr>$ ^Косово<np><top><nt><sg><nom>$ ^и<cnjcoo>$ ^320<num>$ ^во<pr>$ ^Босна<np><top><f><sg><nom>$ ^и<cnjcoo>$ ^Херцеговина<np><top><f><sg><nom>$^.<sent>$
+[/xwDV4Pf-1WF3]
+[ybg6jhBSKJ8X#0] ^Free<prn><pers><p1><mfn><pl><nom><@SUBJ→>$ ^има<vbhaver><pii><p1><pl>$ ^ресторан<n><m><sg><nom><ind>$ ^таму<adv>$^.<sent>$
+[/ybg6jhBSKJ8X]
+[zcm6arL4IXz6#0] ^Free<prn><pers><p3><m><sg><nom><@SUBJ→>$ ^мие<vblex><imperf><iv><aor><p2><sg>$  ^покаже<vblex><perf><tv><aor><p2><sg>$ ^но<cnjcoo>$ ^free<prn><pers><p1><mfn><sg><nom><@SUBJ→>$ ^веќе<adv>$ ^clitic<prn><pers><clt><p3><f><sg><acc><@X>$ ^има<vbhaver><pii><p1><sg>$ ^види<vblex><perf><tv><pp><nt><sg><ind>$
+[/zcm6arL4IXz6]

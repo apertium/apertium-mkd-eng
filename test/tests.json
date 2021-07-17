@@ -1,0 +1,6 @@
+{
+    "mkd-eng-pending": {
+        "input": "mkd-eng-pending-input.txt",
+        "mode": "mkd-eng"
+    }
+}

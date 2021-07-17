@@ -1,0 +1,72 @@
+[14atCysGw1YW#0] ^m_n<SN><@X><DET><sg>{^the<det><def><4>$ ^20<num><ord><sg>$ ^age<n><4>$}$^sent<SENT>{^.<sent>$}$
+[/14atCysGw1YW]
+[2UyCrKhlbGQK#0] ^n<SN><@X><UNDET><sg>{^Smoking<n><sg>$}$ ^default<default>{^in<pr>$}$ ^n<SN><@X><UNDET><sg>{^public<n><sg>$}$^sent<SENT>{^?<sent>$}$
+[/2UyCrKhlbGQK]
+[5Ep64Va3McmP#0] ^cog<SN><@X><UNDET><sg>{^Binger<np><cog><sg>$}$ ^v<SV>{^tell<vblex><pres>$}$ ^default<default>{^that<cnjsub>$}$ ^d_n<SN><@X><DET><sg>{^The<det><def><4>$ ^cabinet<n><sg>$}$ ^v<SV>{^should<vaux><inf>$ ^not<adv>$ ^only<adv>$ ^hope<vblex><inf>$}$ ^default<default>{^that<cnjsub>$}$ ^d_n<SN><@X><DET><sg>{^the<det><def><4>$ ^issue<n><sg>$}$ ^will_v<SV>{^will<vaux><inf>$ ^disappear<vblex><inf>$}$ ^by-self<ADV>{^by<pr>$ ^himself<prn><ref><p3><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/5Ep64Va3McmP]
+[7ZD3cXp62qUl#0] ^p<PRN><mf><sp>{^All<prn><qnt><mf><sp>$}$ ^n<SN><@X><UNDET>{^24<num>$}$ ^a<SA><@X><m><sg>{^Albanian<adj>$}$ ^unknown<unknown>{^*кратометражни$}$ ^n<SN><@SUBJ→><UNDET><pl>{^film<n><pl>$}$ ^v<SV>{^be<vbser><pres>$ }$ ^a<SA><@X><mfn><pl>{^long<adj><sint>$}$ ^m_n<SN><@X><UNDET><sg>{^one<num><sg>$ ^time<n><4>$}$^sent<SENT>{^.<sent>$}$
+[/7ZD3cXp62qUl]
+[99AMHmlV9T3E#0] ^n<SN><@X><UNDET><sg>{^One<num><sg>$}$ ^default<default>{^of<pr>$}$ ^d_m_n<SN><@X><DET><pl>{^the<det><def><4>$ ^good<adj><sint><sup>$ ^investment<n><4>$}$^sent<SENT>{^.<sent>$}$
+[/99AMHmlV9T3E]
+[9AJxaSLepjSL#0] ^d_n<SN><@X><DET><sg>{^The<det><def><4>$ ^extradition<n><sg>$}$ ^default<default>{^in<pr>$}$ ^top<SN><TOP><sg>{^Croatia<np><top><sg>$}$ ^v<SV>{^can<vaux><past>$ ^take<vblex><inf>$}$ ^p<PRN><mf><pl>{^several<prn><ind><mf><pl>$}$ ^n<SN><@X><UNDET><pl>{^week<n><pl>$}$^sent<SENT>{^.<sent>$}$
+[/9AJxaSLepjSL]
+[CFtpTRhP5OxZ#0] ^d_n<SN><@X><DET><sg>{^The<det><def><4>$ ^size<n><sg>$}$ ^default<default>{^of<pr>$}$ ^d_n<SN><@X><DET><pl>{^the<det><def><4>$ ^immigrant<n><pl>$}$ ^v<SV>{^will<vaux><inf>$ ^not<adv>$}$^v<SV>{ ^exceed<vblex><pres>$}$ ^n<SN><@X><UNDET>{^15<num>$}$ ^default<default>{^only<adv>$}$ ^default<default>{^of<pr>$}$ ^d_m_n<SN><@X><DET><sg>{^the<det><def><4>$ ^total<adj>$ ^population<n><4>$}$ ^default<default>{^of<pr>$}$ ^d_m_n<SN><@X><DET><sg>{^the<det><def><4>$ ^other<adj>$ ^page<n><4>$}$^sent<SENT>{^.<sent>$}$
+[/CFtpTRhP5OxZ]
+[EXiPSGMBZ5ih#0] ^d<SA><sg>{^its<det><pos><sp>$}$ ^m_n<SN><@X><UNDET><sg>{^10<num><ord><sg>$ ^year<n><4>$}$^sent<SENT>{^.<sent>$}$
+[/EXiPSGMBZ5ih]
+[GrjoG1eHuAS3#0] ^v<SV>{^come<vblex><pres>$}$ ^default<default>{^with<pr>$}$ ^p<PRN><@X><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$^sent<SENT>{^?<sent>$}$
+[/GrjoG1eHuAS3]
+[IbYSbHgDaEwO#0] ^p<PRN><@X><mf><pl>{^Prpers<prn><obj><p1><mf><pl>$}$ ^v<SV>{^have<vbhaver><pres>$ ^be<vblex><pp>$ ^know<vblex><ger>$}$^sent<SENT>{^.<sent>$}$
+[/IbYSbHgDaEwO]
+[IcEZuIfBPAZr#0] ^v<SV>{^Have<vbhaver><pres>$}$ ^unknown<unknown>{^*мечки$}$ ^default<default>{^in<pr>$}$ ^d_n<SN><@X><DET><pl>{^the<det><def><4>$ ^mountain<n><pl>$}$^sent<SENT>{^.<sent>$}$
+[/IcEZuIfBPAZr]
+[KUPoiVbLhpxJ#0] ^m_n<SN><@X><DET><sg>{^the<det><def><4>$ ^54<num><ord><sg>$ ^area<n><4>$}$^sent<SENT>{^.<sent>$}$
+[/KUPoiVbLhpxJ]
+[M_WFOyKj05jy#0] ^m_n<SN><@X><DET><sg>{^the<det><def><4>$ ^97<num><ord><sg>$ ^area<n><4>$}$^sent<SENT>{^.<sent>$}$
+[/M_WFOyKj05jy]
+[Om08MRDNt7NI#0] ^cog<SN><@X><UNDET><sg>{^Bush<np><cog><sg>$}$ ^default<default>{^in<pr>$}$ ^top<SN><TOP><sg>{^Washington<np><top><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Om08MRDNt7NI]
+[Qjo882qPwi_d#0] ^default<default>{^Of<pr>$}$ ^m_n<SN><@X><DET><pl>{^the<det><def><4>$ ^11<num><ord><pl>$ ^candidate<n><4>$}$^default<default>{^,<cm>$}$ ^ant<SN><ANT><m><sg>{^Filip<np><ant><m><sg>$}$ ^cog<SN><@X><UNDET><sg>{^Vujanović<np><cog><sg>$}$ ^v<SV>{^be<vbser><past>$ }$ ^unknown<unknown>{^*очигледниот$}$ ^unknown<unknown>{^*фаворит$}$^sent<SENT>{^.<sent>$}$
+[/Qjo882qPwi_d]
+[RBur3vkNDVKh#0] ^p<SN><@X><sg>{^That<prn><dem><mf><sg>$}$ ^default<default>{^which<rel><nn><mf><sp>$}$  ^v<SV>{^be<vbser><pres><p3><sg>$ ^worsen<vblex><ger>$}$ ^d_m_n<SN><@X><DET><pl>{^the<det><def><4>$ ^economic<adj>$ ^issue<n><4>$}$ ^default<default>{^of<pr>$}$ ^d_m_n<SN><@X><DET><pl>{^the<det><def><4>$ ^young<adj><sint>$ ^person<n><4>$}$ ^v<SV>{^be<vbser><pres><p3><sg>$ }$ ^d<SA>{^their<det><pos><sp>$}$ ^n<SN><@X><UNDET><sg>{^non<adv>$^-<guio>$^involvement<n><4>$}$ ^default<default>{^in<pr>$}$ ^d_n<SN><@X><DET><sg>{^the<det><def><4>$ ^politics<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/RBur3vkNDVKh]
+[ReSVmZKPXe27#0] ^p<PRN><@SUBJ→><m><sg>{^Prpers<prn><subj><p3><m><sg>$}$ ^v<SV>{^be<vbser><past>$ ^wash<vblex><ger>$}$  ^v<SV>{^indicate<vblex><past>$}$ ^default<default>{^but<cnjcoo>$}$ ^p<PRN><@SUBJ→><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^already<adv>$}$ ^v<SV>{^have<vbhaver><past>$ ^see<vblex><pp>$ ^prpers<prn><obj><p3><f><sg>$}$
+[/ReSVmZKPXe27]
+[TPr4ablCsvc4#0] ^top<SN><TOP><sg>{^Macedonia<np><top><sg>$}$ ^v<SV>{^be<vbser><pres><p3><sg>$ }$ ^default<default>{^of<pr>$}$ ^m_n<SN><@X><DET><sg>{^the<det><def><4>$ ^100<num><ord><sg>$ ^area<n><4>$}$ ^default<default>{^with<pr>$}$ ^top<SN><TOP><sg>{^Argentina<np><top><sg>$}$^sent<SENT>{^.<sent>$}$
+[/TPr4ablCsvc4]
+[W9w_G4eSVL3X#0] ^d_m_n<SN><@X><DET><pl>{^The<det><def><4>$ ^serbian<adj>$ ^police<n><4>$}$ ^v<SV>{^should<vaux><past>$ ^not<adv>$}$ ^v<SV>{^be<vbser><inf>$ }$ ^default<default>{^below<adv>$}$ ^n<SN><@X><UNDET><sg>{^control<n><sg>$}$ ^default<default>{^of<pr>$}$ ^default<default>{^KPS<abbr>$}$^sent<SENT>{^.<sent>$}$
+[/W9w_G4eSVL3X]
+[aTGaPjVmr3xf#0] ^p<PRN><@SUBJ→><f><sg>{^Prpers<prn><subj><p3><f><sg>$}$ ^v<SV>{^be<vbser><past>$ ^sleep<vblex><ger>$}$ ^m_n<SN><@X><UNDET><sg>{^one<num><sg>$ ^hour<n><4>$}$ ^default<default>{^and<cnjcoo>$}$ ^v<SV>{^begin<vblex><past>$}$ ^to_v<SV>{^to<pr>$ ^work<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/aTGaPjVmr3xf]
+[cfcbFkacrTUV#0] ^m_n<SN><@X><UNDET><sg>{^One<num><sg>$ ^third<n><4>$}$ ^default<default>{^of<pr>$}$ ^d_n<SN><@SUBJ→><DET><sg>{^the<det><def><4>$ ^population<n><sg>$}$ ^v<SV>{^be<vbser><pres><p3><sg>$ }$ ^a<SA>{^young<adj><sint><comp>$}$ ^default<default>{^of<pr>$}$ ^m_n<SN><@X><UNDET><pl>{^30<num>$ ^year<n><4>$}$^sent<SENT>{^.<sent>$}$
+[/cfcbFkacrTUV]
+[gCyrsK3iVz5d#0] ^p<PRN><@X><mf><pl>{^Prpers<prn><obj><p1><mf><pl>$}$  ^v<SV>{^come<vblex><pres>$}$ ^default<default>{^with<pr>$}$ ^p<PRN><@X><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$^sent<SENT>{^.<sent>$}$
+[/gCyrsK3iVz5d]
+[hGXhfNj8phCU#0] ^m_n<SN><@X><DET><pl>{^The<det><def><4>$ ^two<num><sp>$ ^state<n><4>$}$^sent<SENT>{^.<sent>$}$
+[/hGXhfNj8phCU]
+[hj2tevuIzxvZ#0] ^p<PRN><@SUBJ→><m><sg>{^Prpers<prn><subj><p3><m><sg>$}$ ^v<SV>{^ask<vblex><pres><p3><sg>$ ^prpers<prn><obj><p1><mf><sg>$}$ ^default<default>{^whether<adv>$}$ ^will_v<SV>{^will<vaux><inf>$ ^come<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/hj2tevuIzxvZ]
+[kAi6Qls9Y9Qo#0] ^p<PRN><@SUBJ→><mf><sg>{^Prpers<prn><subj><p2><mf><sg>$}$ ^default<default>{^ones<prn><pos><mf><sp>$}$ ^v<SV>{^be<vbser><past><p3><sg>$ }$ ^n<SN><@X><UNDET><sg>{^Roma<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/kAi6Qls9Y9Qo]
+[lFlqOfHIIaL5#0] ^unknown<unknown>{^*Експресниот$}$ ^n<SN><@X><UNDET><sg>{^train<n><sg>$}$  ^unknown<unknown>{^*скрати$}$ ^m_m_n<SN><@X><DET><sg>{^the<det><def><4>$ ^180<num>$^-<guio>$^minute<adj>$ ^trip<n><sg>$}$ ^default<default>{^between<pr>$}$ ^top<SN><TOP><sg>{^Ankara<np><top><sg>$}$ ^default<default>{^and<cnjcoo>$}$ ^ant<SN><ANT><m><sg>{^Eskisehir<np><ant><m><sg>$}$ ^default<default>{^of<pr>$}$ ^m_n<SN><@X><UNDET><pl>{^70<num>$ ^time<n><4>$}$^sent<SENT>{^.<sent>$}$
+[/lFlqOfHIIaL5]
+[oADQ6o8xTMRU#0] ^v<SV>{^be<vbser><pres>$ ^want<vblex><ger>$ ^prpers<prn><obj><p1><mf><pl>$}$ ^to_v<SV>{^to<pr>$ ^come<vblex><inf>$}$^sent<SENT>{^?<sent>$}$
+[/oADQ6o8xTMRU]
+[qFWi4B3rO6mk#0] ^d_n<SN><@X><DET><sg>{^The<det><def><4>$ ^position<n><sg>$}$ ^default<default>{^in<pr>$}$ ^top<SN><TOP><sg>{^Macedonia<np><top><sg>$}$ ^default<default>{^in<pr>$}$ ^default<default>{^and<cnjcoo>$}$ ^unknown<unknown>{^*непросредно$}$ ^default<default>{^in<pr>$}$ ^m_m_n<SN><@X><DET><sg>{^the<det><def><4>$ ^first<adj><ord>$ ^world<adj>$ ^war<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/qFWi4B3rO6mk]
+[qeMyCuh7sxNL#0] ^p<PRN><@SUBJ→><m><sg>{^Prpers<prn><subj><p3><m><sg>$}$  ^v<SV>{^ask<vblex><pres>$}$ ^default<default>{^as<cnjsub>$}$ ^unknown<unknown>{^*догини$}$ ^v<SV>{^have<vbhaver><pres>$}$^sent<SENT>{^.<sent>$}$
+[/qeMyCuh7sxNL]
+[rVpJ1E1iiDsr#0] ^d_n<SN><@X><DET><sg>{^The<det><def><4>$ ^show<n><sg>$}$ ^v<SV>{^be<vbser><pres><p3><sg>$ ^include<vblex><ger>$}$ ^m_n<SN><@X><UNDET><pl>{^60<num>$ ^area<n><4>$}$ ^default<default>{^of<pr>$}$ ^m_n<SN><@X><UNDET><pl>{^11<num>$ ^country<n><4>$}$^sent<SENT>{^.<sent>$}$
+[/rVpJ1E1iiDsr]
+[vWWq-qLLUhE2#0] ^d_n<SN><@SUBJ→><DET><sg>{^The<det><def><4>$ ^show<n><sg>$}$ ^v<SV>{^be<vbser><pres><p3><sg>$ }$ ^n<SN><@X><UNDET><sg>{^area<n><sg>$}$ ^default<default>{^of<pr>$}$ ^d_n<SN><@X><DET><sg>{^The<det><def><4>$ ^year<n><sg>$}$ ^default<default>{^of<pr>$}$ ^top<SN><TOP><sg>{^Turkey<np><top><sg>$}$ ^default<default>{^in<pr>$}$ ^top<SN><TOP><sg>{^Japan<np><top><sg>$}$^sent<SENT>{^.<sent>$}$
+[/vWWq-qLLUhE2]
+[wDlvzCLE7giE#0] ^unknown<unknown>{^*Крајбрежната$}$ ^n<SN><@X><UNDET><sg>{^cutter<n><sg>$}$ ^v<SV>{^can<vaux><past>$ ^not<adv>$ ^find<vblex><inf>$ ^prpers<prn><obj><p3><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/wDlvzCLE7giE]
+[xaFw2mXqZ1LA#0] ^v<SV>{^have<vbhaver><pres><p3><sg>$ ^prpers<prn><obj><p3><mf><pl>$}$ ^default<default>{^a lot<adv>$}$^sent<SENT>{^.<sent>$}$
+[/xaFw2mXqZ1LA]
+[xwDV4Pf-1WF3#0] ^top<SN><TOP><sg>{^Russia<np><top><sg>$}$ ^v<SV>{^have<vbhaver><pres>$}$ ^m_n<SN><@X><UNDET><pl>{^650<num>$ ^peacekeeper<n><4>$}$ ^default<default>{^of<pr>$}$ ^top<SN><TOP><sg>{^Kosovo<np><top><sg>$}$ ^default<default>{^and<cnjcoo>$}$ ^n<SN><@X><UNDET>{^320<num>$}$ ^default<default>{^in<pr>$}$ ^top<SN><TOP><sg>{^Bosnia<np><top><sg>$}$ ^default<default>{^and<cnjcoo>$}$ ^top<SN><TOP><sg>{^Herzegovina<np><top><sg>$}$^sent<SENT>{^.<sent>$}$
+[/xwDV4Pf-1WF3]
+[ybg6jhBSKJ8X#0] ^p<PRN><@SUBJ→><mf><pl>{^Prpers<prn><subj><p1><mf><pl>$}$ ^v<SV>{^have<vbhaver><past>$}$ ^n<SN><@X><UNDET><sg>{^restaurant<n><sg>$}$ ^default<default>{^there<adv>$}$^sent<SENT>{^.<sent>$}$
+[/ybg6jhBSKJ8X]
+[zcm6arL4IXz6#0] ^p<PRN><@SUBJ→><m><sg>{^Prpers<prn><subj><p3><m><sg>$}$ ^v<SV>{^be<vbser><past>$ ^wash<vblex><ger>$}$  ^v<SV>{^indicate<vblex><past>$}$ ^default<default>{^but<cnjcoo>$}$ ^p<PRN><@SUBJ→><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^already<adv>$}$ ^v<SN>{^have<vbhaver><past>$ ^see<vblex><pp>$ ^prpers<prn><obj><p3><f><sg>$}$
+[/zcm6arL4IXz6]
