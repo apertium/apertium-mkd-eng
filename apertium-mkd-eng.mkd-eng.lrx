@@ -1,11 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rules>
 
  <rule c="Според античните писатели, голем метеор паднал во северна Грција меѓу 466 и 467 г. пред н.е.">
-    <skip lemma="*" tags="num.*"/>
-    <select lemma="меѓу" tags="pr.*">
-      <acception lemma="between" tags="pr.*"/>
-    </select>
-    <skip lemma="и" tags="cnjcoo.*"/>
-    <skip lemma="*" tags="num.*"/>
+    <match lemma="*" tags="num.*"/>
+    <match lemma="меѓу" tags="pr.*">
+      <select lemma="between" tags="pr.*"/>
+    </match>
+    <match lemma="и" tags="cnjcoo.*"/>
+    <match lemma="*" tags="num.*"/>
   </rule>
 </rules>
